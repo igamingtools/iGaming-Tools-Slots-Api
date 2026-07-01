@@ -32,6 +32,7 @@
 | Cyberheist City | Pragmatic Play | [doc](cyberheist-city-b7.md) | [live](https://i-gaming.tools/slot-games/cyberheist-city-b7/) |
 | Dance Party | Pragmatic Play | [doc](dance-party-b7.md) | [live](https://i-gaming.tools/slot-games/dance-party-b7/) |
 | African Elephant | Pragmatic Play | [doc](african-elephant-b7.md) | [live](https://i-gaming.tools/slot-games/african-elephant-b7/) |
+| Drill that Gold | Pragmatic Play | [doc](drill-that-gold-b7.md) | [live](https://i-gaming.tools/slot-games/drill-that-gold-b7/) |
 | Aztec Treasure Hunt | Pragmatic Play | [doc](aztec-treasure-hunt-b7.md) | [live](https://i-gaming.tools/slot-games/aztec-treasure-hunt-b7/) |
 | Gates of Olympus | Pragmatic Play | [doc](gates-of-olympus-b7.md) | [live](https://i-gaming.tools/slot-games/gates-of-olympus-b7/) |
 | Hundreds and Thousands | Pragmatic Play | [doc](hundreds-and-thousands-b7.md) | [live](https://i-gaming.tools/slot-games/hundreds-and-thousands-b7/) |
@@ -52,8 +53,10 @@
 | Himalayan Wild | Pragmatic Play | [doc](himalayan-wild-b7.md) | [live](https://i-gaming.tools/slot-games/himalayan-wild-b7/) |
 | Aztec Powernudge | Pragmatic Play | [doc](aztec-powernudge-b7.md) | [live](https://i-gaming.tools/slot-games/aztec-powernudge-b7/) |
 | Gates of Hades | Pragmatic Play | [doc](gates-of-hades-b7.md) | [live](https://i-gaming.tools/slot-games/gates-of-hades-b7/) |
+| Jurassic Giants | Pragmatic Play | [doc](jurassic-giants-b7.md) | [live](https://i-gaming.tools/slot-games/jurassic-giants-b7/) |
 | Spirit of Adventure | Pragmatic Play | [doc](spirit-of-adventure-b7.md) | [live](https://i-gaming.tools/slot-games/spirit-of-adventure-b7/) |
 | Red Hot Luck | Pragmatic Play | [doc](red-hot-luck-b7.md) | [live](https://i-gaming.tools/slot-games/red-hot-luck-b7/) |
+| Triple Tigers | Pragmatic Play | [doc](triple-tigers-b7.md) | [live](https://i-gaming.tools/slot-games/triple-tigers-b7/) |
 | Floating Dragon Wild Horses | Pragmatic Play | [doc](floating-dragon-wild-horses-b7.md) | [live](https://i-gaming.tools/slot-games/floating-dragon-wild-horses-b7/) |
 | Zombie Carnival | Pragmatic Play | [doc](zombie-carnival-b7.md) | [live](https://i-gaming.tools/slot-games/zombie-carnival-b7/) |
 | Star Bounty | Pragmatic Play | [doc](star-bounty-b7.md) | [live](https://i-gaming.tools/slot-games/star-bounty-b7/) |

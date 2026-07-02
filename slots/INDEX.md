@@ -2,6 +2,7 @@
 
 | Name | Provider | API Doc | Live |
 |---|---|---|---|
+| Cowboy Coins | Pragmatic Play | [doc](cowboy-coins-b7.md) | [live](https://i-gaming.tools/slot-games/cowboy-coins-b7/) |
 | Panda's Fortune 2 | Pragmatic Play | [doc](panda-s-fortune-2-b7.md) | [live](https://i-gaming.tools/slot-games/panda-s-fortune-2-b7/) |
 | Fishin' Reels | Pragmatic Play | [doc](fishin-reels-b7.md) | [live](https://i-gaming.tools/slot-games/fishin-reels-b7/) |
 | Shining Hot 100 | Pragmatic Play | [doc](shining-hot-100-b7.md) | [live](https://i-gaming.tools/slot-games/shining-hot-100-b7/) |
@@ -35,6 +36,7 @@
 | Drill that Gold | Pragmatic Play | [doc](drill-that-gold-b7.md) | [live](https://i-gaming.tools/slot-games/drill-that-gold-b7/) |
 | Aztec Treasure Hunt | Pragmatic Play | [doc](aztec-treasure-hunt-b7.md) | [live](https://i-gaming.tools/slot-games/aztec-treasure-hunt-b7/) |
 | Gates of Olympus | Pragmatic Play | [doc](gates-of-olympus-b7.md) | [live](https://i-gaming.tools/slot-games/gates-of-olympus-b7/) |
+| Drago \- Jewels of Fortune | Pragmatic Play | [doc](drago-jewels-of-fortune-b7.md) | [live](https://i-gaming.tools/slot-games/drago-jewels-of-fortune-b7/) |
 | Hundreds and Thousands | Pragmatic Play | [doc](hundreds-and-thousands-b7.md) | [live](https://i-gaming.tools/slot-games/hundreds-and-thousands-b7/) |
 | Dragon King Hot Pots | Pragmatic Play | [doc](dragon-king-hot-pots-b7.md) | [live](https://i-gaming.tools/slot-games/dragon-king-hot-pots-b7/) |
 | Fire Hot 100 | Pragmatic Play | [doc](fire-hot-100-b7.md) | [live](https://i-gaming.tools/slot-games/fire-hot-100-b7/) |
@@ -79,6 +81,7 @@
 | Pompeii Megareels Megaways™ | Pragmatic Play | [doc](pompeii-megareels-megawaystm-b7.md) | [live](https://i-gaming.tools/slot-games/pompeii-megareels-megawaystm-b7/) |
 | Big Bass Day at the Races | Pragmatic Play | [doc](big-bass-day-at-the-races-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-day-at-the-races-b7/) |
 | Pub Kings | Pragmatic Play | [doc](pub-kings-b7.md) | [live](https://i-gaming.tools/slot-games/pub-kings-b7/) |
+| Hot Pepper | Pragmatic Play | [doc](hot-pepper-b7.md) | [live](https://i-gaming.tools/slot-games/hot-pepper-b7/) |
 | Fire Stampede | Pragmatic Play | [doc](fire-stampede-b7.md) | [live](https://i-gaming.tools/slot-games/fire-stampede-b7/) |
 | The Dog House – Muttley Crew | Pragmatic Play | [doc](the-dog-house-muttley-crew-b7.md) | [live](https://i-gaming.tools/slot-games/the-dog-house-muttley-crew-b7/) |
 | Better Barn House Bonanza | Pragmatic Play | [doc](better-barn-house-bonanza-b7.md) | [live](https://i-gaming.tools/slot-games/better-barn-house-bonanza-b7/) |

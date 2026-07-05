@@ -2,11 +2,13 @@
 
 | Name | Provider | API Doc | Live |
 |---|---|---|---|
-| Joker's Jewels | Pragmatic Play | [doc](joker-s-jewels-b7.md) | [live](https://i-gaming.tools/slot-games/joker-s-jewels-b7/) |
+| Peak Power | Pragmatic Play | [doc](peak-power-b7.md) | [live](https://i-gaming.tools/slot-games/peak-power-b7/) |
 | Santa's Wonderland | Pragmatic Play | [doc](santa-s-wonderland-b7.md) | [live](https://i-gaming.tools/slot-games/santa-s-wonderland-b7/) |
 | Savannah Legend | Pragmatic Play | [doc](savannah-legend-b7.md) | [live](https://i-gaming.tools/slot-games/savannah-legend-b7/) |
 | Diamond Strike Scratchcard | Pragmatic Play | [doc](diamond-strike-scratchcard-b7.md) | [live](https://i-gaming.tools/slot-games/diamond-strike-scratchcard-b7/) |
+| Bingo Mania | Pragmatic Play | [doc](bingo-mania-b7.md) | [live](https://i-gaming.tools/slot-games/bingo-mania-b7/) |
 | Lucky Panda | Pragmatic Play | [doc](lucky-panda-b7.md) | [live](https://i-gaming.tools/slot-games/lucky-panda-b7/) |
+| Joker's Jewels | Pragmatic Play | [doc](joker-s-jewels-b7.md) | [live](https://i-gaming.tools/slot-games/joker-s-jewels-b7/) |
 | Cowboy Coins | Pragmatic Play | [doc](cowboy-coins-b7.md) | [live](https://i-gaming.tools/slot-games/cowboy-coins-b7/) |
 | Master Joker | Pragmatic Play | [doc](master-joker-b7.md) | [live](https://i-gaming.tools/slot-games/master-joker-b7/) |
 | The Dog House – Dog or Alive | Pragmatic Play | [doc](the-dog-house-dog-or-alive-b7.md) | [live](https://i-gaming.tools/slot-games/the-dog-house-dog-or-alive-b7/) |
@@ -186,8 +188,12 @@
 | Good Luck & Good Fortune | Pragmatic Play | [doc](good-luck-good-fortune-b7.md) | [live](https://i-gaming.tools/slot-games/good-luck-good-fortune-b7/) |
 | Fire 88 | Pragmatic Play | [doc](fire-88-b7.md) | [live](https://i-gaming.tools/slot-games/fire-88-b7/) |
 | Twilight Princess | Pragmatic Play | [doc](twilight-princess-b7.md) | [live](https://i-gaming.tools/slot-games/twilight-princess-b7/) |
+| Big Bass Bonanza | Pragmatic Play | [doc](big-bass-bonanza-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-bonanza-b7/) |
 | John Hunter and the Tomb of the Scarab Queen | Pragmatic Play | [doc](john-hunter-and-the-tomb-of-the-scarab-queen-b7.md) | [live](https://i-gaming.tools/slot-games/john-hunter-and-the-tomb-of-the-scarab-queen-b7/) |
+| Big Bass Halloween 3 | Pragmatic Play | [doc](big-bass-halloween-3-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-halloween-3-b7/) |
 | Dragon Tiger Fortunes | Pragmatic Play | [doc](dragon-tiger-fortunes-b7.md) | [live](https://i-gaming.tools/slot-games/dragon-tiger-fortunes-b7/) |
+| The Great Stick\-Up | Pragmatic Play | [doc](the-great-stick-up-b7.md) | [live](https://i-gaming.tools/slot-games/the-great-stick-up-b7/) |
 | Zeus vs Typhon | Pragmatic Play | [doc](zeus-vs-typhon-b7.md) | [live](https://i-gaming.tools/slot-games/zeus-vs-typhon-b7/) |
+| Sweet Bonanza Super Scatter | Pragmatic Play | [doc](sweet-bonanza-super-scatter-b7.md) | [live](https://i-gaming.tools/slot-games/sweet-bonanza-super-scatter-b7/) |
 | Big Bass Floats My Boat | Pragmatic Play | [doc](big-bass-floats-my-boat-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-floats-my-boat-b7/) |
 | Vampires vs Wolves | Pragmatic Play | [doc](vampires-vs-wolves-b7.md) | [live](https://i-gaming.tools/slot-games/vampires-vs-wolves-b7/) |

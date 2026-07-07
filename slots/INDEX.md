@@ -3,10 +3,13 @@
 | Name | Provider | API Doc | Live |
 |---|---|---|---|
 | Peak Power | Pragmatic Play | [doc](peak-power-b7.md) | [live](https://i-gaming.tools/slot-games/peak-power-b7/) |
+| Cleocatra | Pragmatic Play | [doc](cleocatra-b7.md) | [live](https://i-gaming.tools/slot-games/cleocatra-b7/) |
 | Santa's Wonderland | Pragmatic Play | [doc](santa-s-wonderland-b7.md) | [live](https://i-gaming.tools/slot-games/santa-s-wonderland-b7/) |
 | Savannah Legend | Pragmatic Play | [doc](savannah-legend-b7.md) | [live](https://i-gaming.tools/slot-games/savannah-legend-b7/) |
+| Super 7s | Pragmatic Play | [doc](super-7s-b7.md) | [live](https://i-gaming.tools/slot-games/super-7s-b7/) |
 | Diamond Strike Scratchcard | Pragmatic Play | [doc](diamond-strike-scratchcard-b7.md) | [live](https://i-gaming.tools/slot-games/diamond-strike-scratchcard-b7/) |
 | Bingo Mania | Pragmatic Play | [doc](bingo-mania-b7.md) | [live](https://i-gaming.tools/slot-games/bingo-mania-b7/) |
+| Strawberry Cocktail | Pragmatic Play | [doc](strawberry-cocktail-b7.md) | [live](https://i-gaming.tools/slot-games/strawberry-cocktail-b7/) |
 | Gem Elevator | Pragmatic Play | [doc](gem-elevator-b7.md) | [live](https://i-gaming.tools/slot-games/gem-elevator-b7/) |
 | Lucky Panda | Pragmatic Play | [doc](lucky-panda-b7.md) | [live](https://i-gaming.tools/slot-games/lucky-panda-b7/) |
 | Candy Corner | Pragmatic Play | [doc](candy-corner-b7.md) | [live](https://i-gaming.tools/slot-games/candy-corner-b7/) |
@@ -184,6 +187,7 @@
 | Jewel Rush | Pragmatic Play | [doc](jewel-rush-b7.md) | [live](https://i-gaming.tools/slot-games/jewel-rush-b7/) |
 | Heartbreakers | Pragmatic Play | [doc](heartbreakers-b7.md) | [live](https://i-gaming.tools/slot-games/heartbreakers-b7/) |
 | Big Bass – Keeping it Reel | Pragmatic Play | [doc](big-bass-keeping-it-reel-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-keeping-it-reel-b7/) |
+| Big Bass – Hold & Spinner | Pragmatic Play | [doc](big-bass-hold-spinner-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-hold-spinner-b7/) |
 | Big Bass Raceday Repeat | Pragmatic Play | [doc](big-bass-raceday-repeat-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-raceday-repeat-b7/) |
 | Haunted Crypt | Pragmatic Play | [doc](haunted-crypt-b7.md) | [live](https://i-gaming.tools/slot-games/haunted-crypt-b7/) |
 | Big Bass Bonanza – Reel Action | Pragmatic Play | [doc](big-bass-bonanza-reel-action-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-bonanza-reel-action-b7/) |
@@ -195,11 +199,16 @@
 | Big Bass Bonanza | Pragmatic Play | [doc](big-bass-bonanza-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-bonanza-b7/) |
 | John Hunter and the Tomb of the Scarab Queen | Pragmatic Play | [doc](john-hunter-and-the-tomb-of-the-scarab-queen-b7.md) | [live](https://i-gaming.tools/slot-games/john-hunter-and-the-tomb-of-the-scarab-queen-b7/) |
 | Big Bass Halloween 3 | Pragmatic Play | [doc](big-bass-halloween-3-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-halloween-3-b7/) |
+| Eye of Spartacus | Pragmatic Play | [doc](eye-of-spartacus-b7.md) | [live](https://i-gaming.tools/slot-games/eye-of-spartacus-b7/) |
 | Dragon Tiger Fortunes | Pragmatic Play | [doc](dragon-tiger-fortunes-b7.md) | [live](https://i-gaming.tools/slot-games/dragon-tiger-fortunes-b7/) |
 | The Great Stick\-Up | Pragmatic Play | [doc](the-great-stick-up-b7.md) | [live](https://i-gaming.tools/slot-games/the-great-stick-up-b7/) |
 | Zeus vs Typhon | Pragmatic Play | [doc](zeus-vs-typhon-b7.md) | [live](https://i-gaming.tools/slot-games/zeus-vs-typhon-b7/) |
+| Mysterious | Pragmatic Play | [doc](mysterious-b7.md) | [live](https://i-gaming.tools/slot-games/mysterious-b7/) |
 | Sweet Bonanza Super Scatter | Pragmatic Play | [doc](sweet-bonanza-super-scatter-b7.md) | [live](https://i-gaming.tools/slot-games/sweet-bonanza-super-scatter-b7/) |
+| Ancient Island Megaways™ | Pragmatic Play | [doc](ancient-island-megawaystm-b7.md) | [live](https://i-gaming.tools/slot-games/ancient-island-megawaystm-b7/) |
 | 5 Lions | Pragmatic Play | [doc](5-lions-b7.md) | [live](https://i-gaming.tools/slot-games/5-lions-b7/) |
 | Big Bass Floats My Boat | Pragmatic Play | [doc](big-bass-floats-my-boat-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-floats-my-boat-b7/) |
 | Vampires vs Wolves | Pragmatic Play | [doc](vampires-vs-wolves-b7.md) | [live](https://i-gaming.tools/slot-games/vampires-vs-wolves-b7/) |
 | Fortunes of Aztec | Pragmatic Play | [doc](fortunes-of-aztec-b7.md) | [live](https://i-gaming.tools/slot-games/fortunes-of-aztec-b7/) |
+| Big Bass Blast | Pragmatic Play | [doc](big-bass-blast-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-blast-b7/) |
+| Jade Butterfly | Pragmatic Play | [doc](jade-butterfly-b7.md) | [live](https://i-gaming.tools/slot-games/jade-butterfly-b7/) |

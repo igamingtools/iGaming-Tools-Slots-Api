@@ -4,12 +4,15 @@
 |---|---|---|---|
 | Peak Power | Pragmatic Play | [doc](peak-power-b7.md) | [live](https://i-gaming.tools/slot-games/peak-power-b7/) |
 | Cleocatra | Pragmatic Play | [doc](cleocatra-b7.md) | [live](https://i-gaming.tools/slot-games/cleocatra-b7/) |
+| Jelly Candy | Pragmatic Play | [doc](jelly-candy-b7.md) | [live](https://i-gaming.tools/slot-games/jelly-candy-b7/) |
 | Santa's Wonderland | Pragmatic Play | [doc](santa-s-wonderland-b7.md) | [live](https://i-gaming.tools/slot-games/santa-s-wonderland-b7/) |
 | Savannah Legend | Pragmatic Play | [doc](savannah-legend-b7.md) | [live](https://i-gaming.tools/slot-games/savannah-legend-b7/) |
 | Super 7s | Pragmatic Play | [doc](super-7s-b7.md) | [live](https://i-gaming.tools/slot-games/super-7s-b7/) |
 | Diamond Strike Scratchcard | Pragmatic Play | [doc](diamond-strike-scratchcard-b7.md) | [live](https://i-gaming.tools/slot-games/diamond-strike-scratchcard-b7/) |
 | Bingo Mania | Pragmatic Play | [doc](bingo-mania-b7.md) | [live](https://i-gaming.tools/slot-games/bingo-mania-b7/) |
+| The Great Chicken Escape | Pragmatic Play | [doc](the-great-chicken-escape-b7.md) | [live](https://i-gaming.tools/slot-games/the-great-chicken-escape-b7/) |
 | Strawberry Cocktail | Pragmatic Play | [doc](strawberry-cocktail-b7.md) | [live](https://i-gaming.tools/slot-games/strawberry-cocktail-b7/) |
+| DJ Neko | Pragmatic Play | [doc](dj-neko-b7.md) | [live](https://i-gaming.tools/slot-games/dj-neko-b7/) |
 | Gem Elevator | Pragmatic Play | [doc](gem-elevator-b7.md) | [live](https://i-gaming.tools/slot-games/gem-elevator-b7/) |
 | Lucky Panda | Pragmatic Play | [doc](lucky-panda-b7.md) | [live](https://i-gaming.tools/slot-games/lucky-panda-b7/) |
 | Candy Corner | Pragmatic Play | [doc](candy-corner-b7.md) | [live](https://i-gaming.tools/slot-games/candy-corner-b7/) |
@@ -78,6 +81,7 @@
 | Gates of Olympus Super Scatter | Pragmatic Play | [doc](gates-of-olympus-super-scatter-b7.md) | [live](https://i-gaming.tools/slot-games/gates-of-olympus-super-scatter-b7/) |
 | Hot Tuna | Pragmatic Play | [doc](hot-tuna-b7.md) | [live](https://i-gaming.tools/slot-games/hot-tuna-b7/) |
 | Floating Dragon Wild Horses | Pragmatic Play | [doc](floating-dragon-wild-horses-b7.md) | [live](https://i-gaming.tools/slot-games/floating-dragon-wild-horses-b7/) |
+| Big Bass Halloween 2 | Pragmatic Play | [doc](big-bass-halloween-2-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-halloween-2-b7/) |
 | Down the Rails | Pragmatic Play | [doc](down-the-rails-b7.md) | [live](https://i-gaming.tools/slot-games/down-the-rails-b7/) |
 | Pixie Wings | Pragmatic Play | [doc](pixie-wings-b7.md) | [live](https://i-gaming.tools/slot-games/pixie-wings-b7/) |
 | Starz Megaways | Pragmatic Play | [doc](starz-megaways-b7.md) | [live](https://i-gaming.tools/slot-games/starz-megaways-b7/) |
@@ -192,6 +196,7 @@
 | Haunted Crypt | Pragmatic Play | [doc](haunted-crypt-b7.md) | [live](https://i-gaming.tools/slot-games/haunted-crypt-b7/) |
 | Big Bass Bonanza – Reel Action | Pragmatic Play | [doc](big-bass-bonanza-reel-action-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-bonanza-reel-action-b7/) |
 | Joker King | Pragmatic Play | [doc](joker-king-b7.md) | [live](https://i-gaming.tools/slot-games/joker-king-b7/) |
+| Jackpot Blaze | Pragmatic Play | [doc](jackpot-blaze-b7.md) | [live](https://i-gaming.tools/slot-games/jackpot-blaze-b7/) |
 | Mummy's Jewels 100 | Pragmatic Play | [doc](mummy-s-jewels-100-b7.md) | [live](https://i-gaming.tools/slot-games/mummy-s-jewels-100-b7/) |
 | Good Luck & Good Fortune | Pragmatic Play | [doc](good-luck-good-fortune-b7.md) | [live](https://i-gaming.tools/slot-games/good-luck-good-fortune-b7/) |
 | Fire 88 | Pragmatic Play | [doc](fire-88-b7.md) | [live](https://i-gaming.tools/slot-games/fire-88-b7/) |
@@ -212,3 +217,7 @@
 | Fortunes of Aztec | Pragmatic Play | [doc](fortunes-of-aztec-b7.md) | [live](https://i-gaming.tools/slot-games/fortunes-of-aztec-b7/) |
 | Big Bass Blast | Pragmatic Play | [doc](big-bass-blast-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-blast-b7/) |
 | Jade Butterfly | Pragmatic Play | [doc](jade-butterfly-b7.md) | [live](https://i-gaming.tools/slot-games/jade-butterfly-b7/) |
+| Firebird Spirit | Pragmatic Play | [doc](firebird-spirit-b7.md) | [live](https://i-gaming.tools/slot-games/firebird-spirit-b7/) |
+| Magician's Secrets | Pragmatic Play | [doc](magician-s-secrets-b7.md) | [live](https://i-gaming.tools/slot-games/magician-s-secrets-b7/) |
+| Cash Box | Pragmatic Play | [doc](cash-box-b7.md) | [live](https://i-gaming.tools/slot-games/cash-box-b7/) |
+| Caishen's Gold | Pragmatic Play | [doc](caishen-s-gold-b7.md) | [live](https://i-gaming.tools/slot-games/caishen-s-gold-b7/) |

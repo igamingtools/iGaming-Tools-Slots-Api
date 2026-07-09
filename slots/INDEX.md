@@ -215,9 +215,21 @@
 | Big Bass Floats My Boat | Pragmatic Play | [doc](big-bass-floats-my-boat-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-floats-my-boat-b7/) |
 | Vampires vs Wolves | Pragmatic Play | [doc](vampires-vs-wolves-b7.md) | [live](https://i-gaming.tools/slot-games/vampires-vs-wolves-b7/) |
 | Fortunes of Aztec | Pragmatic Play | [doc](fortunes-of-aztec-b7.md) | [live](https://i-gaming.tools/slot-games/fortunes-of-aztec-b7/) |
-| Big Bass Blast | Pragmatic Play | [doc](big-bass-blast-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-blast-b7/) |
+| Floating Dragon \- Dragon Boat Festival | Pragmatic Play | [doc](floating-dragon-dragon-boat-festival-b7.md) | [live](https://i-gaming.tools/slot-games/floating-dragon-dragon-boat-festival-b7/) |
 | Jade Butterfly | Pragmatic Play | [doc](jade-butterfly-b7.md) | [live](https://i-gaming.tools/slot-games/jade-butterfly-b7/) |
+| Big Bass Blast | Pragmatic Play | [doc](big-bass-blast-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-blast-b7/) |
+| Irish Charms | Pragmatic Play | [doc](irish-charms-b7.md) | [live](https://i-gaming.tools/slot-games/irish-charms-b7/) |
 | Firebird Spirit | Pragmatic Play | [doc](firebird-spirit-b7.md) | [live](https://i-gaming.tools/slot-games/firebird-spirit-b7/) |
+| Big Bass Hold & Spinner Megaways | Pragmatic Play | [doc](big-bass-hold-spinner-megaways-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-hold-spinner-megaways-b7/) |
+| Big Bass Splash | Pragmatic Play | [doc](big-bass-splash-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-splash-b7/) |
+| Anaconda Gold | Pragmatic Play | [doc](anaconda-gold-b7.md) | [live](https://i-gaming.tools/slot-games/anaconda-gold-b7/) |
+| Great Rhino Deluxe | Pragmatic Play | [doc](great-rhino-deluxe-b7.md) | [live](https://i-gaming.tools/slot-games/great-rhino-deluxe-b7/) |
 | Magician's Secrets | Pragmatic Play | [doc](magician-s-secrets-b7.md) | [live](https://i-gaming.tools/slot-games/magician-s-secrets-b7/) |
 | Cash Box | Pragmatic Play | [doc](cash-box-b7.md) | [live](https://i-gaming.tools/slot-games/cash-box-b7/) |
+| Finger Lick'n Free Spins | Pragmatic Play | [doc](finger-lick-n-free-spins-b7.md) | [live](https://i-gaming.tools/slot-games/finger-lick-n-free-spins-b7/) |
+| Moleionaire | Pragmatic Play | [doc](moleionaire-b7.md) | [live](https://i-gaming.tools/slot-games/moleionaire-b7/) |
+| Super Gummy Strike | Pragmatic Play | [doc](super-gummy-strike-b7.md) | [live](https://i-gaming.tools/slot-games/super-gummy-strike-b7/) |
 | Caishen's Gold | Pragmatic Play | [doc](caishen-s-gold-b7.md) | [live](https://i-gaming.tools/slot-games/caishen-s-gold-b7/) |
+| Book of Vikings | Pragmatic Play | [doc](book-of-vikings-b7.md) | [live](https://i-gaming.tools/slot-games/book-of-vikings-b7/) |
+| Floating Dragon Hold and Spin | Pragmatic Play | [doc](floating-dragon-hold-and-spin-b7.md) | [live](https://i-gaming.tools/slot-games/floating-dragon-hold-and-spin-b7/) |
+| Zeus vs Hades – Gods of War | Pragmatic Play | [doc](zeus-vs-hades-gods-of-war-b7.md) | [live](https://i-gaming.tools/slot-games/zeus-vs-hades-gods-of-war-b7/) |

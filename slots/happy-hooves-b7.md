@@ -87,7 +87,7 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": true
     }
   ],
-  "release_date": null,
+  "release_date": "2022-09-08",
   "themes": [
     {
       "slug": "farm",

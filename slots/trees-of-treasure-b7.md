@@ -76,7 +76,7 @@ $data = json_decode(curl_exec($ch), true);
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": null,
+  "release_date": "2024-02-05",
   "themes": [
     {
       "slug": "chinese",

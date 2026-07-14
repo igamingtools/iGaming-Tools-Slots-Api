@@ -1,4 +1,4 @@
-# Lucky Monkey
+# The Dog House Megaways 1000
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/lucky-monkey-b7/`
+`GET /api/v1/slots/the-dog-house-megaways-1000-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/
+  https://i-gaming.tools/api/v1/slots/the-dog-house-megaways-1000-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/",
+    "https://i-gaming.tools/api/v1/slots/the-dog-house-megaways-1000-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/the-dog-house-megaways-1000-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/the-dog-house-megaways-1000-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,8 +53,8 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "lucky-monkey-b7",
-  "name": "Lucky Monkey",
+  "slug": "the-dog-house-megaways-1000-b7",
+  "name": "The Dog House Megaways 1000",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
@@ -69,36 +69,39 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": true
     }
   ],
-  "volatility": "",
-  "mechanic": "lines",
-  "reels": 3,
-  "rows": 3,
+  "volatility": "medium",
+  "mechanic": "megaways",
+  "reels": 6,
+  "rows": null,
   "jackpot_type": "none",
-  "has_bonus_buy": "no",
-  "bonus_buys": [],
-  "release_date": "2025-05-12",
+  "has_bonus_buy": "yes",
+  "bonus_buys": [
+    {
+      "label": "Super Free Spins 2",
+      "cost": "2500.00",
+      "is_default": true
+    },
+    {
+      "label": "Free Spins",
+      "cost": "100.00",
+      "is_default": false
+    }
+  ],
+  "release_date": "2026-07-13",
   "themes": [
     {
-      "slug": "chinese",
-      "name": "Chinese"
-    },
-    {
-      "slug": "money",
-      "name": "Money"
-    },
-    {
-      "slug": "monkeys",
-      "name": "Monkeys"
+      "slug": "dogs",
+      "name": "Dogs"
     }
   ],
   "features": [
     {
-      "slug": "hold-and-spin",
-      "name": "Hold and Spin"
+      "slug": "ante_bet",
+      "name": "Ante Bet"
     },
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
+      "slug": "free_spins",
+      "name": "Free Spins"
     },
     {
       "slug": "multiplier",
@@ -111,14 +114,18 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/lucky-monkey-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/the-dog-house-megaways-1000-b7/"
     }
+  },
+  "series": {
+    "slug": "the-dog-house",
+    "name": "The Dog House"
   }
 }
 ```
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/
-- **Public page:** https://i-gaming.tools/slot-games/lucky-monkey-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/the-dog-house-megaways-1000-b7/
+- **Public page:** https://i-gaming.tools/slot-games/the-dog-house-megaways-1000-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

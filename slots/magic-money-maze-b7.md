@@ -87,7 +87,7 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": true
     }
   ],
-  "release_date": null,
+  "release_date": "2022-07-25",
   "themes": [
     {
       "slug": "americana",
@@ -124,6 +124,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/magic-money-maze-b7/"
     }
+  },
+  "studio": {
+    "slug": "reel-kingdom",
+    "name": "Reel Kingdom"
   }
 }
 ```

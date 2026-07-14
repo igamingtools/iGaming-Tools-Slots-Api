@@ -76,7 +76,7 @@ $data = json_decode(curl_exec($ch), true);
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": null,
+  "release_date": "2025-05-26",
   "themes": [
     {
       "slug": "chinese",
@@ -109,6 +109,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/lucky-tiger-1000-b7/"
     }
+  },
+  "studio": {
+    "slug": "fat-panda",
+    "name": "FAT PANDA"
   },
   "series": {
     "slug": "lucky-tiger",

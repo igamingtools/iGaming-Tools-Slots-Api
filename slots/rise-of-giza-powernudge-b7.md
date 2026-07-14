@@ -1,4 +1,4 @@
-# Lucky Monkey
+# Rise of Giza PowerNudge
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/lucky-monkey-b7/`
+`GET /api/v1/slots/rise-of-giza-powernudge-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/
+  https://i-gaming.tools/api/v1/slots/rise-of-giza-powernudge-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/",
+    "https://i-gaming.tools/api/v1/slots/rise-of-giza-powernudge-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/rise-of-giza-powernudge-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/rise-of-giza-powernudge-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,56 +53,63 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "lucky-monkey-b7",
-  "name": "Lucky Monkey",
+  "slug": "rise-of-giza-powernudge-b7",
+  "name": "Rise of Giza PowerNudge",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
     "name": "Pragmatic Play"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.50",
+  "rtp_default": "96.49",
   "rtp_variants": [
     {
-      "rtp": "96.50",
+      "rtp": "96.49",
       "variant": "default",
       "is_default": true
+    },
+    {
+      "rtp": "96.49",
+      "variant": "bonus_buy",
+      "is_default": false
     }
   ],
   "volatility": "",
   "mechanic": "lines",
-  "reels": 3,
+  "reels": 4,
   "rows": 3,
   "jackpot_type": "none",
-  "has_bonus_buy": "no",
-  "bonus_buys": [],
-  "release_date": "2025-05-12",
+  "has_bonus_buy": "yes",
+  "bonus_buys": [
+    {
+      "label": "Buy Free Spins",
+      "cost": "80.00",
+      "is_default": true
+    }
+  ],
+  "release_date": "2021-08-19",
   "themes": [
     {
-      "slug": "chinese",
-      "name": "Chinese"
+      "slug": "egyptian",
+      "name": "Egyptian"
     },
     {
-      "slug": "money",
-      "name": "Money"
-    },
-    {
-      "slug": "monkeys",
-      "name": "Monkeys"
+      "slug": "victorian",
+      "name": "Victorian"
     }
   ],
   "features": [
     {
-      "slug": "hold-and-spin",
-      "name": "Hold and Spin"
+      "slug": "free_spins",
+      "name": "Free Spins"
     },
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
+      "slug": "nudge",
+      "name": "Nudge"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "progressive_multiplier",
+      "name": "Progressive Multiplier"
     }
   ],
   "assets": {
@@ -111,7 +118,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/lucky-monkey-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/rise-of-giza-powernudge-b7/"
     }
   }
 }
@@ -119,6 +126,6 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/
-- **Public page:** https://i-gaming.tools/slot-games/lucky-monkey-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/rise-of-giza-powernudge-b7/
+- **Public page:** https://i-gaming.tools/slot-games/rise-of-giza-powernudge-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

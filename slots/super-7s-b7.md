@@ -87,7 +87,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Fruits"
     }
   ],
-  "features": [],
+  "features": [
+    {
+      "slug": "scatter",
+      "name": "Scatter"
+    }
+  ],
   "assets": {
     "logo_url": "<live CDN url — request the endpoint>",
     "screenshots": [

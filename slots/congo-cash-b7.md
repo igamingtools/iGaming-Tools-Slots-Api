@@ -1,4 +1,4 @@
-# Lucky Monkey
+# Congo Cash
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/lucky-monkey-b7/`
+`GET /api/v1/slots/congo-cash-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/
+  https://i-gaming.tools/api/v1/slots/congo-cash-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/",
+    "https://i-gaming.tools/api/v1/slots/congo-cash-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/congo-cash-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/congo-cash-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,56 +53,56 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "lucky-monkey-b7",
-  "name": "Lucky Monkey",
+  "slug": "congo-cash-b7",
+  "name": "Congo Cash",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
     "name": "Pragmatic Play"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.50",
+  "rtp_default": "96.51",
   "rtp_variants": [
     {
-      "rtp": "96.50",
+      "rtp": "96.51",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "",
-  "mechanic": "lines",
-  "reels": 3,
+  "volatility": "high",
+  "mechanic": "ways",
+  "reels": 5,
   "rows": 3,
-  "jackpot_type": "none",
+  "jackpot_type": "fixed",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2025-05-12",
+  "release_date": "2021-01-01",
   "themes": [
     {
-      "slug": "chinese",
-      "name": "Chinese"
+      "slug": "africa",
+      "name": "Africa"
     },
     {
-      "slug": "money",
-      "name": "Money"
+      "slug": "animals",
+      "name": "Animals"
     },
     {
-      "slug": "monkeys",
-      "name": "Monkeys"
+      "slug": "gems",
+      "name": "Gems"
     }
   ],
   "features": [
     {
-      "slug": "hold-and-spin",
-      "name": "Hold and Spin"
+      "slug": "free_spins",
+      "name": "Free Spins"
     },
     {
       "slug": "money-collect",
       "name": "Money Collect"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "wild",
+      "name": "Wild"
     }
   ],
   "assets": {
@@ -111,14 +111,18 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/lucky-monkey-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/congo-cash-b7/"
     }
+  },
+  "series": {
+    "slug": "congo-cash",
+    "name": "Congo Cash"
   }
 }
 ```
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/
-- **Public page:** https://i-gaming.tools/slot-games/lucky-monkey-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/congo-cash-b7/
+- **Public page:** https://i-gaming.tools/slot-games/congo-cash-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

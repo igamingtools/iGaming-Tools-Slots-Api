@@ -5,10 +5,14 @@
 | Gems Bonanza | Pragmatic Play | [doc](gems-bonanza-b7.md) | [live](https://i-gaming.tools/slot-games/gems-bonanza-b7/) |
 | Ratinho Sortudo | Pragmatic Play | [doc](ratinho-sortudo-b7.md) | [live](https://i-gaming.tools/slot-games/ratinho-sortudo-b7/) |
 | Congo Cash | Pragmatic Play | [doc](congo-cash-b7.md) | [live](https://i-gaming.tools/slot-games/congo-cash-b7/) |
+| Mr Null's Wicked Wares | Pragmatic Play | [doc](mr-null-s-wicked-wares-b7.md) | [live](https://i-gaming.tools/slot-games/mr-null-s-wicked-wares-b7/) |
 | Queen of Gods | Pragmatic Play | [doc](queen-of-gods-b7.md) | [live](https://i-gaming.tools/slot-games/queen-of-gods-b7/) |
+| Dragon Kingdom – Eyes of Fire | Pragmatic Play | [doc](dragon-kingdom-eyes-of-fire-b7.md) | [live](https://i-gaming.tools/slot-games/dragon-kingdom-eyes-of-fire-b7/) |
 | Pyramid King | Pragmatic Play | [doc](pyramid-king-b7.md) | [live](https://i-gaming.tools/slot-games/pyramid-king-b7/) |
 | Wild Pixies | Pragmatic Play | [doc](wild-pixies-b7.md) | [live](https://i-gaming.tools/slot-games/wild-pixies-b7/) |
+| Mustang Gold Megaways | Pragmatic Play | [doc](mustang-gold-megaways-b7.md) | [live](https://i-gaming.tools/slot-games/mustang-gold-megaways-b7/) |
 | Castle of Fire | Pragmatic Play | [doc](castle-of-fire-b7.md) | [live](https://i-gaming.tools/slot-games/castle-of-fire-b7/) |
+| Majestic Express – Gold Run | Pragmatic Play | [doc](majestic-express-gold-run-b7.md) | [live](https://i-gaming.tools/slot-games/majestic-express-gold-run-b7/) |
 | Ride The Lightning | Pragmatic Play | [doc](ride-the-lightning-b7.md) | [live](https://i-gaming.tools/slot-games/ride-the-lightning-b7/) |
 | Wheel O'Gold | Pragmatic Play | [doc](wheel-o-gold-b7.md) | [live](https://i-gaming.tools/slot-games/wheel-o-gold-b7/) |
 | Chests of Cai Shen | Pragmatic Play | [doc](chests-of-cai-shen-b7.md) | [live](https://i-gaming.tools/slot-games/chests-of-cai-shen-b7/) |
@@ -214,6 +218,8 @@
 | Mystic Chief | Pragmatic Play | [doc](mystic-chief-b7.md) | [live](https://i-gaming.tools/slot-games/mystic-chief-b7/) |
 | Santa's Slay | Pragmatic Play | [doc](santa-s-slay-b7.md) | [live](https://i-gaming.tools/slot-games/santa-s-slay-b7/) |
 | Emerald King Rainbow Road | Pragmatic Play | [doc](emerald-king-rainbow-road-b7.md) | [live](https://i-gaming.tools/slot-games/emerald-king-rainbow-road-b7/) |
+| Infective Wild | Pragmatic Play | [doc](infective-wild-b7.md) | [live](https://i-gaming.tools/slot-games/infective-wild-b7/) |
+| Christmas Carol Megaways | Pragmatic Play | [doc](christmas-carol-megaways-b7.md) | [live](https://i-gaming.tools/slot-games/christmas-carol-megaways-b7/) |
 | Caishen's Cash | Pragmatic Play | [doc](caishen-s-cash-b7.md) | [live](https://i-gaming.tools/slot-games/caishen-s-cash-b7/) |
 | Magic Money Maze | Pragmatic Play | [doc](magic-money-maze-b7.md) | [live](https://i-gaming.tools/slot-games/magic-money-maze-b7/) |
 | Lucky Monkey | Pragmatic Play | [doc](lucky-monkey-b7.md) | [live](https://i-gaming.tools/slot-games/lucky-monkey-b7/) |
@@ -228,9 +234,11 @@
 | Diamonds are Forever 3 Lines | Pragmatic Play | [doc](diamonds-are-forever-3-lines-b7.md) | [live](https://i-gaming.tools/slot-games/diamonds-are-forever-3-lines-b7/) |
 | Lucky Mouse | Pragmatic Play | [doc](lucky-mouse-b7.md) | [live](https://i-gaming.tools/slot-games/lucky-mouse-b7/) |
 | 5 Frozen Charms Megaways™ | Pragmatic Play | [doc](5-frozen-charms-megawaystm-b7.md) | [live](https://i-gaming.tools/slot-games/5-frozen-charms-megawaystm-b7/) |
+| Brick House Bonanza | Pragmatic Play | [doc](brick-house-bonanza-b7.md) | [live](https://i-gaming.tools/slot-games/brick-house-bonanza-b7/) |
 | Cyberheist City | Pragmatic Play | [doc](cyberheist-city-b7.md) | [live](https://i-gaming.tools/slot-games/cyberheist-city-b7/) |
 | Lucky Lightning | Pragmatic Play | [doc](lucky-lightning-b7.md) | [live](https://i-gaming.tools/slot-games/lucky-lightning-b7/) |
 | Starlight Christmas | Pragmatic Play | [doc](starlight-christmas-b7.md) | [live](https://i-gaming.tools/slot-games/starlight-christmas-b7/) |
+| Smugglers Cove | Pragmatic Play | [doc](smugglers-cove-b7.md) | [live](https://i-gaming.tools/slot-games/smugglers-cove-b7/) |
 | Leprechaun Carol | Pragmatic Play | [doc](leprechaun-carol-b7.md) | [live](https://i-gaming.tools/slot-games/leprechaun-carol-b7/) |
 | Hellvis Wild | Pragmatic Play | [doc](hellvis-wild-b7.md) | [live](https://i-gaming.tools/slot-games/hellvis-wild-b7/) |
 | Triple Dragons | Pragmatic Play | [doc](triple-dragons-b7.md) | [live](https://i-gaming.tools/slot-games/triple-dragons-b7/) |
@@ -276,9 +284,11 @@
 | Irish Charms | Pragmatic Play | [doc](irish-charms-b7.md) | [live](https://i-gaming.tools/slot-games/irish-charms-b7/) |
 | John Hunter and the book of Tut | Pragmatic Play | [doc](john-hunter-and-the-book-of-tut-b7.md) | [live](https://i-gaming.tools/slot-games/john-hunter-and-the-book-of-tut-b7/) |
 | Firebird Spirit | Pragmatic Play | [doc](firebird-spirit-b7.md) | [live](https://i-gaming.tools/slot-games/firebird-spirit-b7/) |
+| Sweet Kingdom | Pragmatic Play | [doc](sweet-kingdom-b7.md) | [live](https://i-gaming.tools/slot-games/sweet-kingdom-b7/) |
 | Big Bass Return to the Races | Pragmatic Play | [doc](big-bass-return-to-the-races-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-return-to-the-races-b7/) |
 | Eye of the Storm | Pragmatic Play | [doc](eye-of-the-storm-b7.md) | [live](https://i-gaming.tools/slot-games/eye-of-the-storm-b7/) |
 | Bigger Bass Bonanza | Pragmatic Play | [doc](bigger-bass-bonanza-b7.md) | [live](https://i-gaming.tools/slot-games/bigger-bass-bonanza-b7/) |
+| Dragon Gold 88 | Pragmatic Play | [doc](dragon-gold-88-b7.md) | [live](https://i-gaming.tools/slot-games/dragon-gold-88-b7/) |
 | Queenie | Pragmatic Play | [doc](queenie-b7.md) | [live](https://i-gaming.tools/slot-games/queenie-b7/) |
 | Happy Hooves | Pragmatic Play | [doc](happy-hooves-b7.md) | [live](https://i-gaming.tools/slot-games/happy-hooves-b7/) |
 | Big Bass Hold & Spinner Megaways | Pragmatic Play | [doc](big-bass-hold-spinner-megaways-b7.md) | [live](https://i-gaming.tools/slot-games/big-bass-hold-spinner-megaways-b7/) |
@@ -300,6 +310,7 @@
 | Jane Hunter and the Mask of Montezuma | Pragmatic Play | [doc](jane-hunter-and-the-mask-of-montezuma-b7.md) | [live](https://i-gaming.tools/slot-games/jane-hunter-and-the-mask-of-montezuma-b7/) |
 | Rainbow Gold | Pragmatic Play | [doc](rainbow-gold-b7.md) | [live](https://i-gaming.tools/slot-games/rainbow-gold-b7/) |
 | Super Gummy Strike | Pragmatic Play | [doc](super-gummy-strike-b7.md) | [live](https://i-gaming.tools/slot-games/super-gummy-strike-b7/) |
+| Frightening Frankie | Pragmatic Play | [doc](frightening-frankie-b7.md) | [live](https://i-gaming.tools/slot-games/frightening-frankie-b7/) |
 | Caishen's Gold | Pragmatic Play | [doc](caishen-s-gold-b7.md) | [live](https://i-gaming.tools/slot-games/caishen-s-gold-b7/) |
 | Lucky Tiger 1000 | Pragmatic Play | [doc](lucky-tiger-1000-b7.md) | [live](https://i-gaming.tools/slot-games/lucky-tiger-1000-b7/) |
 | Book of Vikings | Pragmatic Play | [doc](book-of-vikings-b7.md) | [live](https://i-gaming.tools/slot-games/book-of-vikings-b7/) |
@@ -311,4 +322,5 @@
 | Floating Dragon Hold and Spin | Pragmatic Play | [doc](floating-dragon-hold-and-spin-b7.md) | [live](https://i-gaming.tools/slot-games/floating-dragon-hold-and-spin-b7/) |
 | Rise of Giza PowerNudge | Pragmatic Play | [doc](rise-of-giza-powernudge-b7.md) | [live](https://i-gaming.tools/slot-games/rise-of-giza-powernudge-b7/) |
 | Zeus vs Hades – Gods of War | Pragmatic Play | [doc](zeus-vs-hades-gods-of-war-b7.md) | [live](https://i-gaming.tools/slot-games/zeus-vs-hades-gods-of-war-b7/) |
+| Mahjong Wins Super Scatter | Pragmatic Play | [doc](mahjong-wins-super-scatter-b7.md) | [live](https://i-gaming.tools/slot-games/mahjong-wins-super-scatter-b7/) |
 | Pig Farm | Pragmatic Play | [doc](pig-farm-b7.md) | [live](https://i-gaming.tools/slot-games/pig-farm-b7/) |

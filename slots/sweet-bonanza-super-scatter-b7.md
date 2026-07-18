@@ -131,10 +131,6 @@ $data = json_decode(curl_exec($ch), true);
       "page_url": "https://i-gaming.tools/slot-games/sweet-bonanza-super-scatter-b7/"
     }
   },
-  "studio": {
-    "slug": "pragmatic-play",
-    "name": "Pragmatic Play"
-  },
   "series": {
     "slug": "sweet-bonanza",
     "name": "Sweet Bonanza"

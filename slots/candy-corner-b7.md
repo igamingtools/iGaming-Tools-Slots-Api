@@ -126,10 +126,6 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/candy-corner-b7/"
     }
-  },
-  "studio": {
-    "slug": "pragmatic-play",
-    "name": "Pragmatic Play"
   }
 }
 ```

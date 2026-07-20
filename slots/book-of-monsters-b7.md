@@ -129,6 +129,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/book-of-monsters-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/book-of-monsters-b7/demand/
+```
+
+**12-month volume (illustrative):** 7,620 · **trend:** growing · YoY +28.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 1,870 | growing |
+| Brazil | 1,210 | flat |
+| Switzerland | 330 | flat |
+| Canada | 300 | flat |
+| United Kingdom | 280 | flat |
+| Netherlands | 260 | flat |
+| United States | 240 | flat |
+| Denmark | 230 | flat |
+| Finland | 220 | growing |
+| Romania | 200 | declining |
+
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/book-of-monsters-b7/

@@ -121,6 +121,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/fire-hot-40-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/fire-hot-40-b7/demand/
+```
+
+**12-month volume (illustrative):** 710 · **trend:** declining · YoY -14.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 70 | flat |
+| Netherlands | 60 | flat |
+| Bulgaria | 50 | flat |
+| Canada | 40 | flat |
+| Denmark | 40 | flat |
+| Greece | 30 | flat |
+| Latvia | 30 | growing |
+| Lithuania | 30 | flat |
+| Norway | 30 | flat |
+| Switzerland | 30 | flat |
+
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/fire-hot-40-b7/

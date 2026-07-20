@@ -132,6 +132,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/gold-party-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/gold-party-b7/demand/
+```
+
+**12-month volume (illustrative):** 35,830 · **trend:** declining · YoY -22.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 16,180 | growing |
+| Argentina | 8,760 | flat |
+| Turkey | 3,060 | declining |
+| Mexico | 1,250 | flat |
+| Greece | 930 | growing |
+| Germany | 600 | growing |
+| United States | 400 | flat |
+| Cyprus | 340 | flat |
+| France | 340 | growing |
+| Peru | 250 | flat |
+
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/gold-party-b7/

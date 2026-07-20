@@ -128,6 +128,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/gates-of-olympus-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/gates-of-olympus-b7/demand/
+```
+
+**12-month volume (illustrative):** 423,550 · **trend:** declining · YoY -42.1%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Turkey | 111,000 | declining |
+| Brazil | 62,410 | declining |
+| Greece | 36,900 | flat |
+| Romania | 24,000 | flat |
+| Germany | 21,170 | declining |
+| Netherlands | 15,300 | flat |
+| Switzerland | 15,080 | flat |
+| Italy | 11,820 | flat |
+| Canada | 11,640 | flat |
+| United Kingdom | 11,460 | declining |
+
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/gates-of-olympus-b7/

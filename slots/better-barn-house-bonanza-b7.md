@@ -133,6 +133,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/better-barn-house-bonanza-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/better-barn-house-bonanza-b7/demand/
+```
+
+**12-month volume (illustrative):** 140 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Canada | 20 | growing |
+| Argentina | 10 | growing |
+| Brazil | 10 | growing |
+| Colombia | 10 | growing |
+| Germany | 10 | growing |
+| Greece | 10 | growing |
+| Latvia | 10 | growing |
+| Netherlands | 10 | growing |
+| New Zealand | 10 | growing |
+| Norway | 10 | growing |
+
+> Full per-country breakdown (13 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/better-barn-house-bonanza-b7/

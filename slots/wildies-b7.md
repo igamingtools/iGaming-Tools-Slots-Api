@@ -120,6 +120,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/wildies-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/wildies-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,360 · **trend:** flat · YoY +0.0%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 450 | growing |
+| Brazil | 220 | growing |
+| Switzerland | 120 | growing |
+| Canada | 100 | flat |
+| Germany | 100 | flat |
+| Netherlands | 100 | flat |
+| Peru | 90 | flat |
+| Portugal | 90 | flat |
+| Austria | 80 | flat |
+| Finland | 80 | declining |
+
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/wildies-b7/

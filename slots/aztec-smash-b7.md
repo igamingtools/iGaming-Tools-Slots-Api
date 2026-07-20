@@ -124,6 +124,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/aztec-smash-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/aztec-smash-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,030 · **trend:** declining · YoY -17.1%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 180 | flat |
+| Canada | 180 | flat |
+| Finland | 140 | growing |
+| Peru | 130 | declining |
+| United Kingdom | 120 | flat |
+| United States | 120 | declining |
+| Greece | 110 | flat |
+| Denmark | 100 | declining |
+| Netherlands | 70 | flat |
+| Slovenia | 70 | flat |
+
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/aztec-smash-b7/

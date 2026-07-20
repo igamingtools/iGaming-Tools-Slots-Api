@@ -137,6 +137,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/floating-dragon-megaways-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/floating-dragon-megaways-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,130 · **trend:** declining · YoY -5.3%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Canada | 180 | flat |
+| United States | 160 | flat |
+| United Kingdom | 140 | flat |
+| Brazil | 130 | declining |
+| Greece | 130 | flat |
+| Australia | 120 | flat |
+| Argentina | 100 | declining |
+| Finland | 100 | flat |
+| Slovakia | 100 | declining |
+| Netherlands | 90 | flat |
+
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/floating-dragon-megaways-b7/

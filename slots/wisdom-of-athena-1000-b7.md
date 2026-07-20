@@ -119,6 +119,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/wisdom-of-athena-1000-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/wisdom-of-athena-1000-b7/demand/
+```
+
+**12-month volume (illustrative):** 15,710 · **trend:** declining · YoY -12.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 3,510 | declining |
+| Netherlands | 1,820 | flat |
+| Canada | 1,420 | declining |
+| Brazil | 580 | flat |
+| United Kingdom | 580 | declining |
+| Germany | 560 | flat |
+| Turkey | 520 | declining |
+| Romania | 460 | flat |
+| Portugal | 430 | flat |
+| Switzerland | 420 | flat |
+
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/wisdom-of-athena-1000-b7/

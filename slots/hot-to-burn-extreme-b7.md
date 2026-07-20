@@ -128,6 +128,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/hot-to-burn-extreme-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/hot-to-burn-extreme-b7/demand/
+```
+
+**12-month volume (illustrative):** 840 · **trend:** declining · YoY -22.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 110 | growing |
+| Greece | 90 | declining |
+| Canada | 80 | declining |
+| Romania | 70 | flat |
+| Germany | 60 | flat |
+| Lithuania | 60 | flat |
+| United Kingdom | 60 | growing |
+| United States | 60 | flat |
+| Netherlands | 40 | flat |
+| Spain | 40 | flat |
+
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/hot-to-burn-extreme-b7/

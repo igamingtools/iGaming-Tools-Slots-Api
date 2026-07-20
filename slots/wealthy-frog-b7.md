@@ -113,6 +113,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/wealthy-frog-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/wealthy-frog-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,690 · **trend:** growing · YoY +216.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,520 | declining |
+| Argentina | 190 | flat |
+| Canada | 120 | declining |
+| Mexico | 110 | growing |
+| Greece | 80 | flat |
+| Australia | 60 | flat |
+| Portugal | 60 | flat |
+| Peru | 50 | growing |
+| Turkey | 40 | flat |
+| Ukraine | 40 | declining |
+
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/wealthy-frog-b7/

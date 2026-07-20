@@ -117,6 +117,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/chilli-heat-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/chilli-heat-b7/demand/
+```
+
+**12-month volume (illustrative):** 6,220 · **trend:** growing · YoY +8.7%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 980 | growing |
+| New Zealand | 580 | declining |
+| Argentina | 390 | growing |
+| Brazil | 370 | growing |
+| Canada | 320 | flat |
+| Lithuania | 240 | flat |
+| Mexico | 230 | growing |
+| Greece | 190 | flat |
+| Sweden | 160 | growing |
+| Portugal | 150 | flat |
+
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/chilli-heat-b7/

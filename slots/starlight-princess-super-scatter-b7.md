@@ -138,6 +138,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/starlight-princess-super-scatter-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/starlight-princess-super-scatter-b7/demand/
+```
+
+**12-month volume (illustrative):** 12,120 · **trend:** growing · YoY +6278.9%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,960 | declining |
+| Greece | 1,520 | flat |
+| Canada | 1,140 | growing |
+| Germany | 560 | flat |
+| Switzerland | 450 | flat |
+| United Kingdom | 400 | declining |
+| Turkey | 390 | flat |
+| Italy | 380 | growing |
+| United States | 380 | flat |
+| Netherlands | 310 | flat |
+
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/starlight-princess-super-scatter-b7/

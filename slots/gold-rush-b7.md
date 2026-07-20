@@ -113,6 +113,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/gold-rush-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/gold-rush-b7/demand/
+```
+
+**12-month volume (illustrative):** 4,150 · **trend:** declining · YoY -21.3%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Germany | 420 | growing |
+| United States | 380 | flat |
+| Brazil | 340 | declining |
+| United Kingdom | 310 | growing |
+| Canada | 260 | flat |
+| Switzerland | 160 | flat |
+| Greece | 130 | flat |
+| Australia | 120 | flat |
+| Denmark | 120 | flat |
+| Italy | 120 | flat |
+
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/gold-rush-b7/

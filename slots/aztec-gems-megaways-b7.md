@@ -117,6 +117,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/aztec-gems-megaways-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/aztec-gems-megaways-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,690 · **trend:** growing · YoY +10.7%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 910 | declining |
+| Greece | 230 | flat |
+| Canada | 160 | flat |
+| Switzerland | 150 | declining |
+| Finland | 120 | flat |
+| Mexico | 120 | flat |
+| Argentina | 80 | flat |
+| Poland | 80 | declining |
+| United Kingdom | 80 | flat |
+| Portugal | 60 | flat |
+
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/aztec-gems-megaways-b7/

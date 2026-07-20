@@ -129,6 +129,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/money-stacks-megawaystm-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/money-stacks-megawaystm-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,050 · **trend:** declining · YoY -20.8%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 190 | flat |
+| Canada | 180 | growing |
+| Brazil | 110 | flat |
+| United Kingdom | 110 | growing |
+| Argentina | 90 | flat |
+| Latvia | 90 | flat |
+| Germany | 80 | declining |
+| Netherlands | 80 | growing |
+| Turkey | 80 | flat |
+| United States | 80 | flat |
+
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/money-stacks-megawaystm-b7/

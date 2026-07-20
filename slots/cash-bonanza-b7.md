@@ -113,6 +113,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/cash-bonanza-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/cash-bonanza-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,610 · **trend:** declining · YoY -20.7%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Latvia | 150 | declining |
+| Brazil | 140 | flat |
+| Canada | 120 | flat |
+| Italy | 100 | flat |
+| Germany | 90 | declining |
+| Greece | 90 | flat |
+| Finland | 80 | declining |
+| Mexico | 70 | flat |
+| Romania | 70 | declining |
+| United Kingdom | 70 | growing |
+
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/cash-bonanza-b7/

@@ -133,6 +133,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/himalayan-wild-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/himalayan-wild-b7/demand/
+```
+
+**12-month volume (illustrative):** 900 · **trend:** declining · YoY -40.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 120 | flat |
+| Brazil | 100 | flat |
+| Canada | 80 | flat |
+| Lithuania | 60 | flat |
+| Switzerland | 60 | flat |
+| Romania | 50 | flat |
+| Bulgaria | 40 | growing |
+| Germany | 40 | flat |
+| Netherlands | 40 | declining |
+| Peru | 40 | growing |
+
+> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/himalayan-wild-b7/

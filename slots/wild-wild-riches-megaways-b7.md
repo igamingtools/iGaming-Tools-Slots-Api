@@ -124,6 +124,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/wild-wild-riches-megaways-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/wild-wild-riches-megaways-b7/demand/
+```
+
+**12-month volume (illustrative):** 4,880 · **trend:** flat · YoY -4.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 530 | declining |
+| France | 480 | flat |
+| Greece | 440 | flat |
+| United Kingdom | 440 | flat |
+| Canada | 260 | flat |
+| Turkey | 230 | growing |
+| Argentina | 210 | flat |
+| Switzerland | 180 | flat |
+| Austria | 120 | flat |
+| Germany | 120 | flat |
+
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-wild-riches-megaways-b7/

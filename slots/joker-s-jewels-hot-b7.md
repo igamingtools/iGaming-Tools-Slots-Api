@@ -117,6 +117,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/joker-s-jewels-hot-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/joker-s-jewels-hot-b7/demand/
+```
+
+**12-month volume (illustrative):** 380 · **trend:** declining · YoY -25.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Argentina | 100 | flat |
+| Canada | 100 | growing |
+| Netherlands | 50 | flat |
+| United States | 40 | flat |
+| Brazil | 20 | flat |
+| Peru | 20 | flat |
+| Austria | 10 | flat |
+| France | 10 | flat |
+| Lithuania | 10 | flat |
+| Mexico | 10 | flat |
+
+> Full per-country breakdown (11 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/joker-s-jewels-hot-b7/

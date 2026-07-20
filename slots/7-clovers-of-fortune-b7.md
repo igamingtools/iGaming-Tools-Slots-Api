@@ -120,6 +120,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/7-clovers-of-fortune-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/7-clovers-of-fortune-b7/demand/
+```
+
+**12-month volume (illustrative):** 5,420 · **trend:** growing · YoY +27.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Mexico | 970 | growing |
+| Argentina | 460 | growing |
+| Brazil | 410 | growing |
+| Peru | 370 | flat |
+| United Kingdom | 300 | growing |
+| Germany | 250 | flat |
+| United States | 220 | flat |
+| Canada | 180 | flat |
+| Finland | 180 | declining |
+| Spain | 150 | flat |
+
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/7-clovers-of-fortune-b7/

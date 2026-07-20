@@ -128,6 +128,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/dragon-king-hot-pots-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/dragon-king-hot-pots-b7/demand/
+```
+
+**12-month volume (illustrative):** 970 · **trend:** flat · YoY -3.0%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 140 | growing |
+| Canada | 100 | flat |
+| Greece | 100 | flat |
+| United Kingdom | 70 | flat |
+| Peru | 60 | flat |
+| Portugal | 60 | flat |
+| Netherlands | 50 | flat |
+| Finland | 40 | growing |
+| Germany | 40 | flat |
+| United States | 40 | declining |
+
+> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/dragon-king-hot-pots-b7/

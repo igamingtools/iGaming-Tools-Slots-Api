@@ -130,6 +130,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/rise-of-pyramids-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/rise-of-pyramids-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,620 · **trend:** growing · YoY +36.1%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 220 | declining |
+| Brazil | 120 | flat |
+| Switzerland | 120 | flat |
+| Germany | 110 | flat |
+| Netherlands | 80 | declining |
+| Cyprus | 70 | growing |
+| United Kingdom | 70 | growing |
+| Finland | 60 | growing |
+| Portugal | 60 | growing |
+| United States | 60 | growing |
+
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/rise-of-pyramids-b7/

@@ -91,6 +91,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/limbo-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/limbo-b7/demand/
+```
+
+**12-month volume (illustrative):** 8,720 · **trend:** declining · YoY -54.8%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,450 | growing |
+| United States | 1,220 | declining |
+| Canada | 620 | declining |
+| Germany | 390 | growing |
+| Mexico | 340 | declining |
+| Turkey | 250 | flat |
+| Finland | 240 | flat |
+| Switzerland | 240 | growing |
+| United Kingdom | 210 | declining |
+| France | 200 | flat |
+
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/limbo-b7/

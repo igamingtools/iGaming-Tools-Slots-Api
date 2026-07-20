@@ -142,6 +142,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/big-bass-boxing-bonus-round-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/big-bass-boxing-bonus-round-b7/demand/
+```
+
+**12-month volume (illustrative):** 8,040 · **trend:** growing · YoY +1240.0%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,000 | flat |
+| United Kingdom | 900 | declining |
+| Spain | 640 | declining |
+| Portugal | 550 | growing |
+| Argentina | 470 | declining |
+| Canada | 380 | declining |
+| Greece | 370 | growing |
+| Denmark | 280 | flat |
+| Finland | 280 | flat |
+| Switzerland | 210 | flat |
+
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bass-boxing-bonus-round-b7/

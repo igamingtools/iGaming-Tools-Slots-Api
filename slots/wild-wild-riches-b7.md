@@ -113,6 +113,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/wild-wild-riches-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/demand/
+```
+
+**12-month volume (illustrative):** 8,320 · **trend:** declining · YoY -15.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,290 | declining |
+| United Kingdom | 1,180 | declining |
+| Turkey | 740 | flat |
+| Greece | 580 | declining |
+| Canada | 320 | flat |
+| Switzerland | 270 | declining |
+| Mexico | 260 | declining |
+| United States | 240 | flat |
+| Argentina | 220 | declining |
+| Peru | 210 | flat |
+
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/

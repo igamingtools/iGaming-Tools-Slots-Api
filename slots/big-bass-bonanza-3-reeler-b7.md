@@ -137,6 +137,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/big-bass-bonanza-3-reeler-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/big-bass-bonanza-3-reeler-b7/demand/
+```
+
+**12-month volume (illustrative):** 3,320 · **trend:** declining · YoY -27.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 530 | flat |
+| Greece | 220 | flat |
+| Switzerland | 210 | growing |
+| Canada | 160 | flat |
+| Germany | 140 | declining |
+| Netherlands | 140 | growing |
+| United Kingdom | 130 | flat |
+| Turkey | 120 | growing |
+| Argentina | 100 | flat |
+| Finland | 100 | flat |
+
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bass-bonanza-3-reeler-b7/

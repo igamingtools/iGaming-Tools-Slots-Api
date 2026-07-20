@@ -113,6 +113,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/dance-party-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/dance-party-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,000 · **trend:** declining · YoY -32.9%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 200 | flat |
+| Brazil | 110 | flat |
+| Finland | 80 | flat |
+| Malta | 80 | flat |
+| United Kingdom | 60 | flat |
+| Canada | 40 | flat |
+| Lithuania | 40 | flat |
+| Peru | 40 | flat |
+| Romania | 40 | growing |
+| Argentina | 30 | flat |
+
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/dance-party-b7/

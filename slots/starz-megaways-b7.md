@@ -113,6 +113,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/starz-megaways-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/starz-megaways-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,630 · **trend:** declining · YoY -26.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Canada | 140 | flat |
+| United States | 140 | flat |
+| Denmark | 120 | flat |
+| United Kingdom | 120 | flat |
+| Greece | 110 | flat |
+| Sweden | 110 | flat |
+| Argentina | 80 | flat |
+| Germany | 70 | declining |
+| Romania | 60 | declining |
+| Ireland | 50 | declining |
+
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/starz-megaways-b7/

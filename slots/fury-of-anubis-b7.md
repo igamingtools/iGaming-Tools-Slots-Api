@@ -134,6 +134,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/fury-of-anubis-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/fury-of-anubis-b7/demand/
+```
+
+**12-month volume (illustrative):** 160 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Canada | 20 | growing |
+| United States | 20 | growing |
+| Argentina | 10 | growing |
+| Brazil | 10 | growing |
+| Cyprus | 10 | growing |
+| Greece | 10 | growing |
+| Ireland | 10 | growing |
+| Italy | 10 | growing |
+| Latvia | 10 | growing |
+| Malta | 10 | growing |
+
+> Full per-country breakdown (14 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/fury-of-anubis-b7/

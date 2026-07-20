@@ -130,6 +130,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/bounty-hunter-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/bounty-hunter-b7/demand/
+```
+
+**12-month volume (illustrative):** 5,710 · **trend:** growing · YoY +520.7%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 1,400 | declining |
+| Brazil | 910 | growing |
+| Canada | 220 | flat |
+| Finland | 200 | growing |
+| Switzerland | 180 | declining |
+| United States | 180 | growing |
+| Germany | 150 | declining |
+| United Kingdom | 140 | flat |
+| Latvia | 130 | flat |
+| Cyprus | 110 | flat |
+
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/bounty-hunter-b7/

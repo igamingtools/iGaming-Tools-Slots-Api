@@ -128,6 +128,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/captain-kraken-megaways-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/captain-kraken-megaways-b7/demand/
+```
+
+**12-month volume (illustrative):** 3,080 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 340 | declining |
+| Finland | 240 | flat |
+| Canada | 180 | flat |
+| Brazil | 170 | declining |
+| Switzerland | 150 | declining |
+| Australia | 130 | growing |
+| Netherlands | 130 | flat |
+| Germany | 100 | growing |
+| United Kingdom | 100 | flat |
+| United States | 100 | declining |
+
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/captain-kraken-megaways-b7/

@@ -113,6 +113,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/the-red-queen-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/the-red-queen-b7/demand/
+```
+
+**12-month volume (illustrative):** 660 · **trend:** growing · YoY +24.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 110 | flat |
+| Greece | 60 | declining |
+| United Kingdom | 60 | growing |
+| Argentina | 40 | declining |
+| United States | 40 | declining |
+| Australia | 30 | flat |
+| Latvia | 30 | flat |
+| Romania | 30 | growing |
+| Ukraine | 30 | declining |
+| Bulgaria | 20 | declining |
+
+> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/the-red-queen-b7/

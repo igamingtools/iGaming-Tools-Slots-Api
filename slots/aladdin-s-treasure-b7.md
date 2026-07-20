@@ -69,7 +69,7 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": true
     }
   ],
-  "volatility": "",
+  "volatility": "medium",
   "mechanic": "lines",
   "reels": 5,
   "rows": 4,
@@ -115,6 +115,17 @@ $data = json_decode(curl_exec($ch), true);
     }
   }
 }
+```
+
+## Search Demand
+
+`GET /api/v1/slots/aladdin-s-treasure-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/aladdin-s-treasure-b7/demand/
 ```
 
 ## Links

@@ -133,6 +133,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/big-bass-blast-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/big-bass-blast-b7/demand/
+```
+
+**12-month volume (illustrative):** 270 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 50 | growing |
+| Canada | 40 | growing |
+| Switzerland | 30 | growing |
+| Australia | 10 | growing |
+| Brazil | 10 | growing |
+| Denmark | 10 | growing |
+| Germany | 10 | growing |
+| Greece | 10 | growing |
+| Iceland | 10 | growing |
+| Italy | 10 | growing |
+
+> Full per-country breakdown (18 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bass-blast-b7/

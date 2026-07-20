@@ -124,6 +124,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/red-hot-luck-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/red-hot-luck-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,650 · **trend:** declining · YoY -35.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Switzerland | 600 | flat |
+| Canada | 160 | declining |
+| Brazil | 120 | declining |
+| United States | 100 | flat |
+| Bulgaria | 80 | growing |
+| Greece | 80 | declining |
+| Germany | 60 | flat |
+| Argentina | 40 | flat |
+| Cyprus | 40 | declining |
+| Finland | 40 | growing |
+
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/red-hot-luck-b7/

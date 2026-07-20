@@ -142,6 +142,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/bigger-bass-splash-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/bigger-bass-splash-b7/demand/
+```
+
+**12-month volume (illustrative):** 252,270 · **trend:** declining · YoY -8.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 75,100 | growing |
+| Brazil | 52,800 | growing |
+| Greece | 26,000 | growing |
+| Germany | 13,000 | flat |
+| Netherlands | 10,100 | growing |
+| Canada | 8,640 | growing |
+| Turkey | 6,930 | growing |
+| Spain | 5,590 | declining |
+| Romania | 5,280 | growing |
+| Italy | 4,330 | growing |
+
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/bigger-bass-splash-b7/

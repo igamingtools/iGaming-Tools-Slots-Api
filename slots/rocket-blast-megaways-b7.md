@@ -124,6 +124,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/rocket-blast-megaways-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/rocket-blast-megaways-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,100 · **trend:** growing · YoY +9.9%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 220 | flat |
+| Canada | 180 | flat |
+| United States | 160 | growing |
+| Finland | 140 | flat |
+| Greece | 140 | flat |
+| Netherlands | 90 | growing |
+| Portugal | 90 | flat |
+| Switzerland | 90 | flat |
+| Germany | 80 | declining |
+| Turkey | 80 | growing |
+
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/rocket-blast-megaways-b7/

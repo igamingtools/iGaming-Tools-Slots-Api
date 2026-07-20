@@ -109,6 +109,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/pixie-wings-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/pixie-wings-b7/demand/
+```
+
+**12-month volume (illustrative):** 880 · **trend:** growing · YoY +35.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 190 | flat |
+| Hungary | 180 | flat |
+| Greece | 100 | flat |
+| Finland | 80 | flat |
+| Germany | 70 | flat |
+| United Kingdom | 40 | declining |
+| United States | 40 | declining |
+| Switzerland | 30 | flat |
+| Australia | 20 | flat |
+| Ukraine | 20 | flat |
+
+> Full per-country breakdown (21 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/pixie-wings-b7/

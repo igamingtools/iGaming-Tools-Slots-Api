@@ -105,6 +105,17 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/magic-journey-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/magic-journey-b7/demand/
+```
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/magic-journey-b7/

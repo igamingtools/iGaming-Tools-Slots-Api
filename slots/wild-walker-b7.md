@@ -117,6 +117,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/wild-walker-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/wild-walker-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,620 · **trend:** declining · YoY -15.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 260 | declining |
+| Greece | 140 | flat |
+| Finland | 120 | declining |
+| United Kingdom | 110 | flat |
+| Switzerland | 90 | growing |
+| Romania | 70 | flat |
+| Argentina | 60 | declining |
+| Austria | 60 | declining |
+| Germany | 60 | growing |
+| Hungary | 60 | declining |
+
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-walker-b7/

@@ -128,6 +128,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/wolf-gold-ultimate-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/wolf-gold-ultimate-b7/demand/
+```
+
+**12-month volume (illustrative):** 4,430 · **trend:** growing · YoY +16.6%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Canada | 920 | flat |
+| Greece | 340 | flat |
+| Germany | 220 | flat |
+| United States | 180 | flat |
+| Netherlands | 170 | flat |
+| New Zealand | 170 | growing |
+| Australia | 150 | declining |
+| Switzerland | 150 | declining |
+| United Kingdom | 150 | growing |
+| Finland | 140 | growing |
+
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/wolf-gold-ultimate-b7/

@@ -105,6 +105,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/triple-jokers-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/triple-jokers-b7/demand/
+```
+
+**12-month volume (illustrative):** 870 · **trend:** declining · YoY -17.9%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Argentina | 120 | flat |
+| Netherlands | 80 | flat |
+| Lithuania | 70 | growing |
+| Mexico | 70 | flat |
+| Canada | 60 | flat |
+| United States | 60 | flat |
+| Brazil | 50 | flat |
+| Greece | 50 | flat |
+| Czech Republic | 40 | flat |
+| Italy | 40 | declining |
+
+> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/triple-jokers-b7/

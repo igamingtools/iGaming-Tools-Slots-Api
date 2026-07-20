@@ -124,6 +124,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/gates-of-valhalla-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/gates-of-valhalla-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,890 · **trend:** declining · YoY -14.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 430 | declining |
+| Switzerland | 180 | flat |
+| Canada | 160 | flat |
+| United States | 160 | declining |
+| Greece | 150 | flat |
+| Germany | 110 | growing |
+| United Kingdom | 110 | flat |
+| Finland | 100 | flat |
+| Italy | 100 | declining |
+| Romania | 100 | declining |
+
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/gates-of-valhalla-b7/

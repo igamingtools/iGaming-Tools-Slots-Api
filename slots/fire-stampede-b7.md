@@ -128,6 +128,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/fire-stampede-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/fire-stampede-b7/demand/
+```
+
+**12-month volume (illustrative):** 6,110 · **trend:** growing · YoY +23.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,610 | declining |
+| United States | 400 | flat |
+| Canada | 360 | declining |
+| Greece | 290 | growing |
+| Mexico | 230 | flat |
+| United Kingdom | 230 | growing |
+| Switzerland | 180 | flat |
+| Netherlands | 150 | flat |
+| Peru | 150 | flat |
+| Slovakia | 140 | flat |
+
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/fire-stampede-b7/

@@ -138,6 +138,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/gates-of-olympus-super-scatter-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/gates-of-olympus-super-scatter-b7/demand/
+```
+
+**12-month volume (illustrative):** 474,800 · **trend:** growing · YoY +619.8%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 90,000 | flat |
+| Brazil | 62,300 | growing |
+| Switzerland | 30,090 | declining |
+| Germany | 27,900 | flat |
+| Canada | 25,700 | flat |
+| Turkey | 24,800 | declining |
+| Italy | 22,500 | flat |
+| Netherlands | 21,900 | declining |
+| United Kingdom | 20,000 | flat |
+| Finland | 15,440 | declining |
+
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/gates-of-olympus-super-scatter-b7/

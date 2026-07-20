@@ -129,6 +129,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/raging-waterfall-megaways-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/raging-waterfall-megaways-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,010 · **trend:** declining · YoY -12.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Canada | 180 | flat |
+| Brazil | 130 | growing |
+| Greece | 90 | flat |
+| Switzerland | 60 | flat |
+| United States | 60 | declining |
+| Denmark | 40 | flat |
+| Lithuania | 40 | flat |
+| United Kingdom | 40 | flat |
+| Australia | 30 | flat |
+| Croatia | 30 | flat |
+
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/raging-waterfall-megaways-b7/

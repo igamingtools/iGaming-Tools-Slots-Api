@@ -113,6 +113,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/treasure-horse-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/treasure-horse-b7/demand/
+```
+
+**12-month volume (illustrative):** 450 · **trend:** declining · YoY -23.7%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 120 | flat |
+| Mexico | 60 | growing |
+| Finland | 40 | flat |
+| Argentina | 20 | flat |
+| Canada | 20 | flat |
+| United Kingdom | 20 | flat |
+| Belarus | 10 | flat |
+| Chile | 10 | flat |
+| Cyprus | 10 | flat |
+| Czech Republic | 10 | flat |
+
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/treasure-horse-b7/

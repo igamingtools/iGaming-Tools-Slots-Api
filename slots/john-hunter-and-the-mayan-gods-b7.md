@@ -117,6 +117,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/john-hunter-and-the-mayan-gods-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/john-hunter-and-the-mayan-gods-b7/demand/
+```
+
+**12-month volume (illustrative):** 360 · **trend:** declining · YoY -26.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 60 | growing |
+| Sweden | 40 | flat |
+| United Kingdom | 40 | growing |
+| Germany | 30 | flat |
+| Netherlands | 30 | flat |
+| Austria | 20 | flat |
+| Greece | 20 | growing |
+| Italy | 20 | flat |
+| New Zealand | 20 | flat |
+| Romania | 20 | flat |
+
+> Full per-country breakdown (16 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/john-hunter-and-the-mayan-gods-b7/

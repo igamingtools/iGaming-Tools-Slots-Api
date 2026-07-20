@@ -133,6 +133,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/vampy-party-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/vampy-party-b7/demand/
+```
+
+**12-month volume (illustrative):** 23,570 · **trend:** growing · YoY +11.0%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 4,880 | flat |
+| Greece | 4,490 | flat |
+| United Kingdom | 1,240 | growing |
+| Denmark | 980 | flat |
+| Finland | 980 | growing |
+| Germany | 940 | flat |
+| Switzerland | 780 | growing |
+| Hungary | 760 | declining |
+| Canada | 680 | flat |
+| Peru | 640 | declining |
+
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/vampy-party-b7/

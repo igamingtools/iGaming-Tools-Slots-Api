@@ -128,6 +128,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/temple-guardians-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/temple-guardians-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,060 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 410 | flat |
+| Greece | 200 | flat |
+| Romania | 100 | flat |
+| Finland | 80 | flat |
+| Peru | 80 | declining |
+| United States | 80 | flat |
+| Mexico | 70 | growing |
+| United Kingdom | 70 | flat |
+| Canada | 60 | flat |
+| Germany | 60 | growing |
+
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/temple-guardians-b7/

@@ -117,6 +117,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/fire-strike-2-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/fire-strike-2-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,520 · **trend:** declining · YoY -15.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,080 | flat |
+| United States | 220 | flat |
+| Finland | 160 | flat |
+| Argentina | 110 | flat |
+| United Kingdom | 110 | growing |
+| Denmark | 100 | flat |
+| Mexico | 90 | growing |
+| Greece | 80 | flat |
+| Canada | 60 | flat |
+| Australia | 50 | flat |
+
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/fire-strike-2-b7/

@@ -138,6 +138,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/beware-the-deep-megaways-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/beware-the-deep-megaways-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,440 · **trend:** flat · YoY +2.9%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 130 | flat |
+| Greece | 100 | growing |
+| Canada | 80 | flat |
+| Italy | 80 | declining |
+| United Kingdom | 80 | flat |
+| Argentina | 60 | growing |
+| Bulgaria | 60 | declining |
+| Finland | 60 | flat |
+| Romania | 60 | flat |
+| Croatia | 50 | flat |
+
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/beware-the-deep-megaways-b7/

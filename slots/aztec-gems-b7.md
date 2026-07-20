@@ -113,6 +113,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/aztec-gems-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/aztec-gems-b7/demand/
+```
+
+**12-month volume (illustrative):** 6,980 · **trend:** flat · YoY +4.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 4,340 | growing |
+| Mexico | 560 | flat |
+| Argentina | 190 | declining |
+| Switzerland | 180 | flat |
+| Peru | 150 | flat |
+| Croatia | 130 | flat |
+| Canada | 120 | declining |
+| United States | 120 | declining |
+| Greece | 90 | flat |
+| United Kingdom | 90 | flat |
+
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/aztec-gems-b7/

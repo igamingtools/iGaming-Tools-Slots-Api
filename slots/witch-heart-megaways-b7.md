@@ -124,6 +124,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/witch-heart-megaways-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/witch-heart-megaways-b7/demand/
+```
+
+**12-month volume (illustrative):** 7,240 · **trend:** growing · YoY +358.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 1,010 | growing |
+| Brazil | 930 | flat |
+| Netherlands | 540 | flat |
+| Canada | 420 | flat |
+| Romania | 370 | declining |
+| Switzerland | 270 | growing |
+| Finland | 240 | flat |
+| United States | 220 | flat |
+| Argentina | 180 | flat |
+| Denmark | 160 | flat |
+
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/witch-heart-megaways-b7/

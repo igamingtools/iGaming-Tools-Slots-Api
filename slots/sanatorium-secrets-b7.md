@@ -134,6 +134,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/sanatorium-secrets-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/sanatorium-secrets-b7/demand/
+```
+
+**12-month volume (illustrative):** 530 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 50 | growing |
+| Greece | 40 | growing |
+| Switzerland | 30 | growing |
+| Canada | 20 | growing |
+| Finland | 20 | growing |
+| Norway | 20 | growing |
+| United Kingdom | 20 | growing |
+| United States | 20 | growing |
+| Argentina | 10 | growing |
+| Australia | 10 | growing |
+
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/sanatorium-secrets-b7/

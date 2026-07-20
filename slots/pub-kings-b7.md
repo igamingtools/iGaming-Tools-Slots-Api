@@ -124,6 +124,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/pub-kings-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/pub-kings-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,920 · **trend:** flat · YoY -3.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 160 | flat |
+| Finland | 140 | flat |
+| United Kingdom | 130 | flat |
+| Greece | 120 | flat |
+| Switzerland | 120 | flat |
+| Canada | 100 | growing |
+| Australia | 90 | flat |
+| Denmark | 90 | flat |
+| Germany | 80 | declining |
+| Netherlands | 80 | flat |
+
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/pub-kings-b7/

@@ -120,6 +120,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/sticky-bees-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/sticky-bees-b7/demand/
+```
+
+**12-month volume (illustrative):** 5,820 · **trend:** declining · YoY -10.6%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 760 | flat |
+| Greece | 660 | flat |
+| Peru | 550 | flat |
+| Switzerland | 300 | flat |
+| Canada | 240 | flat |
+| Finland | 200 | flat |
+| Germany | 200 | growing |
+| United States | 180 | flat |
+| Denmark | 150 | declining |
+| Portugal | 150 | flat |
+
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/sticky-bees-b7/

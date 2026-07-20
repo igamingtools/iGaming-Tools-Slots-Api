@@ -132,6 +132,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/gold-party-2-after-hours-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/gold-party-2-after-hours-b7/demand/
+```
+
+**12-month volume (illustrative):** 2,530 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Portugal | 400 | flat |
+| Argentina | 150 | flat |
+| Germany | 140 | declining |
+| United States | 140 | declining |
+| Greece | 120 | flat |
+| Switzerland | 120 | flat |
+| Brazil | 110 | growing |
+| Turkey | 110 | flat |
+| Finland | 100 | growing |
+| United Kingdom | 90 | flat |
+
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/gold-party-2-after-hours-b7/

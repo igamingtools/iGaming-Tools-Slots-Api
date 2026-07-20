@@ -130,6 +130,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/treasures-of-osiris-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/treasures-of-osiris-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,520 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 300 | flat |
+| Canada | 160 | growing |
+| Switzerland | 90 | declining |
+| Brazil | 70 | flat |
+| United States | 60 | flat |
+| New Zealand | 50 | flat |
+| Argentina | 40 | flat |
+| Australia | 40 | flat |
+| Finland | 40 | flat |
+| Latvia | 40 | flat |
+
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/treasures-of-osiris-b7/

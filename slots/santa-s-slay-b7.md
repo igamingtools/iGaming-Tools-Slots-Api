@@ -129,6 +129,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/santa-s-slay-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/santa-s-slay-b7/demand/
+```
+
+**12-month volume (illustrative):** 1,070 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 90 | flat |
+| Canada | 60 | flat |
+| United States | 60 | flat |
+| Brazil | 50 | growing |
+| Denmark | 50 | flat |
+| Argentina | 40 | declining |
+| Australia | 40 | flat |
+| Finland | 40 | flat |
+| Latvia | 40 | flat |
+| Netherlands | 40 | flat |
+
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/santa-s-slay-b7/

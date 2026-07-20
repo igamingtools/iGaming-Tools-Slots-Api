@@ -130,6 +130,36 @@ $data = json_decode(curl_exec($ch), true);
 }
 ```
 
+## Search Demand
+
+`GET /api/v1/slots/tiny-toads-b7/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/tiny-toads-b7/demand/
+```
+
+**12-month volume (illustrative):** 3,100 · **trend:** flat · YoY -4.6%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 800 | growing |
+| Canada | 180 | growing |
+| Denmark | 160 | flat |
+| United States | 160 | declining |
+| Mexico | 120 | flat |
+| United Kingdom | 120 | flat |
+| Greece | 110 | declining |
+| Peru | 110 | growing |
+| Argentina | 100 | flat |
+| Portugal | 100 | declining |
+
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/tiny-toads-b7/

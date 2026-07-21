@@ -70,7 +70,7 @@ $data = json_decode(curl_exec($ch), true);
     }
   ],
   "volatility": "high",
-  "mechanic": "",
+  "mechanic": "scatter_pays",
   "reels": 6,
   "rows": null,
   "jackpot_type": "none",

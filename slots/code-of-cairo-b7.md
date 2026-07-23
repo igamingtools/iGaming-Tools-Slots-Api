@@ -69,7 +69,7 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": true
     }
   ],
-  "volatility": "",
+  "volatility": "low",
   "mechanic": "lines",
   "reels": 3,
   "rows": 3,
@@ -105,6 +105,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/code-of-cairo-b7/"
     }
+  },
+  "studio": {
+    "slug": "fat-panda",
+    "name": "FAT PANDA"
   }
 }
 ```

@@ -1,4 +1,4 @@
-# 7 Piggies Scratchcard
+# Dragon Tiger
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/7-piggies-scratchcard-b7/`
+`GET /api/v1/slots/dragon-tiger-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/7-piggies-scratchcard-b7/
+  https://i-gaming.tools/api/v1/slots/dragon-tiger-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/7-piggies-scratchcard-b7/",
+    "https://i-gaming.tools/api/v1/slots/dragon-tiger-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/7-piggies-scratchcard-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/dragon-tiger-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/7-piggies-scratchcard-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/dragon-tiger-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,18 +53,18 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "7-piggies-scratchcard-b7",
-  "name": "7 Piggies Scratchcard",
+  "slug": "dragon-tiger-b7",
+  "name": "Dragon Tiger",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
     "name": "Pragmatic Play"
   },
-  "game_category": "scratch",
-  "rtp_default": "85.40",
+  "game_category": "table",
+  "rtp_default": "96.27",
   "rtp_variants": [
     {
-      "rtp": "85.40",
+      "rtp": "96.27",
       "variant": "default",
       "is_default": true
     }
@@ -76,15 +76,19 @@ $data = json_decode(curl_exec($ch), true);
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2020-06-01",
+  "release_date": "2021-04-01",
   "themes": [
     {
-      "slug": "animals",
-      "name": "Animals"
+      "slug": "asian",
+      "name": "Asian"
     },
     {
-      "slug": "farm",
-      "name": "Farm"
+      "slug": "cards",
+      "name": "Cards"
+    },
+    {
+      "slug": "chinese",
+      "name": "Chinese"
     }
   ],
   "features": [],
@@ -94,29 +98,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/7-piggies-scratchcard-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/dragon-tiger-b7/"
     }
-  },
-  "series": {
-    "slug": "7-piggies",
-    "name": "7 Piggies"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/7-piggies-scratchcard-b7/demand/`
+`GET /api/v1/slots/dragon-tiger-b7/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/7-piggies-scratchcard-b7/demand/
+  https://i-gaming.tools/api/v1/slots/dragon-tiger-b7/demand/
 ```
+
+**12-month volume (illustrative):** 3,500 · **trend:** declining · YoY -33.8%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,520 | declining |
+| Canada | 120 | flat |
+| Finland | 120 | declining |
+| United States | 120 | growing |
+| Netherlands | 110 | flat |
+| Portugal | 110 | flat |
+| Germany | 90 | growing |
+| Greece | 90 | flat |
+| Italy | 90 | declining |
+| Poland | 90 | flat |
+
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/7-piggies-scratchcard-b7/
-- **Public page:** https://i-gaming.tools/slot-games/7-piggies-scratchcard-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/dragon-tiger-b7/
+- **Public page:** https://i-gaming.tools/slot-games/dragon-tiger-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

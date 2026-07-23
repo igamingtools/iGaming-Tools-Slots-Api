@@ -74,7 +74,7 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": false
     }
   ],
-  "volatility": "",
+  "volatility": "high",
   "mechanic": "lines",
   "reels": 4,
   "rows": 3,

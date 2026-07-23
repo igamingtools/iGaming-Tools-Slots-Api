@@ -79,7 +79,7 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": false
     }
   ],
-  "volatility": "high",
+  "volatility": "medium",
   "mechanic": "cluster",
   "reels": 6,
   "rows": 6,

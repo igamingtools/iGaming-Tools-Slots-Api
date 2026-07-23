@@ -124,6 +124,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/fire-stampede-b7/"
     }
+  },
+  "series": {
+    "slug": "fire-stampede",
+    "name": "Fire Stampede"
   }
 }
 ```

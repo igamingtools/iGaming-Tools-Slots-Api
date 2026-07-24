@@ -141,6 +141,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-skullz-b7/demand/
 ```
 
+**12-month volume (illustrative):** 3,010 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Philippines | 250 | declining |
+| Greece | 230 | declining |
+| Indonesia | 160 | declining |
+| Brazil | 140 | declining |
+| Finland | 140 | flat |
+| United Kingdom | 130 | flat |
+| Switzerland | 120 | flat |
+| Canada | 100 | flat |
+| Germany | 80 | flat |
+| Australia | 70 | flat |
+
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-skullz-b7/

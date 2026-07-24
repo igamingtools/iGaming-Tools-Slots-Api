@@ -139,6 +139,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/black-bull-b7/demand/
 ```
 
+**12-month volume (illustrative):** 3,810 · **trend:** declining · YoY -23.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 570 | growing |
+| India | 200 | growing |
+| Canada | 180 | growing |
+| United States | 180 | declining |
+| Mexico | 150 | flat |
+| Germany | 120 | flat |
+| Greece | 120 | flat |
+| New Zealand | 120 | flat |
+| Argentina | 110 | flat |
+| Australia | 110 | flat |
+
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/black-bull-b7/

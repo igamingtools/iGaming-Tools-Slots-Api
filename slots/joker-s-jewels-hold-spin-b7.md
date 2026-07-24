@@ -120,6 +120,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/joker-s-jewels-hold-spin-b7/demand/
 ```
 
+**12-month volume (illustrative):** 910 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Finland | 100 | declining |
+| Argentina | 80 | growing |
+| Canada | 80 | growing |
+| United States | 80 | growing |
+| United Kingdom | 70 | growing |
+| Netherlands | 60 | growing |
+| Greece | 50 | declining |
+| Spain | 30 | flat |
+| Switzerland | 30 | flat |
+| Belgium | 20 | flat |
+
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/joker-s-jewels-hold-spin-b7/

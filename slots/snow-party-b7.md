@@ -149,6 +149,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/snow-party-b7/demand/
 ```
 
+**12-month volume (illustrative):** 4,430 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,290 | declining |
+| Greece | 260 | declining |
+| Philippines | 190 | growing |
+| Indonesia | 160 | flat |
+| Cyprus | 150 | declining |
+| Canada | 140 | flat |
+| Finland | 120 | flat |
+| Switzerland | 120 | flat |
+| Malaysia | 100 | flat |
+| Belgium | 80 | flat |
+
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/snow-party-b7/

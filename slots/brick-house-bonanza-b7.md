@@ -145,6 +145,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/brick-house-bonanza-b7/demand/
 ```
 
+**12-month volume (illustrative):** 24,670 · **trend:** growing · YoY +23.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 3,710 | flat |
+| Netherlands | 2,520 | flat |
+| United States | 1,760 | flat |
+| Canada | 1,600 | growing |
+| Brazil | 1,200 | declining |
+| Australia | 1,130 | growing |
+| Germany | 1,130 | declining |
+| Romania | 1,070 | growing |
+| Denmark | 950 | growing |
+| Switzerland | 780 | flat |
+
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/brick-house-bonanza-b7/

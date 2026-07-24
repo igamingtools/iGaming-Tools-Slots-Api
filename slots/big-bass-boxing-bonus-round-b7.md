@@ -153,24 +153,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-boxing-bonus-round-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,040 · **trend:** growing · YoY +1240.0%
+**12-month volume (illustrative):** 6,910 · **trend:** growing · YoY +209.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,000 | flat |
-| United Kingdom | 900 | declining |
-| Spain | 640 | declining |
-| Portugal | 550 | growing |
-| Argentina | 470 | declining |
-| Canada | 380 | declining |
-| Greece | 370 | growing |
-| Denmark | 280 | flat |
-| Finland | 280 | flat |
-| Switzerland | 210 | flat |
+| Brazil | 830 | declining |
+| United Kingdom | 640 | declining |
+| Spain | 610 | declining |
+| Portugal | 480 | declining |
+| Argentina | 360 | declining |
+| Canada | 300 | declining |
+| Greece | 260 | declining |
+| Finland | 220 | declining |
+| Denmark | 210 | declining |
+| Peru | 180 | declining |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (52 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -120,6 +120,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/peking-luck-b7/demand/
 ```
 
+**12-month volume (illustrative):** 2,440 · **trend:** flat · YoY +0.8%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Finland | 280 | flat |
+| Switzerland | 150 | flat |
+| Greece | 130 | growing |
+| Brazil | 120 | flat |
+| Malaysia | 100 | flat |
+| Romania | 100 | flat |
+| Indonesia | 90 | flat |
+| Sweden | 90 | flat |
+| Canada | 80 | growing |
+| Germany | 80 | flat |
+
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/peking-luck-b7/

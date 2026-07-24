@@ -115,6 +115,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/plushie-wins-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,110 · **trend:** growing · YoY +40.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 390 | flat |
+| Greece | 100 | growing |
+| Canada | 60 | flat |
+| Argentina | 50 | flat |
+| Lithuania | 50 | growing |
+| Peru | 40 | flat |
+| Spain | 40 | declining |
+| Indonesia | 30 | flat |
+| Mexico | 30 | flat |
+| Thailand | 30 | flat |
+
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/plushie-wins-b7/

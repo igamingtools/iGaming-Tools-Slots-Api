@@ -157,6 +157,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-halloween-3-b7/demand/
 ```
 
+**12-month volume (illustrative):** 26,390 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 4,940 | declining |
+| Greece | 4,500 | flat |
+| Brazil | 3,240 | flat |
+| Spain | 1,490 | declining |
+| Netherlands | 1,050 | declining |
+| Canada | 880 | growing |
+| Italy | 750 | growing |
+| Germany | 740 | growing |
+| Finland | 660 | declining |
+| Latvia | 550 | declining |
+
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bass-halloween-3-b7/

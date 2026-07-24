@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dynamite-diggin-doug-b7/demand/
 ```
 
-**12-month volume (illustrative):** 870 · **trend:** declining · YoY -55.2%
+**12-month volume (illustrative):** 970 · **trend:** declining · YoY -59.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 120 | flat |
-| Netherlands | 110 | growing |
-| Lithuania | 80 | declining |
-| Argentina | 60 | declining |
-| Greece | 60 | flat |
-| Spain | 60 | flat |
+| Brazil | 110 | declining |
+| Netherlands | 100 | declining |
+| Lithuania | 80 | flat |
+| Argentina | 60 | flat |
+| Greece | 60 | declining |
+| Philippines | 60 | growing |
+| Spain | 60 | declining |
 | Switzerland | 60 | flat |
 | Australia | 40 | flat |
 | Finland | 40 | flat |
-| United Kingdom | 40 | flat |
 
-> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

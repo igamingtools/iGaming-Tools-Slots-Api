@@ -131,6 +131,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jewel-rush-b7/demand/
 ```
 
+**12-month volume (illustrative):** 4,080 · **trend:** flat · YoY +3.0%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Denmark | 420 | declining |
+| Canada | 240 | flat |
+| Finland | 200 | declining |
+| Malaysia | 200 | growing |
+| Greece | 180 | flat |
+| Switzerland | 180 | declining |
+| United States | 180 | flat |
+| Brazil | 160 | flat |
+| Philippines | 120 | flat |
+| Australia | 110 | declining |
+
+> Full per-country breakdown (52 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/jewel-rush-b7/

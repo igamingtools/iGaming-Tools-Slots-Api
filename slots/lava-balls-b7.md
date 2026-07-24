@@ -135,6 +135,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lava-balls-b7/demand/
 ```
 
+**12-month volume (illustrative):** 6,860 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 2,470 | declining |
+| Greece | 440 | flat |
+| Finland | 260 | declining |
+| United Kingdom | 260 | declining |
+| Canada | 240 | flat |
+| Philippines | 190 | flat |
+| Indonesia | 160 | declining |
+| Germany | 150 | growing |
+| Switzerland | 150 | flat |
+| Latvia | 130 | flat |
+
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/lava-balls-b7/

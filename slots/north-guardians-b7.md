@@ -139,6 +139,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/north-guardians-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,530 · **trend:** declining · YoY -8.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 140 | flat |
+| Greece | 130 | flat |
+| Switzerland | 90 | flat |
+| Finland | 80 | growing |
+| Philippines | 80 | flat |
+| United Kingdom | 80 | flat |
+| United States | 80 | flat |
+| Netherlands | 60 | flat |
+| Indonesia | 50 | flat |
+| Italy | 50 | growing |
+
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/north-guardians-b7/

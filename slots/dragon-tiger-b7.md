@@ -115,24 +115,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-tiger-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,500 · **trend:** declining · YoY -33.8%
+**12-month volume (illustrative):** 7,230 · **trend:** flat · YoY +0.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,520 | declining |
-| Canada | 120 | flat |
-| Finland | 120 | declining |
-| United States | 120 | growing |
-| Netherlands | 110 | flat |
-| Portugal | 110 | flat |
-| Germany | 90 | growing |
-| Greece | 90 | flat |
-| Italy | 90 | declining |
-| Poland | 90 | flat |
+| India | 3,200 | declining |
+| Brazil | 1,410 | declining |
+| Philippines | 200 | growing |
+| Indonesia | 190 | flat |
+| Finland | 120 | flat |
+| Malaysia | 120 | flat |
+| Netherlands | 110 | declining |
+| Canada | 100 | flat |
+| Portugal | 100 | declining |
+| United States | 100 | declining |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
 
 ## Links
 

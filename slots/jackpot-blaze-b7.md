@@ -145,6 +145,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jackpot-blaze-b7/demand/
 ```
 
+**12-month volume (illustrative):** 3,770 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Indonesia | 350 | flat |
+| Brazil | 280 | declining |
+| Philippines | 250 | flat |
+| Switzerland | 240 | flat |
+| United States | 180 | declining |
+| Romania | 170 | flat |
+| Greece | 160 | flat |
+| Finland | 120 | flat |
+| Malaysia | 100 | flat |
+| Netherlands | 100 | declining |
+
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/jackpot-blaze-b7/

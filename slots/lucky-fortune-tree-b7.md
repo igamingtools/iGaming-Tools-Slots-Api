@@ -124,6 +124,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-fortune-tree-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,500 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 320 | flat |
+| Canada | 100 | flat |
+| Philippines | 70 | flat |
+| Indonesia | 60 | flat |
+| Malaysia | 60 | declining |
+| United States | 60 | flat |
+| Argentina | 50 | flat |
+| Peru | 50 | flat |
+| Belgium | 40 | flat |
+| Finland | 40 | flat |
+
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/lucky-fortune-tree-b7/

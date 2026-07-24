@@ -131,6 +131,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-lightning-b7/demand/
 ```
 
+**12-month volume (illustrative):** 3,000 · **trend:** declining · YoY -43.3%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Indonesia | 390 | declining |
+| Malaysia | 180 | growing |
+| Brazil | 160 | flat |
+| Germany | 120 | declining |
+| United States | 120 | growing |
+| Austria | 110 | declining |
+| Greece | 110 | declining |
+| Philippines | 110 | growing |
+| India | 100 | flat |
+| Portugal | 100 | flat |
+
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/lucky-lightning-b7/

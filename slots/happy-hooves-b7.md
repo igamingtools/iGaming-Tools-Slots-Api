@@ -139,6 +139,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/happy-hooves-b7/demand/
 ```
 
+**12-month volume (illustrative):** 780 · **trend:** declining · YoY -12.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 100 | declining |
+| Canada | 80 | flat |
+| United Kingdom | 60 | flat |
+| Bulgaria | 50 | growing |
+| Finland | 40 | flat |
+| Germany | 40 | declining |
+| Greece | 40 | declining |
+| Lithuania | 40 | flat |
+| United States | 40 | growing |
+| Croatia | 30 | growing |
+
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/happy-hooves-b7/

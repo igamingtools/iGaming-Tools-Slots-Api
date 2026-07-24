@@ -124,6 +124,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jelly-candy-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,680 · **trend:** growing · YoY +47.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 480 | declining |
+| Greece | 170 | flat |
+| Canada | 160 | flat |
+| India | 100 | declining |
+| Indonesia | 70 | flat |
+| Peru | 70 | growing |
+| Switzerland | 60 | flat |
+| United Kingdom | 50 | growing |
+| Denmark | 40 | flat |
+| Mexico | 40 | flat |
+
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/jelly-candy-b7/

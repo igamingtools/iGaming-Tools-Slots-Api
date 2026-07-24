@@ -128,6 +128,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-amazing-money-machine-b7/demand/
 ```
 
+**12-month volume (illustrative):** 970 · **trend:** growing · YoY +9.0%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| India | 80 | flat |
+| Indonesia | 80 | flat |
+| United States | 80 | flat |
+| Greece | 60 | flat |
+| Germany | 50 | flat |
+| United Kingdom | 50 | flat |
+| Argentina | 40 | growing |
+| Canada | 40 | flat |
+| Mexico | 40 | flat |
+| New Zealand | 40 | flat |
+
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/the-amazing-money-machine-b7/

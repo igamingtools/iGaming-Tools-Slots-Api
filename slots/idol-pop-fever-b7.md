@@ -145,6 +145,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/idol-pop-fever-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,450 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 120 | flat |
+| Greece | 100 | declining |
+| Philippines | 90 | flat |
+| Switzerland | 90 | declining |
+| Canada | 60 | growing |
+| Finland | 60 | declining |
+| Malaysia | 60 | declining |
+| Australia | 40 | flat |
+| Hungary | 40 | flat |
+| Indonesia | 40 | flat |
+
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/idol-pop-fever-b7/

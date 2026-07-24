@@ -145,6 +145,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/oracle-of-gold-b7/demand/
 ```
 
+**12-month volume (illustrative):** 3,660 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 380 | flat |
+| Brazil | 300 | flat |
+| United States | 220 | declining |
+| Philippines | 200 | growing |
+| Canada | 180 | flat |
+| Switzerland | 180 | flat |
+| Germany | 110 | declining |
+| Indonesia | 100 | declining |
+| Malaysia | 100 | growing |
+| Netherlands | 90 | declining |
+
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/oracle-of-gold-b7/

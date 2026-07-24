@@ -120,6 +120,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pyramid-king-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,090 · **trend:** declining · YoY -30.1%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Argentina | 120 | flat |
+| Australia | 110 | flat |
+| Brazil | 90 | growing |
+| Greece | 90 | growing |
+| Indonesia | 70 | flat |
+| United Kingdom | 70 | flat |
+| Italy | 60 | flat |
+| Germany | 50 | flat |
+| Lithuania | 50 | flat |
+| India | 40 | flat |
+
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/pyramid-king-b7/

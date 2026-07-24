@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/badge-blitz-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,580 · **trend:** declining · YoY -16.0%
+**12-month volume (illustrative):** 1,690 · **trend:** declining · YoY -33.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Australia | 160 | growing |
-| Canada | 140 | flat |
-| Netherlands | 110 | flat |
-| Brazil | 100 | flat |
-| Greece | 100 | flat |
-| New Zealand | 100 | flat |
+| Australia | 150 | declining |
+| Canada | 120 | flat |
+| Netherlands | 100 | flat |
+| New Zealand | 100 | declining |
+| Brazil | 90 | declining |
+| Greece | 90 | declining |
 | Lithuania | 90 | flat |
 | Romania | 70 | flat |
-| United Kingdom | 70 | declining |
-| Sweden | 60 | flat |
+| United Kingdom | 70 | flat |
+| Philippines | 60 | flat |
 
-> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

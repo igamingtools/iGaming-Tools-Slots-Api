@@ -135,6 +135,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gem-elevator-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,080 · **trend:** declining · YoY -60.6%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 120 | flat |
+| Malaysia | 120 | flat |
+| Brazil | 110 | flat |
+| Croatia | 80 | flat |
+| India | 60 | flat |
+| Ukraine | 50 | flat |
+| Canada | 40 | flat |
+| Finland | 40 | flat |
+| Germany | 40 | flat |
+| Lithuania | 40 | declining |
+
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/gem-elevator-b7/

@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystery-mice-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,380 · **trend:** declining · YoY -22.9%
+**12-month volume (illustrative):** 1,610 · **trend:** declining · YoY -33.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 140 | flat |
-| Brazil | 120 | flat |
-| Greece | 120 | flat |
+| Finland | 120 | declining |
+| Malaysia | 120 | flat |
 | Switzerland | 120 | flat |
+| Brazil | 110 | declining |
+| Greece | 110 | declining |
 | Canada | 80 | flat |
-| Lithuania | 80 | declining |
-| Denmark | 60 | flat |
-| Turkey | 60 | declining |
-| United Kingdom | 60 | flat |
-| United States | 60 | flat |
+| Lithuania | 80 | flat |
+| Philippines | 80 | flat |
+| Indonesia | 70 | flat |
+| Turkey | 60 | flat |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
 
 ## Links
 

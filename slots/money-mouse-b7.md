@@ -124,6 +124,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/money-mouse-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,980 · **trend:** declining · YoY -16.1%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 390 | growing |
+| United States | 120 | flat |
+| Greece | 110 | flat |
+| Mexico | 100 | flat |
+| Peru | 90 | flat |
+| Argentina | 80 | declining |
+| India | 80 | declining |
+| Indonesia | 80 | flat |
+| United Kingdom | 80 | flat |
+| Germany | 70 | flat |
+
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/money-mouse-b7/

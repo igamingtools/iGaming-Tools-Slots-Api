@@ -141,24 +141,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/treasures-of-osiris-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,520 · **trend:** flat
+**12-month volume (illustrative):** 1,770 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 300 | flat |
-| Canada | 160 | growing |
-| Switzerland | 90 | declining |
-| Brazil | 70 | flat |
-| United States | 60 | flat |
-| New Zealand | 50 | flat |
-| Argentina | 40 | flat |
-| Australia | 40 | flat |
+| Greece | 300 | declining |
+| Canada | 160 | declining |
+| Switzerland | 90 | flat |
+| Brazil | 70 | declining |
+| United States | 60 | declining |
+| New Zealand | 50 | declining |
+| Thailand | 50 | flat |
+| Argentina | 40 | declining |
+| Australia | 40 | declining |
 | Finland | 40 | flat |
-| Latvia | 40 | flat |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

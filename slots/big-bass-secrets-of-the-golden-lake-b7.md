@@ -147,6 +147,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-secrets-of-the-golden-lake-b7/demand/
 ```
 
+**12-month volume (illustrative):** 23,620 · **trend:** declining · YoY -14.0%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 6,280 | flat |
+| Brazil | 4,780 | flat |
+| Greece | 1,150 | declining |
+| Germany | 1,060 | declining |
+| Spain | 900 | declining |
+| Canada | 820 | declining |
+| Italy | 820 | declining |
+| Denmark | 770 | growing |
+| Netherlands | 770 | declining |
+| Switzerland | 510 | declining |
+
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bass-secrets-of-the-golden-lake-b7/

@@ -148,6 +148,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-amazon-xtreme-b7/demand/
 ```
 
+**12-month volume (illustrative):** 15,210 · **trend:** declining · YoY -31.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 2,010 | growing |
+| Brazil | 1,970 | growing |
+| United States | 1,420 | growing |
+| Germany | 1,110 | flat |
+| Canada | 1,020 | growing |
+| Greece | 1,020 | growing |
+| Spain | 530 | growing |
+| Switzerland | 450 | flat |
+| Italy | 390 | growing |
+| Netherlands | 340 | growing |
+
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bass-amazon-xtreme-b7/

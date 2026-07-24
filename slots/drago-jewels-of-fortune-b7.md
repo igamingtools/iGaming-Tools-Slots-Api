@@ -135,6 +135,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/drago-jewels-of-fortune-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,620 · **trend:** declining · YoY -12.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 170 | declining |
+| Greece | 90 | growing |
+| Peru | 90 | flat |
+| Philippines | 90 | flat |
+| Thailand | 80 | growing |
+| United States | 80 | flat |
+| Bulgaria | 70 | growing |
+| Latvia | 70 | growing |
+| Hungary | 60 | flat |
+| Indonesia | 60 | growing |
+
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/drago-jewels-of-fortune-b7/

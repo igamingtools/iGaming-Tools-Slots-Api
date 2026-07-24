@@ -132,6 +132,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-bonanza-megaways-b7/demand/
 ```
 
+**12-month volume (illustrative):** 13,760 · **trend:** declining · YoY -6.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 3,360 | declining |
+| Brazil | 1,780 | flat |
+| Greece | 1,480 | flat |
+| United States | 760 | growing |
+| Germany | 570 | flat |
+| Turkey | 450 | flat |
+| Ukraine | 450 | growing |
+| Canada | 360 | flat |
+| Switzerland | 270 | growing |
+| Indonesia | 240 | growing |
+
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bass-bonanza-megaways-b7/

@@ -145,6 +145,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-hades-b7/demand/
 ```
 
+**12-month volume (illustrative):** 25,730 · **trend:** growing · YoY +74.3%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 4,580 | growing |
+| Brazil | 3,520 | growing |
+| Philippines | 1,900 | growing |
+| Netherlands | 1,870 | growing |
+| Indonesia | 1,430 | declining |
+| Germany | 1,250 | growing |
+| Canada | 1,180 | growing |
+| Finland | 680 | growing |
+| Romania | 640 | flat |
+| United Kingdom | 580 | growing |
+
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/gates-of-hades-b7/

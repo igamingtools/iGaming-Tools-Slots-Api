@@ -120,6 +120,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-ultimate-5-b7/demand/
 ```
 
+**12-month volume (illustrative):** 760 · **trend:** declining · YoY -26.9%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 120 | flat |
+| Greece | 120 | flat |
+| United Kingdom | 80 | declining |
+| Germany | 60 | flat |
+| United States | 60 | flat |
+| Argentina | 50 | growing |
+| Indonesia | 40 | flat |
+| Philippines | 40 | flat |
+| Canada | 20 | declining |
+| Italy | 20 | flat |
+
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/the-ultimate-5-b7/

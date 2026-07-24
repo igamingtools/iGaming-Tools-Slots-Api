@@ -135,6 +135,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/muertos-multiplier-megaways-b7/demand/
 ```
 
+**12-month volume (illustrative):** 8,330 · **trend:** declining · YoY -24.3%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,420 | flat |
+| United Kingdom | 810 | growing |
+| Greece | 440 | flat |
+| Canada | 300 | flat |
+| Indonesia | 300 | flat |
+| Netherlands | 300 | declining |
+| Thailand | 280 | declining |
+| Switzerland | 270 | flat |
+| Finland | 260 | declining |
+| Denmark | 220 | flat |
+
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/muertos-multiplier-megaways-b7/

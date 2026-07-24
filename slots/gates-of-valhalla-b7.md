@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-valhalla-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,890 · **trend:** declining · YoY -14.5%
+**12-month volume (illustrative):** 3,090 · **trend:** declining · YoY -22.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 430 | declining |
+| Brazil | 360 | declining |
 | Switzerland | 180 | flat |
-| Canada | 160 | flat |
-| United States | 160 | declining |
-| Greece | 150 | flat |
-| Germany | 110 | growing |
-| United Kingdom | 110 | flat |
-| Finland | 100 | flat |
-| Italy | 100 | declining |
-| Romania | 100 | declining |
+| United States | 160 | flat |
+| Canada | 140 | declining |
+| Greece | 140 | declining |
+| Indonesia | 140 | flat |
+| Philippines | 110 | flat |
+| Finland | 100 | declining |
+| Germany | 100 | declining |
+| United Kingdom | 100 | declining |
 
-> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

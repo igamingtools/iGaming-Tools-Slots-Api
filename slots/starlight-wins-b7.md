@@ -128,6 +128,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starlight-wins-b7/demand/
 ```
 
+**12-month volume (illustrative):** 3,930 · **trend:** growing · YoY +514.1%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 480 | flat |
+| Greece | 380 | flat |
+| Malaysia | 240 | declining |
+| Indonesia | 220 | flat |
+| Canada | 160 | growing |
+| Finland | 140 | flat |
+| Philippines | 140 | flat |
+| Switzerland | 120 | flat |
+| Portugal | 110 | flat |
+| India | 100 | declining |
+
+> Full per-country breakdown (52 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/starlight-wins-b7/

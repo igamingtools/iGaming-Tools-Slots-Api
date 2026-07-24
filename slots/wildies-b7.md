@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wildies-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,360 · **trend:** flat · YoY +0.0%
+**12-month volume (illustrative):** 2,930 · **trend:** declining · YoY -16.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 450 | growing |
-| Brazil | 220 | growing |
-| Switzerland | 120 | growing |
+| Philippines | 490 | declining |
+| Greece | 430 | declining |
+| Brazil | 190 | declining |
 | Canada | 100 | flat |
-| Germany | 100 | flat |
-| Netherlands | 100 | flat |
-| Peru | 90 | flat |
-| Portugal | 90 | flat |
-| Austria | 80 | flat |
-| Finland | 80 | declining |
+| Germany | 90 | declining |
+| Netherlands | 90 | declining |
+| Switzerland | 90 | declining |
+| Malaysia | 80 | flat |
+| Peru | 80 | declining |
+| Portugal | 80 | declining |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -124,6 +124,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-panda-b7/demand/
 ```
 
+**12-month volume (illustrative):** 2,980 · **trend:** growing · YoY +331.9%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,460 | growing |
+| Malaysia | 120 | declining |
+| Australia | 90 | declining |
+| Greece | 90 | declining |
+| Canada | 80 | flat |
+| Finland | 80 | flat |
+| Philippines | 70 | flat |
+| Mexico | 60 | flat |
+| Netherlands | 60 | growing |
+| Peru | 60 | growing |
+
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/lucky-panda-b7/

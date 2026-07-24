@@ -153,6 +153,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-hold-spinner-megaways-b7/demand/
 ```
 
+**12-month volume (illustrative):** 6,320 · **trend:** declining · YoY -14.8%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 1,200 | growing |
+| Brazil | 550 | flat |
+| Greece | 470 | declining |
+| Canada | 320 | flat |
+| Germany | 320 | flat |
+| Finland | 240 | flat |
+| United States | 200 | declining |
+| Argentina | 160 | flat |
+| Switzerland | 150 | flat |
+| Italy | 130 | flat |
+
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bass-hold-spinner-megaways-b7/

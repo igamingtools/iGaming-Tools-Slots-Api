@@ -139,6 +139,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gods-of-giza-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,450 · **trend:** declining · YoY -8.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 120 | flat |
+| Brazil | 110 | flat |
+| Romania | 110 | flat |
+| United States | 100 | declining |
+| Indonesia | 70 | growing |
+| Italy | 60 | flat |
+| Switzerland | 60 | flat |
+| Croatia | 50 | declining |
+| Portugal | 50 | growing |
+| Bulgaria | 40 | flat |
+
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/gods-of-giza-b7/

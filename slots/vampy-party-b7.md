@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/vampy-party-b7/demand/
 ```
 
-**12-month volume (illustrative):** 23,570 · **trend:** growing · YoY +11.0%
+**12-month volume (illustrative):** 26,250 · **trend:** declining · YoY -17.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 4,880 | flat |
-| Greece | 4,490 | flat |
-| United Kingdom | 1,240 | growing |
-| Denmark | 980 | flat |
-| Finland | 980 | growing |
-| Germany | 940 | flat |
-| Switzerland | 780 | growing |
-| Hungary | 760 | declining |
-| Canada | 680 | flat |
-| Peru | 640 | declining |
+| Greece | 4,170 | declining |
+| Brazil | 4,000 | declining |
+| Indonesia | 2,390 | declining |
+| United Kingdom | 1,100 | declining |
+| Philippines | 960 | growing |
+| Denmark | 890 | declining |
+| Finland | 880 | declining |
+| Germany | 850 | declining |
+| Switzerland | 750 | declining |
+| Hungary | 710 | declining |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
 
 ## Links
 

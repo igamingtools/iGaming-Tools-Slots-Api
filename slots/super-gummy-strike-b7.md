@@ -145,6 +145,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-gummy-strike-b7/demand/
 ```
 
+**12-month volume (illustrative):** 5,340 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,330 | declining |
+| Greece | 620 | declining |
+| Canada | 220 | flat |
+| Netherlands | 170 | declining |
+| Peru | 170 | flat |
+| Belgium | 160 | flat |
+| Denmark | 160 | flat |
+| Indonesia | 160 | flat |
+| Malaysia | 140 | flat |
+| Philippines | 120 | flat |
+
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/super-gummy-strike-b7/

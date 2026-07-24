@@ -128,6 +128,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/shining-hot-40-b7/demand/
 ```
 
+**12-month volume (illustrative):** 540 · **trend:** growing · YoY +31.7%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Romania | 80 | flat |
+| Germany | 60 | flat |
+| Argentina | 40 | growing |
+| Turkey | 40 | flat |
+| United States | 40 | flat |
+| Cyprus | 30 | flat |
+| Greece | 30 | growing |
+| Switzerland | 30 | flat |
+| Brazil | 20 | declining |
+| Malaysia | 20 | flat |
+
+> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/shining-hot-40-b7/

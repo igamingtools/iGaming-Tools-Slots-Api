@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dance-party-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,000 · **trend:** declining · YoY -32.9%
+**12-month volume (illustrative):** 1,020 · **trend:** declining · YoY -39.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 200 | flat |
-| Brazil | 110 | flat |
-| Finland | 80 | flat |
-| Malta | 80 | flat |
+| Greece | 170 | declining |
+| Brazil | 100 | declining |
+| Malta | 80 | declining |
+| Finland | 60 | flat |
 | United Kingdom | 60 | flat |
 | Canada | 40 | flat |
-| Lithuania | 40 | flat |
-| Peru | 40 | flat |
-| Romania | 40 | growing |
+| Lithuania | 40 | declining |
+| Philippines | 40 | flat |
 | Argentina | 30 | flat |
+| Germany | 30 | flat |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

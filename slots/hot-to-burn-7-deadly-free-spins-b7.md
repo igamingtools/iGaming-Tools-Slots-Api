@@ -152,6 +152,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-to-burn-7-deadly-free-spins-b7/demand/
 ```
 
+**12-month volume (illustrative):** 670 · **trend:** declining · YoY -46.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 80 | declining |
+| United Kingdom | 80 | flat |
+| Argentina | 60 | flat |
+| Brazil | 60 | flat |
+| Mexico | 50 | flat |
+| Portugal | 40 | flat |
+| Lithuania | 30 | declining |
+| Netherlands | 30 | flat |
+| Canada | 20 | flat |
+| El Salvador | 20 | growing |
+
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/hot-to-burn-7-deadly-free-spins-b7/

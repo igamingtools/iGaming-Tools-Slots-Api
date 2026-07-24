@@ -139,6 +139,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ice-lobster-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,590 · **trend:** declining · YoY -29.6%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Switzerland | 150 | flat |
+| Canada | 140 | growing |
+| Brazil | 120 | flat |
+| Greece | 120 | flat |
+| Philippines | 90 | flat |
+| United Kingdom | 80 | flat |
+| Romania | 70 | growing |
+| India | 60 | flat |
+| Latvia | 50 | flat |
+| Netherlands | 50 | flat |
+
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/ice-lobster-b7/

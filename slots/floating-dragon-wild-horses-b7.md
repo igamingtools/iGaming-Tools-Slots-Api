@@ -157,6 +157,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/floating-dragon-wild-horses-b7/demand/
 ```
 
+**12-month volume (illustrative):** 2,570 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 210 | growing |
+| Switzerland | 180 | flat |
+| Greece | 170 | flat |
+| Canada | 160 | growing |
+| United Kingdom | 150 | growing |
+| Malaysia | 120 | flat |
+| Portugal | 100 | growing |
+| Australia | 80 | flat |
+| Finland | 80 | growing |
+| Netherlands | 80 | declining |
+
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/floating-dragon-wild-horses-b7/

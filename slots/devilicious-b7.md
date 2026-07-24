@@ -140,6 +140,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/devilicious-b7/demand/
 ```
 
+**12-month volume (illustrative):** 1,900 · **trend:** declining · YoY -18.8%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 180 | flat |
+| Switzerland | 150 | flat |
+| Indonesia | 130 | flat |
+| Canada | 120 | flat |
+| Greece | 120 | growing |
+| Germany | 110 | flat |
+| Philippines | 110 | declining |
+| United Kingdom | 80 | flat |
+| Slovakia | 70 | flat |
+| United States | 60 | declining |
+
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/devilicious-b7/

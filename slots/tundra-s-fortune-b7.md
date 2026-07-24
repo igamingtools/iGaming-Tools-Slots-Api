@@ -129,6 +129,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tundra-s-fortune-b7/demand/
 ```
 
+**12-month volume (illustrative):** 670 · **trend:** flat · YoY +0.0%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Finland | 120 | growing |
+| Greece | 110 | flat |
+| Brazil | 60 | declining |
+| Switzerland | 60 | declining |
+| Argentina | 40 | flat |
+| Sweden | 40 | declining |
+| Italy | 30 | flat |
+| Norway | 30 | flat |
+| Australia | 20 | flat |
+| Netherlands | 20 | flat |
+
+> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/tundra-s-fortune-b7/

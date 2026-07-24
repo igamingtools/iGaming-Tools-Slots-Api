@@ -126,6 +126,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-vikings-b7/demand/
 ```
 
+**12-month volume (illustrative):** 2,150 · **trend:** declining · YoY -6.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 270 | flat |
+| Switzerland | 210 | declining |
+| Germany | 120 | declining |
+| United Kingdom | 120 | flat |
+| Brazil | 100 | declining |
+| Canada | 100 | growing |
+| United States | 100 | declining |
+| Latvia | 90 | flat |
+| Finland | 80 | declining |
+| Italy | 80 | flat |
+
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/book-of-vikings-b7/

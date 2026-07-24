@@ -143,24 +143,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-xmas-extreme-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,570 · **trend:** declining · YoY -21.6%
+**12-month volume (illustrative):** 2,480 · **trend:** declining · YoY -35.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 400 | flat |
-| Switzerland | 210 | flat |
-| Canada | 140 | declining |
-| Germany | 120 | flat |
+| United Kingdom | 350 | declining |
+| Switzerland | 180 | flat |
+| Canada | 120 | flat |
 | United States | 120 | flat |
-| Ireland | 100 | flat |
-| Greece | 90 | flat |
-| Romania | 90 | declining |
-| Argentina | 80 | flat |
-| Italy | 80 | flat |
+| Germany | 110 | flat |
+| Ireland | 100 | declining |
+| Romania | 90 | flat |
+| Argentina | 80 | declining |
+| Greece | 80 | flat |
+| Philippines | 80 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

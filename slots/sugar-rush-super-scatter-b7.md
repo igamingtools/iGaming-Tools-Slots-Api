@@ -145,6 +145,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sugar-rush-super-scatter-b7/demand/
 ```
 
+**12-month volume (illustrative):** 79,170 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 11,780 | declining |
+| Philippines | 7,790 | declining |
+| Canada | 6,160 | declining |
+| Brazil | 6,140 | declining |
+| Netherlands | 3,900 | declining |
+| Denmark | 3,070 | declining |
+| United Kingdom | 2,800 | declining |
+| Malaysia | 2,720 | declining |
+| Indonesia | 2,700 | declining |
+| Italy | 1,890 | declining |
+
+> Full per-country breakdown (62 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/sugar-rush-super-scatter-b7/

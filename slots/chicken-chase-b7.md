@@ -120,6 +120,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-chase-b7/demand/
 ```
 
+**12-month volume (illustrative):** 2,060 · **trend:** flat · YoY -1.9%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 260 | flat |
+| Brazil | 210 | growing |
+| Canada | 120 | growing |
+| United Kingdom | 100 | flat |
+| Germany | 80 | growing |
+| Malaysia | 80 | declining |
+| Romania | 80 | flat |
+| United States | 80 | declining |
+| Netherlands | 70 | flat |
+| Portugal | 70 | growing |
+
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/chicken-chase-b7/

@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-tiger-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,280 · **trend:** growing · YoY +82.1%
+**12-month volume (illustrative):** 5,920 · **trend:** growing · YoY +89.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 2,900 | declining |
+| South Africa | 330 | growing |
 | Mexico | 280 | declining |
 | India | 160 | flat |
+| Pakistan | 160 | flat |
 | Malaysia | 140 | declining |
 | Greece | 130 | declining |
 | Indonesia | 120 | flat |
 | Philippines | 120 | flat |
 | Peru | 100 | flat |
-| United States | 100 | declining |
-| Portugal | 90 | growing |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
 
 ## Links
 

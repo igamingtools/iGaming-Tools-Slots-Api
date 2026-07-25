@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/shield-of-sparta-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,740 · **trend:** flat · YoY -4.2%
+**12-month volume (illustrative):** 2,900 · **trend:** flat · YoY -3.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -135,9 +135,9 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 120 | declining |
 | United States | 120 | growing |
 | Romania | 110 | flat |
-| Canada | 100 | growing |
+| South Africa | 110 | flat |
 
-> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

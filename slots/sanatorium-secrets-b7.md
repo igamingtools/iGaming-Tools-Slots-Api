@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sanatorium-secrets-b7/demand/
 ```
 
-**12-month volume (illustrative):** 810 · **trend:** flat
+**12-month volume (illustrative):** 950 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -157,12 +157,12 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 40 | declining |
 | India | 40 | flat |
 | Malaysia | 40 | flat |
+| South Africa | 40 | growing |
 | Switzerland | 30 | declining |
 | Belgium | 20 | growing |
 | Canada | 20 | declining |
-| Finland | 20 | declining |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (57 markets) via the /demand/ endpoint.
 
 ## Links
 

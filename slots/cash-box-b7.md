@@ -131,13 +131,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cash-box-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,610 · **trend:** declining · YoY -41.9%
+**12-month volume (illustrative):** 1,940 · **trend:** declining · YoY -36.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 190 | flat |
+| South Africa | 180 | flat |
 | Canada | 120 | declining |
 | Argentina | 110 | flat |
 | Turkey | 110 | flat |
@@ -146,9 +147,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Italy | 80 | flat |
 | Germany | 70 | growing |
 | Indonesia | 70 | flat |
-| India | 60 | flat |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

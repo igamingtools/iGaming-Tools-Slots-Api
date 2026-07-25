@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/african-elephant-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,530 · **trend:** growing · YoY +56.1%
+**12-month volume (illustrative):** 1,750 · **trend:** growing · YoY +56.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| South Africa | 140 | flat |
 | Finland | 120 | declining |
 | Brazil | 110 | flat |
 | Greece | 100 | growing |
 | Germany | 90 | flat |
 | Indonesia | 90 | flat |
 | Denmark | 80 | flat |
+| Tunisia | 80 | flat |
 | Italy | 60 | flat |
 | Netherlands | 60 | declining |
-| Sweden | 60 | flat |
-| United Kingdom | 60 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
 
 ## Links
 

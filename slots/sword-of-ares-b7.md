@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sword-of-ares-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,700 · **trend:** declining · YoY -33.6%
+**12-month volume (illustrative):** 3,900 · **trend:** declining · YoY -33.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 120 | flat |
 | Netherlands | 120 | flat |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

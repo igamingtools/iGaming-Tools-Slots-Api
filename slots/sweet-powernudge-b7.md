@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-powernudge-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,470 · **trend:** declining · YoY -14.5%
+**12-month volume (illustrative):** 1,530 · **trend:** declining · YoY -16.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Switzerland | 60 | declining |
 | France | 50 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
 
 ## Links
 

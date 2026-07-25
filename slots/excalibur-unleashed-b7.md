@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/excalibur-unleashed-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,800 · **trend:** flat · YoY +3.4%
+**12-month volume (illustrative):** 2,180 · **trend:** growing · YoY +9.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Pakistan | 200 | flat |
 | Brazil | 120 | flat |
 | Canada | 120 | growing |
 | Greece | 120 | flat |
 | India | 100 | flat |
 | Netherlands | 80 | flat |
+| South Africa | 80 | flat |
 | United Kingdom | 80 | flat |
 | Germany | 70 | flat |
 | Romania | 70 | declining |
-| Argentina | 60 | flat |
-| Finland | 60 | flat |
 
-> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

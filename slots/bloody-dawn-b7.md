@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bloody-dawn-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,930 · **trend:** flat
+**12-month volume (illustrative):** 6,380 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -159,14 +159,14 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 340 | flat |
 | Finland | 340 | flat |
 | Indonesia | 240 | flat |
+| South Africa | 210 | declining |
 | Switzerland | 210 | flat |
 | Canada | 180 | flat |
 | Thailand | 160 | flat |
 | United Kingdom | 160 | flat |
 | Netherlands | 140 | declining |
-| Peru | 140 | flat |
 
-> Full per-country breakdown (57 markets) via the /demand/ endpoint.
+> Full per-country breakdown (68 markets) via the /demand/ endpoint.
 
 ## Links
 

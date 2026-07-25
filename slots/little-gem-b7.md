@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/little-gem-b7/demand/
 ```
 
-**12-month volume (illustrative):** 610 · **trend:** growing · YoY +22.0%
+**12-month volume (illustrative):** 720 · **trend:** flat · YoY +4.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -136,6 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Canada | 120 | growing |
 | Brazil | 90 | flat |
+| South Africa | 80 | flat |
 | United States | 60 | flat |
 | Greece | 50 | growing |
 | Argentina | 40 | flat |
@@ -143,9 +144,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Netherlands | 40 | growing |
 | Romania | 40 | flat |
 | Belgium | 20 | flat |
-| Poland | 20 | flat |
 
-> Full per-country breakdown (18 markets) via the /demand/ endpoint.
+> Full per-country breakdown (22 markets) via the /demand/ endpoint.
 
 ## Links
 

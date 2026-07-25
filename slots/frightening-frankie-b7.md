@@ -138,13 +138,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/frightening-frankie-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,120 · **trend:** flat
+**12-month volume (illustrative):** 5,690 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Greece | 1,520 | declining |
+| South Africa | 330 | growing |
 | Brazil | 250 | flat |
 | Canada | 220 | flat |
 | Switzerland | 210 | flat |
@@ -153,9 +154,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 150 | flat |
 | Argentina | 120 | flat |
 | Latvia | 120 | flat |
-| Netherlands | 100 | flat |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (64 markets) via the /demand/ endpoint.
 
 ## Links
 

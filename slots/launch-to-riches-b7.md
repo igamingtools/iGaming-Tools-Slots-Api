@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/launch-to-riches-b7/demand/
 ```
 
-**12-month volume (illustrative):** 800 · **trend:** flat
+**12-month volume (illustrative):** 870 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -156,13 +156,13 @@ curl -H "Authorization: Token $TOKEN" \
 | Finland | 40 | declining |
 | Greece | 40 | growing |
 | Malaysia | 40 | flat |
+| South Africa | 40 | declining |
 | United Kingdom | 40 | declining |
 | Argentina | 30 | declining |
 | Germany | 30 | declining |
 | Indonesia | 30 | declining |
-| Switzerland | 30 | declining |
 
-> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+> Full per-country breakdown (48 markets) via the /demand/ endpoint.
 
 ## Links
 

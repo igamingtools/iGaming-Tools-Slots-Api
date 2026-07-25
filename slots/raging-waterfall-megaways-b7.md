@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/raging-waterfall-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,050 · **trend:** declining · YoY -30.0%
+**12-month volume (illustrative):** 1,220 · **trend:** declining · YoY -24.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -149,15 +149,15 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 140 | flat |
 | Philippines | 120 | growing |
 | Brazil | 110 | declining |
+| South Africa | 110 | flat |
 | Greece | 80 | flat |
 | Switzerland | 60 | flat |
 | United States | 60 | flat |
+| Tunisia | 50 | flat |
 | India | 40 | flat |
 | Lithuania | 40 | flat |
-| Croatia | 30 | flat |
-| Denmark | 30 | flat |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

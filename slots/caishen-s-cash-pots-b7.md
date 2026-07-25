@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/caishen-s-cash-pots-b7/demand/
 ```
 
-**12-month volume (illustrative):** 30 · **trend:** flat
+**12-month volume (illustrative):** 40 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,8 +153,9 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Belgium | 20 | growing |
 | Philippines | 10 | growing |
+| South Africa | 10 | growing |
 
-> Full per-country breakdown (2 markets) via the /demand/ endpoint.
+> Full per-country breakdown (3 markets) via the /demand/ endpoint.
 
 ## Links
 

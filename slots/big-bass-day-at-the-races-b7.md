@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-day-at-the-races-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,340 · **trend:** declining · YoY -22.4%
+**12-month volume (illustrative):** 7,890 · **trend:** declining · YoY -22.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -158,14 +158,14 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 580 | declining |
 | Germany | 340 | growing |
 | Greece | 310 | declining |
+| South Africa | 300 | declining |
 | Finland | 280 | declining |
 | Switzerland | 270 | flat |
 | Canada | 240 | flat |
 | United States | 200 | declining |
 | Australia | 120 | flat |
-| Austria | 120 | flat |
 
-> Full per-country breakdown (52 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

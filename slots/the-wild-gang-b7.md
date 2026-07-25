@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-wild-gang-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,730 · **trend:** declining · YoY -11.9%
+**12-month volume (illustrative):** 7,160 · **trend:** declining · YoY -11.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -154,11 +154,11 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 280 | flat |
 | Belgium | 240 | flat |
 | Greece | 230 | flat |
+| South Africa | 200 | declining |
 | Sweden | 200 | growing |
 | United Kingdom | 200 | flat |
-| United States | 200 | growing |
 
-> Full per-country breakdown (52 markets) via the /demand/ endpoint.
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bow-of-artemis-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,020 · **trend:** declining · YoY -15.4%
+**12-month volume (illustrative):** 4,240 · **trend:** declining · YoY -16.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -152,11 +152,11 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 180 | flat |
 | Romania | 160 | flat |
 | Peru | 140 | flat |
+| South Africa | 140 | flat |
 | Philippines | 130 | declining |
 | Brazil | 110 | declining |
-| Sweden | 110 | flat |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

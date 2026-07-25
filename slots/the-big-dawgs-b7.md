@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-big-dawgs-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,580 · **trend:** growing · YoY +14.7%
+**12-month volume (illustrative):** 3,770 · **trend:** growing · YoY +12.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -160,9 +160,9 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 120 | flat |
 | Italy | 110 | declining |
 | Netherlands | 100 | flat |
-| Norway | 90 | flat |
+| South Africa | 100 | growing |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

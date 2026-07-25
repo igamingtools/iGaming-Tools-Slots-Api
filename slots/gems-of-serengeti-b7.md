@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gems-of-serengeti-b7/demand/
 ```
 
-**12-month volume (illustrative):** 340 · **trend:** declining · YoY -27.7%
+**12-month volume (illustrative):** 370 · **trend:** declining · YoY -26.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -137,11 +137,11 @@ curl -H "Authorization: Token $TOKEN" \
 | Finland | 20 | flat |
 | Greece | 20 | flat |
 | Philippines | 20 | flat |
+| South Africa | 20 | flat |
 | Bulgaria | 10 | flat |
 | Croatia | 10 | flat |
-| Cyprus | 10 | flat |
 
-> Full per-country breakdown (16 markets) via the /demand/ endpoint.
+> Full per-country breakdown (18 markets) via the /demand/ endpoint.
 
 ## Links
 

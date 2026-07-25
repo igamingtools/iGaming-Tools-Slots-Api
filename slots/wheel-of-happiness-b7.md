@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wheel-of-happiness-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,010 · **trend:** flat
+**12-month volume (illustrative):** 3,350 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,15 +153,15 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 330 | declining |
 | Canada | 200 | growing |
 | Brazil | 190 | declining |
+| South Africa | 140 | growing |
 | Switzerland | 140 | declining |
 | Indonesia | 130 | flat |
 | Malaysia | 120 | flat |
 | Argentina | 100 | flat |
 | United States | 100 | declining |
 | Netherlands | 90 | flat |
-| United Kingdom | 90 | flat |
 
-> Full per-country breakdown (52 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

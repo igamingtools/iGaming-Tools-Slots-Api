@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hell-butcher-b7/demand/
 ```
 
-**12-month volume (illustrative):** 150 · **trend:** flat
+**12-month volume (illustrative):** 240 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -160,12 +160,13 @@ curl -H "Authorization: Token $TOKEN" \
 | India | 20 | growing |
 | Malaysia | 20 | growing |
 | Philippines | 20 | growing |
+| South Africa | 20 | growing |
+| Tunisia | 20 | growing |
+| Algeria | 10 | growing |
 | Japan | 10 | growing |
-| Singapore | 10 | growing |
-| South Korea | 10 | growing |
-| Thailand | 10 | growing |
+| Kuwait | 10 | growing |
 
-> Full per-country breakdown (9 markets) via the /demand/ endpoint.
+> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 

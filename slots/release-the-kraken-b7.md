@@ -138,13 +138,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/release-the-kraken-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,970 · **trend:** declining · YoY -7.3%
+**12-month volume (illustrative):** 7,700 · **trend:** declining · YoY -7.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 680 | flat |
+| South Africa | 570 | declining |
 | Greece | 490 | flat |
 | United Kingdom | 310 | flat |
 | India | 280 | growing |
@@ -153,9 +154,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Philippines | 240 | flat |
 | Finland | 220 | flat |
 | United States | 200 | growing |
-| Denmark | 190 | flat |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (62 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/might-of-freya-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,210 · **trend:** declining · YoY -5.2%
+**12-month volume (illustrative):** 2,410 · **trend:** flat · YoY -1.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -148,12 +148,12 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 120 | flat |
 | Philippines | 120 | flat |
 | Greece | 100 | flat |
+| South Africa | 100 | growing |
 | United Kingdom | 90 | flat |
 | Malaysia | 80 | growing |
 | Netherlands | 80 | flat |
-| Portugal | 80 | flat |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

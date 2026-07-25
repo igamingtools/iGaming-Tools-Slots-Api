@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-archer-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,060 · **trend:** declining · YoY -5.8%
+**12-month volume (illustrative):** 4,290 · **trend:** declining · YoY -6.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -149,10 +149,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Denmark | 120 | flat |
 | Germany | 120 | flat |
 | Netherlands | 120 | flat |
+| South Africa | 120 | flat |
 | United Kingdom | 110 | flat |
-| India | 100 | flat |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

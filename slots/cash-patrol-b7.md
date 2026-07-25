@@ -124,13 +124,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cash-patrol-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,770 · **trend:** declining · YoY -11.5%
+**12-month volume (illustrative):** 4,310 · **trend:** declining · YoY -19.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 720 | flat |
+| South Africa | 290 | growing |
 | Switzerland | 210 | flat |
 | United Kingdom | 210 | flat |
 | United States | 180 | flat |
@@ -138,10 +139,9 @@ curl -H "Authorization: Token $TOKEN" \
 | Indonesia | 170 | flat |
 | Canada | 140 | declining |
 | Germany | 120 | flat |
-| Argentina | 110 | flat |
-| Philippines | 110 | growing |
+| Tunisia | 120 | growing |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
 
 ## Links
 

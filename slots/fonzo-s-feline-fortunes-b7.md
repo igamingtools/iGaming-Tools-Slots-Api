@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fonzo-s-feline-fortunes-b7/demand/
 ```
 
-**12-month volume (illustrative):** 150 · **trend:** declining · YoY -82.6%
+**12-month volume (illustrative):** 160 · **trend:** declining · YoY -82.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -161,9 +161,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Indonesia | 10 | flat |
 | Netherlands | 10 | flat |
 | Peru | 10 | flat |
+| South Africa | 10 | flat |
 | Turkey | 10 | flat |
 
-> Full per-country breakdown (7 markets) via the /demand/ endpoint.
+> Full per-country breakdown (8 markets) via the /demand/ endpoint.
 
 ## Links
 

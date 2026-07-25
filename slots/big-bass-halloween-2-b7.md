@@ -147,7 +147,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-halloween-2-b7/demand/
 ```
 
-**12-month volume (illustrative):** 13,550 · **trend:** flat · YoY -3.8%
+**12-month volume (illustrative):** 14,250 · **trend:** flat · YoY -3.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -164,7 +164,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Italy | 320 | flat |
 | Romania | 320 | flat |
 
-> Full per-country breakdown (53 markets) via the /demand/ endpoint.
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
 
 ## Links
 

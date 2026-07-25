@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/touro-sortudo-b7/demand/
 ```
 
-**12-month volume (illustrative):** 18,590 · **trend:** growing · YoY +6.4%
+**12-month volume (illustrative):** 18,640 · **trend:** growing · YoY +6.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -143,9 +143,9 @@ curl -H "Authorization: Token $TOKEN" \
 | Argentina | 30 | growing |
 | Spain | 30 | declining |
 | Hong Kong | 20 | flat |
-| Chile | 10 | flat |
+| Pakistan | 20 | flat |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 

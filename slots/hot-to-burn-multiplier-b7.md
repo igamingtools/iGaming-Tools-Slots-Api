@@ -136,12 +136,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-to-burn-multiplier-b7/demand/
 ```
 
-**12-month volume (illustrative):** 860 · **trend:** declining · YoY -41.5%
+**12-month volume (illustrative):** 1,500 · **trend:** declining · YoY -23.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| South Africa | 620 | growing |
 | Brazil | 70 | flat |
 | Mexico | 70 | declining |
 | Germany | 50 | flat |
@@ -151,9 +152,8 @@ curl -H "Authorization: Token $TOKEN" \
 | India | 40 | flat |
 | Ireland | 40 | flat |
 | Peru | 40 | flat |
-| Romania | 40 | growing |
 
-> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

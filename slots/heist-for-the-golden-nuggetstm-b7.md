@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/heist-for-the-golden-nuggetstm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 630 · **trend:** declining · YoY -40.0%
+**12-month volume (illustrative):** 690 · **trend:** declining · YoY -40.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -143,6 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 250 | flat |
 | Greece | 50 | flat |
+| South Africa | 40 | flat |
 | Ukraine | 40 | flat |
 | Switzerland | 30 | flat |
 | Argentina | 20 | growing |
@@ -150,9 +151,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Finland | 20 | growing |
 | Germany | 20 | flat |
 | Lithuania | 20 | flat |
-| Luxembourg | 20 | flat |
 
-> Full per-country breakdown (21 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

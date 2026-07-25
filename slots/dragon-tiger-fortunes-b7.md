@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-tiger-fortunes-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,050 · **trend:** flat
+**12-month volume (illustrative):** 1,150 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -159,14 +159,14 @@ curl -H "Authorization: Token $TOKEN" \
 | Switzerland | 90 | growing |
 | Brazil | 60 | flat |
 | Canada | 60 | growing |
+| South Africa | 60 | flat |
 | Indonesia | 50 | declining |
 | Germany | 40 | declining |
 | Latvia | 40 | flat |
 | Netherlands | 40 | growing |
 | Turkey | 40 | declining |
-| United Kingdom | 40 | declining |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

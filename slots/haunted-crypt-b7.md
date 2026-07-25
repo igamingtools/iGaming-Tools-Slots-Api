@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/haunted-crypt-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,390 · **trend:** flat
+**12-month volume (illustrative):** 4,610 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -162,7 +162,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Netherlands | 120 | flat |
 | Switzerland | 120 | flat |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-west-duels-b7/demand/
 ```
 
-**12-month volume (illustrative):** 18,560 · **trend:** declining · YoY -55.9%
+**12-month volume (illustrative):** 19,450 · **trend:** declining · YoY -54.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Philippines | 330 | flat |
 | United Kingdom | 310 | declining |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (72 markets) via the /demand/ endpoint.
 
 ## Links
 

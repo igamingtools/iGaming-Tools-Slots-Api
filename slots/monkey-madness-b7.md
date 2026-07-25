@@ -124,12 +124,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/monkey-madness-b7/demand/
 ```
 
-**12-month volume (illustrative):** 630 · **trend:** declining · YoY -25.0%
+**12-month volume (illustrative):** 840 · **trend:** declining · YoY -13.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| South Africa | 190 | flat |
 | Brazil | 130 | flat |
 | Canada | 60 | growing |
 | Argentina | 50 | flat |
@@ -139,9 +140,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Turkey | 30 | flat |
 | Belgium | 20 | growing |
 | Cyprus | 20 | flat |
-| Greece | 20 | flat |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (25 markets) via the /demand/ endpoint.
 
 ## Links
 

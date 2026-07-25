@@ -132,12 +132,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-hot-100-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,090 · **trend:** declining · YoY -19.9%
+**12-month volume (illustrative):** 1,490 · **trend:** declining · YoY -26.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| South Africa | 330 | growing |
 | Greece | 110 | growing |
 | Portugal | 80 | flat |
 | Germany | 70 | flat |
@@ -147,9 +148,8 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 50 | flat |
 | Belarus | 40 | flat |
 | Canada | 40 | flat |
-| Finland | 40 | flat |
 
-> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

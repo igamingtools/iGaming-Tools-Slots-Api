@@ -1,4 +1,4 @@
-# Fruit Party
+# Great Rhino Megaways
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/fruit-party-b7/`
+`GET /api/v1/slots/great-rhino-megaways-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/fruit-party-b7/
+  https://i-gaming.tools/api/v1/slots/great-rhino-megaways-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/fruit-party-b7/",
+    "https://i-gaming.tools/api/v1/slots/great-rhino-megaways-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/fruit-party-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/great-rhino-megaways-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/fruit-party-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/great-rhino-megaways-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,26 +53,31 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "fruit-party-b7",
-  "name": "Fruit Party",
+  "slug": "great-rhino-megaways-b7",
+  "name": "Great Rhino Megaways",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
     "name": "Pragmatic Play"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.47",
+  "rtp_default": "96.58",
   "rtp_variants": [
     {
-      "rtp": "96.47",
+      "rtp": "96.58",
       "variant": "default",
       "is_default": true
+    },
+    {
+      "rtp": "96.47",
+      "variant": "operator_config",
+      "is_default": false
     }
   ],
   "volatility": "high",
-  "mechanic": "cluster",
-  "reels": 7,
-  "rows": 7,
+  "mechanic": "megaways",
+  "reels": 6,
+  "rows": null,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
@@ -82,29 +87,29 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": true
     }
   ],
-  "release_date": "2020-05-28",
+  "release_date": "2020-04-01",
   "themes": [
     {
-      "slug": "food",
-      "name": "Food"
+      "slug": "africa",
+      "name": "Africa"
     },
     {
-      "slug": "fruits",
-      "name": "Fruits"
+      "slug": "animals",
+      "name": "Animals"
     }
   ],
   "features": [
     {
-      "slug": "cluster_pays",
-      "name": "Cluster Pays"
+      "slug": "ante_bet",
+      "name": "Ante Bet"
+    },
+    {
+      "slug": "free-spins-choice",
+      "name": "Free Spins Choice"
     },
     {
       "slug": "free_spins",
       "name": "Free Spins"
-    },
-    {
-      "slug": "multiplier",
-      "name": "Multiplier"
     }
   ],
   "assets": {
@@ -113,48 +118,48 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/fruit-party-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/great-rhino-megaways-b7/"
     }
   },
   "series": {
-    "slug": "fruit-party",
-    "name": "Fruit Party"
+    "slug": "great-rhino",
+    "name": "Great Rhino"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/fruit-party-b7/demand/`
+`GET /api/v1/slots/great-rhino-megaways-b7/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/fruit-party-b7/demand/
+  https://i-gaming.tools/api/v1/slots/great-rhino-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 53,970 · **trend:** declining · YoY -13.1%
+**12-month volume (illustrative):** 16,480 · **trend:** flat · YoY +1.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 7,380 | flat |
-| Denmark | 5,560 | flat |
-| Canada | 4,000 | growing |
-| United States | 3,070 | declining |
-| Finland | 2,400 | declining |
-| Germany | 2,210 | declining |
-| Switzerland | 1,890 | growing |
-| Greece | 1,750 | flat |
-| United Kingdom | 1,440 | declining |
-| Belgium | 1,400 | declining |
+| Tunisia | 2,910 | declining |
+| South Africa | 1,760 | declining |
+| United Kingdom | 990 | declining |
+| Denmark | 930 | flat |
+| Indonesia | 810 | declining |
+| Canada | 780 | declining |
+| Netherlands | 740 | declining |
+| Germany | 640 | declining |
+| United States | 620 | declining |
+| Greece | 450 | growing |
 
-> Full per-country breakdown (76 markets) via the /demand/ endpoint.
+> Full per-country breakdown (68 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fruit-party-b7/
-- **Public page:** https://i-gaming.tools/slot-games/fruit-party-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/great-rhino-megaways-b7/
+- **Public page:** https://i-gaming.tools/slot-games/great-rhino-megaways-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

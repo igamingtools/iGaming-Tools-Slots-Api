@@ -103,12 +103,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Bonus Game"
     },
     {
-      "slug": "progressive_multiplier",
-      "name": "Progressive Multiplier"
+      "slug": "cluster_pays",
+      "name": "Cluster Pays"
     },
     {
-      "slug": "symbol_collection",
-      "name": "Symbol Collection"
+      "slug": "progressive_multiplier",
+      "name": "Progressive Multiplier"
     }
   ],
   "assets": {

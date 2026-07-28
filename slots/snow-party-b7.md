@@ -118,12 +118,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Ante Bet"
     },
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "cluster_pays",
+      "name": "Cluster Pays"
     },
     {
-      "slug": "gamble",
-      "name": "Gamble"
+      "slug": "free_spins",
+      "name": "Free Spins"
     }
   ],
   "assets": {

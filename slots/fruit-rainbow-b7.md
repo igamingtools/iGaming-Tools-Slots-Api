@@ -1,4 +1,4 @@
-# Fruit Party
+# Fruit Rainbow
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/fruit-party-b7/`
+`GET /api/v1/slots/fruit-rainbow-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/fruit-party-b7/
+  https://i-gaming.tools/api/v1/slots/fruit-rainbow-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/fruit-party-b7/",
+    "https://i-gaming.tools/api/v1/slots/fruit-rainbow-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/fruit-party-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/fruit-rainbow-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/fruit-party-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/fruit-rainbow-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,40 +53,34 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "fruit-party-b7",
-  "name": "Fruit Party",
+  "slug": "fruit-rainbow-b7",
+  "name": "Fruit Rainbow",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
     "name": "Pragmatic Play"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.47",
+  "rtp_default": "96.53",
   "rtp_variants": [
     {
-      "rtp": "96.47",
+      "rtp": "96.53",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "high",
-  "mechanic": "cluster",
-  "reels": 7,
-  "rows": 7,
+  "volatility": "",
+  "mechanic": "lines",
+  "reels": 5,
+  "rows": 4,
   "jackpot_type": "none",
-  "has_bonus_buy": "yes",
-  "bonus_buys": [
-    {
-      "label": "Free Spins",
-      "cost": "100.00",
-      "is_default": true
-    }
-  ],
-  "release_date": "2020-05-28",
+  "has_bonus_buy": "no",
+  "bonus_buys": [],
+  "release_date": "2020-04-02",
   "themes": [
     {
-      "slug": "food",
-      "name": "Food"
+      "slug": "classic",
+      "name": "Classic"
     },
     {
       "slug": "fruits",
@@ -95,16 +89,16 @@ $data = json_decode(curl_exec($ch), true);
   ],
   "features": [
     {
-      "slug": "cluster_pays",
-      "name": "Cluster Pays"
+      "slug": "scatter",
+      "name": "Scatter"
     },
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "stacked-wild",
+      "name": "Stacked Wild"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "wild",
+      "name": "Wild"
     }
   ],
   "assets": {
@@ -113,48 +107,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/fruit-party-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/fruit-rainbow-b7/"
     }
-  },
-  "series": {
-    "slug": "fruit-party",
-    "name": "Fruit Party"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/fruit-party-b7/demand/`
+`GET /api/v1/slots/fruit-rainbow-b7/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/fruit-party-b7/demand/
+  https://i-gaming.tools/api/v1/slots/fruit-rainbow-b7/demand/
 ```
 
-**12-month volume (illustrative):** 53,970 · **trend:** declining · YoY -13.1%
+**12-month volume (illustrative):** 1,090 · **trend:** declining · YoY -19.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 7,380 | flat |
-| Denmark | 5,560 | flat |
-| Canada | 4,000 | growing |
-| United States | 3,070 | declining |
-| Finland | 2,400 | declining |
-| Germany | 2,210 | declining |
-| Switzerland | 1,890 | growing |
-| Greece | 1,750 | flat |
-| United Kingdom | 1,440 | declining |
-| Belgium | 1,400 | declining |
+| South Africa | 600 | declining |
+| Belgium | 80 | flat |
+| Brazil | 50 | declining |
+| Cyprus | 50 | flat |
+| Greece | 50 | growing |
+| Indonesia | 40 | declining |
+| Argentina | 30 | flat |
+| Belarus | 30 | flat |
+| Latvia | 20 | flat |
+| Malaysia | 20 | flat |
 
-> Full per-country breakdown (76 markets) via the /demand/ endpoint.
+> Full per-country breakdown (21 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fruit-party-b7/
-- **Public page:** https://i-gaming.tools/slot-games/fruit-party-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fruit-rainbow-b7/
+- **Public page:** https://i-gaming.tools/slot-games/fruit-rainbow-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

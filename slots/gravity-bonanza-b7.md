@@ -96,16 +96,16 @@ $data = json_decode(curl_exec($ch), true);
   ],
   "features": [
     {
+      "slug": "cluster_pays",
+      "name": "Cluster Pays"
+    },
+    {
       "slug": "free_spins",
       "name": "Free Spins"
     },
     {
       "slug": "multiplier",
       "name": "Multiplier"
-    },
-    {
-      "slug": "scatter",
-      "name": "Scatter"
     }
   ],
   "assets": {

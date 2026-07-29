@@ -1,4 +1,4 @@
-# Wild Wild Riches
+# Wild Wild Pearls
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/wild-wild-riches-b7/`
+`GET /api/v1/slots/wild-wild-pearls-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/
+  https://i-gaming.tools/api/v1/slots/wild-wild-pearls-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/",
+    "https://i-gaming.tools/api/v1/slots/wild-wild-pearls-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-wild-pearls-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-wild-pearls-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,34 +53,59 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "wild-wild-riches-b7",
-  "name": "Wild Wild Riches",
+  "slug": "wild-wild-pearls-b7",
+  "name": "Wild Wild Pearls",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
     "name": "Pragmatic Play"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.77",
+  "rtp_default": "96.46",
   "rtp_variants": [
     {
-      "rtp": "96.77",
+      "rtp": "96.46",
       "variant": "default",
       "is_default": true
+    },
+    {
+      "rtp": "96.49",
+      "variant": "ante_bet",
+      "is_default": false
+    },
+    {
+      "rtp": "96.52",
+      "variant": "bonus_buy",
+      "is_default": false
     }
   ],
   "volatility": "high",
   "mechanic": "ways",
-  "reels": 5,
-  "rows": 4,
+  "reels": 6,
+  "rows": null,
   "jackpot_type": "fixed",
-  "has_bonus_buy": "no",
-  "bonus_buys": [],
-  "release_date": "2020-09-01",
+  "has_bonus_buy": "yes",
+  "bonus_buys": [
+    {
+      "label": "Buy Free Spins",
+      "cost": "75.00",
+      "is_default": true
+    },
+    {
+      "label": "Buy Super Free Spins",
+      "cost": "150.00",
+      "is_default": false
+    }
+  ],
+  "release_date": "2025-01-20",
   "themes": [
     {
-      "slug": "irish",
-      "name": "Irish"
+      "slug": "ancient-greece",
+      "name": "Ancient Greece"
+    },
+    {
+      "slug": "ocean",
+      "name": "Ocean"
     }
   ],
   "features": [
@@ -103,48 +128,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/wild-wild-riches-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/wild-wild-pearls-b7/"
     }
-  },
-  "series": {
-    "slug": "wild-wild-riches",
-    "name": "Wild Wild Riches"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/wild-wild-riches-b7/demand/`
+`GET /api/v1/slots/wild-wild-pearls-b7/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/demand/
+  https://i-gaming.tools/api/v1/slots/wild-wild-pearls-b7/demand/
 ```
 
-**12-month volume (illustrative):** 15,300 · **trend:** declining · YoY -26.4%
+**12-month volume (illustrative):** 2,990 · **trend:** growing · YoY +20.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 5,370 | declining |
-| Brazil | 1,150 | declining |
-| United Kingdom | 1,040 | declining |
-| Turkey | 690 | declining |
-| Greece | 560 | declining |
-| Tunisia | 540 | flat |
-| Canada | 300 | declining |
-| Malaysia | 300 | declining |
-| Mexico | 250 | declining |
-| Switzerland | 240 | flat |
+| Canada | 400 | growing |
+| South Africa | 210 | flat |
+| India | 180 | flat |
+| United States | 160 | declining |
+| Switzerland | 150 | growing |
+| Malaysia | 140 | flat |
+| Brazil | 130 | flat |
+| Greece | 120 | flat |
+| United Kingdom | 120 | flat |
+| Netherlands | 80 | growing |
 
-> Full per-country breakdown (73 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/
-- **Public page:** https://i-gaming.tools/slot-games/wild-wild-riches-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-wild-pearls-b7/
+- **Public page:** https://i-gaming.tools/slot-games/wild-wild-pearls-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

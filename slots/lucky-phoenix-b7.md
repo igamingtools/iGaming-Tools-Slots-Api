@@ -1,4 +1,4 @@
-# Wild Wild Riches
+# Lucky Phoenix
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/wild-wild-riches-b7/`
+`GET /api/v1/slots/lucky-phoenix-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/
+  https://i-gaming.tools/api/v1/slots/lucky-phoenix-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/",
+    "https://i-gaming.tools/api/v1/slots/lucky-phoenix-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/lucky-phoenix-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/lucky-phoenix-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,48 +53,52 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "wild-wild-riches-b7",
-  "name": "Wild Wild Riches",
+  "slug": "lucky-phoenix-b7",
+  "name": "Lucky Phoenix",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
     "name": "Pragmatic Play"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.77",
+  "rtp_default": "96.50",
   "rtp_variants": [
     {
-      "rtp": "96.77",
+      "rtp": "96.50",
       "variant": "default",
       "is_default": true
     }
   ],
   "volatility": "high",
-  "mechanic": "ways",
-  "reels": 5,
-  "rows": 4,
-  "jackpot_type": "fixed",
+  "mechanic": "lines",
+  "reels": 3,
+  "rows": 3,
+  "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2020-09-01",
+  "release_date": "2025-06-09",
   "themes": [
     {
-      "slug": "irish",
-      "name": "Irish"
+      "slug": "chinese",
+      "name": "Chinese"
+    },
+    {
+      "slug": "fire",
+      "name": "Fire"
     }
   ],
   "features": [
-    {
-      "slug": "ante_bet",
-      "name": "Ante Bet"
-    },
     {
       "slug": "free_spins",
       "name": "Free Spins"
     },
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
+      "slug": "progressive_multiplier",
+      "name": "Progressive Multiplier"
+    },
+    {
+      "slug": "retrigger",
+      "name": "Retrigger"
     }
   ],
   "assets": {
@@ -103,48 +107,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/wild-wild-riches-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/lucky-phoenix-b7/"
     }
-  },
-  "series": {
-    "slug": "wild-wild-riches",
-    "name": "Wild Wild Riches"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/wild-wild-riches-b7/demand/`
+`GET /api/v1/slots/lucky-phoenix-b7/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/demand/
+  https://i-gaming.tools/api/v1/slots/lucky-phoenix-b7/demand/
 ```
 
-**12-month volume (illustrative):** 15,300 · **trend:** declining · YoY -26.4%
+**12-month volume (illustrative):** 1,970 · **trend:** growing · YoY +116.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 5,370 | declining |
-| Brazil | 1,150 | declining |
-| United Kingdom | 1,040 | declining |
-| Turkey | 690 | declining |
-| Greece | 560 | declining |
-| Tunisia | 540 | flat |
-| Canada | 300 | declining |
-| Malaysia | 300 | declining |
-| Mexico | 250 | declining |
-| Switzerland | 240 | flat |
+| South Africa | 350 | growing |
+| Greece | 170 | flat |
+| Brazil | 120 | flat |
+| Canada | 100 | flat |
+| Malaysia | 100 | growing |
+| Mexico | 100 | flat |
+| Philippines | 90 | declining |
+| Argentina | 80 | flat |
+| Indonesia | 80 | flat |
+| Finland | 60 | flat |
 
-> Full per-country breakdown (73 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/
-- **Public page:** https://i-gaming.tools/slot-games/wild-wild-riches-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/lucky-phoenix-b7/
+- **Public page:** https://i-gaming.tools/slot-games/lucky-phoenix-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

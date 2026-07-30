@@ -125,6 +125,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/juicy-fruits-b7/"
     }
+  },
+  "series": {
+    "slug": "juicy-fruits",
+    "name": "Juicy Fruits"
   }
 }
 ```

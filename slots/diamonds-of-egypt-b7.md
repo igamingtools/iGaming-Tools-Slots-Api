@@ -1,4 +1,4 @@
-# Madame Destiny
+# Diamonds Of Egypt
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/madame-destiny-b7/`
+`GET /api/v1/slots/diamonds-of-egypt-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/madame-destiny-b7/
+  https://i-gaming.tools/api/v1/slots/diamonds-of-egypt-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/madame-destiny-b7/",
+    "https://i-gaming.tools/api/v1/slots/diamonds-of-egypt-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/madame-destiny-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/diamonds-of-egypt-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/madame-destiny-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/diamonds-of-egypt-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,8 +53,8 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "madame-destiny-b7",
-  "name": "Madame Destiny",
+  "slug": "diamonds-of-egypt-b7",
+  "name": "Diamonds Of Egypt",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
@@ -70,28 +70,32 @@ $data = json_decode(curl_exec($ch), true);
     }
   ],
   "volatility": "high",
-  "mechanic": "lines",
+  "mechanic": "ways",
   "reels": 5,
   "rows": 3,
-  "jackpot_type": "none",
+  "jackpot_type": "fixed",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2018-06-19",
+  "release_date": "2023-05-08",
   "themes": [
     {
-      "slug": "fortune-telling",
-      "name": "Fortune Telling"
+      "slug": "adventure",
+      "name": "Adventure"
     },
     {
-      "slug": "horror",
-      "name": "Horror"
+      "slug": "egyptian",
+      "name": "Egyptian"
     },
     {
-      "slug": "witchcraft",
-      "name": "Witchcraft"
+      "slug": "gems",
+      "name": "Gems"
     }
   ],
   "features": [
+    {
+      "slug": "bonus-game",
+      "name": "Bonus Game"
+    },
     {
       "slug": "free_spins",
       "name": "Free Spins"
@@ -99,10 +103,6 @@ $data = json_decode(curl_exec($ch), true);
     {
       "slug": "multiplier",
       "name": "Multiplier"
-    },
-    {
-      "slug": "scatter",
-      "name": "Scatter"
     }
   ],
   "assets": {
@@ -111,48 +111,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/madame-destiny-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/diamonds-of-egypt-b7/"
     }
-  },
-  "series": {
-    "slug": "madame-destiny",
-    "name": "Madame Destiny"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/madame-destiny-b7/demand/`
+`GET /api/v1/slots/diamonds-of-egypt-b7/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/madame-destiny-b7/demand/
+  https://i-gaming.tools/api/v1/slots/diamonds-of-egypt-b7/demand/
 ```
 
-**12-month volume (illustrative):** 31,170 · **trend:** growing · YoY +22.6%
+**12-month volume (illustrative):** 800 · **trend:** growing · YoY +35.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 6,010 | declining |
-| South Africa | 5,260 | declining |
-| Tunisia | 4,450 | growing |
-| Netherlands | 1,720 | growing |
-| Brazil | 1,120 | growing |
-| United Kingdom | 1,030 | flat |
-| Bulgaria | 910 | flat |
-| Romania | 840 | declining |
-| Canada | 680 | flat |
-| Switzerland | 540 | growing |
+| Greece | 140 | growing |
+| United States | 80 | flat |
+| Brazil | 70 | declining |
+| Portugal | 70 | flat |
+| South Africa | 70 | growing |
+| United Kingdom | 50 | growing |
+| Netherlands | 30 | flat |
+| Philippines | 30 | flat |
+| Tunisia | 30 | flat |
+| Finland | 20 | flat |
 
-> Full per-country breakdown (75 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/madame-destiny-b7/
-- **Public page:** https://i-gaming.tools/slot-games/madame-destiny-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/diamonds-of-egypt-b7/
+- **Public page:** https://i-gaming.tools/slot-games/diamonds-of-egypt-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

@@ -1,4 +1,4 @@
-# Club Tropicana
+# Bigger Bass Blizzard – Christmas Catch™
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/club-tropicana-b7/`
+`GET /api/v1/slots/bigger-bass-blizzard-christmas-catchtm-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/club-tropicana-b7/
+  https://i-gaming.tools/api/v1/slots/bigger-bass-blizzard-christmas-catchtm-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/club-tropicana-b7/",
+    "https://i-gaming.tools/api/v1/slots/bigger-bass-blizzard-christmas-catchtm-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/club-tropicana-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/bigger-bass-blizzard-christmas-catchtm-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/club-tropicana-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/bigger-bass-blizzard-christmas-catchtm-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,8 +53,8 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "club-tropicana-b7",
-  "name": "Club Tropicana",
+  "slug": "bigger-bass-blizzard-christmas-catchtm-b7",
+  "name": "Bigger Bass Blizzard – Christmas Catch™",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
@@ -67,6 +67,11 @@ $data = json_decode(curl_exec($ch), true);
       "rtp": "96.08",
       "variant": "default",
       "is_default": true
+    },
+    {
+      "rtp": "96.08",
+      "variant": "ante_bet",
+      "is_default": false
     },
     {
       "rtp": "96.07",
@@ -87,11 +92,19 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": true
     }
   ],
-  "release_date": "2023-02-09",
+  "release_date": "2022-11-28",
   "themes": [
     {
-      "slug": "tropical",
-      "name": "Tropical"
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "fishing",
+      "name": "Fishing"
+    },
+    {
+      "slug": "winter",
+      "name": "Winter"
     }
   ],
   "features": [
@@ -114,7 +127,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/club-tropicana-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/bigger-bass-blizzard-christmas-catchtm-b7/"
     }
   },
   "studio": {
@@ -122,44 +135,44 @@ $data = json_decode(curl_exec($ch), true);
     "name": "Reel Kingdom"
   },
   "series": {
-    "slug": "club-tropicana",
-    "name": "Club Tropicana"
+    "slug": "big-bass",
+    "name": "Big Bass"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/club-tropicana-b7/demand/`
+`GET /api/v1/slots/bigger-bass-blizzard-christmas-catchtm-b7/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/club-tropicana-b7/demand/
+  https://i-gaming.tools/api/v1/slots/bigger-bass-blizzard-christmas-catchtm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 11,330 · **trend:** growing · YoY +9.3%
+**12-month volume (illustrative):** 1,580 · **trend:** growing · YoY +14.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 3,070 | declining |
-| Greece | 1,500 | declining |
-| South Africa | 1,480 | declining |
-| Argentina | 320 | flat |
-| Romania | 300 | flat |
-| Switzerland | 300 | declining |
-| United Kingdom | 280 | declining |
-| Tunisia | 180 | growing |
-| United States | 180 | flat |
-| Germany | 150 | flat |
+| United Kingdom | 220 | declining |
+| Brazil | 140 | growing |
+| Canada | 120 | flat |
+| South Africa | 90 | growing |
+| Turkey | 90 | flat |
+| Netherlands | 80 | flat |
+| Latvia | 70 | flat |
+| Germany | 60 | flat |
+| Greece | 60 | flat |
+| Ireland | 60 | growing |
 
-> Full per-country breakdown (61 markets) via the /demand/ endpoint.
+> Full per-country breakdown (32 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/club-tropicana-b7/
-- **Public page:** https://i-gaming.tools/slot-games/club-tropicana-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/bigger-bass-blizzard-christmas-catchtm-b7/
+- **Public page:** https://i-gaming.tools/slot-games/bigger-bass-blizzard-christmas-catchtm-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

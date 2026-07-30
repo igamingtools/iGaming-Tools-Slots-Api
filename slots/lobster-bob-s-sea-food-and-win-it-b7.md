@@ -138,6 +138,10 @@ $data = json_decode(curl_exec($ch), true);
   "studio": {
     "slug": "reel-kingdom",
     "name": "Reel Kingdom"
+  },
+  "series": {
+    "slug": "lobster-bobs",
+    "name": "Lobster Bob's"
   }
 }
 ```

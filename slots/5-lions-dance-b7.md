@@ -105,6 +105,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/5-lions-dance-b7/"
     }
+  },
+  "series": {
+    "slug": "5-lions",
+    "name": "5 Lions"
   }
 }
 ```

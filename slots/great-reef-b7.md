@@ -1,4 +1,4 @@
-# Madame Destiny
+# Great Reef
 
 **Provider:** Pragmatic Play
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/madame-destiny-b7/`
+`GET /api/v1/slots/great-reef-b7/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/madame-destiny-b7/
+  https://i-gaming.tools/api/v1/slots/great-reef-b7/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/madame-destiny-b7/",
+    "https://i-gaming.tools/api/v1/slots/great-reef-b7/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/madame-destiny-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/great-reef-b7/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/madame-destiny-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/great-reef-b7/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,42 +53,38 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "madame-destiny-b7",
-  "name": "Madame Destiny",
+  "slug": "great-reef-b7",
+  "name": "Great Reef",
   "status": "active",
   "provider": {
     "slug": "pragmatic-play",
     "name": "Pragmatic Play"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.49",
+  "rtp_default": "96.64",
   "rtp_variants": [
     {
-      "rtp": "96.49",
+      "rtp": "96.64",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "high",
+  "volatility": "",
   "mechanic": "lines",
   "reels": 5,
   "rows": 3,
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2018-06-19",
+  "release_date": null,
   "themes": [
     {
-      "slug": "fortune-telling",
-      "name": "Fortune Telling"
+      "slug": "ocean",
+      "name": "Ocean"
     },
     {
-      "slug": "horror",
-      "name": "Horror"
-    },
-    {
-      "slug": "witchcraft",
-      "name": "Witchcraft"
+      "slug": "pirates",
+      "name": "Pirates"
     }
   ],
   "features": [
@@ -101,8 +97,8 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Multiplier"
     },
     {
-      "slug": "scatter",
-      "name": "Scatter"
+      "slug": "pick_bonus",
+      "name": "Pick Bonus"
     }
   ],
   "assets": {
@@ -111,48 +107,25 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/madame-destiny-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/great-reef-b7/"
     }
-  },
-  "series": {
-    "slug": "madame-destiny",
-    "name": "Madame Destiny"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/madame-destiny-b7/demand/`
+`GET /api/v1/slots/great-reef-b7/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/madame-destiny-b7/demand/
+  https://i-gaming.tools/api/v1/slots/great-reef-b7/demand/
 ```
-
-**12-month volume (illustrative):** 31,170 · **trend:** growing · YoY +22.6%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Greece | 6,010 | declining |
-| South Africa | 5,260 | declining |
-| Tunisia | 4,450 | growing |
-| Netherlands | 1,720 | growing |
-| Brazil | 1,120 | growing |
-| United Kingdom | 1,030 | flat |
-| Bulgaria | 910 | flat |
-| Romania | 840 | declining |
-| Canada | 680 | flat |
-| Switzerland | 540 | growing |
-
-> Full per-country breakdown (75 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/madame-destiny-b7/
-- **Public page:** https://i-gaming.tools/slot-games/madame-destiny-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/great-reef-b7/
+- **Public page:** https://i-gaming.tools/slot-games/great-reef-b7/
 - **Full schema:** https://i-gaming.tools/api/docs/

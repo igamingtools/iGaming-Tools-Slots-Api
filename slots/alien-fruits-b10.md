@@ -1,4 +1,4 @@
-# Wild Heart
+# Alien Fruits
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/wild-heart-b10/`
+`GET /api/v1/slots/alien-fruits-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-heart-b10/
+  https://i-gaming.tools/api/v1/slots/alien-fruits-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/wild-heart-b10/",
+    "https://i-gaming.tools/api/v1/slots/alien-fruits-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-heart-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/alien-fruits-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-heart-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/alien-fruits-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,55 +53,53 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "wild-heart-b10",
-  "name": "Wild Heart",
+  "slug": "alien-fruits-b10",
+  "name": "Alien Fruits",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.92",
+  "rtp_default": "95.97",
   "rtp_variants": [
     {
-      "rtp": "96.92",
+      "rtp": "95.97",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "97.02",
-      "variant": "bonus_buy",
-      "is_default": false
-    },
-    {
-      "rtp": "97.03",
+      "rtp": "96.03",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "very_high",
-  "mechanic": "lines",
-  "reels": 5,
-  "rows": 4,
+  "volatility": "high",
+  "mechanic": "scatter_pays",
+  "reels": 6,
+  "rows": 5,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Buy Bonus - Regular",
-      "cost": "50.00",
+      "label": "Free Spins",
+      "cost": "100.00",
       "is_default": true
-    },
-    {
-      "label": "Buy Bonus - With 2x2 Wilds",
-      "cost": "120.00",
-      "is_default": false
     }
   ],
-  "release_date": "2024-01-25",
+  "release_date": "2023-04-13",
   "themes": [
     {
-      "slug": "romance",
-      "name": "Romance"
+      "slug": "aliens",
+      "name": "Aliens"
+    },
+    {
+      "slug": "fruits",
+      "name": "Fruits"
+    },
+    {
+      "slug": "space",
+      "name": "Space"
     }
   ],
   "features": [
@@ -110,12 +108,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Free Spins"
     },
     {
-      "slug": "progressive_multiplier",
-      "name": "Progressive Multiplier"
+      "slug": "multiplier",
+      "name": "Multiplier"
     },
     {
-      "slug": "sticky_wild",
-      "name": "Sticky Wild"
+      "slug": "retrigger",
+      "name": "Retrigger"
     }
   ],
   "assets": {
@@ -124,44 +122,48 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/wild-heart-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/alien-fruits-b10/"
     }
+  },
+  "series": {
+    "slug": "alien-fruits",
+    "name": "Alien Fruits"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/wild-heart-b10/demand/`
+`GET /api/v1/slots/alien-fruits-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-heart-b10/demand/
+  https://i-gaming.tools/api/v1/slots/alien-fruits-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,360 · **trend:** growing · YoY +11.5%
+**12-month volume (illustrative):** 1,030 · **trend:** growing · YoY +22.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 480 | flat |
-| Canada | 220 | declining |
-| Germany | 130 | declining |
-| United Kingdom | 120 | flat |
-| Australia | 100 | declining |
-| France | 100 | flat |
-| Switzerland | 90 | flat |
-| Austria | 50 | flat |
-| Ireland | 30 | flat |
-| Netherlands | 30 | declining |
+| United States | 280 | flat |
+| Canada | 140 | growing |
+| New Zealand | 120 | flat |
+| Australia | 90 | growing |
+| Germany | 90 | flat |
+| Netherlands | 80 | growing |
+| United Kingdom | 80 | declining |
+| Ireland | 60 | growing |
+| France | 50 | flat |
+| Switzerland | 30 | flat |
 
 > Full per-country breakdown (11 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-heart-b10/
-- **Public page:** https://i-gaming.tools/slot-games/wild-heart-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/alien-fruits-b10/
+- **Public page:** https://i-gaming.tools/slot-games/alien-fruits-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

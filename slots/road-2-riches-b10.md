@@ -1,4 +1,4 @@
-# Yokai
+# Road 2 Riches
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/yokai-b10/`
+`GET /api/v1/slots/road-2-riches-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/yokai-b10/
+  https://i-gaming.tools/api/v1/slots/road-2-riches-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/yokai-b10/",
+    "https://i-gaming.tools/api/v1/slots/road-2-riches-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/yokai-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/road-2-riches-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/yokai-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/road-2-riches-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,37 +53,27 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "yokai-b10",
-  "name": "Yokai",
+  "slug": "road-2-riches-b10",
+  "name": "Road 2 Riches",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "97.00",
+  "rtp_default": "96.27",
   "rtp_variants": [
     {
-      "rtp": "97.00",
+      "rtp": "96.27",
       "variant": "default",
       "is_default": true
-    },
-    {
-      "rtp": "97.00",
-      "variant": "ante_bet",
-      "is_default": false
-    },
-    {
-      "rtp": "97.00",
-      "variant": "bonus_buy",
-      "is_default": false
     }
   ],
-  "volatility": "med_high",
+  "volatility": "high",
   "mechanic": "lines",
   "reels": 5,
-  "rows": 3,
-  "jackpot_type": "none",
+  "rows": 4,
+  "jackpot_type": "fixed",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
@@ -92,15 +82,15 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": true
     }
   ],
-  "release_date": "2026-07-06",
+  "release_date": "2021-11-11",
   "themes": [
     {
-      "slug": "ghosts",
-      "name": "Ghosts"
+      "slug": "americana",
+      "name": "Americana"
     },
     {
-      "slug": "japanese",
-      "name": "Japanese"
+      "slug": "road-trip",
+      "name": "Road Trip"
     }
   ],
   "features": [
@@ -113,8 +103,8 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Free Spins"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "random-wilds",
+      "name": "Random Wilds"
     }
   ],
   "assets": {
@@ -123,46 +113,29 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/yokai-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/road-2-riches-b10/"
     }
   },
   "series": {
-    "slug": "art-collab",
-    "name": "Art Collab"
+    "slug": "road-2-riches",
+    "name": "Road 2 Riches"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/yokai-b10/demand/`
+`GET /api/v1/slots/road-2-riches-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/yokai-b10/demand/
+  https://i-gaming.tools/api/v1/slots/road-2-riches-b10/demand/
 ```
-
-**12-month volume (illustrative):** 240 · **trend:** growing · YoY +9.1%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| United States | 100 | declining |
-| Canada | 40 | flat |
-| France | 30 | growing |
-| Switzerland | 30 | flat |
-| Australia | 10 | flat |
-| Germany | 10 | flat |
-| Netherlands | 10 | flat |
-| United Kingdom | 10 | flat |
-
-> Full per-country breakdown (8 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/yokai-b10/
-- **Public page:** https://i-gaming.tools/slot-games/yokai-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/road-2-riches-b10/
+- **Public page:** https://i-gaming.tools/slot-games/road-2-riches-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

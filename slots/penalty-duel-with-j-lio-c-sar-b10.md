@@ -1,4 +1,4 @@
-# Sweet Rush MEGAWAYS™
+# Penalty Duel with Júlio César
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/sweet-rush-megawaystm-b10/`
+`GET /api/v1/slots/penalty-duel-with-j-lio-c-sar-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/sweet-rush-megawaystm-b10/
+  https://i-gaming.tools/api/v1/slots/penalty-duel-with-j-lio-c-sar-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/sweet-rush-megawaystm-b10/",
+    "https://i-gaming.tools/api/v1/slots/penalty-duel-with-j-lio-c-sar-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/sweet-rush-megawaystm-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/penalty-duel-with-j-lio-c-sar-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/sweet-rush-megawaystm-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/penalty-duel-with-j-lio-c-sar-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,54 +53,54 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "sweet-rush-megawaystm-b10",
-  "name": "Sweet Rush MEGAWAYS™",
+  "slug": "penalty-duel-with-j-lio-c-sar-b10",
+  "name": "Penalty Duel with Júlio César",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
-  "game_category": "video_slot",
-  "rtp_default": "96.69",
+  "game_category": "crash",
+  "rtp_default": "96.14",
   "rtp_variants": [
     {
-      "rtp": "96.69",
+      "rtp": "96.14",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.69",
+      "rtp": "96.10",
       "variant": "ante_bet",
       "is_default": false
     },
     {
-      "rtp": "96.69",
+      "rtp": "96.10",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "very_high",
-  "mechanic": "megaways",
-  "reels": 6,
+  "volatility": "medium",
+  "mechanic": "",
+  "reels": null,
   "rows": null,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Buy Free Spins",
+      "label": "Buy Bonus",
       "cost": "100.00",
       "is_default": true
     }
   ],
-  "release_date": "2023-02-16",
+  "release_date": "2026-06-08",
   "themes": [
     {
-      "slug": "monsters",
-      "name": "Monsters"
+      "slug": "brazilian",
+      "name": "Brazilian"
     },
     {
-      "slug": "sweets",
-      "name": "Sweets"
+      "slug": "sports",
+      "name": "Sports"
     }
   ],
   "features": [
@@ -109,12 +109,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Ante Bet"
     },
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "bonus-game",
+      "name": "Bonus Game"
     },
     {
-      "slug": "megaways",
-      "name": "Megaways"
+      "slug": "multiplier",
+      "name": "Multiplier"
     }
   ],
   "assets": {
@@ -123,7 +123,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/sweet-rush-megawaystm-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/penalty-duel-with-j-lio-c-sar-b10/"
     }
   }
 }
@@ -131,36 +131,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/sweet-rush-megawaystm-b10/demand/`
+`GET /api/v1/slots/penalty-duel-with-j-lio-c-sar-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/sweet-rush-megawaystm-b10/demand/
+  https://i-gaming.tools/api/v1/slots/penalty-duel-with-j-lio-c-sar-b10/demand/
 ```
-
-**12-month volume (illustrative):** 980 · **trend:** growing · YoY +34.2%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| United States | 160 | declining |
-| Germany | 120 | growing |
-| Switzerland | 90 | flat |
-| Canada | 80 | declining |
-| Australia | 70 | declining |
-| Belgium | 60 | growing |
-| Ireland | 60 | flat |
-| United Kingdom | 60 | declining |
-| France | 50 | declining |
-| New Zealand | 50 | declining |
-
-> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/sweet-rush-megawaystm-b10/
-- **Public page:** https://i-gaming.tools/slot-games/sweet-rush-megawaystm-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/penalty-duel-with-j-lio-c-sar-b10/
+- **Public page:** https://i-gaming.tools/slot-games/penalty-duel-with-j-lio-c-sar-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

@@ -1,12 +1,12 @@
-# Out of the Woods
+# Crystal Clusters
 
-**Provider:** Pragmatic Play
+**Provider:** BGaming
 
 > **Note:** Illustrative excerpt — values may differ. Always query the live endpoint for current data, media URLs and demo links.
 
 ## Endpoint
 
-`GET /api/v1/slots/out-of-the-woods-b7/`
+`GET /api/v1/slots/crystal-clusters-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/out-of-the-woods-b7/
+  https://i-gaming.tools/api/v1/slots/crystal-clusters-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/out-of-the-woods-b7/",
+    "https://i-gaming.tools/api/v1/slots/crystal-clusters-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/out-of-the-woods-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/crystal-clusters-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/out-of-the-woods-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/crystal-clusters-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,25 +53,20 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "out-of-the-woods-b7",
-  "name": "Out of the Woods",
+  "slug": "crystal-clusters-b10",
+  "name": "Crystal Clusters",
   "status": "active",
   "provider": {
-    "slug": "pragmatic-play",
-    "name": "Pragmatic Play"
+    "slug": "bgaming",
+    "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.52",
+  "rtp_default": "96.50",
   "rtp_variants": [
     {
-      "rtp": "96.52",
+      "rtp": "96.50",
       "variant": "default",
       "is_default": true
-    },
-    {
-      "rtp": "96.50",
-      "variant": "ante_bet",
-      "is_default": false
     },
     {
       "rtp": "96.50",
@@ -79,10 +74,10 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": false
     }
   ],
-  "volatility": "medium",
-  "mechanic": "lines",
-  "reels": 5,
-  "rows": 4,
+  "volatility": "very_high",
+  "mechanic": "cluster",
+  "reels": 7,
+  "rows": 7,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
@@ -90,36 +85,31 @@ $data = json_decode(curl_exec($ch), true);
       "label": "Free Spins",
       "cost": "100.00",
       "is_default": true
-    },
-    {
-      "label": "Super Free Spins",
-      "cost": "500.00",
-      "is_default": false
     }
   ],
-  "release_date": "2026-07-09",
+  "release_date": "2025-08-25",
   "themes": [
     {
-      "slug": "animals",
-      "name": "Animals"
+      "slug": "gems",
+      "name": "Gems"
     },
     {
-      "slug": "horror",
-      "name": "Horror"
+      "slug": "mining",
+      "name": "Mining"
     }
   ],
   "features": [
     {
-      "slug": "ante_bet",
-      "name": "Ante Bet"
+      "slug": "cluster_pays",
+      "name": "Cluster Pays"
     },
     {
       "slug": "free_spins",
       "name": "Free Spins"
     },
     {
-      "slug": "progressive_multiplier",
-      "name": "Progressive Multiplier"
+      "slug": "multiplier-spots",
+      "name": "Multiplier Spots"
     }
   ],
   "assets": {
@@ -128,7 +118,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/out-of-the-woods-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/crystal-clusters-b10/"
     }
   }
 }
@@ -136,31 +126,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/out-of-the-woods-b7/demand/`
+`GET /api/v1/slots/crystal-clusters-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/out-of-the-woods-b7/demand/
+  https://i-gaming.tools/api/v1/slots/crystal-clusters-b10/demand/
 ```
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Canada | 20 | growing |
-| United States | 20 | growing |
-| Austria | 10 | growing |
-| Denmark | 10 | growing |
-| France | 10 | growing |
-| Germany | 10 | growing |
-| Netherlands | 10 | growing |
-| New Zealand | 10 | growing |
-| United Kingdom | 10 | growing |
-
-> Full per-country breakdown (9 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/out-of-the-woods-b7/
-- **Public page:** https://i-gaming.tools/slot-games/out-of-the-woods-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/crystal-clusters-b10/
+- **Public page:** https://i-gaming.tools/slot-games/crystal-clusters-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

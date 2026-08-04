@@ -1,4 +1,4 @@
-# Aviamasters
+# Gift X
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/aviamasters-b10/`
+`GET /api/v1/slots/gift-x-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/aviamasters-b10/
+  https://i-gaming.tools/api/v1/slots/gift-x-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/aviamasters-b10/",
+    "https://i-gaming.tools/api/v1/slots/gift-x-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/aviamasters-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/gift-x-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/aviamasters-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/gift-x-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,34 +53,43 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "aviamasters-b10",
-  "name": "Aviamasters",
+  "slug": "gift-x-b10",
+  "name": "Gift X",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "crash",
-  "rtp_default": "97.00",
+  "rtp_default": "96.88",
   "rtp_variants": [
     {
-      "rtp": "97.00",
+      "rtp": "96.88",
       "variant": "default",
       "is_default": true
+    },
+    {
+      "rtp": "98.92",
+      "variant": "default",
+      "is_default": false
     }
   ],
-  "volatility": "low",
+  "volatility": "",
   "mechanic": "",
   "reels": null,
   "rows": null,
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2024-07-02",
+  "release_date": "2023-12-01",
   "themes": [
     {
-      "slug": "aviation",
-      "name": "Aviation"
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "winter",
+      "name": "Winter"
     }
   ],
   "features": [],
@@ -90,7 +99,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/aviamasters-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/gift-x-b10/"
     }
   }
 }
@@ -98,36 +107,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/aviamasters-b10/demand/`
+`GET /api/v1/slots/gift-x-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/aviamasters-b10/demand/
+  https://i-gaming.tools/api/v1/slots/gift-x-b10/demand/
 ```
-
-**12-month volume (illustrative):** 7,960 · **trend:** growing · YoY +110.0%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| United States | 2,420 | declining |
-| Canada | 1,100 | growing |
-| United Kingdom | 970 | growing |
-| Germany | 630 | growing |
-| Australia | 370 | flat |
-| Finland | 350 | flat |
-| Switzerland | 330 | growing |
-| Netherlands | 270 | flat |
-| Sweden | 270 | flat |
-| Belgium | 260 | flat |
-
-> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/aviamasters-b10/
-- **Public page:** https://i-gaming.tools/slot-games/aviamasters-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/gift-x-b10/
+- **Public page:** https://i-gaming.tools/slot-games/gift-x-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

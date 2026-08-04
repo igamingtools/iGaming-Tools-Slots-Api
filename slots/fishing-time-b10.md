@@ -1,4 +1,4 @@
-# Aviamasters
+# Fishing Time
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/aviamasters-b10/`
+`GET /api/v1/slots/fishing-time-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/aviamasters-b10/
+  https://i-gaming.tools/api/v1/slots/fishing-time-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/aviamasters-b10/",
+    "https://i-gaming.tools/api/v1/slots/fishing-time-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/aviamasters-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/fishing-time-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/aviamasters-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/fishing-time-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,44 +53,57 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "aviamasters-b10",
-  "name": "Aviamasters",
+  "slug": "fishing-time-b10",
+  "name": "Fishing Time",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
-  "game_category": "crash",
-  "rtp_default": "97.00",
+  "game_category": "instant_win",
+  "rtp_default": "96.00",
   "rtp_variants": [
     {
-      "rtp": "97.00",
+      "rtp": "96.00",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "low",
+  "volatility": "",
   "mechanic": "",
   "reels": null,
   "rows": null,
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2024-07-02",
+  "release_date": "2026-06-11",
   "themes": [
     {
-      "slug": "aviation",
-      "name": "Aviation"
+      "slug": "fishing",
+      "name": "Fishing"
+    },
+    {
+      "slug": "winter",
+      "name": "Winter"
     }
   ],
-  "features": [],
+  "features": [
+    {
+      "slug": "bonus-game",
+      "name": "Bonus Game"
+    },
+    {
+      "slug": "multiplier",
+      "name": "Multiplier"
+    }
+  ],
   "assets": {
     "logo_url": "<live CDN url — request the endpoint>",
     "screenshots": [
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/aviamasters-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/fishing-time-b10/"
     }
   }
 }
@@ -98,36 +111,35 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/aviamasters-b10/demand/`
+`GET /api/v1/slots/fishing-time-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/aviamasters-b10/demand/
+  https://i-gaming.tools/api/v1/slots/fishing-time-b10/demand/
 ```
 
-**12-month volume (illustrative):** 7,960 · **trend:** growing · YoY +110.0%
+**12-month volume (illustrative):** 100 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 2,420 | declining |
-| Canada | 1,100 | growing |
-| United Kingdom | 970 | growing |
-| Germany | 630 | growing |
-| Australia | 370 | flat |
-| Finland | 350 | flat |
-| Switzerland | 330 | growing |
-| Netherlands | 270 | flat |
-| Sweden | 270 | flat |
-| Belgium | 260 | flat |
+| United States | 20 | growing |
+| Australia | 10 | growing |
+| Finland | 10 | growing |
+| France | 10 | growing |
+| Germany | 10 | growing |
+| Netherlands | 10 | growing |
+| New Zealand | 10 | growing |
+| Sweden | 10 | growing |
+| United Kingdom | 10 | growing |
 
-> Full per-country breakdown (16 markets) via the /demand/ endpoint.
+> Full per-country breakdown (9 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/aviamasters-b10/
-- **Public page:** https://i-gaming.tools/slot-games/aviamasters-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fishing-time-b10/
+- **Public page:** https://i-gaming.tools/slot-games/fishing-time-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

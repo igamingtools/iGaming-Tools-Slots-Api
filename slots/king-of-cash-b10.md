@@ -1,4 +1,4 @@
-# Wild Tiger 2
+# King of Cash
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/wild-tiger-2-b10/`
+`GET /api/v1/slots/king-of-cash-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/
+  https://i-gaming.tools/api/v1/slots/king-of-cash-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/",
+    "https://i-gaming.tools/api/v1/slots/king-of-cash-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/king-of-cash-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/king-of-cash-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,63 +53,59 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "wild-tiger-2-b10",
-  "name": "Wild Tiger 2",
+  "slug": "king-of-cash-b10",
+  "name": "King of Cash",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "97.00",
+  "rtp_default": "96.23",
   "rtp_variants": [
     {
-      "rtp": "97.00",
+      "rtp": "96.23",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "97.00",
+      "rtp": "95.99",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "med_low",
+  "volatility": "very_high",
   "mechanic": "lines",
-  "reels": 5,
-  "rows": 4,
+  "reels": 3,
+  "rows": 3,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Hold and Win",
-      "cost": "60.00",
+      "label": "Bonus Game",
+      "cost": "80.00",
       "is_default": true
     }
   ],
-  "release_date": "2025-09-23",
+  "release_date": "2022-11-10",
   "themes": [
     {
-      "slug": "animals",
-      "name": "Animals"
+      "slug": "medieval",
+      "name": "Medieval"
     },
     {
-      "slug": "asian",
-      "name": "Asian"
+      "slug": "money",
+      "name": "Money"
     },
     {
-      "slug": "tigers",
-      "name": "Tigers"
+      "slug": "royalty",
+      "name": "Royalty"
     }
   ],
   "features": [
     {
-      "slug": "expanding_wild",
-      "name": "Expanding Wild"
-    },
-    {
-      "slug": "hold-and-spin",
-      "name": "Hold and Spin"
+      "slug": "bonus-game",
+      "name": "Bonus Game"
     },
     {
       "slug": "multiplier",
@@ -122,48 +118,25 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/wild-tiger-2-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/king-of-cash-b10/"
     }
-  },
-  "series": {
-    "slug": "wild-tiger",
-    "name": "Wild Tiger"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/wild-tiger-2-b10/demand/`
+`GET /api/v1/slots/king-of-cash-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/demand/
+  https://i-gaming.tools/api/v1/slots/king-of-cash-b10/demand/
 ```
-
-**12-month volume (illustrative):** 540 · **trend:** flat
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Australia | 90 | flat |
-| United States | 80 | growing |
-| Canada | 60 | flat |
-| Netherlands | 50 | flat |
-| United Kingdom | 50 | growing |
-| Germany | 40 | flat |
-| Austria | 30 | flat |
-| Switzerland | 30 | declining |
-| Belgium | 20 | flat |
-| Denmark | 20 | growing |
-
-> Full per-country breakdown (14 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/
-- **Public page:** https://i-gaming.tools/slot-games/wild-tiger-2-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/king-of-cash-b10/
+- **Public page:** https://i-gaming.tools/slot-games/king-of-cash-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

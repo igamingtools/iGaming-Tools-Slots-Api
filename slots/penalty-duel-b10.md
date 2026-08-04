@@ -1,4 +1,4 @@
-# Wild Tiger 2
+# Penalty Duel
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/wild-tiger-2-b10/`
+`GET /api/v1/slots/penalty-duel-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/
+  https://i-gaming.tools/api/v1/slots/penalty-duel-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/",
+    "https://i-gaming.tools/api/v1/slots/penalty-duel-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/penalty-duel-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/penalty-duel-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,63 +53,60 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "wild-tiger-2-b10",
-  "name": "Wild Tiger 2",
+  "slug": "penalty-duel-b10",
+  "name": "Penalty Duel",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
-  "game_category": "video_slot",
-  "rtp_default": "97.00",
+  "game_category": "crash",
+  "rtp_default": "96.14",
   "rtp_variants": [
     {
-      "rtp": "97.00",
+      "rtp": "96.14",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "97.00",
+      "rtp": "96.10",
+      "variant": "ante_bet",
+      "is_default": false
+    },
+    {
+      "rtp": "96.10",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "med_low",
-  "mechanic": "lines",
-  "reels": 5,
-  "rows": 4,
+  "volatility": "",
+  "mechanic": "",
+  "reels": null,
+  "rows": null,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Hold and Win",
-      "cost": "60.00",
+      "label": "Bonus series of five shots",
+      "cost": "100.00",
       "is_default": true
     }
   ],
-  "release_date": "2025-09-23",
+  "release_date": "2025-07-03",
   "themes": [
     {
-      "slug": "animals",
-      "name": "Animals"
+      "slug": "sports",
+      "name": "Sports"
     },
     {
-      "slug": "asian",
-      "name": "Asian"
-    },
-    {
-      "slug": "tigers",
-      "name": "Tigers"
+      "slug": "tropical",
+      "name": "Tropical"
     }
   ],
   "features": [
     {
-      "slug": "expanding_wild",
-      "name": "Expanding Wild"
-    },
-    {
-      "slug": "hold-and-spin",
-      "name": "Hold and Spin"
+      "slug": "ante_bet",
+      "name": "Ante Bet"
     },
     {
       "slug": "multiplier",
@@ -122,48 +119,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/wild-tiger-2-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/penalty-duel-b10/"
     }
-  },
-  "series": {
-    "slug": "wild-tiger",
-    "name": "Wild Tiger"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/wild-tiger-2-b10/demand/`
+`GET /api/v1/slots/penalty-duel-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/demand/
+  https://i-gaming.tools/api/v1/slots/penalty-duel-b10/demand/
 ```
 
-**12-month volume (illustrative):** 540 · **trend:** flat
+**12-month volume (illustrative):** 450 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Australia | 90 | flat |
-| United States | 80 | growing |
-| Canada | 60 | flat |
-| Netherlands | 50 | flat |
-| United Kingdom | 50 | growing |
-| Germany | 40 | flat |
-| Austria | 30 | flat |
-| Switzerland | 30 | declining |
-| Belgium | 20 | flat |
-| Denmark | 20 | growing |
+| France | 60 | growing |
+| Germany | 60 | growing |
+| Australia | 40 | declining |
+| Belgium | 40 | flat |
+| Finland | 40 | flat |
+| Norway | 40 | flat |
+| United Kingdom | 40 | flat |
+| United States | 40 | flat |
+| Netherlands | 30 | growing |
+| Austria | 20 | growing |
 
-> Full per-country breakdown (14 markets) via the /demand/ endpoint.
+> Full per-country breakdown (12 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/
-- **Public page:** https://i-gaming.tools/slot-games/wild-tiger-2-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/penalty-duel-b10/
+- **Public page:** https://i-gaming.tools/slot-games/penalty-duel-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

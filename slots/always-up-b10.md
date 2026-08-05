@@ -1,4 +1,4 @@
-# Wild Cash Dice
+# Always Up\!
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/wild-cash-dice-b10/`
+`GET /api/v1/slots/always-up-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-cash-dice-b10/
+  https://i-gaming.tools/api/v1/slots/always-up-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/wild-cash-dice-b10/",
+    "https://i-gaming.tools/api/v1/slots/always-up-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-cash-dice-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/always-up-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-cash-dice-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/always-up-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,53 +53,44 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "wild-cash-dice-b10",
-  "name": "Wild Cash Dice",
+  "slug": "always-up-b10",
+  "name": "Always Up!",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.10",
+  "rtp_default": "96.07",
   "rtp_variants": [
     {
-      "rtp": "96.10",
+      "rtp": "96.07",
       "variant": "default",
       "is_default": true
-    },
-    {
-      "rtp": "96.06",
-      "variant": "bonus_buy",
-      "is_default": false
     }
   ],
-  "volatility": "very_high",
+  "volatility": "medium",
   "mechanic": "lines",
-  "reels": 5,
+  "reels": 3,
   "rows": 3,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Buy Bonus",
-      "cost": "100.00",
+      "label": "Bonus Game",
+      "cost": "80.00",
       "is_default": true
     }
   ],
-  "release_date": "2023-09-01",
+  "release_date": "2025-09-30",
   "themes": [
     {
-      "slug": "casino",
-      "name": "Casino"
+      "slug": "chinese",
+      "name": "Chinese"
     },
     {
-      "slug": "dice",
-      "name": "Dice"
-    },
-    {
-      "slug": "money",
-      "name": "Money"
+      "slug": "lions",
+      "name": "Lions"
     }
   ],
   "features": [
@@ -108,8 +99,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Bonus Game"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "pick_bonus",
+      "name": "Pick Bonus"
+    },
+    {
+      "slug": "scatter",
+      "name": "Scatter"
     }
   ],
   "assets": {
@@ -118,43 +113,48 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/wild-cash-dice-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/always-up-b10/"
     }
   },
   "series": {
-    "slug": "wild-cash",
-    "name": "Wild Cash"
+    "slug": "always-up",
+    "name": "Always Up"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/wild-cash-dice-b10/demand/`
+`GET /api/v1/slots/always-up-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-cash-dice-b10/demand/
+  https://i-gaming.tools/api/v1/slots/always-up-b10/demand/
 ```
 
-**12-month volume (illustrative):** 60 · **trend:** declining · YoY -78.6%
+**12-month volume (illustrative):** 340 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 20 | growing |
+| Finland | 80 | flat |
+| Switzerland | 60 | flat |
+| United States | 40 | flat |
+| Netherlands | 30 | declining |
+| Australia | 20 | flat |
+| Greece | 20 | flat |
+| New Zealand | 20 | flat |
+| Cyprus | 10 | flat |
 | France | 10 | flat |
 | Germany | 10 | flat |
-| Ireland | 10 | flat |
-| Italy | 10 | flat |
 
-> Full per-country breakdown (5 markets) via the /demand/ endpoint.
+> Full per-country breakdown (14 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-cash-dice-b10/
-- **Public page:** https://i-gaming.tools/slot-games/wild-cash-dice-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/always-up-b10/
+- **Public page:** https://i-gaming.tools/slot-games/always-up-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

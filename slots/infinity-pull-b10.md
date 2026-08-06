@@ -1,4 +1,4 @@
-# Fishing Time
+# Infinity Pull
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/fishing-time-b10/`
+`GET /api/v1/slots/infinity-pull-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/fishing-time-b10/
+  https://i-gaming.tools/api/v1/slots/infinity-pull-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/fishing-time-b10/",
+    "https://i-gaming.tools/api/v1/slots/infinity-pull-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/fishing-time-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/infinity-pull-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/fishing-time-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/infinity-pull-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,48 +53,52 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "fishing-time-b10",
-  "name": "Fishing Time",
+  "slug": "infinity-pull-b10",
+  "name": "Infinity Pull",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "instant_win",
-  "rtp_default": "96.00",
+  "rtp_default": "97.02",
   "rtp_variants": [
     {
-      "rtp": "96.00",
+      "rtp": "97.02",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "",
+  "volatility": "medium",
   "mechanic": "",
   "reels": null,
   "rows": null,
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2026-06-11",
+  "release_date": "2025-07-29",
   "themes": [
     {
-      "slug": "fishing",
-      "name": "Fishing"
+      "slug": "anime",
+      "name": "Anime"
     },
     {
-      "slug": "winter",
-      "name": "Winter"
+      "slug": "fantasy",
+      "name": "Fantasy"
+    },
+    {
+      "slug": "japanese",
+      "name": "Japanese"
     }
   ],
   "features": [
     {
-      "slug": "bonus-game",
-      "name": "Bonus Game"
-    },
-    {
       "slug": "multiplier",
       "name": "Multiplier"
+    },
+    {
+      "slug": "symbol_collection",
+      "name": "Symbol Collection"
     }
   ],
   "assets": {
@@ -103,7 +107,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/fishing-time-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/infinity-pull-b10/"
     }
   }
 }
@@ -111,36 +115,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/fishing-time-b10/demand/`
+`GET /api/v1/slots/infinity-pull-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/fishing-time-b10/demand/
+  https://i-gaming.tools/api/v1/slots/infinity-pull-b10/demand/
 ```
-
-**12-month volume (illustrative):** 180 · **trend:** flat
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Finland | 20 | growing |
-| United States | 20 | growing |
-| Australia | 10 | growing |
-| France | 10 | growing |
-| Germany | 10 | growing |
-| Hungary | 10 | growing |
-| Italy | 10 | growing |
-| Netherlands | 10 | growing |
-| New Zealand | 10 | growing |
-| Poland | 10 | growing |
-
-> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fishing-time-b10/
-- **Public page:** https://i-gaming.tools/slot-games/fishing-time-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/infinity-pull-b10/
+- **Public page:** https://i-gaming.tools/slot-games/infinity-pull-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

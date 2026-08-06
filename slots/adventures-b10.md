@@ -1,4 +1,4 @@
-# Wild Heart
+# Adventures
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/wild-heart-b10/`
+`GET /api/v1/slots/adventures-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-heart-b10/
+  https://i-gaming.tools/api/v1/slots/adventures-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/wild-heart-b10/",
+    "https://i-gaming.tools/api/v1/slots/adventures-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-heart-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/adventures-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-heart-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/adventures-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,69 +53,67 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "wild-heart-b10",
-  "name": "Wild Heart",
+  "slug": "adventures-b10",
+  "name": "Adventures",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.92",
+  "rtp_default": "97.10",
   "rtp_variants": [
     {
-      "rtp": "96.92",
+      "rtp": "97.10",
       "variant": "default",
       "is_default": true
-    },
-    {
-      "rtp": "97.02",
-      "variant": "bonus_buy",
-      "is_default": false
-    },
-    {
-      "rtp": "97.03",
-      "variant": "bonus_buy",
-      "is_default": false
     }
   ],
-  "volatility": "very_high",
-  "mechanic": "lines",
-  "reels": 5,
-  "rows": 4,
+  "volatility": "med_low",
+  "mechanic": "cluster",
+  "reels": 6,
+  "rows": 5,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Buy Bonus - Regular",
-      "cost": "50.00",
+      "label": "Dragon's Chest",
+      "cost": "75.00",
       "is_default": true
     },
     {
-      "label": "Buy Bonus - With 2x2 Wilds",
-      "cost": "120.00",
+      "label": "Cerberus Cash",
+      "cost": "100.00",
       "is_default": false
     }
   ],
-  "release_date": "2024-01-25",
+  "release_date": "2024-05-28",
   "themes": [
     {
-      "slug": "romance",
-      "name": "Romance"
+      "slug": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "slug": "anime",
+      "name": "Anime"
+    },
+    {
+      "slug": "dragons",
+      "name": "Dragons"
     }
   ],
   "features": [
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "bonus-game",
+      "name": "Bonus Game"
     },
     {
-      "slug": "progressive_multiplier",
-      "name": "Progressive Multiplier"
+      "slug": "cluster_pays",
+      "name": "Cluster Pays"
     },
     {
-      "slug": "sticky_wild",
-      "name": "Sticky Wild"
+      "slug": "money-collect",
+      "name": "Money Collect"
     }
   ],
   "assets": {
@@ -124,7 +122,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/wild-heart-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/adventures-b10/"
     }
   }
 }
@@ -132,36 +130,36 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/wild-heart-b10/demand/`
+`GET /api/v1/slots/adventures-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-heart-b10/demand/
+  https://i-gaming.tools/api/v1/slots/adventures-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,980 · **trend:** growing · YoY +12.5%
+**12-month volume (illustrative):** 660 · **trend:** growing · YoY +17.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 480 | flat |
-| Canada | 220 | declining |
-| Germany | 130 | declining |
-| Finland | 120 | flat |
-| United Kingdom | 120 | flat |
-| Australia | 100 | declining |
-| France | 100 | flat |
-| Switzerland | 90 | flat |
-| Poland | 70 | declining |
-| Spain | 70 | flat |
+| Germany | 190 | declining |
+| United States | 100 | declining |
+| Austria | 60 | flat |
+| Canada | 60 | declining |
+| Finland | 40 | flat |
+| Greece | 40 | declining |
+| Switzerland | 40 | flat |
+| Spain | 30 | flat |
+| France | 20 | flat |
+| Italy | 20 | flat |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-heart-b10/
-- **Public page:** https://i-gaming.tools/slot-games/wild-heart-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/adventures-b10/
+- **Public page:** https://i-gaming.tools/slot-games/adventures-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

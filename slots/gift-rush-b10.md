@@ -1,4 +1,4 @@
-# Penalty Duel
+# Gift Rush
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/penalty-duel-b10/`
+`GET /api/v1/slots/gift-rush-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/penalty-duel-b10/
+  https://i-gaming.tools/api/v1/slots/gift-rush-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/penalty-duel-b10/",
+    "https://i-gaming.tools/api/v1/slots/gift-rush-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/penalty-duel-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/gift-rush-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/penalty-duel-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/gift-rush-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,64 +53,50 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "penalty-duel-b10",
-  "name": "Penalty Duel",
+  "slug": "gift-rush-b10",
+  "name": "Gift Rush",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
-  "game_category": "crash",
-  "rtp_default": "96.14",
+  "game_category": "video_slot",
+  "rtp_default": "96.07",
   "rtp_variants": [
     {
-      "rtp": "96.14",
+      "rtp": "96.07",
       "variant": "default",
       "is_default": true
-    },
-    {
-      "rtp": "96.10",
-      "variant": "ante_bet",
-      "is_default": false
-    },
-    {
-      "rtp": "96.10",
-      "variant": "bonus_buy",
-      "is_default": false
     }
   ],
-  "volatility": "",
-  "mechanic": "",
-  "reels": null,
-  "rows": null,
+  "volatility": "medium",
+  "mechanic": "lines",
+  "reels": 3,
+  "rows": 3,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Bonus series of five shots",
-      "cost": "100.00",
+      "label": "Buy Bonus",
+      "cost": "80.00",
       "is_default": true
     }
   ],
-  "release_date": "2025-07-03",
+  "release_date": "2022-12-01",
   "themes": [
     {
-      "slug": "sports",
-      "name": "Sports"
-    },
-    {
-      "slug": "tropical",
-      "name": "Tropical"
+      "slug": "christmas",
+      "name": "Christmas"
     }
   ],
   "features": [
     {
-      "slug": "ante_bet",
-      "name": "Ante Bet"
+      "slug": "pick_bonus",
+      "name": "Pick Bonus"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "scatter",
+      "name": "Scatter"
     }
   ],
   "assets": {
@@ -119,7 +105,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/penalty-duel-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/gift-rush-b10/"
     }
   }
 }
@@ -127,36 +113,36 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/penalty-duel-b10/demand/`
+`GET /api/v1/slots/gift-rush-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/penalty-duel-b10/demand/
+  https://i-gaming.tools/api/v1/slots/gift-rush-b10/demand/
 ```
 
-**12-month volume (illustrative):** 700 · **trend:** flat
+**12-month volume (illustrative):** 760 · **trend:** declining · YoY -18.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 80 | flat |
-| France | 60 | growing |
-| Germany | 60 | growing |
-| Australia | 40 | declining |
-| Belgium | 40 | flat |
-| Cyprus | 40 | flat |
-| Norway | 40 | flat |
-| United Kingdom | 40 | flat |
-| United States | 40 | flat |
-| Italy | 30 | flat |
+| Canada | 100 | growing |
+| Germany | 100 | declining |
+| Australia | 60 | flat |
+| Finland | 60 | flat |
+| Greece | 60 | flat |
+| Netherlands | 60 | declining |
+| United States | 60 | growing |
+| Austria | 40 | declining |
+| Hungary | 40 | flat |
+| Denmark | 30 | growing |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/penalty-duel-b10/
-- **Public page:** https://i-gaming.tools/slot-games/penalty-duel-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/gift-rush-b10/
+- **Public page:** https://i-gaming.tools/slot-games/gift-rush-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

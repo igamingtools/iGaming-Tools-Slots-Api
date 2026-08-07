@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fishing-time-b10/demand/
 ```
 
-**12-month volume (illustrative):** 180 · **trend:** flat
+**12-month volume (illustrative):** 190 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -137,7 +137,7 @@ curl -H "Authorization: Token $TOKEN" \
 | New Zealand | 10 | growing |
 | Poland | 10 | growing |
 
-> Full per-country breakdown (16 markets) via the /demand/ endpoint.
+> Full per-country breakdown (17 markets) via the /demand/ endpoint.
 
 ## Links
 

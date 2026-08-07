@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/penalty-duel-b10/demand/
 ```
 
-**12-month volume (illustrative):** 700 · **trend:** flat
+**12-month volume (illustrative):** 740 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 40 | flat |
 | Italy | 30 | flat |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (26 markets) via the /demand/ endpoint.
 
 ## Links
 

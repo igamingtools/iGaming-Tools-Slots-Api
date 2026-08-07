@@ -1,4 +1,4 @@
-# Alien Fruits
+# Wild Clusters
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/alien-fruits-b10/`
+`GET /api/v1/slots/wild-clusters-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/alien-fruits-b10/
+  https://i-gaming.tools/api/v1/slots/wild-clusters-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/alien-fruits-b10/",
+    "https://i-gaming.tools/api/v1/slots/wild-clusters-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/alien-fruits-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-clusters-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/alien-fruits-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-clusters-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,49 +53,55 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "alien-fruits-b10",
-  "name": "Alien Fruits",
+  "slug": "wild-clusters-b10",
+  "name": "Wild Clusters",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "95.97",
+  "rtp_default": "96.82",
   "rtp_variants": [
     {
-      "rtp": "95.97",
+      "rtp": "96.82",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.03",
+      "rtp": "96.82",
+      "variant": "bonus_buy",
+      "is_default": false
+    },
+    {
+      "rtp": "96.68",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "high",
-  "mechanic": "scatter_pays",
-  "reels": 6,
-  "rows": 5,
+  "volatility": "",
+  "mechanic": "cluster",
+  "reels": 7,
+  "rows": 7,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Free Spins",
-      "cost": "100.00",
+      "label": "Wild Boost X3",
+      "cost": "6.00",
       "is_default": true
-    }
-  ],
-  "release_date": "2023-04-13",
-  "themes": [
-    {
-      "slug": "aliens",
-      "name": "Aliens"
     },
     {
-      "slug": "fruits",
-      "name": "Fruits"
+      "label": "Wild Boost X5",
+      "cost": "24.00",
+      "is_default": false
+    }
+  ],
+  "release_date": "2025-04-01",
+  "themes": [
+    {
+      "slug": "gems",
+      "name": "Gems"
     },
     {
       "slug": "space",
@@ -104,16 +110,16 @@ $data = json_decode(curl_exec($ch), true);
   ],
   "features": [
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "cluster_pays",
+      "name": "Cluster Pays"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "colossal-symbols",
+      "name": "Colossal Symbols"
     },
     {
-      "slug": "retrigger",
-      "name": "Retrigger"
+      "slug": "level-progression",
+      "name": "Level Progression"
     }
   ],
   "assets": {
@@ -122,48 +128,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/alien-fruits-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/wild-clusters-b10/"
     }
-  },
-  "series": {
-    "slug": "alien-fruits",
-    "name": "Alien Fruits"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/alien-fruits-b10/demand/`
+`GET /api/v1/slots/wild-clusters-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/alien-fruits-b10/demand/
+  https://i-gaming.tools/api/v1/slots/wild-clusters-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,700 · **trend:** growing · YoY +25.9%
+**12-month volume (illustrative):** 2,330 · **trend:** growing · YoY +177.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 280 | flat |
-| Canada | 140 | growing |
-| Greece | 120 | flat |
-| New Zealand | 120 | flat |
-| Australia | 90 | growing |
-| Germany | 90 | flat |
-| Netherlands | 80 | growing |
-| United Kingdom | 80 | declining |
-| Bulgaria | 70 | declining |
-| Finland | 60 | flat |
+| United States | 320 | flat |
+| Canada | 280 | declining |
+| Finland | 220 | flat |
+| Germany | 190 | declining |
+| United Kingdom | 170 | flat |
+| Norway | 160 | declining |
+| Netherlands | 150 | flat |
+| Poland | 140 | flat |
+| France | 120 | flat |
+| Italy | 120 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (22 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/alien-fruits-b10/
-- **Public page:** https://i-gaming.tools/slot-games/alien-fruits-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-clusters-b10/
+- **Public page:** https://i-gaming.tools/slot-games/wild-clusters-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

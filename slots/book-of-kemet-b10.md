@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/demand/
 ```
 
-**12-month volume (illustrative):** 440 · **trend:** declining · YoY -8.3%
+**12-month volume (illustrative):** 440 · **trend:** declining · YoY -12.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

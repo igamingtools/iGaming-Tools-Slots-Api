@@ -1,4 +1,4 @@
-# Lady Wolf Moon
+# Fruit Million St\.Valentines
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/lady-wolf-moon-b10/`
+`GET /api/v1/slots/fruit-million-st-valentines-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/
+  https://i-gaming.tools/api/v1/slots/fruit-million-st-valentines-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/",
+    "https://i-gaming.tools/api/v1/slots/fruit-million-st-valentines-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/fruit-million-st-valentines-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/fruit-million-st-valentines-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,52 +53,52 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "lady-wolf-moon-b10",
-  "name": "Lady Wolf Moon",
+  "slug": "fruit-million-st-valentines-b10",
+  "name": "Fruit Million St.Valentines",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "97.09",
+  "rtp_default": "97.34",
   "rtp_variants": [
     {
-      "rtp": "97.09",
+      "rtp": "97.34",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "",
+  "volatility": "med_high",
   "mechanic": "lines",
   "reels": 5,
-  "rows": 3,
-  "jackpot_type": "none",
+  "rows": 4,
+  "jackpot_type": "unknown",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2020-12-21",
+  "release_date": null,
   "themes": [
     {
-      "slug": "forest",
-      "name": "Forest"
+      "slug": "fruits",
+      "name": "Fruits"
     },
     {
-      "slug": "werewolves",
-      "name": "Werewolves"
+      "slug": "romance",
+      "name": "Romance"
     }
   ],
   "features": [
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "expanding_wild",
+      "name": "Expanding Wild"
     },
     {
       "slug": "gamble",
       "name": "Gamble"
     },
     {
-      "slug": "retrigger",
-      "name": "Retrigger"
+      "slug": "scatter",
+      "name": "Scatter"
     }
   ],
   "assets": {
@@ -107,7 +107,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/lady-wolf-moon-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/fruit-million-st-valentines-b10/"
     }
   }
 }
@@ -115,36 +115,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/lady-wolf-moon-b10/demand/`
+`GET /api/v1/slots/fruit-million-st-valentines-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/demand/
+  https://i-gaming.tools/api/v1/slots/fruit-million-st-valentines-b10/demand/
 ```
-
-**12-month volume (illustrative):** 2,910 · **trend:** growing · YoY +36.0%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| United Kingdom | 430 | growing |
-| Austria | 290 | flat |
-| Switzerland | 240 | flat |
-| Canada | 200 | flat |
-| Germany | 180 | flat |
-| Finland | 160 | flat |
-| Australia | 140 | growing |
-| United States | 140 | declining |
-| Hungary | 120 | growing |
-| Romania | 90 | growing |
-
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/
-- **Public page:** https://i-gaming.tools/slot-games/lady-wolf-moon-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fruit-million-st-valentines-b10/
+- **Public page:** https://i-gaming.tools/slot-games/fruit-million-st-valentines-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

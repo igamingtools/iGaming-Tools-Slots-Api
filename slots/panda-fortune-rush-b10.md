@@ -1,4 +1,4 @@
-# Alien Fruits
+# Panda Fortune Rush
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/alien-fruits-b10/`
+`GET /api/v1/slots/panda-fortune-rush-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/alien-fruits-b10/
+  https://i-gaming.tools/api/v1/slots/panda-fortune-rush-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/alien-fruits-b10/",
+    "https://i-gaming.tools/api/v1/slots/panda-fortune-rush-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/alien-fruits-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/panda-fortune-rush-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/alien-fruits-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/panda-fortune-rush-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,53 +53,48 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "alien-fruits-b10",
-  "name": "Alien Fruits",
+  "slug": "panda-fortune-rush-b10",
+  "name": "Panda Fortune Rush",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "95.97",
+  "rtp_default": "96.03",
   "rtp_variants": [
     {
-      "rtp": "95.97",
+      "rtp": "96.03",
       "variant": "default",
       "is_default": true
-    },
-    {
-      "rtp": "96.03",
-      "variant": "bonus_buy",
-      "is_default": false
     }
   ],
-  "volatility": "high",
+  "volatility": "med_low",
   "mechanic": "scatter_pays",
-  "reels": 6,
-  "rows": 5,
-  "jackpot_type": "none",
+  "reels": 7,
+  "rows": 7,
+  "jackpot_type": "unknown",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
       "label": "Free Spins",
-      "cost": "100.00",
+      "cost": "25.00",
       "is_default": true
     }
   ],
-  "release_date": "2023-04-13",
+  "release_date": "2026-02-19",
   "themes": [
     {
-      "slug": "aliens",
-      "name": "Aliens"
+      "slug": "asian",
+      "name": "Asian"
     },
     {
-      "slug": "fruits",
-      "name": "Fruits"
+      "slug": "chinese",
+      "name": "Chinese"
     },
     {
-      "slug": "space",
-      "name": "Space"
+      "slug": "forest",
+      "name": "Forest"
     }
   ],
   "features": [
@@ -122,48 +117,29 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/alien-fruits-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/panda-fortune-rush-b10/"
     }
   },
-  "series": {
-    "slug": "alien-fruits",
-    "name": "Alien Fruits"
+  "studio": {
+    "slug": "playzia",
+    "name": "Playzia"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/alien-fruits-b10/demand/`
+`GET /api/v1/slots/panda-fortune-rush-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/alien-fruits-b10/demand/
+  https://i-gaming.tools/api/v1/slots/panda-fortune-rush-b10/demand/
 ```
-
-**12-month volume (illustrative):** 1,700 · **trend:** growing · YoY +25.9%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| United States | 280 | flat |
-| Canada | 140 | growing |
-| Greece | 120 | flat |
-| New Zealand | 120 | flat |
-| Australia | 90 | growing |
-| Germany | 90 | flat |
-| Netherlands | 80 | growing |
-| United Kingdom | 80 | declining |
-| Bulgaria | 70 | declining |
-| Finland | 60 | flat |
-
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/alien-fruits-b10/
-- **Public page:** https://i-gaming.tools/slot-games/alien-fruits-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/panda-fortune-rush-b10/
+- **Public page:** https://i-gaming.tools/slot-games/panda-fortune-rush-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

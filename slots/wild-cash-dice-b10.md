@@ -139,19 +139,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-cash-dice-b10/demand/
 ```
 
-**12-month volume (illustrative):** 60 · **trend:** declining · YoY -80.0%
+**12-month volume (illustrative):** 130 · **trend:** declining · YoY -68.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Turkey | 50 | flat |
+| Lithuania | 20 | flat |
 | United Kingdom | 20 | growing |
 | France | 10 | flat |
 | Germany | 10 | flat |
 | Ireland | 10 | flat |
 | Italy | 10 | flat |
 
-> Full per-country breakdown (5 markets) via the /demand/ endpoint.
+> Full per-country breakdown (7 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -1,4 +1,4 @@
-# Alien Fruits
+# Penny Pelican
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/alien-fruits-b10/`
+`GET /api/v1/slots/penny-pelican-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/alien-fruits-b10/
+  https://i-gaming.tools/api/v1/slots/penny-pelican-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/alien-fruits-b10/",
+    "https://i-gaming.tools/api/v1/slots/penny-pelican-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/alien-fruits-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/penny-pelican-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/alien-fruits-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/penny-pelican-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,53 +53,49 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "alien-fruits-b10",
-  "name": "Alien Fruits",
+  "slug": "penny-pelican-b10",
+  "name": "Penny Pelican",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "95.97",
+  "rtp_default": "95.98",
   "rtp_variants": [
     {
-      "rtp": "95.97",
+      "rtp": "95.98",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.03",
+      "rtp": "95.94",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "high",
-  "mechanic": "scatter_pays",
-  "reels": 6,
-  "rows": 5,
-  "jackpot_type": "none",
+  "volatility": "very_high",
+  "mechanic": "lines",
+  "reels": 5,
+  "rows": 3,
+  "jackpot_type": "unknown",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Free Spins",
-      "cost": "100.00",
+      "label": "Buy Bonus",
+      "cost": "75.00",
       "is_default": true
     }
   ],
-  "release_date": "2023-04-13",
+  "release_date": "2022-05-18",
   "themes": [
     {
-      "slug": "aliens",
-      "name": "Aliens"
+      "slug": "birds",
+      "name": "Birds"
     },
     {
-      "slug": "fruits",
-      "name": "Fruits"
-    },
-    {
-      "slug": "space",
-      "name": "Space"
+      "slug": "ocean",
+      "name": "Ocean"
     }
   ],
   "features": [
@@ -108,12 +104,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Free Spins"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "scatter",
+      "name": "Scatter"
     },
     {
-      "slug": "retrigger",
-      "name": "Retrigger"
+      "slug": "sticky_wild",
+      "name": "Sticky Wild"
     }
   ],
   "assets": {
@@ -122,48 +118,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/alien-fruits-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/penny-pelican-b10/"
     }
-  },
-  "series": {
-    "slug": "alien-fruits",
-    "name": "Alien Fruits"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/alien-fruits-b10/demand/`
+`GET /api/v1/slots/penny-pelican-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/alien-fruits-b10/demand/
+  https://i-gaming.tools/api/v1/slots/penny-pelican-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,700 · **trend:** growing · YoY +25.9%
+**12-month volume (illustrative):** 1,620 · **trend:** flat · YoY -1.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 280 | flat |
-| Canada | 140 | growing |
-| Greece | 120 | flat |
-| New Zealand | 120 | flat |
-| Australia | 90 | growing |
-| Germany | 90 | flat |
-| Netherlands | 80 | growing |
-| United Kingdom | 80 | declining |
-| Bulgaria | 70 | declining |
-| Finland | 60 | flat |
+| Greece | 260 | declining |
+| United States | 240 | growing |
+| Finland | 140 | declining |
+| Australia | 120 | flat |
+| Cyprus | 110 | declining |
+| Germany | 80 | flat |
+| Sweden | 70 | declining |
+| Canada | 60 | flat |
+| Netherlands | 60 | flat |
+| Switzerland | 60 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (25 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/alien-fruits-b10/
-- **Public page:** https://i-gaming.tools/slot-games/alien-fruits-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/penny-pelican-b10/
+- **Public page:** https://i-gaming.tools/slot-games/penny-pelican-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

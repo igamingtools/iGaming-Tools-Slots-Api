@@ -116,7 +116,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/street-power-b10/demand/
 ```
 
-**12-month volume (illustrative):** 110 · **trend:** declining · YoY -63.3%
+**12-month volume (illustrative):** 120 · **trend:** declining · YoY -61.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -129,8 +129,9 @@ curl -H "Authorization: Token $TOKEN" \
 | Italy | 10 | flat |
 | Netherlands | 10 | flat |
 | Portugal | 10 | flat |
+| Turkey | 10 | flat |
 
-> Full per-country breakdown (7 markets) via the /demand/ endpoint.
+> Full per-country breakdown (8 markets) via the /demand/ endpoint.
 
 ## Links
 

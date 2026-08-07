@@ -1,4 +1,4 @@
-# Face Off
+# Lucky Ducky X\-mas
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/face-off-b10/`
+`GET /api/v1/slots/lucky-ducky-x-mas-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/face-off-b10/
+  https://i-gaming.tools/api/v1/slots/lucky-ducky-x-mas-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/face-off-b10/",
+    "https://i-gaming.tools/api/v1/slots/lucky-ducky-x-mas-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/face-off-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/lucky-ducky-x-mas-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/face-off-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/lucky-ducky-x-mas-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,50 +53,58 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "face-off-b10",
-  "name": "Face Off",
+  "slug": "lucky-ducky-x-mas-b10",
+  "name": "Lucky Ducky X-mas",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "95.97",
+  "rtp_default": "97.25",
   "rtp_variants": [
     {
-      "rtp": "95.97",
+      "rtp": "97.25",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.00",
-      "variant": "ante_bet",
+      "rtp": "97.25",
+      "variant": "bonus_buy",
       "is_default": false
     },
     {
-      "rtp": "96.03",
+      "rtp": "97.25",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "high",
-  "mechanic": "scatter_pays",
+  "volatility": "very_high",
+  "mechanic": "cluster",
   "reels": 6,
-  "rows": 5,
-  "jackpot_type": "none",
+  "rows": 6,
+  "jackpot_type": "unknown",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Buy Free Spins",
+      "label": "Buy Bonus",
       "cost": "100.00",
       "is_default": true
     }
   ],
-  "release_date": "2025-10-06",
+  "release_date": "2024-12-17",
   "themes": [
     {
-      "slug": "horror",
-      "name": "Horror"
+      "slug": "birds",
+      "name": "Birds"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "toys",
+      "name": "Toys"
     }
   ],
   "features": [
@@ -105,12 +113,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Ante Bet"
     },
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "cluster_pays",
+      "name": "Cluster Pays"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "free_spins",
+      "name": "Free Spins"
     }
   ],
   "assets": {
@@ -119,7 +127,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/face-off-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/lucky-ducky-x-mas-b10/"
     }
   }
 }
@@ -127,36 +135,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/face-off-b10/demand/`
+`GET /api/v1/slots/lucky-ducky-x-mas-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/face-off-b10/demand/
+  https://i-gaming.tools/api/v1/slots/lucky-ducky-x-mas-b10/demand/
 ```
-
-**12-month volume (illustrative):** 820 · **trend:** flat
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Finland | 140 | declining |
-| United States | 120 | flat |
-| Germany | 70 | flat |
-| Greece | 50 | declining |
-| Canada | 40 | flat |
-| Poland | 40 | declining |
-| United Kingdom | 40 | flat |
-| Australia | 30 | flat |
-| Cyprus | 30 | declining |
-| France | 30 | growing |
-
-> Full per-country breakdown (21 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/face-off-b10/
-- **Public page:** https://i-gaming.tools/slot-games/face-off-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/lucky-ducky-x-mas-b10/
+- **Public page:** https://i-gaming.tools/slot-games/lucky-ducky-x-mas-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

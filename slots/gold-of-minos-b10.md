@@ -1,4 +1,4 @@
-# Hottest 666
+# Gold Of Minos
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/hottest-666-b10/`
+`GET /api/v1/slots/gold-of-minos-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/hottest-666-b10/
+  https://i-gaming.tools/api/v1/slots/gold-of-minos-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/hottest-666-b10/",
+    "https://i-gaming.tools/api/v1/slots/gold-of-minos-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/hottest-666-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/gold-of-minos-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/hottest-666-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/gold-of-minos-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,8 +53,8 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "hottest-666-b10",
-  "name": "Hottest 666",
+  "slug": "gold-of-minos-b10",
+  "name": "Gold Of Minos",
   "status": "active",
   "provider": {
     "slug": "bgaming",
@@ -74,46 +74,43 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": false
     }
   ],
-  "volatility": "very_high",
-  "mechanic": "lines",
+  "volatility": "med_high",
+  "mechanic": "ways",
   "reels": 5,
   "rows": 3,
-  "jackpot_type": "unknown",
+  "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Buy Bonus Game",
-      "cost": "80.00",
+      "label": "Bonus on Reel 1-3",
+      "cost": "12.00",
       "is_default": true
+    },
+    {
+      "label": "Bonus on Reel 4",
+      "cost": "50.00",
+      "is_default": false
     }
   ],
-  "release_date": "2023-12-20",
+  "release_date": "2024-06-06",
   "themes": [
     {
-      "slug": "classic",
-      "name": "Classic"
-    },
-    {
-      "slug": "fire",
-      "name": "Fire"
-    },
-    {
-      "slug": "fruits",
-      "name": "Fruits"
+      "slug": "ancient-greece",
+      "name": "Ancient Greece"
     }
   ],
   "features": [
     {
-      "slug": "bonus-game",
-      "name": "Bonus Game"
+      "slug": "expanding_wild",
+      "name": "Expanding Wild"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "progressive_multiplier",
+      "name": "Progressive Multiplier"
     },
     {
-      "slug": "random-wilds",
-      "name": "Random Wilds"
+      "slug": "respin",
+      "name": "Respin"
     }
   ],
   "assets": {
@@ -122,7 +119,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/hottest-666-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/gold-of-minos-b10/"
     }
   }
 }
@@ -130,35 +127,36 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/hottest-666-b10/demand/`
+`GET /api/v1/slots/gold-of-minos-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/hottest-666-b10/demand/
+  https://i-gaming.tools/api/v1/slots/gold-of-minos-b10/demand/
 ```
 
-**12-month volume (illustrative):** 260 · **trend:** declining · YoY -35.0%
+**12-month volume (illustrative):** 710 · **trend:** declining · YoY -54.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 60 | declining |
-| Greece | 60 | flat |
-| Germany | 30 | flat |
-| Switzerland | 30 | flat |
-| Latvia | 20 | flat |
-| Poland | 20 | declining |
-| United Kingdom | 20 | growing |
-| Brazil | 10 | flat |
-| Italy | 10 | declining |
+| Brazil | 130 | flat |
+| Greece | 90 | flat |
+| United States | 60 | flat |
+| Australia | 50 | growing |
+| Belarus | 40 | flat |
+| Canada | 40 | flat |
+| Finland | 40 | flat |
+| Germany | 40 | flat |
+| Switzerland | 30 | growing |
+| Cyprus | 20 | flat |
 
-> Full per-country breakdown (9 markets) via the /demand/ endpoint.
+> Full per-country breakdown (22 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/hottest-666-b10/
-- **Public page:** https://i-gaming.tools/slot-games/hottest-666-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/gold-of-minos-b10/
+- **Public page:** https://i-gaming.tools/slot-games/gold-of-minos-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

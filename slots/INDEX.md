@@ -5,16 +5,7 @@
 | Fish Eye | Pragmatic Play | [doc](fish-eye-b7.md) | [live](https://i-gaming.tools/slot-games/fish-eye-b7/) |
 | Treasure of Anubis | BGaming | [doc](treasure-of-anubis-b10.md) | [live](https://i-gaming.tools/slot-games/treasure-of-anubis-b10/) |
 | Maneki 88 Gold | BGaming | [doc](maneki-88-gold-b10.md) | [live](https://i-gaming.tools/slot-games/maneki-88-gold-b10/) |
-| Wild Clusters | BGaming | [doc](wild-clusters-b10.md) | [live](https://i-gaming.tools/slot-games/wild-clusters-b10/) |
-| Chicken Rush | BGaming | [doc](chicken-rush-b10.md) | [live](https://i-gaming.tools/slot-games/chicken-rush-b10/) |
-| Hottest 666 | BGaming | [doc](hottest-666-b10.md) | [live](https://i-gaming.tools/slot-games/hottest-666-b10/) |
 | Four Lucky Clover | BGaming | [doc](four-lucky-clover-b10.md) | [live](https://i-gaming.tools/slot-games/four-lucky-clover-b10/) |
-| Penny Pelican | BGaming | [doc](penny-pelican-b10.md) | [live](https://i-gaming.tools/slot-games/penny-pelican-b10/) |
-| Bonanza Billion X\-mas | BGaming | [doc](bonanza-billion-x-mas-b10.md) | [live](https://i-gaming.tools/slot-games/bonanza-billion-x-mas-b10/) |
-| Panda Fortune Rush | BGaming | [doc](panda-fortune-rush-b10.md) | [live](https://i-gaming.tools/slot-games/panda-fortune-rush-b10/) |
-| Lucky Ducky X\-mas | BGaming | [doc](lucky-ducky-x-mas-b10.md) | [live](https://i-gaming.tools/slot-games/lucky-ducky-x-mas-b10/) |
-| Lucky 8 Merge Up™ | BGaming | [doc](lucky-8-merge-uptm-b10.md) | [live](https://i-gaming.tools/slot-games/lucky-8-merge-uptm-b10/) |
-| Lucky Pack: 2026 Cup | BGaming | [doc](lucky-pack-2026-cup-b10.md) | [live](https://i-gaming.tools/slot-games/lucky-pack-2026-cup-b10/) |
 | Great Reef | Pragmatic Play | [doc](great-reef-b7.md) | [live](https://i-gaming.tools/slot-games/great-reef-b7/) |
 | Lucky Grace And Charm | Pragmatic Play | [doc](lucky-grace-and-charm-b7.md) | [live](https://i-gaming.tools/slot-games/lucky-grace-and-charm-b7/) |
 | Panther Queen | Pragmatic Play | [doc](panther-queen-b7.md) | [live](https://i-gaming.tools/slot-games/panther-queen-b7/) |
@@ -26,32 +17,21 @@
 | Royal Roulette 500X | BGaming | [doc](royal-roulette-500x-b10.md) | [live](https://i-gaming.tools/slot-games/royal-roulette-500x-b10/) |
 | Scratch Dice | BGaming | [doc](scratch-dice-b10.md) | [live](https://i-gaming.tools/slot-games/scratch-dice-b10/) |
 | The Godfather: 3 Pillars of Power | BGaming | [doc](the-godfather-3-pillars-of-power-b10.md) | [live](https://i-gaming.tools/slot-games/the-godfather-3-pillars-of-power-b10/) |
-| Wild Tiger 2 | BGaming | [doc](wild-tiger-2-b10.md) | [live](https://i-gaming.tools/slot-games/wild-tiger-2-b10/) |
-| Burning Chilli 243 | BGaming | [doc](burning-chilli-243-b10.md) | [live](https://i-gaming.tools/slot-games/burning-chilli-243-b10/) |
 | God of Wealth Hold And Win | BGaming | [doc](god-of-wealth-hold-and-win-b10.md) | [live](https://i-gaming.tools/slot-games/god-of-wealth-hold-and-win-b10/) |
-| Genie's Gem Bonanza | Pragmatic Play | [doc](genie-s-gem-bonanza-b7.md) | [live](https://i-gaming.tools/slot-games/genie-s-gem-bonanza-b7/) |
 | Lucky Turkey | BGaming | [doc](lucky-turkey-b10.md) | [live](https://i-gaming.tools/slot-games/lucky-turkey-b10/) |
+| Genie's Gem Bonanza | Pragmatic Play | [doc](genie-s-gem-bonanza-b7.md) | [live](https://i-gaming.tools/slot-games/genie-s-gem-bonanza-b7/) |
 | Lucky Crew | BGaming | [doc](lucky-crew-b10.md) | [live](https://i-gaming.tools/slot-games/lucky-crew-b10/) |
 | Gift X | BGaming | [doc](gift-x-b10.md) | [live](https://i-gaming.tools/slot-games/gift-x-b10/) |
 | Fishing Club 2 | BGaming | [doc](fishing-club-2-b10.md) | [live](https://i-gaming.tools/slot-games/fishing-club-2-b10/) |
 | Totally Hot | BGaming | [doc](totally-hot-b10.md) | [live](https://i-gaming.tools/slot-games/totally-hot-b10/) |
 | Blazing Fire Pots Hold & Spin | BGaming | [doc](blazing-fire-pots-hold-spin-b10.md) | [live](https://i-gaming.tools/slot-games/blazing-fire-pots-hold-spin-b10/) |
 | Yokai | BGaming | [doc](yokai-b10.md) | [live](https://i-gaming.tools/slot-games/yokai-b10/) |
-| Train Heist Johnny Cash | BGaming | [doc](train-heist-johnny-cash-b10.md) | [live](https://i-gaming.tools/slot-games/train-heist-johnny-cash-b10/) |
-| Keepers Of The Secret | BGaming | [doc](keepers-of-the-secret-b10.md) | [live](https://i-gaming.tools/slot-games/keepers-of-the-secret-b10/) |
-| Bonanza Billion Xtreme | BGaming | [doc](bonanza-billion-xtreme-b10.md) | [live](https://i-gaming.tools/slot-games/bonanza-billion-xtreme-b10/) |
-| Aloha King Elvis X\-mas | BGaming | [doc](aloha-king-elvis-x-mas-b10.md) | [live](https://i-gaming.tools/slot-games/aloha-king-elvis-x-mas-b10/) |
-| Doomsday Saloon | BGaming | [doc](doomsday-saloon-b10.md) | [live](https://i-gaming.tools/slot-games/doomsday-saloon-b10/) |
-| Lady Wolf Moon | BGaming | [doc](lady-wolf-moon-b10.md) | [live](https://i-gaming.tools/slot-games/lady-wolf-moon-b10/) |
-| Halloween Bonanza | BGaming | [doc](halloween-bonanza-b10.md) | [live](https://i-gaming.tools/slot-games/halloween-bonanza-b10/) |
-| Alien Fruits | BGaming | [doc](alien-fruits-b10.md) | [live](https://i-gaming.tools/slot-games/alien-fruits-b10/) |
 | Train to Rio Grande | BGaming | [doc](train-to-rio-grande-b10.md) | [live](https://i-gaming.tools/slot-games/train-to-rio-grande-b10/) |
 | Reel of Ra | BGaming | [doc](reel-of-ra-b10.md) | [live](https://i-gaming.tools/slot-games/reel-of-ra-b10/) |
 | Catdiana | BGaming | [doc](catdiana-b10.md) | [live](https://i-gaming.tools/slot-games/catdiana-b10/) |
 | Fishing Time | BGaming | [doc](fishing-time-b10.md) | [live](https://i-gaming.tools/slot-games/fishing-time-b10/) |
 | Alien Fruits 2 | BGaming | [doc](alien-fruits-2-b10.md) | [live](https://i-gaming.tools/slot-games/alien-fruits-2-b10/) |
 | Panda's Wealth | BGaming | [doc](panda-s-wealth-b10.md) | [live](https://i-gaming.tools/slot-games/panda-s-wealth-b10/) |
-| Wild Card Gang | BGaming | [doc](wild-card-gang-b10.md) | [live](https://i-gaming.tools/slot-games/wild-card-gang-b10/) |
 | Aztec Bonanza | Pragmatic Play | [doc](aztec-bonanza-b7.md) | [live](https://i-gaming.tools/slot-games/aztec-bonanza-b7/) |
 | Penalty Duel | BGaming | [doc](penalty-duel-b10.md) | [live](https://i-gaming.tools/slot-games/penalty-duel-b10/) |
 | Frozen Fruit | BGaming | [doc](frozen-fruit-b10.md) | [live](https://i-gaming.tools/slot-games/frozen-fruit-b10/) |
@@ -60,45 +40,86 @@
 | Road 2 Riches | BGaming | [doc](road-2-riches-b10.md) | [live](https://i-gaming.tools/slot-games/road-2-riches-b10/) |
 | Cat's Soup | BGaming | [doc](cat-s-soup-b10.md) | [live](https://i-gaming.tools/slot-games/cat-s-soup-b10/) |
 | King of Cash | BGaming | [doc](king-of-cash-b10.md) | [live](https://i-gaming.tools/slot-games/king-of-cash-b10/) |
-| Aztec Magic Bonanza | BGaming | [doc](aztec-magic-bonanza-b10.md) | [live](https://i-gaming.tools/slot-games/aztec-magic-bonanza-b10/) |
-| Mummy's Gold | BGaming | [doc](mummy-s-gold-b10.md) | [live](https://i-gaming.tools/slot-games/mummy-s-gold-b10/) |
 | 8 Dragons | Pragmatic Play | [doc](8-dragons-b7.md) | [live](https://i-gaming.tools/slot-games/8-dragons-b7/) |
-| Fruit Million St\.Valentines | BGaming | [doc](fruit-million-st-valentines-b10.md) | [live](https://i-gaming.tools/slot-games/fruit-million-st-valentines-b10/) |
-| Miss Cherry Fruits St\.Valentines | BGaming | [doc](miss-cherry-fruits-st-valentines-b10.md) | [live](https://i-gaming.tools/slot-games/miss-cherry-fruits-st-valentines-b10/) |
+| Mummy's Gold | BGaming | [doc](mummy-s-gold-b10.md) | [live](https://i-gaming.tools/slot-games/mummy-s-gold-b10/) |
+| Wild Heart | BGaming | [doc](wild-heart-b10.md) | [live](https://i-gaming.tools/slot-games/wild-heart-b10/) |
+| Aviamasters | BGaming | [doc](aviamasters-b10.md) | [live](https://i-gaming.tools/slot-games/aviamasters-b10/) |
+| Platinum Lightning Deluxe | BGaming | [doc](platinum-lightning-deluxe-b10.md) | [live](https://i-gaming.tools/slot-games/platinum-lightning-deluxe-b10/) |
+| Multi Rush | BGaming | [doc](multi-rush-b10.md) | [live](https://i-gaming.tools/slot-games/multi-rush-b10/) |
+| Derby Rush | BGaming | [doc](derby-rush-b10.md) | [live](https://i-gaming.tools/slot-games/derby-rush-b10/) |
+| Top Eagle | BGaming | [doc](top-eagle-b10.md) | [live](https://i-gaming.tools/slot-games/top-eagle-b10/) |
+| HOT ROCKET 5x 3x 2x | BGaming | [doc](hot-rocket-5x-3x-2x-b10.md) | [live](https://i-gaming.tools/slot-games/hot-rocket-5x-3x-2x-b10/) |
 | Candy Monsta | BGaming | [doc](candy-monsta-b10.md) | [live](https://i-gaming.tools/slot-games/candy-monsta-b10/) |
 | Ultra Burn | Pragmatic Play | [doc](ultra-burn-b7.md) | [live](https://i-gaming.tools/slot-games/ultra-burn-b7/) |
 | Triple Pot Gold | Pragmatic Play | [doc](triple-pot-gold-b7.md) | [live](https://i-gaming.tools/slot-games/triple-pot-gold-b7/) |
 | Sweet Rush Bonanza | Pragmatic Play | [doc](sweet-rush-bonanza-b7.md) | [live](https://i-gaming.tools/slot-games/sweet-rush-bonanza-b7/) |
+| Wild Clusters | BGaming | [doc](wild-clusters-b10.md) | [live](https://i-gaming.tools/slot-games/wild-clusters-b10/) |
+| Fortune Bells | BGaming | [doc](fortune-bells-b10.md) | [live](https://i-gaming.tools/slot-games/fortune-bells-b10/) |
+| Chicken Rush | BGaming | [doc](chicken-rush-b10.md) | [live](https://i-gaming.tools/slot-games/chicken-rush-b10/) |
+| Hottest 666 | BGaming | [doc](hottest-666-b10.md) | [live](https://i-gaming.tools/slot-games/hottest-666-b10/) |
+| Lady Lucky Gun | BGaming | [doc](lady-lucky-gun-b10.md) | [live](https://i-gaming.tools/slot-games/lady-lucky-gun-b10/) |
+| Loki Loot | BGaming | [doc](loki-loot-b10.md) | [live](https://i-gaming.tools/slot-games/loki-loot-b10/) |
+| Lucky Farm Bonanza Easter | BGaming | [doc](lucky-farm-bonanza-easter-b10.md) | [live](https://i-gaming.tools/slot-games/lucky-farm-bonanza-easter-b10/) |
+| Platinum Lightning | BGaming | [doc](platinum-lightning-b10.md) | [live](https://i-gaming.tools/slot-games/platinum-lightning-b10/) |
+| Penny Pelican | BGaming | [doc](penny-pelican-b10.md) | [live](https://i-gaming.tools/slot-games/penny-pelican-b10/) |
 | Lucky Dog | Pragmatic Play | [doc](lucky-dog-b7.md) | [live](https://i-gaming.tools/slot-games/lucky-dog-b7/) |
 | Extra Juicy Megaways | Pragmatic Play | [doc](extra-juicy-megaways-b7.md) | [live](https://i-gaming.tools/slot-games/extra-juicy-megaways-b7/) |
 | Gates of Olympus Super Scatter | Pragmatic Play | [doc](gates-of-olympus-super-scatter-b7.md) | [live](https://i-gaming.tools/slot-games/gates-of-olympus-super-scatter-b7/) |
+| Bonanza Billion X\-mas | BGaming | [doc](bonanza-billion-x-mas-b10.md) | [live](https://i-gaming.tools/slot-games/bonanza-billion-x-mas-b10/) |
+| Plinko 2 Halloween | BGaming | [doc](plinko-2-halloween-b10.md) | [live](https://i-gaming.tools/slot-games/plinko-2-halloween-b10/) |
+| Panda Fortune Rush | BGaming | [doc](panda-fortune-rush-b10.md) | [live](https://i-gaming.tools/slot-games/panda-fortune-rush-b10/) |
+| Lucky Ducky X\-mas | BGaming | [doc](lucky-ducky-x-mas-b10.md) | [live](https://i-gaming.tools/slot-games/lucky-ducky-x-mas-b10/) |
+| Lucky 8 Merge Up™ | BGaming | [doc](lucky-8-merge-uptm-b10.md) | [live](https://i-gaming.tools/slot-games/lucky-8-merge-uptm-b10/) |
+| Lucky Pack: 2026 Cup | BGaming | [doc](lucky-pack-2026-cup-b10.md) | [live](https://i-gaming.tools/slot-games/lucky-pack-2026-cup-b10/) |
+| Alien Fruits | BGaming | [doc](alien-fruits-b10.md) | [live](https://i-gaming.tools/slot-games/alien-fruits-b10/) |
+| Wild Tiger 2 | BGaming | [doc](wild-tiger-2-b10.md) | [live](https://i-gaming.tools/slot-games/wild-tiger-2-b10/) |
+| Burning Chilli 243 | BGaming | [doc](burning-chilli-243-b10.md) | [live](https://i-gaming.tools/slot-games/burning-chilli-243-b10/) |
+| Train Heist Johnny Cash | BGaming | [doc](train-heist-johnny-cash-b10.md) | [live](https://i-gaming.tools/slot-games/train-heist-johnny-cash-b10/) |
+| Keepers Of The Secret | BGaming | [doc](keepers-of-the-secret-b10.md) | [live](https://i-gaming.tools/slot-games/keepers-of-the-secret-b10/) |
+| Piggy Bank Hold&Win | BGaming | [doc](piggy-bank-hold-win-b10.md) | [live](https://i-gaming.tools/slot-games/piggy-bank-hold-win-b10/) |
+| Bonanza Billion Xtreme | BGaming | [doc](bonanza-billion-xtreme-b10.md) | [live](https://i-gaming.tools/slot-games/bonanza-billion-xtreme-b10/) |
+| Aloha King Elvis X\-mas | BGaming | [doc](aloha-king-elvis-x-mas-b10.md) | [live](https://i-gaming.tools/slot-games/aloha-king-elvis-x-mas-b10/) |
 | Ancient Egypt Classic | Pragmatic Play | [doc](ancient-egypt-classic-b7.md) | [live](https://i-gaming.tools/slot-games/ancient-egypt-classic-b7/) |
+| Doomsday Saloon | BGaming | [doc](doomsday-saloon-b10.md) | [live](https://i-gaming.tools/slot-games/doomsday-saloon-b10/) |
+| Lady Wolf Moon | BGaming | [doc](lady-wolf-moon-b10.md) | [live](https://i-gaming.tools/slot-games/lady-wolf-moon-b10/) |
+| Halloween Bonanza | BGaming | [doc](halloween-bonanza-b10.md) | [live](https://i-gaming.tools/slot-games/halloween-bonanza-b10/) |
 | Alchemist Bonanza | BGaming | [doc](alchemist-bonanza-b10.md) | [live](https://i-gaming.tools/slot-games/alchemist-bonanza-b10/) |
+| Wild Card Gang | BGaming | [doc](wild-card-gang-b10.md) | [live](https://i-gaming.tools/slot-games/wild-card-gang-b10/) |
 | Sweet Bonanza 1000 | Pragmatic Play | [doc](sweet-bonanza-1000-b7.md) | [live](https://i-gaming.tools/slot-games/sweet-bonanza-1000-b7/) |
+| Aztec Magic Bonanza | BGaming | [doc](aztec-magic-bonanza-b10.md) | [live](https://i-gaming.tools/slot-games/aztec-magic-bonanza-b10/) |
+| Aztec's Claw Wild Dice | BGaming | [doc](aztec-s-claw-wild-dice-b10.md) | [live](https://i-gaming.tools/slot-games/aztec-s-claw-wild-dice-b10/) |
+| Avalon: The Lost Kingdom | BGaming | [doc](avalon-the-lost-kingdom-b10.md) | [live](https://i-gaming.tools/slot-games/avalon-the-lost-kingdom-b10/) |
+| Luck & Magic Scratch | BGaming | [doc](luck-magic-scratch-b10.md) | [live](https://i-gaming.tools/slot-games/luck-magic-scratch-b10/) |
+| Lucky Dragon MultiDice X | BGaming | [doc](lucky-dragon-multidice-x-b10.md) | [live](https://i-gaming.tools/slot-games/lucky-dragon-multidice-x-b10/) |
+| Fruit Million St\.Valentines | BGaming | [doc](fruit-million-st-valentines-b10.md) | [live](https://i-gaming.tools/slot-games/fruit-million-st-valentines-b10/) |
+| Scratch Alpaca Bronze | BGaming | [doc](scratch-alpaca-bronze-b10.md) | [live](https://i-gaming.tools/slot-games/scratch-alpaca-bronze-b10/) |
+| Miss Cherry Fruits St\.Valentines | BGaming | [doc](miss-cherry-fruits-st-valentines-b10.md) | [live](https://i-gaming.tools/slot-games/miss-cherry-fruits-st-valentines-b10/) |
+| Sakura Riches 60 | BGaming | [doc](sakura-riches-60-b10.md) | [live](https://i-gaming.tools/slot-games/sakura-riches-60-b10/) |
+| Gold Rush Frog | BGaming | [doc](gold-rush-frog-b10.md) | [live](https://i-gaming.tools/slot-games/gold-rush-frog-b10/) |
 | Capymania Yellow | BGaming | [doc](capymania-yellow-b10.md) | [live](https://i-gaming.tools/slot-games/capymania-yellow-b10/) |
 | Gift Rush | BGaming | [doc](gift-rush-b10.md) | [live](https://i-gaming.tools/slot-games/gift-rush-b10/) |
+| Gold Of Minos | BGaming | [doc](gold-of-minos-b10.md) | [live](https://i-gaming.tools/slot-games/gold-of-minos-b10/) |
 | Vegas Nights | Pragmatic Play | [doc](vegas-nights-b7.md) | [live](https://i-gaming.tools/slot-games/vegas-nights-b7/) |
+| Easter Heist | BGaming | [doc](easter-heist-b10.md) | [live](https://i-gaming.tools/slot-games/easter-heist-b10/) |
 | Magic Crystals | Pragmatic Play | [doc](magic-crystals-b7.md) | [live](https://i-gaming.tools/slot-games/magic-crystals-b7/) |
 | Sweet Rush MEGAWAYS™ | BGaming | [doc](sweet-rush-megawaystm-b10.md) | [live](https://i-gaming.tools/slot-games/sweet-rush-megawaystm-b10/) |
 | Dwarven Gold Deluxe | Pragmatic Play | [doc](dwarven-gold-deluxe-b7.md) | [live](https://i-gaming.tools/slot-games/dwarven-gold-deluxe-b7/) |
-| Wild Heart | BGaming | [doc](wild-heart-b10.md) | [live](https://i-gaming.tools/slot-games/wild-heart-b10/) |
 | Slot Machine | BGaming | [doc](slot-machine-b10.md) | [live](https://i-gaming.tools/slot-games/slot-machine-b10/) |
-| Aviamasters | BGaming | [doc](aviamasters-b10.md) | [live](https://i-gaming.tools/slot-games/aviamasters-b10/) |
 | Backyard Grill | BGaming | [doc](backyard-grill-b10.md) | [live](https://i-gaming.tools/slot-games/backyard-grill-b10/) |
+| Tropical Tiki | Pragmatic Play | [doc](tropical-tiki-b7.md) | [live](https://i-gaming.tools/slot-games/tropical-tiki-b7/) |
 | Chicken Rush 2 | BGaming | [doc](chicken-rush-2-b10.md) | [live](https://i-gaming.tools/slot-games/chicken-rush-2-b10/) |
 | Stars & Stripes Hold and Win | BGaming | [doc](stars-stripes-hold-and-win-b10.md) | [live](https://i-gaming.tools/slot-games/stars-stripes-hold-and-win-b10/) |
 | Jungle Queen | BGaming | [doc](jungle-queen-b10.md) | [live](https://i-gaming.tools/slot-games/jungle-queen-b10/) |
-| Tropical Tiki | Pragmatic Play | [doc](tropical-tiki-b7.md) | [live](https://i-gaming.tools/slot-games/tropical-tiki-b7/) |
 | Mystic Reels | BGaming | [doc](mystic-reels-b10.md) | [live](https://i-gaming.tools/slot-games/mystic-reels-b10/) |
 | Fortuna Trueways | BGaming | [doc](fortuna-trueways-b10.md) | [live](https://i-gaming.tools/slot-games/fortuna-trueways-b10/) |
-| Grand Mustang | BGaming | [doc](grand-mustang-b10.md) | [live](https://i-gaming.tools/slot-games/grand-mustang-b10/) |
-| Fruit Million Halloween | BGaming | [doc](fruit-million-halloween-b10.md) | [live](https://i-gaming.tools/slot-games/fruit-million-halloween-b10/) |
-| Chicken Shot | BGaming | [doc](chicken-shot-b10.md) | [live](https://i-gaming.tools/slot-games/chicken-shot-b10/) |
-| Book of Kemet | BGaming | [doc](book-of-kemet-b10.md) | [live](https://i-gaming.tools/slot-games/book-of-kemet-b10/) |
 | Tales of Egypt | Pragmatic Play | [doc](tales-of-egypt-b7.md) | [live](https://i-gaming.tools/slot-games/tales-of-egypt-b7/) |
 | Fire Strike | Pragmatic Play | [doc](fire-strike-b7.md) | [live](https://i-gaming.tools/slot-games/fire-strike-b7/) |
 | 3 Buzzing Wilds | Pragmatic Play | [doc](3-buzzing-wilds-b7.md) | [live](https://i-gaming.tools/slot-games/3-buzzing-wilds-b7/) |
 | Treasure Wild | Pragmatic Play | [doc](treasure-wild-b7.md) | [live](https://i-gaming.tools/slot-games/treasure-wild-b7/) |
+| Grand Mustang | BGaming | [doc](grand-mustang-b10.md) | [live](https://i-gaming.tools/slot-games/grand-mustang-b10/) |
+| Fruit Million Halloween | BGaming | [doc](fruit-million-halloween-b10.md) | [live](https://i-gaming.tools/slot-games/fruit-million-halloween-b10/) |
+| Chicken Shot | BGaming | [doc](chicken-shot-b10.md) | [live](https://i-gaming.tools/slot-games/chicken-shot-b10/) |
+| Book of Kemet | BGaming | [doc](book-of-kemet-b10.md) | [live](https://i-gaming.tools/slot-games/book-of-kemet-b10/) |
 | French Roulette | BGaming | [doc](french-roulette-b10.md) | [live](https://i-gaming.tools/slot-games/french-roulette-b10/) |
 | Diamond Strike Scratchcard | Pragmatic Play | [doc](diamond-strike-scratchcard-b7.md) | [live](https://i-gaming.tools/slot-games/diamond-strike-scratchcard-b7/) |
 | Beast Band | BGaming | [doc](beast-band-b10.md) | [live](https://i-gaming.tools/slot-games/beast-band-b10/) |
@@ -115,16 +136,16 @@
 | Divine Queen: Heart of Ice | BGaming | [doc](divine-queen-heart-of-ice-b10.md) | [live](https://i-gaming.tools/slot-games/divine-queen-heart-of-ice-b10/) |
 | Miss Cherry Fruits Jackpot Party | BGaming | [doc](miss-cherry-fruits-jackpot-party-b10.md) | [live](https://i-gaming.tools/slot-games/miss-cherry-fruits-jackpot-party-b10/) |
 | Scratch Alpaca Gold | BGaming | [doc](scratch-alpaca-gold-b10.md) | [live](https://i-gaming.tools/slot-games/scratch-alpaca-gold-b10/) |
+| Mochimon | Pragmatic Play | [doc](mochimon-b7.md) | [live](https://i-gaming.tools/slot-games/mochimon-b7/) |
+| Forging Wilds | Pragmatic Play | [doc](forging-wilds-b7.md) | [live](https://i-gaming.tools/slot-games/forging-wilds-b7/) |
+| Wild Gladiators | Pragmatic Play | [doc](wild-gladiators-b7.md) | [live](https://i-gaming.tools/slot-games/wild-gladiators-b7/) |
+| Bounty Gold | Pragmatic Play | [doc](bounty-gold-b7.md) | [live](https://i-gaming.tools/slot-games/bounty-gold-b7/) |
 | Doddy And Haddzy Bonanza | BGaming | [doc](doddy-and-haddzy-bonanza-b10.md) | [live](https://i-gaming.tools/slot-games/doddy-and-haddzy-bonanza-b10/) |
 | Penalty Duel with Júlio César | BGaming | [doc](penalty-duel-with-j-lio-c-sar-b10.md) | [live](https://i-gaming.tools/slot-games/penalty-duel-with-j-lio-c-sar-b10/) |
 | Golden Pinata Hold and Win | BGaming | [doc](golden-pinata-hold-and-win-b10.md) | [live](https://i-gaming.tools/slot-games/golden-pinata-hold-and-win-b10/) |
 | Dragon Age Hold & Win | BGaming | [doc](dragon-age-hold-win-b10.md) | [live](https://i-gaming.tools/slot-games/dragon-age-hold-win-b10/) |
 | Lady Wolf Moon MEGAWAYS™ | BGaming | [doc](lady-wolf-moon-megawaystm-b10.md) | [live](https://i-gaming.tools/slot-games/lady-wolf-moon-megawaystm-b10/) |
 | OOF The Goldmine Planet | BGaming | [doc](oof-the-goldmine-planet-b10.md) | [live](https://i-gaming.tools/slot-games/oof-the-goldmine-planet-b10/) |
-| Mochimon | Pragmatic Play | [doc](mochimon-b7.md) | [live](https://i-gaming.tools/slot-games/mochimon-b7/) |
-| Forging Wilds | Pragmatic Play | [doc](forging-wilds-b7.md) | [live](https://i-gaming.tools/slot-games/forging-wilds-b7/) |
-| Wild Gladiators | Pragmatic Play | [doc](wild-gladiators-b7.md) | [live](https://i-gaming.tools/slot-games/wild-gladiators-b7/) |
-| Bounty Gold | Pragmatic Play | [doc](bounty-gold-b7.md) | [live](https://i-gaming.tools/slot-games/bounty-gold-b7/) |
 | Golden Paw: Hold & Win | BGaming | [doc](golden-paw-hold-win-b10.md) | [live](https://i-gaming.tools/slot-games/golden-paw-hold-win-b10/) |
 | Street Power | BGaming | [doc](street-power-b10.md) | [live](https://i-gaming.tools/slot-games/street-power-b10/) |
 | 3 Genie Wishes | Pragmatic Play | [doc](3-genie-wishes-b7.md) | [live](https://i-gaming.tools/slot-games/3-genie-wishes-b7/) |

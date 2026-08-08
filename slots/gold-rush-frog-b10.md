@@ -1,4 +1,4 @@
-# Chicken Rush
+# Gold Rush Frog
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/chicken-rush-b10/`
+`GET /api/v1/slots/gold-rush-frog-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/chicken-rush-b10/
+  https://i-gaming.tools/api/v1/slots/gold-rush-frog-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/chicken-rush-b10/",
+    "https://i-gaming.tools/api/v1/slots/gold-rush-frog-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/chicken-rush-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/gold-rush-frog-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/chicken-rush-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/gold-rush-frog-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,42 +53,46 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "chicken-rush-b10",
-  "name": "Chicken Rush",
+  "slug": "gold-rush-frog-b10",
+  "name": "Gold Rush Frog",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "97.00",
+  "rtp_default": "96.70",
   "rtp_variants": [
     {
-      "rtp": "97.00",
+      "rtp": "96.70",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "med_high",
-  "mechanic": "ways",
-  "reels": 5,
-  "rows": 5,
-  "jackpot_type": "none",
+  "volatility": "very_high",
+  "mechanic": "megaways",
+  "reels": 6,
+  "rows": null,
+  "jackpot_type": "fixed",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Bronze",
-      "cost": "50.00",
+      "label": "Free Spins",
+      "cost": "100.00",
       "is_default": true
     },
     {
-      "label": "Silver",
+      "label": "Coin Respin",
       "cost": "100.00",
       "is_default": false
     }
   ],
-  "release_date": "2024-05-15",
+  "release_date": "2023-03-29",
   "themes": [
+    {
+      "slug": "treasure",
+      "name": "Treasure"
+    },
     {
       "slug": "western",
       "name": "Western"
@@ -96,16 +100,16 @@ $data = json_decode(curl_exec($ch), true);
   ],
   "features": [
     {
-      "slug": "bonus-game",
-      "name": "Bonus Game"
+      "slug": "ante_bet",
+      "name": "Ante Bet"
     },
     {
       "slug": "free_spins",
       "name": "Free Spins"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "money-collect",
+      "name": "Money Collect"
     }
   ],
   "assets": {
@@ -114,7 +118,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/chicken-rush-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/gold-rush-frog-b10/"
     }
   }
 }
@@ -122,36 +126,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/chicken-rush-b10/demand/`
+`GET /api/v1/slots/gold-rush-frog-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/chicken-rush-b10/demand/
+  https://i-gaming.tools/api/v1/slots/gold-rush-frog-b10/demand/
 ```
-
-**12-month volume (illustrative):** 7,560 · **trend:** flat · YoY +2.3%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Brazil | 1,900 | flat |
-| United States | 1,300 | flat |
-| United Kingdom | 440 | declining |
-| Romania | 390 | declining |
-| Switzerland | 390 | flat |
-| Finland | 300 | flat |
-| Canada | 280 | flat |
-| Germany | 270 | flat |
-| Greece | 190 | declining |
-| Hungary | 140 | flat |
-
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/chicken-rush-b10/
-- **Public page:** https://i-gaming.tools/slot-games/chicken-rush-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/gold-rush-frog-b10/
+- **Public page:** https://i-gaming.tools/slot-games/gold-rush-frog-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

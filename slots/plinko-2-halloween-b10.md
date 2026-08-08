@@ -1,4 +1,4 @@
-# Street Power
+# Plinko 2 Halloween
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/street-power-b10/`
+`GET /api/v1/slots/plinko-2-halloween-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/street-power-b10/
+  https://i-gaming.tools/api/v1/slots/plinko-2-halloween-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/street-power-b10/",
+    "https://i-gaming.tools/api/v1/slots/plinko-2-halloween-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/street-power-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/plinko-2-halloween-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/street-power-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/plinko-2-halloween-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,44 +53,68 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "street-power-b10",
-  "name": "Street Power",
+  "slug": "plinko-2-halloween-b10",
+  "name": "Plinko 2 Halloween",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
-  "game_category": "instant_win",
-  "rtp_default": "97.15",
+  "game_category": "crash",
+  "rtp_default": "98.60",
   "rtp_variants": [
     {
-      "rtp": "97.15",
+      "rtp": "98.60",
       "variant": "default",
       "is_default": true
+    },
+    {
+      "rtp": "99.00",
+      "variant": "default",
+      "is_default": false
     }
   ],
-  "volatility": "high",
+  "volatility": "",
   "mechanic": "",
   "reels": null,
   "rows": null,
   "jackpot_type": "none",
-  "has_bonus_buy": "no",
-  "bonus_buys": [],
-  "release_date": "2024-08-06",
+  "has_bonus_buy": "yes",
+  "bonus_buys": [
+    {
+      "label": "Multipliers",
+      "cost": "0.60",
+      "is_default": true
+    },
+    {
+      "label": "Respin Chance",
+      "cost": "0.20",
+      "is_default": false
+    }
+  ],
+  "release_date": "2025-10-09",
   "themes": [
     {
-      "slug": "superheroes",
-      "name": "Superheroes"
+      "slug": "halloween",
+      "name": "Halloween"
+    },
+    {
+      "slug": "witchcraft",
+      "name": "Witchcraft"
     }
   ],
   "features": [
     {
-      "slug": "guaranteed-win",
-      "name": "Guaranteed Win"
+      "slug": "multiplier",
+      "name": "Multiplier"
     },
     {
-      "slug": "variable_volatility",
-      "name": "Variable Volatility"
+      "slug": "plinko-bonus",
+      "name": "Plinko Bonus"
+    },
+    {
+      "slug": "respin",
+      "name": "Respin"
     }
   ],
   "assets": {
@@ -99,43 +123,29 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/street-power-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/plinko-2-halloween-b10/"
     }
+  },
+  "series": {
+    "slug": "plinko",
+    "name": "Plinko"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/street-power-b10/demand/`
+`GET /api/v1/slots/plinko-2-halloween-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/street-power-b10/demand/
+  https://i-gaming.tools/api/v1/slots/plinko-2-halloween-b10/demand/
 ```
-
-**12-month volume (illustrative):** 140 · **trend:** declining · YoY -73.6%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Greece | 30 | flat |
-| Australia | 20 | flat |
-| Brazil | 20 | flat |
-| United States | 20 | flat |
-| Germany | 10 | growing |
-| Italy | 10 | flat |
-| Netherlands | 10 | flat |
-| Portugal | 10 | flat |
-| Turkey | 10 | flat |
-
-> Full per-country breakdown (9 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/street-power-b10/
-- **Public page:** https://i-gaming.tools/slot-games/street-power-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/plinko-2-halloween-b10/
+- **Public page:** https://i-gaming.tools/slot-games/plinko-2-halloween-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

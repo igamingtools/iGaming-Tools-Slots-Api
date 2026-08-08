@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/yokai-b10/demand/
 ```
 
-**12-month volume (illustrative):** 280 · **trend:** growing · YoY +12.0%
+**12-month volume (illustrative):** 280 · **trend:** flat · YoY +0.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

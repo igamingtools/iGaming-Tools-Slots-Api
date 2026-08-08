@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/face-off-b10/demand/
 ```
 
-**12-month volume (illustrative):** 820 · **trend:** flat
+**12-month volume (illustrative):** 930 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -145,15 +145,15 @@ curl -H "Authorization: Token $TOKEN" \
 | Finland | 140 | declining |
 | United States | 120 | flat |
 | Germany | 70 | flat |
+| Brazil | 50 | flat |
 | Greece | 50 | declining |
 | Canada | 40 | flat |
+| Estonia | 40 | flat |
 | Poland | 40 | declining |
 | United Kingdom | 40 | flat |
 | Australia | 30 | flat |
-| Cyprus | 30 | declining |
-| France | 30 | growing |
 
-> Full per-country breakdown (21 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

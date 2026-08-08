@@ -1,4 +1,4 @@
-# Money Maker
+# Platinum Lightning Deluxe
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/money-maker-b10/`
+`GET /api/v1/slots/platinum-lightning-deluxe-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/money-maker-b10/
+  https://i-gaming.tools/api/v1/slots/platinum-lightning-deluxe-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/money-maker-b10/",
+    "https://i-gaming.tools/api/v1/slots/platinum-lightning-deluxe-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/money-maker-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/platinum-lightning-deluxe-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/money-maker-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/platinum-lightning-deluxe-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,40 +53,48 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "money-maker-b10",
-  "name": "Money Maker",
+  "slug": "platinum-lightning-deluxe-b10",
+  "name": "Platinum Lightning Deluxe",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "97.03",
+  "rtp_default": "96.29",
   "rtp_variants": [
     {
-      "rtp": "97.03",
+      "rtp": "96.29",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "low",
+  "volatility": "med_high",
   "mechanic": "lines",
-  "reels": 3,
+  "reels": 5,
   "rows": 3,
-  "jackpot_type": "unknown",
+  "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2026-06-10",
+  "release_date": "2018-02-16",
   "themes": [
     {
-      "slug": "money",
-      "name": "Money"
+      "slug": "ancient-greece",
+      "name": "Ancient Greece"
     }
   ],
   "features": [
     {
+      "slug": "free_spins",
+      "name": "Free Spins"
+    },
+    {
       "slug": "gamble",
       "name": "Gamble"
+    },
+    {
+      "slug": "scatter",
+      "name": "Scatter"
     }
   ],
   "assets": {
@@ -95,44 +103,29 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/money-maker-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/platinum-lightning-deluxe-b10/"
     }
+  },
+  "series": {
+    "slug": "platinum-lightning",
+    "name": "Platinum Lightning"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/money-maker-b10/demand/`
+`GET /api/v1/slots/platinum-lightning-deluxe-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/money-maker-b10/demand/
+  https://i-gaming.tools/api/v1/slots/platinum-lightning-deluxe-b10/demand/
 ```
-
-**12-month volume (illustrative):** 130 · **trend:** flat
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Belgium | 20 | growing |
-| Canada | 20 | growing |
-| Australia | 10 | growing |
-| Brazil | 10 | growing |
-| France | 10 | growing |
-| Germany | 10 | growing |
-| Greece | 10 | growing |
-| Latvia | 10 | growing |
-| Netherlands | 10 | growing |
-| Romania | 10 | growing |
-
-> Full per-country breakdown (11 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/money-maker-b10/
-- **Public page:** https://i-gaming.tools/slot-games/money-maker-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/platinum-lightning-deluxe-b10/
+- **Public page:** https://i-gaming.tools/slot-games/platinum-lightning-deluxe-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

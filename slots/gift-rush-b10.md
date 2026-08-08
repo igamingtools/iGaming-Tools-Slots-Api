@@ -122,12 +122,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gift-rush-b10/demand/
 ```
 
-**12-month volume (illustrative):** 820 · **trend:** declining · YoY -14.6%
+**12-month volume (illustrative):** 1,220 · **trend:** declining · YoY -11.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Brazil | 360 | flat |
 | Canada | 100 | growing |
 | Germany | 100 | declining |
 | Australia | 60 | flat |
@@ -137,9 +138,8 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 60 | growing |
 | Austria | 40 | declining |
 | Hungary | 40 | flat |
-| Denmark | 30 | growing |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

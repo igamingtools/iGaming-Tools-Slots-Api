@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hottest-666-b10/demand/
 ```
 
-**12-month volume (illustrative):** 260 · **trend:** declining · YoY -35.0%
+**12-month volume (illustrative):** 280 · **trend:** declining · YoY -31.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,9 +153,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Poland | 20 | declining |
 | United Kingdom | 20 | growing |
 | Brazil | 10 | flat |
+| Chile | 10 | flat |
 | Italy | 10 | declining |
 
-> Full per-country breakdown (9 markets) via the /demand/ endpoint.
+> Full per-country breakdown (11 markets) via the /demand/ endpoint.
 
 ## Links
 

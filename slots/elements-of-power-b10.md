@@ -1,4 +1,4 @@
-# Gift Rush
+# Elements of Power
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/gift-rush-b10/`
+`GET /api/v1/slots/elements-of-power-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/gift-rush-b10/
+  https://i-gaming.tools/api/v1/slots/elements-of-power-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/gift-rush-b10/",
+    "https://i-gaming.tools/api/v1/slots/elements-of-power-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/gift-rush-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/elements-of-power-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/gift-rush-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/elements-of-power-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,50 +53,48 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "gift-rush-b10",
-  "name": "Gift Rush",
+  "slug": "elements-of-power-b10",
+  "name": "Elements of Power",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
-  "game_category": "video_slot",
-  "rtp_default": "96.07",
+  "game_category": "instant_win",
+  "rtp_default": "97.00",
   "rtp_variants": [
     {
-      "rtp": "96.07",
+      "rtp": "97.00",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "medium",
-  "mechanic": "lines",
-  "reels": 3,
-  "rows": 3,
-  "jackpot_type": "none",
-  "has_bonus_buy": "yes",
-  "bonus_buys": [
-    {
-      "label": "Buy Bonus",
-      "cost": "80.00",
-      "is_default": true
-    }
-  ],
-  "release_date": "2022-12-01",
+  "volatility": "",
+  "mechanic": "",
+  "reels": null,
+  "rows": null,
+  "jackpot_type": "unknown",
+  "has_bonus_buy": "no",
+  "bonus_buys": [],
+  "release_date": "2026-04-30",
   "themes": [
     {
-      "slug": "christmas",
-      "name": "Christmas"
+      "slug": "elements",
+      "name": "Elements"
     }
   ],
   "features": [
     {
-      "slug": "pick_bonus",
-      "name": "Pick Bonus"
+      "slug": "bonus-game",
+      "name": "Bonus Game"
     },
     {
-      "slug": "scatter",
-      "name": "Scatter"
+      "slug": "level-progression",
+      "name": "Level Progression"
+    },
+    {
+      "slug": "progressive_multiplier",
+      "name": "Progressive Multiplier"
     }
   ],
   "assets": {
@@ -105,7 +103,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/gift-rush-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/elements-of-power-b10/"
     }
   }
 }
@@ -113,36 +111,33 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/gift-rush-b10/demand/`
+`GET /api/v1/slots/elements-of-power-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/gift-rush-b10/demand/
+  https://i-gaming.tools/api/v1/slots/elements-of-power-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,310 · **trend:** declining · YoY -9.7%
+**12-month volume (illustrative):** 80 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 360 | flat |
-| Canada | 100 | growing |
-| Germany | 100 | declining |
-| Australia | 60 | flat |
-| Finland | 60 | flat |
-| Greece | 60 | flat |
-| Netherlands | 60 | declining |
-| United States | 60 | growing |
-| Austria | 40 | declining |
-| Hungary | 40 | flat |
+| Canada | 20 | growing |
+| Australia | 10 | growing |
+| Czech Republic | 10 | growing |
+| France | 10 | growing |
+| Mexico | 10 | growing |
+| Netherlands | 10 | growing |
+| Romania | 10 | growing |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (7 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/gift-rush-b10/
-- **Public page:** https://i-gaming.tools/slot-games/gift-rush-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/elements-of-power-b10/
+- **Public page:** https://i-gaming.tools/slot-games/elements-of-power-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

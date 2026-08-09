@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/penalty-duel-b10/demand/
 ```
 
-**12-month volume (illustrative):** 870 · **trend:** flat
+**12-month volume (illustrative):** 1,040 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -144,16 +144,16 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 80 | growing |
 | Finland | 80 | flat |
+| Ukraine | 80 | flat |
 | France | 60 | growing |
 | Germany | 60 | growing |
 | Australia | 40 | declining |
 | Belgium | 40 | flat |
 | Cyprus | 40 | flat |
+| Mexico | 40 | growing |
 | Norway | 40 | flat |
-| United Kingdom | 40 | flat |
-| United States | 40 | flat |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

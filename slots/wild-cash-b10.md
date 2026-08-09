@@ -1,4 +1,4 @@
-# Easter Heist
+# Wild Cash
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/easter-heist-b10/`
+`GET /api/v1/slots/wild-cash-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/easter-heist-b10/
+  https://i-gaming.tools/api/v1/slots/wild-cash-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/easter-heist-b10/",
+    "https://i-gaming.tools/api/v1/slots/wild-cash-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/easter-heist-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-cash-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/easter-heist-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-cash-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,73 +53,59 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "easter-heist-b10",
-  "name": "Easter Heist",
+  "slug": "wild-cash-b10",
+  "name": "Wild Cash",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.14",
+  "rtp_default": "96.23",
   "rtp_variants": [
     {
-      "rtp": "96.14",
+      "rtp": "96.23",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.01",
-      "variant": "bonus_buy",
-      "is_default": false
-    },
-    {
-      "rtp": "95.91",
+      "rtp": "95.99",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
   "volatility": "very_high",
   "mechanic": "lines",
-  "reels": 5,
+  "reels": 3,
   "rows": 3,
-  "jackpot_type": "fixed",
+  "jackpot_type": "unknown",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Free Spins",
-      "cost": "50.00",
+      "label": "Bonus Game",
+      "cost": "80.00",
       "is_default": true
-    },
-    {
-      "label": "Gold Eggs Respin",
-      "cost": "40.00",
-      "is_default": false
     }
   ],
-  "release_date": "2023-03-23",
+  "release_date": "2022-04-14",
   "themes": [
     {
-      "slug": "easter",
-      "name": "Easter"
+      "slug": "classic",
+      "name": "Classic"
     },
     {
-      "slug": "farm",
-      "name": "Farm"
+      "slug": "fruits",
+      "name": "Fruits"
     }
   ],
   "features": [
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "bonus-game",
+      "name": "Bonus Game"
     },
     {
-      "slug": "hold-and-spin",
-      "name": "Hold and Spin"
-    },
-    {
-      "slug": "money-collect",
-      "name": "Money Collect"
+      "slug": "multiplier",
+      "name": "Multiplier"
     }
   ],
   "assets": {
@@ -128,7 +114,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/easter-heist-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/wild-cash-b10/"
     }
   }
 }
@@ -136,36 +122,36 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/easter-heist-b10/demand/`
+`GET /api/v1/slots/wild-cash-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/easter-heist-b10/demand/
+  https://i-gaming.tools/api/v1/slots/wild-cash-b10/demand/
 ```
 
-**12-month volume (illustrative):** 290 · **trend:** flat
+**12-month volume (illustrative):** 4,380 · **trend:** declining · YoY -20.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 60 | declining |
-| Brazil | 40 | flat |
-| Poland | 30 | growing |
-| Belarus | 20 | flat |
-| Canada | 20 | flat |
-| Finland | 20 | flat |
-| Netherlands | 20 | declining |
-| Germany | 10 | flat |
-| Hungary | 10 | flat |
-| Ireland | 10 | flat |
+| Brazil | 1,020 | declining |
+| Switzerland | 450 | flat |
+| Greece | 360 | flat |
+| Canada | 200 | growing |
+| Netherlands | 150 | flat |
+| Finland | 140 | growing |
+| Germany | 140 | flat |
+| United Kingdom | 130 | flat |
+| Austria | 120 | flat |
+| Italy | 120 | flat |
 
-> Full per-country breakdown (15 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/easter-heist-b10/
-- **Public page:** https://i-gaming.tools/slot-games/easter-heist-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-cash-b10/
+- **Public page:** https://i-gaming.tools/slot-games/wild-cash-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

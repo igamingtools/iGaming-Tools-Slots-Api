@@ -1,4 +1,4 @@
-# Easter Heist
+# Shark & Spark Hold & Win
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/easter-heist-b10/`
+`GET /api/v1/slots/shark-spark-hold-win-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/easter-heist-b10/
+  https://i-gaming.tools/api/v1/slots/shark-spark-hold-win-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/easter-heist-b10/",
+    "https://i-gaming.tools/api/v1/slots/shark-spark-hold-win-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/easter-heist-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/shark-spark-hold-win-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/easter-heist-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/shark-spark-hold-win-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,73 +53,69 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "easter-heist-b10",
-  "name": "Easter Heist",
+  "slug": "shark-spark-hold-win-b10",
+  "name": "Shark & Spark Hold & Win",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.14",
+  "rtp_default": "97.00",
   "rtp_variants": [
     {
-      "rtp": "96.14",
+      "rtp": "97.00",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.01",
+      "rtp": "97.00",
       "variant": "bonus_buy",
       "is_default": false
     },
     {
-      "rtp": "95.91",
+      "rtp": "97.00",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "very_high",
-  "mechanic": "lines",
-  "reels": 5,
-  "rows": 3,
-  "jackpot_type": "fixed",
+  "volatility": "",
+  "mechanic": "cluster",
+  "reels": 6,
+  "rows": 5,
+  "jackpot_type": "unknown",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Free Spins",
+      "label": "Shark & Ladders",
       "cost": "50.00",
       "is_default": true
     },
     {
-      "label": "Gold Eggs Respin",
-      "cost": "40.00",
+      "label": "Coin Spin",
+      "cost": "50.00",
       "is_default": false
     }
   ],
-  "release_date": "2023-03-23",
+  "release_date": "2026-05-28",
   "themes": [
     {
-      "slug": "easter",
-      "name": "Easter"
-    },
-    {
-      "slug": "farm",
-      "name": "Farm"
+      "slug": "ocean",
+      "name": "Ocean"
     }
   ],
   "features": [
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "bonus-game",
+      "name": "Bonus Game"
+    },
+    {
+      "slug": "cluster_pays",
+      "name": "Cluster Pays"
     },
     {
       "slug": "hold-and-spin",
       "name": "Hold and Spin"
-    },
-    {
-      "slug": "money-collect",
-      "name": "Money Collect"
     }
   ],
   "assets": {
@@ -128,7 +124,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/easter-heist-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/shark-spark-hold-win-b10/"
     }
   }
 }
@@ -136,36 +132,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/easter-heist-b10/demand/`
+`GET /api/v1/slots/shark-spark-hold-win-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/easter-heist-b10/demand/
+  https://i-gaming.tools/api/v1/slots/shark-spark-hold-win-b10/demand/
 ```
-
-**12-month volume (illustrative):** 290 · **trend:** flat
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| United States | 60 | declining |
-| Brazil | 40 | flat |
-| Poland | 30 | growing |
-| Belarus | 20 | flat |
-| Canada | 20 | flat |
-| Finland | 20 | flat |
-| Netherlands | 20 | declining |
-| Germany | 10 | flat |
-| Hungary | 10 | flat |
-| Ireland | 10 | flat |
-
-> Full per-country breakdown (15 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/easter-heist-b10/
-- **Public page:** https://i-gaming.tools/slot-games/easter-heist-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/shark-spark-hold-win-b10/
+- **Public page:** https://i-gaming.tools/slot-games/shark-spark-hold-win-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

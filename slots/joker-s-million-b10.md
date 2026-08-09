@@ -1,4 +1,4 @@
-# Gift Rush
+# Joker's Million
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/gift-rush-b10/`
+`GET /api/v1/slots/joker-s-million-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/gift-rush-b10/
+  https://i-gaming.tools/api/v1/slots/joker-s-million-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/gift-rush-b10/",
+    "https://i-gaming.tools/api/v1/slots/joker-s-million-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/gift-rush-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/joker-s-million-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/gift-rush-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/joker-s-million-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,46 +53,52 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "gift-rush-b10",
-  "name": "Gift Rush",
+  "slug": "joker-s-million-b10",
+  "name": "Joker's Million",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.07",
+  "rtp_default": "97.34",
   "rtp_variants": [
     {
-      "rtp": "96.07",
+      "rtp": "97.34",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "medium",
+  "volatility": "med_high",
   "mechanic": "lines",
-  "reels": 3,
-  "rows": 3,
+  "reels": 5,
+  "rows": 4,
   "jackpot_type": "none",
-  "has_bonus_buy": "yes",
-  "bonus_buys": [
-    {
-      "label": "Buy Bonus",
-      "cost": "80.00",
-      "is_default": true
-    }
-  ],
-  "release_date": "2022-12-01",
+  "has_bonus_buy": "no",
+  "bonus_buys": [],
+  "release_date": "2025-02-11",
   "themes": [
     {
-      "slug": "christmas",
-      "name": "Christmas"
+      "slug": "carnival",
+      "name": "Carnival"
+    },
+    {
+      "slug": "fruits",
+      "name": "Fruits"
+    },
+    {
+      "slug": "joker",
+      "name": "Joker"
     }
   ],
   "features": [
     {
-      "slug": "pick_bonus",
-      "name": "Pick Bonus"
+      "slug": "expanding_wild",
+      "name": "Expanding Wild"
+    },
+    {
+      "slug": "gamble",
+      "name": "Gamble"
     },
     {
       "slug": "scatter",
@@ -105,7 +111,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/gift-rush-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/joker-s-million-b10/"
     }
   }
 }
@@ -113,36 +119,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/gift-rush-b10/demand/`
+`GET /api/v1/slots/joker-s-million-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/gift-rush-b10/demand/
+  https://i-gaming.tools/api/v1/slots/joker-s-million-b10/demand/
 ```
-
-**12-month volume (illustrative):** 1,310 · **trend:** declining · YoY -9.7%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Brazil | 360 | flat |
-| Canada | 100 | growing |
-| Germany | 100 | declining |
-| Australia | 60 | flat |
-| Finland | 60 | flat |
-| Greece | 60 | flat |
-| Netherlands | 60 | declining |
-| United States | 60 | growing |
-| Austria | 40 | declining |
-| Hungary | 40 | flat |
-
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/gift-rush-b10/
-- **Public page:** https://i-gaming.tools/slot-games/gift-rush-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/joker-s-million-b10/
+- **Public page:** https://i-gaming.tools/slot-games/joker-s-million-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

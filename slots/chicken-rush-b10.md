@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-rush-b10/demand/
 ```
 
-**12-month volume (illustrative):** 7,560 · **trend:** flat · YoY +2.3%
+**12-month volume (illustrative):** 7,850 · **trend:** flat · YoY +2.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 190 | declining |
 | Hungary | 140 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

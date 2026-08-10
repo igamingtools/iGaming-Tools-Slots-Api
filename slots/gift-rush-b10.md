@@ -122,7 +122,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gift-rush-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,310 · **trend:** declining · YoY -9.7%
+**12-month volume (illustrative):** 1,310 · **trend:** declining · YoY -10.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -1,4 +1,4 @@
-# Book of Kemet
+# Clash of Gods: Anubis vs Hades
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/book-of-kemet-b10/`
+`GET /api/v1/slots/clash-of-gods-anubis-vs-hades-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/
+  https://i-gaming.tools/api/v1/slots/clash-of-gods-anubis-vs-hades-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/",
+    "https://i-gaming.tools/api/v1/slots/clash-of-gods-anubis-vs-hades-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/clash-of-gods-anubis-vs-hades-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/clash-of-gods-anubis-vs-hades-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,59 +53,63 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "book-of-kemet-b10",
-  "name": "Book of Kemet",
+  "slug": "clash-of-gods-anubis-vs-hades-b10",
+  "name": "Clash of Gods: Anubis vs Hades",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "94.94",
+  "rtp_default": "96.50",
   "rtp_variants": [
     {
-      "rtp": "94.94",
+      "rtp": "96.50",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "very_high",
+  "volatility": "",
   "mechanic": "lines",
   "reels": 5,
-  "rows": 3,
+  "rows": 5,
   "jackpot_type": "unknown",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "1 Expanding Symbol",
-      "cost": "110.00",
+      "label": "Bonus Buy",
+      "cost": "100.00",
       "is_default": true
     },
     {
-      "label": "2 Expanding Symbols",
-      "cost": "172.00",
+      "label": "Bonus Hunt Spins",
+      "cost": "3.00",
       "is_default": false
     }
   ],
-  "release_date": "2023-03-09",
+  "release_date": "2026-05-04",
   "themes": [
     {
-      "slug": "adventure",
-      "name": "Adventure"
+      "slug": "ancient-greece",
+      "name": "Ancient Greece"
     },
     {
       "slug": "egyptian",
       "name": "Egyptian"
+    },
+    {
+      "slug": "mythology",
+      "name": "Mythology"
     }
   ],
   "features": [
     {
-      "slug": "ante_bet",
-      "name": "Ante Bet"
+      "slug": "expanding_wild",
+      "name": "Expanding Wild"
     },
     {
-      "slug": "expanding-symbols",
-      "name": "Expanding Symbols"
+      "slug": "free-spins-choice",
+      "name": "Free Spins Choice"
     },
     {
       "slug": "free_spins",
@@ -118,44 +122,48 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/book-of-kemet-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/clash-of-gods-anubis-vs-hades-b10/"
     }
+  },
+  "studio": {
+    "slug": "golden-goat-gaming",
+    "name": "Golden Goat Gaming"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/book-of-kemet-b10/demand/`
+`GET /api/v1/slots/clash-of-gods-anubis-vs-hades-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/demand/
+  https://i-gaming.tools/api/v1/slots/clash-of-gods-anubis-vs-hades-b10/demand/
 ```
 
-**12-month volume (illustrative):** 590 · **trend:** flat · YoY -4.8%
+**12-month volume (illustrative):** 280 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 100 | flat |
-| Brazil | 60 | flat |
-| Greece | 50 | declining |
-| United Kingdom | 50 | declining |
-| Austria | 40 | flat |
-| Finland | 40 | flat |
-| Ukraine | 40 | growing |
-| Switzerland | 30 | flat |
-| Bulgaria | 20 | flat |
-| Italy | 20 | growing |
+| Australia | 20 | flat |
+| Belarus | 20 | flat |
+| Greece | 20 | flat |
+| United Kingdom | 20 | flat |
+| United States | 20 | declining |
+| Argentina | 10 | declining |
+| Austria | 10 | declining |
+| Brazil | 10 | declining |
+| Colombia | 10 | declining |
+| Cyprus | 10 | declining |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/
-- **Public page:** https://i-gaming.tools/slot-games/book-of-kemet-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/clash-of-gods-anubis-vs-hades-b10/
+- **Public page:** https://i-gaming.tools/slot-games/clash-of-gods-anubis-vs-hades-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

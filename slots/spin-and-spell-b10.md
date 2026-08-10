@@ -1,4 +1,4 @@
-# Savage Buffalo Spirit
+# Spin And Spell
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/savage-buffalo-spirit-b10/`
+`GET /api/v1/slots/spin-and-spell-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-b10/
+  https://i-gaming.tools/api/v1/slots/spin-and-spell-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-b10/",
+    "https://i-gaming.tools/api/v1/slots/spin-and-spell-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/spin-and-spell-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/spin-and-spell-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,59 +53,56 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "savage-buffalo-spirit-b10",
-  "name": "Savage Buffalo Spirit",
+  "slug": "spin-and-spell-b10",
+  "name": "Spin And Spell",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "97.10",
+  "rtp_default": "95.90",
   "rtp_variants": [
     {
-      "rtp": "97.10",
+      "rtp": "95.90",
       "variant": "default",
       "is_default": true
-    },
-    {
-      "rtp": "97.26",
-      "variant": "bonus_buy",
-      "is_default": false
     }
   ],
-  "volatility": "very_high",
+  "volatility": "",
   "mechanic": "lines",
   "reels": 5,
   "rows": 3,
-  "jackpot_type": "none",
-  "has_bonus_buy": "yes",
-  "bonus_buys": [
-    {
-      "label": "Buy Bonus",
-      "cost": "100.00",
-      "is_default": true
-    }
-  ],
-  "release_date": "2023-05-25",
+  "jackpot_type": "unknown",
+  "has_bonus_buy": "no",
+  "bonus_buys": [],
+  "release_date": "2019-10-17",
   "themes": [
     {
-      "slug": "animals",
-      "name": "Animals"
+      "slug": "halloween",
+      "name": "Halloween"
+    },
+    {
+      "slug": "vampires",
+      "name": "Vampires"
+    },
+    {
+      "slug": "witchcraft",
+      "name": "Witchcraft"
     }
   ],
   "features": [
+    {
+      "slug": "expanding_wild",
+      "name": "Expanding Wild"
+    },
     {
       "slug": "free_spins",
       "name": "Free Spins"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
-    },
-    {
-      "slug": "retrigger",
-      "name": "Retrigger"
+      "slug": "gamble",
+      "name": "Gamble"
     }
   ],
   "assets": {
@@ -114,29 +111,25 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/savage-buffalo-spirit-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/spin-and-spell-b10/"
     }
-  },
-  "series": {
-    "slug": "savage-buffalo-spirit",
-    "name": "Savage Buffalo Spirit"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/savage-buffalo-spirit-b10/demand/`
+`GET /api/v1/slots/spin-and-spell-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-b10/demand/
+  https://i-gaming.tools/api/v1/slots/spin-and-spell-b10/demand/
 ```
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-b10/
-- **Public page:** https://i-gaming.tools/slot-games/savage-buffalo-spirit-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/spin-and-spell-b10/
+- **Public page:** https://i-gaming.tools/slot-games/spin-and-spell-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

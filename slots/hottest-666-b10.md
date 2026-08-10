@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hottest-666-b10/demand/
 ```
 
-**12-month volume (illustrative):** 280 · **trend:** declining · YoY -31.7%
+**12-month volume (illustrative):** 280 · **trend:** declining · YoY -33.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

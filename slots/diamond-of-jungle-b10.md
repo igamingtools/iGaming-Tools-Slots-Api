@@ -1,4 +1,4 @@
-# Alien Fruits
+# Diamond of Jungle
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/alien-fruits-b10/`
+`GET /api/v1/slots/diamond-of-jungle-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/alien-fruits-b10/
+  https://i-gaming.tools/api/v1/slots/diamond-of-jungle-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/alien-fruits-b10/",
+    "https://i-gaming.tools/api/v1/slots/diamond-of-jungle-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/alien-fruits-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/diamond-of-jungle-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/alien-fruits-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/diamond-of-jungle-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,53 +53,63 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "alien-fruits-b10",
-  "name": "Alien Fruits",
+  "slug": "diamond-of-jungle-b10",
+  "name": "Diamond of Jungle",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "95.97",
+  "rtp_default": "97.04",
   "rtp_variants": [
     {
-      "rtp": "95.97",
+      "rtp": "97.04",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.03",
+      "rtp": "97.01",
+      "variant": "bonus_buy",
+      "is_default": false
+    },
+    {
+      "rtp": "97.00",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "high",
-  "mechanic": "scatter_pays",
-  "reels": 6,
-  "rows": 5,
-  "jackpot_type": "none",
+  "volatility": "",
+  "mechanic": "ways",
+  "reels": 5,
+  "rows": 3,
+  "jackpot_type": "unknown",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
       "label": "Free Spins",
-      "cost": "100.00",
+      "cost": "75.00",
       "is_default": true
+    },
+    {
+      "label": "Super Free Spins",
+      "cost": "150.00",
+      "is_default": false
     }
   ],
-  "release_date": "2023-04-13",
+  "release_date": "2024-03-21",
   "themes": [
     {
-      "slug": "aliens",
-      "name": "Aliens"
+      "slug": "animals",
+      "name": "Animals"
     },
     {
-      "slug": "fruits",
-      "name": "Fruits"
+      "slug": "gems",
+      "name": "Gems"
     },
     {
-      "slug": "space",
-      "name": "Space"
+      "slug": "jungle",
+      "name": "Jungle"
     }
   ],
   "features": [
@@ -112,8 +122,8 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Multiplier"
     },
     {
-      "slug": "retrigger",
-      "name": "Retrigger"
+      "slug": "scatter",
+      "name": "Scatter"
     }
   ],
   "assets": {
@@ -122,48 +132,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/alien-fruits-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/diamond-of-jungle-b10/"
     }
-  },
-  "series": {
-    "slug": "alien-fruits",
-    "name": "Alien Fruits"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/alien-fruits-b10/demand/`
+`GET /api/v1/slots/diamond-of-jungle-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/alien-fruits-b10/demand/
+  https://i-gaming.tools/api/v1/slots/diamond-of-jungle-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,150 · **trend:** growing · YoY +28.7%
+**12-month volume (illustrative):** 630 · **trend:** declining · YoY -24.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 280 | flat |
-| Brazil | 150 | flat |
-| Canada | 140 | growing |
-| Greece | 120 | flat |
-| New Zealand | 120 | flat |
-| Australia | 90 | growing |
-| Germany | 90 | flat |
-| Netherlands | 80 | growing |
-| United Kingdom | 80 | declining |
-| Belarus | 70 | flat |
+| Germany | 60 | flat |
+| Poland | 60 | growing |
+| Brazil | 50 | declining |
+| Hungary | 50 | declining |
+| Netherlands | 40 | growing |
+| Romania | 40 | flat |
+| Sweden | 40 | declining |
+| Australia | 30 | growing |
+| Latvia | 30 | declining |
+| United Kingdom | 30 | flat |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/alien-fruits-b10/
-- **Public page:** https://i-gaming.tools/slot-games/alien-fruits-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/diamond-of-jungle-b10/
+- **Public page:** https://i-gaming.tools/slot-games/diamond-of-jungle-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

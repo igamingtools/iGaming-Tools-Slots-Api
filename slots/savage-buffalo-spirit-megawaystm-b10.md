@@ -1,4 +1,4 @@
-# Book of Kemet
+# Savage Buffalo Spirit MEGAWAYS™
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/book-of-kemet-b10/`
+`GET /api/v1/slots/savage-buffalo-spirit-megawaystm-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/
+  https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-megawaystm-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/",
+    "https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-megawaystm-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-megawaystm-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-megawaystm-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,49 +53,44 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "book-of-kemet-b10",
-  "name": "Book of Kemet",
+  "slug": "savage-buffalo-spirit-megawaystm-b10",
+  "name": "Savage Buffalo Spirit MEGAWAYS™",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "94.94",
+  "rtp_default": "96.75",
   "rtp_variants": [
     {
-      "rtp": "94.94",
+      "rtp": "96.75",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "very_high",
-  "mechanic": "lines",
-  "reels": 5,
-  "rows": 3,
+  "volatility": "",
+  "mechanic": "megaways",
+  "reels": 6,
+  "rows": null,
   "jackpot_type": "unknown",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "1 Expanding Symbol",
-      "cost": "110.00",
+      "label": "Buy Free Spins",
+      "cost": "90.00",
       "is_default": true
-    },
-    {
-      "label": "2 Expanding Symbols",
-      "cost": "172.00",
-      "is_default": false
     }
   ],
-  "release_date": "2023-03-09",
+  "release_date": "2023-08-24",
   "themes": [
     {
-      "slug": "adventure",
-      "name": "Adventure"
+      "slug": "animals",
+      "name": "Animals"
     },
     {
-      "slug": "egyptian",
-      "name": "Egyptian"
+      "slug": "native-american",
+      "name": "Native American"
     }
   ],
   "features": [
@@ -104,12 +99,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Ante Bet"
     },
     {
-      "slug": "expanding-symbols",
-      "name": "Expanding Symbols"
-    },
-    {
       "slug": "free_spins",
       "name": "Free Spins"
+    },
+    {
+      "slug": "megaways",
+      "name": "Megaways"
     }
   ],
   "assets": {
@@ -118,44 +113,29 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/book-of-kemet-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/savage-buffalo-spirit-megawaystm-b10/"
     }
+  },
+  "series": {
+    "slug": "savage-buffalo-spirit",
+    "name": "Savage Buffalo Spirit"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/book-of-kemet-b10/demand/`
+`GET /api/v1/slots/savage-buffalo-spirit-megawaystm-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/demand/
+  https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-megawaystm-b10/demand/
 ```
-
-**12-month volume (illustrative):** 590 · **trend:** flat · YoY -4.8%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Germany | 100 | flat |
-| Brazil | 60 | flat |
-| Greece | 50 | declining |
-| United Kingdom | 50 | declining |
-| Austria | 40 | flat |
-| Finland | 40 | flat |
-| Ukraine | 40 | growing |
-| Switzerland | 30 | flat |
-| Bulgaria | 20 | flat |
-| Italy | 20 | growing |
-
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/
-- **Public page:** https://i-gaming.tools/slot-games/book-of-kemet-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/savage-buffalo-spirit-megawaystm-b10/
+- **Public page:** https://i-gaming.tools/slot-games/savage-buffalo-spirit-megawaystm-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

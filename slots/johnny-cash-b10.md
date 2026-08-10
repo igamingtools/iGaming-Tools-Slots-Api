@@ -1,4 +1,4 @@
-# Book of Kemet
+# Johnny Cash
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/book-of-kemet-b10/`
+`GET /api/v1/slots/johnny-cash-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/
+  https://i-gaming.tools/api/v1/slots/johnny-cash-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/",
+    "https://i-gaming.tools/api/v1/slots/johnny-cash-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/johnny-cash-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/johnny-cash-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,63 +53,52 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "book-of-kemet-b10",
-  "name": "Book of Kemet",
+  "slug": "johnny-cash-b10",
+  "name": "Johnny Cash",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "94.94",
+  "rtp_default": "95.98",
   "rtp_variants": [
     {
-      "rtp": "94.94",
+      "rtp": "95.98",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "very_high",
+  "volatility": "",
   "mechanic": "lines",
   "reels": 5,
   "rows": 3,
   "jackpot_type": "unknown",
-  "has_bonus_buy": "yes",
-  "bonus_buys": [
-    {
-      "label": "1 Expanding Symbol",
-      "cost": "110.00",
-      "is_default": true
-    },
-    {
-      "label": "2 Expanding Symbols",
-      "cost": "172.00",
-      "is_default": false
-    }
-  ],
-  "release_date": "2023-03-09",
+  "has_bonus_buy": "no",
+  "bonus_buys": [],
+  "release_date": "2020-10-30",
   "themes": [
     {
-      "slug": "adventure",
-      "name": "Adventure"
+      "slug": "money",
+      "name": "Money"
     },
     {
-      "slug": "egyptian",
-      "name": "Egyptian"
+      "slug": "western",
+      "name": "Western"
     }
   ],
   "features": [
     {
-      "slug": "ante_bet",
-      "name": "Ante Bet"
-    },
-    {
-      "slug": "expanding-symbols",
-      "name": "Expanding Symbols"
-    },
-    {
       "slug": "free_spins",
       "name": "Free Spins"
+    },
+    {
+      "slug": "retrigger",
+      "name": "Retrigger"
+    },
+    {
+      "slug": "scatter",
+      "name": "Scatter"
     }
   ],
   "assets": {
@@ -118,7 +107,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/book-of-kemet-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/johnny-cash-b10/"
     }
   }
 }
@@ -126,36 +115,36 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/book-of-kemet-b10/demand/`
+`GET /api/v1/slots/johnny-cash-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/demand/
+  https://i-gaming.tools/api/v1/slots/johnny-cash-b10/demand/
 ```
 
-**12-month volume (illustrative):** 590 · **trend:** flat · YoY -4.8%
+**12-month volume (illustrative):** 2,340 · **trend:** flat · YoY +1.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 100 | flat |
-| Brazil | 60 | flat |
-| Greece | 50 | declining |
-| United Kingdom | 50 | declining |
-| Austria | 40 | flat |
-| Finland | 40 | flat |
-| Ukraine | 40 | growing |
-| Switzerland | 30 | flat |
-| Bulgaria | 20 | flat |
-| Italy | 20 | growing |
+| United States | 260 | declining |
+| Australia | 120 | flat |
+| Canada | 120 | declining |
+| Greece | 120 | flat |
+| Switzerland | 120 | growing |
+| United Kingdom | 120 | flat |
+| Brazil | 110 | flat |
+| Finland | 100 | flat |
+| Italy | 100 | flat |
+| Portugal | 100 | flat |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/
-- **Public page:** https://i-gaming.tools/slot-games/book-of-kemet-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/johnny-cash-b10/
+- **Public page:** https://i-gaming.tools/slot-games/johnny-cash-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

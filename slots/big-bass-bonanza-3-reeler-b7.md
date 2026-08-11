@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-bonanza-3-reeler-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,580 · **trend:** declining · YoY -39.2%
+**12-month volume (illustrative):** 3,640 · **trend:** declining · YoY -38.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -157,11 +157,11 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 440 | declining |
 | Greece | 210 | declining |
 | Switzerland | 180 | declining |
-| Germany | 130 | flat |
+| Germany | 140 | growing |
+| Netherlands | 140 | flat |
 | Indonesia | 130 | growing |
-| Netherlands | 130 | declining |
 | South Africa | 130 | growing |
-| United Kingdom | 120 | declining |
+| United Kingdom | 130 | flat |
 | Turkey | 110 | declining |
 | Canada | 100 | flat |
 

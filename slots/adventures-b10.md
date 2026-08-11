@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/adventures-b10/demand/
 ```
 
-**12-month volume (illustrative):** 810 · **trend:** growing · YoY +32.8%
+**12-month volume (illustrative):** 900 · **trend:** growing · YoY +34.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/penny-pelican-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,000 · **trend:** flat · YoY +3.1%
+**12-month volume (illustrative):** 2,060 · **trend:** flat · YoY +3.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

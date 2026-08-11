@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-of-minos-b10/demand/
 ```
 
-**12-month volume (illustrative):** 750 · **trend:** declining · YoY -54.3%
+**12-month volume (illustrative):** 840 · **trend:** declining · YoY -51.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

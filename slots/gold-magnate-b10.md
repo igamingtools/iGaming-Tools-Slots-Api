@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-magnate-b10/demand/
 ```
 
-**12-month volume (illustrative):** 390 · **trend:** growing · YoY +34.5%
+**12-month volume (illustrative):** 430 · **trend:** growing · YoY +48.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

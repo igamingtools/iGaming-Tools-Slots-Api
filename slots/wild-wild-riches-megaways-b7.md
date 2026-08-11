@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-wild-riches-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,610 · **trend:** declining · YoY -8.6%
+**12-month volume (illustrative):** 6,770 · **trend:** declining · YoY -6.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -144,13 +144,13 @@ curl -H "Authorization: Token $TOKEN" \
 | Tunisia | 770 | declining |
 | South Africa | 550 | growing |
 | Brazil | 490 | declining |
+| United Kingdom | 430 | declining |
 | Greece | 420 | declining |
-| United Kingdom | 400 | declining |
 | France | 340 | declining |
-| Canada | 260 | declining |
+| Canada | 280 | flat |
+| Switzerland | 210 | flat |
 | Turkey | 210 | declining |
 | Argentina | 200 | declining |
-| Switzerland | 180 | declining |
 
 > Full per-country breakdown (62 markets) via the /demand/ endpoint.
 

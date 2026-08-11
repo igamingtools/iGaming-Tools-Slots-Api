@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/diamond-of-jungle-b10/demand/
 ```
 
-**12-month volume (illustrative):** 630 · **trend:** declining · YoY -24.1%
+**12-month volume (illustrative):** 660 · **trend:** declining · YoY -23.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

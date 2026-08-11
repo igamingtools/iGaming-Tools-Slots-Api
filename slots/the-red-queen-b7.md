@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-red-queen-b7/demand/
 ```
 
-**12-month volume (illustrative):** 850 · **trend:** growing · YoY +16.4%
+**12-month volume (illustrative):** 870 · **trend:** growing · YoY +19.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -133,10 +133,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 100 | declining |
 | Greece | 60 | flat |
 | South Africa | 60 | flat |
+| United States | 60 | growing |
 | United Kingdom | 50 | declining |
 | Argentina | 40 | flat |
 | Tunisia | 40 | flat |
-| United States | 40 | flat |
 | Australia | 30 | flat |
 | Latvia | 30 | flat |
 | Romania | 30 | declining |

@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/forgotten-b10/demand/
 ```
 
-**12-month volume (illustrative):** 3,050 · **trend:** flat · YoY +1.3%
+**12-month volume (illustrative):** 3,460 · **trend:** flat · YoY -0.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

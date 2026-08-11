@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-rush-megawaystm-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,960 · **trend:** growing · YoY +60.7%
+**12-month volume (illustrative):** 2,080 · **trend:** growing · YoY +69.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

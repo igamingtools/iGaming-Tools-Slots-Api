@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/out-of-the-woods-b7/demand/
 ```
 
-**12-month volume (illustrative):** 190 · **trend:** flat
+**12-month volume (illustrative):** 240 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,6 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 20 | growing |
 | Canada | 20 | growing |
+| India | 20 | growing |
 | United States | 20 | growing |
 | Argentina | 10 | growing |
 | Austria | 10 | growing |
@@ -160,9 +161,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Denmark | 10 | growing |
 | France | 10 | growing |
 | Germany | 10 | growing |
-| Greece | 10 | growing |
 
-> Full per-country breakdown (16 markets) via the /demand/ endpoint.
+> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 

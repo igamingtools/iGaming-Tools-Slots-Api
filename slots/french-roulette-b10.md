@@ -102,7 +102,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/french-roulette-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,800 · **trend:** declining · YoY -42.7%
+**12-month volume (illustrative):** 2,040 · **trend:** declining · YoY -41.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

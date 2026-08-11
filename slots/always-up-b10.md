@@ -134,7 +134,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/always-up-b10/demand/
 ```
 
-**12-month volume (illustrative):** 470 · **trend:** flat
+**12-month volume (illustrative):** 530 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

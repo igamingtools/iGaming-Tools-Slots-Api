@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/easter-heist-b10/demand/
 ```
 
-**12-month volume (illustrative):** 290 · **trend:** flat
+**12-month volume (illustrative):** 310 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

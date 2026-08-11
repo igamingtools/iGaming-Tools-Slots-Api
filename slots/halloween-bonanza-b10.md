@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/halloween-bonanza-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,320 · **trend:** growing · YoY +7.3%
+**12-month volume (illustrative):** 1,540 · **trend:** growing · YoY +23.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

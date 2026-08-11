@@ -116,7 +116,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fishing-club-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,550 · **trend:** growing · YoY +18.3%
+**12-month volume (illustrative):** 2,330 · **trend:** growing · YoY +60.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

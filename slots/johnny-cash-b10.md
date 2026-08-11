@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/johnny-cash-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,340 · **trend:** flat · YoY +1.7%
+**12-month volume (illustrative):** 2,390 · **trend:** flat · YoY +0.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

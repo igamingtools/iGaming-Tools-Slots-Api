@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bonanza-billion-xtreme-b10/demand/
 ```
 
-**12-month volume (illustrative):** 670 · **trend:** flat
+**12-month volume (illustrative):** 690 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

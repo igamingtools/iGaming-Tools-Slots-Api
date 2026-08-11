@@ -122,7 +122,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/plinko-2-b10/demand/
 ```
 
-**12-month volume (illustrative):** 4,230 · **trend:** declining · YoY -45.1%
+**12-month volume (illustrative):** 4,680 · **trend:** declining · YoY -48.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

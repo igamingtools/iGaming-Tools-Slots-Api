@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chilli-heat-b7/demand/
 ```
 
-**12-month volume (illustrative):** 12,920 · **trend:** declining · YoY -16.9%
+**12-month volume (illustrative):** 13,060 · **trend:** declining · YoY -16.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -136,8 +136,8 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | South Africa | 4,560 | flat |
 | Tunisia | 1,900 | growing |
-| United Kingdom | 890 | declining |
-| New Zealand | 510 | declining |
+| United Kingdom | 960 | declining |
+| New Zealand | 540 | declining |
 | Argentina | 360 | declining |
 | Brazil | 340 | declining |
 | Canada | 320 | declining |

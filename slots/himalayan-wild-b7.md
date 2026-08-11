@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/himalayan-wild-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,280 · **trend:** declining · YoY -43.9%
+**12-month volume (illustrative):** 1,310 · **trend:** declining · YoY -42.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -158,8 +158,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 60 | flat |
 | Lithuania | 60 | flat |
 | Switzerland | 60 | flat |
-| Bulgaria | 40 | declining |
-| Germany | 40 | flat |
+| Germany | 50 | growing |
+| Netherlands | 50 | growing |
 
 > Full per-country breakdown (34 markets) via the /demand/ endpoint.
 

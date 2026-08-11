@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystery-mice-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,840 · **trend:** declining · YoY -28.1%
+**12-month volume (illustrative):** 1,860 · **trend:** declining · YoY -27.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

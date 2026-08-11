@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cash-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,960 · **trend:** declining · YoY -36.4%
+**12-month volume (illustrative):** 1,980 · **trend:** declining · YoY -35.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -134,9 +134,9 @@ curl -H "Authorization: Token $TOKEN" \
 | Latvia | 130 | flat |
 | Brazil | 120 | declining |
 | Canada | 100 | flat |
+| Germany | 90 | growing |
 | Italy | 90 | flat |
 | Finland | 80 | flat |
-| Germany | 80 | flat |
 | Greece | 80 | declining |
 | Indonesia | 70 | flat |
 | Mexico | 70 | declining |

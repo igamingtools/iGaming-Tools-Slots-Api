@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/joker-s-jewels-hot-b7/demand/
 ```
 
-**12-month volume (illustrative):** 440 · **trend:** declining · YoY -31.2%
+**12-month volume (illustrative):** 450 · **trend:** declining · YoY -29.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -137,7 +137,7 @@ curl -H "Authorization: Token $TOKEN" \
 | South Africa | 120 | growing |
 | Argentina | 90 | declining |
 | Canada | 80 | declining |
-| Netherlands | 50 | flat |
+| Netherlands | 60 | growing |
 | Brazil | 20 | flat |
 | United States | 20 | flat |
 | Austria | 10 | flat |

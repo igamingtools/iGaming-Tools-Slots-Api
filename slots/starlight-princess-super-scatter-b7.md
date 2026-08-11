@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starlight-princess-super-scatter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 19,980 · **trend:** growing · YoY +3532.7%
+**12-month volume (illustrative):** 20,570 · **trend:** growing · YoY +3640.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -160,11 +160,11 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 1,950 | declining |
 | Indonesia | 1,570 | growing |
 | Greece | 1,510 | declining |
-| Canada | 1,120 | declining |
+| Canada | 1,260 | flat |
 | Malaysia | 660 | growing |
-| Germany | 550 | declining |
-| Switzerland | 450 | declining |
-| United Kingdom | 400 | declining |
+| Germany | 620 | growing |
+| Switzerland | 570 | growing |
+| United Kingdom | 450 | growing |
 
 > Full per-country breakdown (72 markets) via the /demand/ endpoint.
 

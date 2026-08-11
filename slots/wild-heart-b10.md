@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-heart-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,490 · **trend:** flat · YoY +2.0%
+**12-month volume (illustrative):** 2,770 · **trend:** growing · YoY +5.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

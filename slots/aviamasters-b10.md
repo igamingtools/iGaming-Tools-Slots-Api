@@ -107,7 +107,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aviamasters-b10/demand/
 ```
 
-**12-month volume (illustrative):** 14,060 · **trend:** growing · YoY +86.2%
+**12-month volume (illustrative):** 17,030 · **trend:** growing · YoY +101.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-clusters-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,410 · **trend:** growing · YoY +159.1%
+**12-month volume (illustrative):** 2,440 · **trend:** growing · YoY +151.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/elements-of-power-b10/demand/
 ```
 
-**12-month volume (illustrative):** 80 · **trend:** flat
+**12-month volume (illustrative):** 120 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

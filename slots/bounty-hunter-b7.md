@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bounty-hunter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 9,100 · **trend:** growing · YoY +295.7%
+**12-month volume (illustrative):** 9,200 · **trend:** growing · YoY +300.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -152,7 +152,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 900 | declining |
 | Indonesia | 400 | growing |
 | South Africa | 290 | flat |
-| Canada | 220 | declining |
+| Canada | 240 | flat |
 | Finland | 200 | declining |
 | India | 200 | flat |
 | Malaysia | 180 | flat |

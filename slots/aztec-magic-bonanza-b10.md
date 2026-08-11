@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-magic-bonanza-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,420 · **trend:** flat · YoY -1.6%
+**12-month volume (illustrative):** 2,710 · **trend:** flat · YoY -3.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

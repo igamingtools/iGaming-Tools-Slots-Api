@@ -153,20 +153,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-boxing-bonus-round-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,920 · **trend:** growing · YoY +241.4%
+**12-month volume (illustrative):** 8,190 · **trend:** growing · YoY +253.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 830 | declining |
-| United Kingdom | 640 | declining |
+| United Kingdom | 780 | growing |
 | Spain | 610 | declining |
 | Portugal | 480 | declining |
 | Tunisia | 400 | growing |
 | South Africa | 370 | flat |
 | Argentina | 360 | declining |
-| Canada | 300 | declining |
+| Canada | 320 | flat |
 | Greece | 260 | declining |
 | Finland | 220 | declining |
 

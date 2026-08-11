@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/beast-band-b10/demand/
 ```
 
-**12-month volume (illustrative):** 740 · **trend:** growing · YoY +23.3%
+**12-month volume (illustrative):** 810 · **trend:** growing · YoY +35.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

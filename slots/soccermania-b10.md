@@ -1,4 +1,4 @@
-# Penny Pelican
+# Soccermania
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/penny-pelican-b10/`
+`GET /api/v1/slots/soccermania-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/penny-pelican-b10/
+  https://i-gaming.tools/api/v1/slots/soccermania-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/penny-pelican-b10/",
+    "https://i-gaming.tools/api/v1/slots/soccermania-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/penny-pelican-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/soccermania-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/penny-pelican-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/soccermania-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,63 +53,59 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "penny-pelican-b10",
-  "name": "Penny Pelican",
+  "slug": "soccermania-b10",
+  "name": "Soccermania",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "95.98",
+  "rtp_default": "96.23",
   "rtp_variants": [
     {
-      "rtp": "95.98",
+      "rtp": "96.23",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "95.94",
+      "rtp": "95.99",
       "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "very_high",
+  "volatility": "",
   "mechanic": "lines",
-  "reels": 5,
+  "reels": 3,
   "rows": 3,
   "jackpot_type": "unknown",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Buy Bonus",
-      "cost": "75.00",
+      "label": "Bonus Game",
+      "cost": "80.00",
       "is_default": true
     }
   ],
-  "release_date": "2022-05-18",
+  "release_date": "2022-11-15",
   "themes": [
     {
-      "slug": "birds",
-      "name": "Birds"
-    },
-    {
-      "slug": "ocean",
-      "name": "Ocean"
+      "slug": "sports",
+      "name": "Sports"
     }
   ],
   "features": [
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "bonus-game",
+      "name": "Bonus Game"
     },
     {
-      "slug": "scatter",
-      "name": "Scatter"
+      "slug": "progressive_multiplier",
+      "name": "Progressive Multiplier"
     },
     {
-      "slug": "sticky_wild",
-      "name": "Sticky Wild"
+      "slug": "random-awards",
+      "name": "Random Awards"
     }
   ],
   "assets": {
@@ -118,7 +114,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/penny-pelican-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/soccermania-b10/"
     }
   }
 }
@@ -126,36 +122,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/penny-pelican-b10/demand/`
+`GET /api/v1/slots/soccermania-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/penny-pelican-b10/demand/
+  https://i-gaming.tools/api/v1/slots/soccermania-b10/demand/
 ```
-
-**12-month volume (illustrative):** 2,060 · **trend:** flat · YoY +3.0%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Greece | 260 | declining |
-| United States | 240 | growing |
-| Finland | 140 | declining |
-| Australia | 120 | flat |
-| Cyprus | 110 | declining |
-| Brazil | 90 | flat |
-| Germany | 80 | flat |
-| Sweden | 70 | declining |
-| Argentina | 60 | growing |
-| Canada | 60 | flat |
-
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/penny-pelican-b10/
-- **Public page:** https://i-gaming.tools/slot-games/penny-pelican-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/soccermania-b10/
+- **Public page:** https://i-gaming.tools/slot-games/soccermania-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

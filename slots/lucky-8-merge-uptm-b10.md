@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Austria | 40 | declining |
 | Canada | 40 | flat |
 
-> Full per-country breakdown (23 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

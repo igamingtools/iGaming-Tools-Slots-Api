@@ -151,12 +151,12 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 40 | declining |
 | Poland | 30 | flat |
 | Hungary | 20 | flat |
+| India | 20 | flat |
+| Indonesia | 20 | growing |
 | Ukraine | 20 | flat |
 | United States | 20 | flat |
-| Australia | 10 | flat |
-| Chile | 10 | flat |
 
-> Full per-country breakdown (15 markets) via the /demand/ endpoint.
+> Full per-country breakdown (17 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -120,16 +120,16 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Belgium | 20 | growing |
 | Canada | 20 | growing |
+| India | 20 | growing |
 | Australia | 10 | growing |
 | Brazil | 10 | growing |
 | France | 10 | growing |
 | Germany | 10 | growing |
 | Greece | 10 | growing |
+| Indonesia | 10 | growing |
 | Latvia | 10 | growing |
-| Netherlands | 10 | growing |
-| Romania | 10 | growing |
 
-> Full per-country breakdown (12 markets) via the /demand/ endpoint.
+> Full per-country breakdown (14 markets) via the /demand/ endpoint.
 
 ## Links
 

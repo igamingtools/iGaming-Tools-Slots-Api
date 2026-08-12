@@ -157,12 +157,12 @@ curl -H "Authorization: Token $TOKEN" \
 | Belarus | 20 | flat |
 | Canada | 20 | flat |
 | Finland | 20 | flat |
+| India | 20 | flat |
 | Netherlands | 20 | declining |
 | Germany | 10 | flat |
 | Hungary | 10 | flat |
-| Ireland | 10 | flat |
 
-> Full per-country breakdown (15 markets) via the /demand/ endpoint.
+> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 

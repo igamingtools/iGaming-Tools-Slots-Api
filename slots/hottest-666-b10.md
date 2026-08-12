@@ -154,9 +154,9 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 20 | growing |
 | Brazil | 10 | flat |
 | Chile | 10 | flat |
-| Italy | 10 | declining |
+| Honduras | 10 | flat |
 
-> Full per-country breakdown (11 markets) via the /demand/ endpoint.
+> Full per-country breakdown (13 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -134,6 +134,21 @@ curl -H "Authorization: Token $TOKEN" \
 
 > Illustrative snapshot — query the live endpoint for current values.
 
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 80 | flat |
+| United States | 80 | flat |
+| Australia | 70 | flat |
+| Germany | 70 | declining |
+| United Kingdom | 70 | flat |
+| Canada | 40 | flat |
+| Finland | 40 | flat |
+| India | 40 | flat |
+| Austria | 30 | flat |
+| Denmark | 30 | flat |
+
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bucks-saloon-b10/

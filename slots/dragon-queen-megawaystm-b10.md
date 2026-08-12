@@ -144,6 +144,21 @@ curl -H "Authorization: Token $TOKEN" \
 
 > Illustrative snapshot — query the live endpoint for current values.
 
+| Country | 12-month volume | Trend |
+|---|---|---|
+| New Zealand | 100 | flat |
+| Australia | 80 | flat |
+| United States | 80 | flat |
+| India | 60 | flat |
+| United Kingdom | 60 | flat |
+| Greece | 50 | flat |
+| Germany | 40 | flat |
+| Ukraine | 30 | flat |
+| Bulgaria | 20 | flat |
+| Finland | 20 | flat |
+
+> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/dragon-queen-megawaystm-b10/

@@ -166,7 +166,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Latvia | 30 | declining |
 | United Kingdom | 30 | flat |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

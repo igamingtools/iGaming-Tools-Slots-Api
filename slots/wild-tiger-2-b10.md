@@ -160,7 +160,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 50 | growing |
 | Chile | 40 | growing |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

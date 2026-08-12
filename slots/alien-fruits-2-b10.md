@@ -165,7 +165,7 @@ curl -H "Authorization: Token $TOKEN" \
 | New Zealand | 90 | flat |
 | United Kingdom | 90 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

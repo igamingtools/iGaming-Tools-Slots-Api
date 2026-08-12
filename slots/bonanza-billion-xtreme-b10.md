@@ -166,7 +166,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Netherlands | 30 | flat |
 | New Zealand | 30 | growing |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

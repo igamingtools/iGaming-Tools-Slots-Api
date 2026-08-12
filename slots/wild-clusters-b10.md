@@ -162,7 +162,7 @@ curl -H "Authorization: Token $TOKEN" \
 | France | 120 | flat |
 | Italy | 120 | flat |
 
-> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

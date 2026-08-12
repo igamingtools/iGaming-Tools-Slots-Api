@@ -1,4 +1,4 @@
-# Wild Card Gang
+# Gates of Power
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/wild-card-gang-b10/`
+`GET /api/v1/slots/gates-of-power-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-card-gang-b10/
+  https://i-gaming.tools/api/v1/slots/gates-of-power-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/wild-card-gang-b10/",
+    "https://i-gaming.tools/api/v1/slots/gates-of-power-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/wild-card-gang-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/gates-of-power-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/wild-card-gang-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/gates-of-power-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,54 +53,45 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "wild-card-gang-b10",
-  "name": "Wild Card Gang",
+  "slug": "gates-of-power-b10",
+  "name": "Gates of Power",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "97.25",
+  "rtp_default": "96.03",
   "rtp_variants": [
     {
-      "rtp": "97.25",
+      "rtp": "96.03",
       "variant": "default",
       "is_default": true
-    },
-    {
-      "rtp": "97.25",
-      "variant": "ante_bet",
-      "is_default": false
-    },
-    {
-      "rtp": "97.25",
-      "variant": "bonus_buy",
-      "is_default": false
     }
   ],
-  "volatility": "very_high",
+  "volatility": "high",
   "mechanic": "cluster",
   "reels": 6,
-  "rows": 6,
-  "jackpot_type": "unknown",
+  "rows": 5,
+  "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Buy Bonus",
+      "label": "Bonus",
       "cost": "100.00",
       "is_default": true
-    }
-  ],
-  "release_date": "2025-02-26",
-  "themes": [
-    {
-      "slug": "cards",
-      "name": "Cards"
     },
     {
-      "slug": "mafia",
-      "name": "Mafia"
+      "label": "Super Bonus",
+      "cost": "500.00",
+      "is_default": false
+    }
+  ],
+  "release_date": "2026-04-01",
+  "themes": [
+    {
+      "slug": "ancient-greece",
+      "name": "Ancient Greece"
     }
   ],
   "features": [
@@ -123,7 +114,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/wild-card-gang-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/gates-of-power-b10/"
     }
   }
 }
@@ -131,36 +122,36 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/wild-card-gang-b10/demand/`
+`GET /api/v1/slots/gates-of-power-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wild-card-gang-b10/demand/
+  https://i-gaming.tools/api/v1/slots/gates-of-power-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,220 · **trend:** growing · YoY +212.8%
+**12-month volume (illustrative):** 1,020 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 160 | flat |
-| Romania | 150 | declining |
-| Finland | 140 | declining |
-| India | 100 | flat |
-| Australia | 90 | flat |
-| Germany | 80 | declining |
-| United Kingdom | 70 | growing |
-| Canada | 60 | flat |
-| Denmark | 40 | flat |
+| United States | 80 | growing |
+| Australia | 60 | flat |
+| Brazil | 60 | flat |
+| Switzerland | 60 | declining |
+| Greece | 50 | declining |
+| Canada | 40 | flat |
+| Finland | 40 | declining |
+| Germany | 40 | flat |
 | Netherlands | 40 | flat |
+| Spain | 40 | declining |
 
-> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-card-gang-b10/
-- **Public page:** https://i-gaming.tools/slot-games/wild-card-gang-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/gates-of-power-b10/
+- **Public page:** https://i-gaming.tools/slot-games/gates-of-power-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

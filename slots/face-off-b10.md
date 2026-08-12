@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Ukraine | 40 | flat |
 | United Kingdom | 40 | flat |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

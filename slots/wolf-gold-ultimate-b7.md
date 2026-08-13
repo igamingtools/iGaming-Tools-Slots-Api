@@ -147,7 +147,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Indonesia | 970 | declining |
 | Canada | 920 | flat |
-| Greece | 290 | declining |
+| Greece | 300 | flat |
 | Germany | 210 | flat |
 | United States | 180 | growing |
 | Netherlands | 170 | flat |

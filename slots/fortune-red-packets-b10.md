@@ -1,12 +1,12 @@
-# Limbo\+
+# Fortune Red Packets
 
-**Provider:** Pragmatic Play
+**Provider:** BGaming
 
 > **Note:** Illustrative excerpt — values may differ. Always query the live endpoint for current data, media URLs and demo links.
 
 ## Endpoint
 
-`GET /api/v1/slots/limbo-b7/`
+`GET /api/v1/slots/fortune-red-packets-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/limbo-b7/
+  https://i-gaming.tools/api/v1/slots/fortune-red-packets-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/limbo-b7/",
+    "https://i-gaming.tools/api/v1/slots/fortune-red-packets-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/limbo-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/fortune-red-packets-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/limbo-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/fortune-red-packets-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,39 +53,49 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "limbo-b7",
-  "name": "Limbo+",
+  "slug": "fortune-red-packets-b10",
+  "name": "Fortune Red Packets",
   "status": "active",
   "provider": {
-    "slug": "pragmatic-play",
-    "name": "Pragmatic Play"
+    "slug": "bgaming",
+    "name": "BGaming"
   },
   "game_category": "crash",
-  "rtp_default": "97.50",
+  "rtp_default": "98.40",
   "rtp_variants": [
     {
-      "rtp": "97.50",
+      "rtp": "98.40",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "",
+  "volatility": "low",
   "mechanic": "",
   "reels": null,
   "rows": null,
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2026-04-23",
-  "themes": [],
-  "features": [],
+  "release_date": "2026-02-10",
+  "themes": [
+    {
+      "slug": "chinese",
+      "name": "Chinese"
+    }
+  ],
+  "features": [
+    {
+      "slug": "prize-ladder",
+      "name": "Prize Ladder"
+    }
+  ],
   "assets": {
     "logo_url": "<live CDN url — request the endpoint>",
     "screenshots": [
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/limbo-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/fortune-red-packets-b10/"
     }
   }
 }
@@ -93,36 +103,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/limbo-b7/demand/`
+`GET /api/v1/slots/fortune-red-packets-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/limbo-b7/demand/
+  https://i-gaming.tools/api/v1/slots/fortune-red-packets-b10/demand/
 ```
-
-**12-month volume (illustrative):** 21,060 · **trend:** declining · YoY -63.9%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| India | 8,300 | flat |
-| Brazil | 1,320 | declining |
-| United States | 1,080 | growing |
-| Pakistan | 720 | declining |
-| Canada | 540 | flat |
-| Indonesia | 420 | flat |
-| Algeria | 410 | flat |
-| Germany | 380 | flat |
-| Mexico | 300 | declining |
-| Philippines | 290 | declining |
-
-> Full per-country breakdown (80 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/limbo-b7/
-- **Public page:** https://i-gaming.tools/slot-games/limbo-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fortune-red-packets-b10/
+- **Public page:** https://i-gaming.tools/slot-games/fortune-red-packets-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

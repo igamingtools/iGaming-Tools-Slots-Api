@@ -87,12 +87,7 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Japanese"
     }
   ],
-  "features": [
-    {
-      "slug": "ways",
-      "name": "Ways"
-    }
-  ],
+  "features": [],
   "assets": {
     "logo_url": "<live CDN url — request the endpoint>",
     "screenshots": [

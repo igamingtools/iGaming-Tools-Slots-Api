@@ -128,10 +128,10 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | South Africa | 590 | flat |
 | India | 260 | flat |
-| Finland | 140 | declining |
+| Finland | 160 | flat |
+| Brazil | 120 | flat |
+| Greece | 120 | flat |
 | Malaysia | 120 | flat |
-| Brazil | 110 | declining |
-| Greece | 110 | declining |
 | Philippines | 90 | growing |
 | Switzerland | 90 | flat |
 | United Kingdom | 90 | flat |

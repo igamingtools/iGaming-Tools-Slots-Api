@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Finland | 220 | flat |
 | Canada | 180 | declining |
 | Switzerland | 180 | growing |
-| Brazil | 160 | declining |
+| Brazil | 170 | flat |
 | South Africa | 140 | flat |
 | Denmark | 130 | flat |
 | Italy | 120 | growing |

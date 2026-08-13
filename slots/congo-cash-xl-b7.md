@@ -112,8 +112,8 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Modifier Reel"
     },
     {
-      "slug": "ways",
-      "name": "Ways"
+      "slug": "wild",
+      "name": "Wild"
     }
   ],
   "assets": {

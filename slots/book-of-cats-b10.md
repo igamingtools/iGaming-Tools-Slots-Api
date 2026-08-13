@@ -1,12 +1,12 @@
-# Fire Strike 2
+# Book of Cats
 
-**Provider:** Pragmatic Play
+**Provider:** BGaming
 
 > **Note:** Illustrative excerpt — values may differ. Always query the live endpoint for current data, media URLs and demo links.
 
 ## Endpoint
 
-`GET /api/v1/slots/fire-strike-2-b7/`
+`GET /api/v1/slots/book-of-cats-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/fire-strike-2-b7/
+  https://i-gaming.tools/api/v1/slots/book-of-cats-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/fire-strike-2-b7/",
+    "https://i-gaming.tools/api/v1/slots/book-of-cats-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/fire-strike-2-b7/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/book-of-cats-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/fire-strike-2-b7/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/book-of-cats-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,52 +53,57 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "fire-strike-2-b7",
-  "name": "Fire Strike 2",
+  "slug": "book-of-cats-b10",
+  "name": "Book of Cats",
   "status": "active",
   "provider": {
-    "slug": "pragmatic-play",
-    "name": "Pragmatic Play"
+    "slug": "bgaming",
+    "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.53",
+  "rtp_default": "96.99",
   "rtp_variants": [
     {
-      "rtp": "96.53",
+      "rtp": "96.99",
       "variant": "default",
       "is_default": true
-    }
-  ],
-  "volatility": "medium",
-  "mechanic": "lines",
-  "reels": 5,
-  "rows": 3,
-  "jackpot_type": "none",
-  "has_bonus_buy": "no",
-  "bonus_buys": [],
-  "release_date": "2022-05-05",
-  "themes": [
-    {
-      "slug": "fire",
-      "name": "Fire"
     },
     {
-      "slug": "fruits",
-      "name": "Fruits"
+      "rtp": "96.83",
+      "variant": "bonus_buy",
+      "is_default": false
+    }
+  ],
+  "volatility": "",
+  "mechanic": "lines",
+  "reels": 6,
+  "rows": 3,
+  "jackpot_type": "none",
+  "has_bonus_buy": "yes",
+  "bonus_buys": [],
+  "release_date": "2020-07-08",
+  "themes": [
+    {
+      "slug": "cats",
+      "name": "Cats"
+    },
+    {
+      "slug": "egyptian",
+      "name": "Egyptian"
     }
   ],
   "features": [
     {
+      "slug": "expanding-symbols",
+      "name": "Expanding Symbols"
+    },
+    {
+      "slug": "free-spins-choice",
+      "name": "Free Spins Choice"
+    },
+    {
       "slug": "free_spins",
       "name": "Free Spins"
-    },
-    {
-      "slug": "money-collect",
-      "name": "Money Collect"
-    },
-    {
-      "slug": "scatter",
-      "name": "Scatter"
     }
   ],
   "assets": {
@@ -107,48 +112,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/fire-strike-2-b7/"
+      "page_url": "https://i-gaming.tools/slot-games/book-of-cats-b10/"
     }
-  },
-  "series": {
-    "slug": "fire-strike",
-    "name": "Fire Strike"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/fire-strike-2-b7/demand/`
+`GET /api/v1/slots/book-of-cats-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/fire-strike-2-b7/demand/
+  https://i-gaming.tools/api/v1/slots/book-of-cats-b10/demand/
 ```
 
-**12-month volume (illustrative):** 9,580 · **trend:** declining · YoY -22.4%
+**12-month volume (illustrative):** 2,360 · **trend:** growing · YoY +13.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 6,450 | flat |
-| Brazil | 980 | flat |
-| United States | 200 | declining |
-| Finland | 180 | flat |
-| Pakistan | 120 | flat |
-| Argentina | 100 | declining |
-| Denmark | 100 | flat |
-| India | 100 | flat |
-| United Kingdom | 100 | declining |
-| Greece | 90 | flat |
+| Germany | 410 | declining |
+| Canada | 380 | flat |
+| Brazil | 150 | flat |
+| Australia | 120 | flat |
+| Greece | 120 | flat |
+| United States | 100 | flat |
+| Netherlands | 70 | flat |
+| United Kingdom | 70 | flat |
+| Austria | 60 | flat |
+| Denmark | 60 | flat |
 
-> Full per-country breakdown (53 markets) via the /demand/ endpoint.
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fire-strike-2-b7/
-- **Public page:** https://i-gaming.tools/slot-games/fire-strike-2-b7/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/book-of-cats-b10/
+- **Public page:** https://i-gaming.tools/slot-games/book-of-cats-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

@@ -141,9 +141,9 @@ curl -H "Authorization: Token $TOKEN" \
 | Australia | 160 | declining |
 | Canada | 120 | flat |
 | New Zealand | 110 | flat |
+| Greece | 100 | flat |
 | Netherlands | 100 | flat |
 | Brazil | 90 | declining |
-| Greece | 90 | declining |
 | Lithuania | 90 | flat |
 | United Kingdom | 80 | growing |
 | Romania | 70 | flat |

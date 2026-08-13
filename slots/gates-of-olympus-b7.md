@@ -145,12 +145,12 @@ curl -H "Authorization: Token $TOKEN" \
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Turkey | 104,400 | declining |
-| Brazil | 55,640 | declining |
+| Turkey | 109,800 | flat |
+| Brazil | 59,350 | declining |
 | Indonesia | 52,100 | declining |
 | South Africa | 36,700 | flat |
-| Greece | 33,300 | declining |
-| Romania | 21,600 | declining |
+| Greece | 35,200 | declining |
+| Romania | 23,500 | flat |
 | Germany | 20,420 | growing |
 | Netherlands | 15,000 | flat |
 | Switzerland | 14,860 | declining |

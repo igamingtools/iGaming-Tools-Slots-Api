@@ -148,12 +148,12 @@ curl -H "Authorization: Token $TOKEN" \
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Philippines | 1,510 | growing |
-| Greece | 1,390 | declining |
-| Brazil | 900 | declining |
+| Greece | 1,430 | flat |
+| Brazil | 990 | declining |
 | Indonesia | 400 | growing |
 | South Africa | 290 | flat |
 | Canada | 240 | flat |
-| Finland | 200 | declining |
+| Finland | 220 | flat |
 | India | 200 | flat |
 | Malaysia | 180 | flat |
 | Switzerland | 180 | flat |

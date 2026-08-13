@@ -146,8 +146,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Bulgaria | 50 | flat |
 | Canada | 40 | flat |
 | Denmark | 40 | declining |
+| Greece | 40 | growing |
 | Tunisia | 40 | flat |
-| France | 30 | flat |
 
 > Full per-country breakdown (35 markets) via the /demand/ endpoint.
 

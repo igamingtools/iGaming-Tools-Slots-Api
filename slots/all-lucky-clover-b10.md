@@ -70,12 +70,12 @@ $data = json_decode(curl_exec($ch), true);
     },
     {
       "rtp": "96.64",
-      "variant": "operator_config",
+      "variant": "player_config",
       "is_default": false
     },
     {
       "rtp": "96.64",
-      "variant": "operator_config",
+      "variant": "player_config",
       "is_default": false
     }
   ],

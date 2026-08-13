@@ -132,14 +132,14 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | United States | 140 | flat |
 | Canada | 120 | declining |
+| Denmark | 120 | flat |
 | United Kingdom | 120 | flat |
-| Denmark | 110 | declining |
+| Greece | 110 | flat |
 | South Africa | 110 | flat |
-| Greece | 100 | declining |
-| Sweden | 100 | declining |
+| Sweden | 110 | flat |
+| Argentina | 80 | flat |
 | Belgium | 80 | flat |
 | Germany | 80 | growing |
-| Argentina | 70 | declining |
 
 > Full per-country breakdown (46 markets) via the /demand/ endpoint.
 

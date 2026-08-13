@@ -154,16 +154,16 @@ curl -H "Authorization: Token $TOKEN" \
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 440 | declining |
-| Greece | 210 | declining |
+| Brazil | 490 | growing |
+| Greece | 220 | flat |
 | Switzerland | 180 | declining |
 | Germany | 140 | growing |
 | Netherlands | 140 | flat |
 | Indonesia | 130 | growing |
 | South Africa | 130 | growing |
 | United Kingdom | 130 | flat |
-| Turkey | 110 | declining |
-| Canada | 100 | flat |
+| Turkey | 120 | flat |
+| Lithuania | 110 | growing |
 
 > Full per-country breakdown (52 markets) via the /demand/ endpoint.
 

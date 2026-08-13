@@ -137,10 +137,10 @@ curl -H "Authorization: Token $TOKEN" \
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Mexico | 800 | declining |
+| Mexico | 840 | declining |
 | South Africa | 710 | declining |
-| Argentina | 440 | declining |
-| Brazil | 370 | declining |
+| Argentina | 480 | declining |
+| Brazil | 410 | declining |
 | Peru | 350 | declining |
 | United Kingdom | 340 | growing |
 | Germany | 250 | flat |

@@ -141,13 +141,13 @@ curl -H "Authorization: Token $TOKEN" \
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 840 | declining |
-| Greece | 800 | declining |
+| Brazil | 890 | declining |
+| Greece | 850 | flat |
 | Netherlands | 520 | declining |
+| Romania | 370 | flat |
 | Canada | 360 | flat |
-| Romania | 360 | declining |
+| Finland | 240 | flat |
 | Switzerland | 240 | declining |
-| Finland | 220 | declining |
 | South Africa | 210 | flat |
 | Tunisia | 200 | declining |
 | United States | 200 | declining |

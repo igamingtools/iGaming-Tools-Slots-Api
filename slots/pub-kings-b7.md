@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pub-kings-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,370 · **trend:** flat · YoY -4.0%
+**12-month volume (illustrative):** 2,480 · **trend:** flat · YoY +0.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

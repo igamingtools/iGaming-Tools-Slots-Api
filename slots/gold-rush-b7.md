@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,300 · **trend:** declining · YoY -24.3%
+**12-month volume (illustrative):** 7,400 · **trend:** declining · YoY -23.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

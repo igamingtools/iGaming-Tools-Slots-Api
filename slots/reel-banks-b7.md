@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/reel-banks-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,570 · **trend:** declining · YoY -29.6%
+**12-month volume (illustrative):** 1,590 · **trend:** declining · YoY -28.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

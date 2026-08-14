@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dynamite-diggin-doug-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,140 · **trend:** declining · YoY -55.1%
+**12-month volume (illustrative):** 1,170 · **trend:** declining · YoY -53.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

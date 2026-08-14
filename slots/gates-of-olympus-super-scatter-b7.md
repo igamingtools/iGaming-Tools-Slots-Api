@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-olympus-super-scatter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 611,830 · **trend:** growing · YoY +296.7%
+**12-month volume (illustrative):** 634,600 · **trend:** growing · YoY +311.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

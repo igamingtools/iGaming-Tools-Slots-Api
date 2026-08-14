@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/temple-guardians-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,880 · **trend:** growing · YoY +161.1%
+**12-month volume (illustrative):** 1,930 · **trend:** growing · YoY +168.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

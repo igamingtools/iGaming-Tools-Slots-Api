@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/himalayan-wild-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,310 · **trend:** declining · YoY -42.5%
+**12-month volume (illustrative):** 1,320 · **trend:** declining · YoY -42.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

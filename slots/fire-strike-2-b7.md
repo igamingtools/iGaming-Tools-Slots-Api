@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-strike-2-b7/demand/
 ```
 
-**12-month volume (illustrative):** 9,580 · **trend:** declining · YoY -22.4%
+**12-month volume (illustrative):** 9,700 · **trend:** declining · YoY -21.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

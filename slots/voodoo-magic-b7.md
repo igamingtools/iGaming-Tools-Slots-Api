@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/voodoo-magic-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,990 · **trend:** flat · YoY +3.6%
+**12-month volume (illustrative):** 4,020 · **trend:** flat · YoY +4.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

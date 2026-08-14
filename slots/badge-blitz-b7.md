@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/badge-blitz-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,960 · **trend:** declining · YoY -27.4%
+**12-month volume (illustrative):** 1,990 · **trend:** declining · YoY -26.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

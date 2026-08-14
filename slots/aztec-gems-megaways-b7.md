@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-gems-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,880 · **trend:** growing · YoY +14.8%
+**12-month volume (illustrative):** 4,080 · **trend:** growing · YoY +20.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

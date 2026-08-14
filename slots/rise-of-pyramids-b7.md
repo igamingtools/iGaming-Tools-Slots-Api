@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rise-of-pyramids-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,090 · **trend:** growing · YoY +15.5%
+**12-month volume (illustrative):** 2,170 · **trend:** growing · YoY +19.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

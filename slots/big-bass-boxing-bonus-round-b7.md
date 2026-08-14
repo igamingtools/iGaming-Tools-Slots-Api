@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-boxing-bonus-round-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,190 · **trend:** growing · YoY +253.0%
+**12-month volume (illustrative):** 8,610 · **trend:** growing · YoY +271.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

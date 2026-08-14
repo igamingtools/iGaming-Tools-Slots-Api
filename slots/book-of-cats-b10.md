@@ -114,6 +114,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/book-of-cats-b10/"
     }
+  },
+  "series": {
+    "slug": "book-of-cats",
+    "name": "Book of Cats"
   }
 }
 ```

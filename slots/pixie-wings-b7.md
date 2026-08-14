@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pixie-wings-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,190 · **trend:** growing · YoY +9.2%
+**12-month volume (illustrative):** 1,210 · **trend:** growing · YoY +11.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

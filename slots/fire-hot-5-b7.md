@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-hot-5-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,510 · **trend:** flat · YoY -2.0%
+**12-month volume (illustrative):** 3,550 · **trend:** flat · YoY -0.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -116,7 +116,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/triple-jokers-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,340 · **trend:** declining · YoY -35.6%
+**12-month volume (illustrative):** 1,370 · **trend:** declining · YoY -34.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

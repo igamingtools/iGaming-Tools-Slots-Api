@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wolf-gold-ultimate-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,990 · **trend:** growing · YoY +12.6%
+**12-month volume (illustrative):** 6,090 · **trend:** growing · YoY +14.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-golden-sands-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,150 · **trend:** declining · YoY -9.3%
+**12-month volume (illustrative):** 7,380 · **trend:** declining · YoY -6.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

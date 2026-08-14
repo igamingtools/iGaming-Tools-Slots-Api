@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-kingdoms-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,470 · **trend:** declining · YoY -12.0%
+**12-month volume (illustrative):** 1,500 · **trend:** declining · YoY -10.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/john-hunter-and-the-mayan-gods-b7/demand/
 ```
 
-**12-month volume (illustrative):** 470 · **trend:** declining · YoY -27.7%
+**12-month volume (illustrative):** 480 · **trend:** declining · YoY -26.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

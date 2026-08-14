@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/vampy-party-b7/demand/
 ```
 
-**12-month volume (illustrative):** 27,780 · **trend:** declining · YoY -15.1%
+**12-month volume (illustrative):** 28,540 · **trend:** declining · YoY -12.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

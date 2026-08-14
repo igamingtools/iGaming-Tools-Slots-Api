@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/7-clovers-of-fortune-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,880 · **trend:** growing · YoY +26.2%
+**12-month volume (illustrative):** 7,080 · **trend:** growing · YoY +29.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

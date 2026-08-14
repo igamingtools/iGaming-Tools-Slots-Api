@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sticky-bees-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,670 · **trend:** declining · YoY -10.3%
+**12-month volume (illustrative):** 8,930 · **trend:** declining · YoY -7.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-christmas-bash-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,760 · **trend:** declining · YoY -25.4%
+**12-month volume (illustrative):** 7,940 · **trend:** declining · YoY -23.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

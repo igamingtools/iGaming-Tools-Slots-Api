@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sumo-supreme-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,490 · **trend:** declining · YoY -47.7%
+**12-month volume (illustrative):** 2,560 · **trend:** declining · YoY -46.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

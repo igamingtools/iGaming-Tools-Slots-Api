@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bigger-bass-splash-b7/demand/
 ```
 
-**12-month volume (illustrative):** 262,060 · **trend:** declining · YoY -17.3%
+**12-month volume (illustrative):** 271,410 · **trend:** declining · YoY -14.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

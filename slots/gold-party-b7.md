@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-party-b7/demand/
 ```
 
-**12-month volume (illustrative):** 35,660 · **trend:** declining · YoY -37.2%
+**12-month volume (illustrative):** 38,050 · **trend:** declining · YoY -33.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

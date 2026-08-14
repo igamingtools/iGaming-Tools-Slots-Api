@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-king-hot-pots-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,250 · **trend:** declining · YoY -7.4%
+**12-month volume (illustrative):** 1,290 · **trend:** flat · YoY -4.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

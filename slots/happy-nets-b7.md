@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/happy-nets-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,750 · **trend:** flat
+**12-month volume (illustrative):** 2,780 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

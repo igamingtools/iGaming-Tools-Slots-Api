@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-hot-40-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,240 · **trend:** declining · YoY -20.0%
+**12-month volume (illustrative):** 1,260 · **trend:** declining · YoY -18.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

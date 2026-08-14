@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-stampede-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,800 · **trend:** flat · YoY +4.6%
+**12-month volume (illustrative):** 8,090 · **trend:** growing · YoY +8.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

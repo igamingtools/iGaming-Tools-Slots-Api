@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/witch-heart-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,880 · **trend:** growing · YoY +147.8%
+**12-month volume (illustrative):** 8,170 · **trend:** growing · YoY +156.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

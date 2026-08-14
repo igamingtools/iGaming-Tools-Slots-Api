@@ -115,7 +115,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-tiger-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,360 · **trend:** growing · YoY +5.7%
+**12-month volume (illustrative):** 8,500 · **trend:** growing · YoY +7.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

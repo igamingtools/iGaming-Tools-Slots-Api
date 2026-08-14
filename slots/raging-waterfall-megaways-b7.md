@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/raging-waterfall-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,260 · **trend:** declining · YoY -21.7%
+**12-month volume (illustrative):** 1,320 · **trend:** declining · YoY -18.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rocket-blast-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,800 · **trend:** growing · YoY +15.2%
+**12-month volume (illustrative):** 2,850 · **trend:** growing · YoY +17.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/red-hot-luck-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,760 · **trend:** declining · YoY -38.7%
+**12-month volume (illustrative):** 1,840 · **trend:** declining · YoY -35.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

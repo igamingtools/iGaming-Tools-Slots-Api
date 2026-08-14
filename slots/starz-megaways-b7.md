@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starz-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,930 · **trend:** declining · YoY -30.6%
+**12-month volume (illustrative):** 2,000 · **trend:** declining · YoY -28.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

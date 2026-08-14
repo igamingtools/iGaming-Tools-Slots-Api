@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pompeii-megareels-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,130 · **trend:** growing · YoY +9.6%
+**12-month volume (illustrative):** 5,310 · **trend:** growing · YoY +13.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

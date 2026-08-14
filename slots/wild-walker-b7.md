@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-walker-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,220 · **trend:** declining · YoY -15.3%
+**12-month volume (illustrative):** 2,310 · **trend:** declining · YoY -11.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

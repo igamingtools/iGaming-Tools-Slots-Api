@@ -102,7 +102,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/limbo-b7/demand/
 ```
 
-**12-month volume (illustrative):** 21,060 · **trend:** declining · YoY -63.9%
+**12-month volume (illustrative):** 21,460 · **trend:** declining · YoY -63.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

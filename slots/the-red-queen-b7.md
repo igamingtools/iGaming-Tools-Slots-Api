@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-red-queen-b7/demand/
 ```
 
-**12-month volume (illustrative):** 870 · **trend:** growing · YoY +19.2%
+**12-month volume (illustrative):** 880 · **trend:** growing · YoY +20.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

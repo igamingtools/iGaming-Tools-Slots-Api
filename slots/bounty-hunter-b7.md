@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bounty-hunter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 9,200 · **trend:** growing · YoY +300.0%
+**12-month volume (illustrative):** 9,480 · **trend:** growing · YoY +312.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

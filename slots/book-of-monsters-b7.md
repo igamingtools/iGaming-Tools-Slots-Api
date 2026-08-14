@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-monsters-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,250 · **trend:** flat · YoY +4.3%
+**12-month volume (illustrative):** 8,490 · **trend:** growing · YoY +7.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

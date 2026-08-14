@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/joker-s-jewels-hot-b7/demand/
 ```
 
-**12-month volume (illustrative):** 450 · **trend:** declining · YoY -29.7%
+**12-month volume (illustrative):** 510 · **trend:** declining · YoY -20.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dance-party-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,450 · **trend:** declining · YoY -33.2%
+**12-month volume (illustrative):** 1,510 · **trend:** declining · YoY -30.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

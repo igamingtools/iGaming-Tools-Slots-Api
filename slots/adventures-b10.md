@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/adventures-b10/demand/
 ```
 
-**12-month volume (illustrative):** 900 · **trend:** growing · YoY +34.3%
+**12-month volume (illustrative):** 890 · **trend:** growing · YoY +30.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 190 | declining |
-| United States | 100 | declining |
-| Brazil | 70 | growing |
-| Austria | 60 | flat |
-| Canada | 60 | declining |
+| Germany | 170 | declining |
+| United States | 100 | flat |
+| Brazil | 70 | declining |
+| Canada | 60 | flat |
+| Austria | 50 | flat |
 | Finland | 40 | flat |
-| Greece | 40 | declining |
+| Greece | 40 | flat |
 | India | 40 | flat |
-| Indonesia | 40 | growing |
-| Switzerland | 40 | flat |
+| Indonesia | 40 | declining |
+| Spain | 30 | flat |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

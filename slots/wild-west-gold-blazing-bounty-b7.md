@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-west-gold-blazing-bounty-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,580 · **trend:** growing · YoY +354.0%
+**12-month volume (illustrative):** 7,380 · **trend:** growing · YoY +138.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,290 | declining |
-| Greece | 900 | flat |
-| South Africa | 830 | declining |
-| Indonesia | 580 | flat |
-| Philippines | 250 | flat |
-| Canada | 220 | flat |
-| Finland | 220 | growing |
-| Malaysia | 220 | flat |
-| Switzerland | 210 | flat |
-| United States | 180 | flat |
+| Brazil | 1,080 | declining |
+| South Africa | 790 | declining |
+| Greece | 690 | declining |
+| Indonesia | 440 | declining |
+| Philippines | 210 | declining |
+| Canada | 200 | declining |
+| Malaysia | 200 | declining |
+| Finland | 180 | declining |
+| Switzerland | 180 | flat |
+| United States | 160 | flat |
 
-> Full per-country breakdown (67 markets) via the /demand/ endpoint.
+> Full per-country breakdown (65 markets) via the /demand/ endpoint.
 
 ## Links
 

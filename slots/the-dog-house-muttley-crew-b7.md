@@ -159,7 +159,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 140 | flat |
 | Malaysia | 140 | growing |
 | Philippines | 140 | flat |
-| Belarus | 120 | flat |
+| Peru | 130 | flat |
 
 > Full per-country breakdown (61 markets) via the /demand/ endpoint.
 

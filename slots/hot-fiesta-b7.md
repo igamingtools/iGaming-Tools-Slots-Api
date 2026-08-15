@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-fiesta-b7/demand/
 ```
 
-**12-month volume (illustrative):** 21,020 · **trend:** declining · YoY -13.1%
+**12-month volume (illustrative):** 19,070 · **trend:** declining · YoY -22.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 3,140 | declining |
-| Brazil | 2,500 | declining |
-| Greece | 1,780 | declining |
-| Finland | 1,160 | declining |
-| Denmark | 1,150 | declining |
-| Germany | 870 | declining |
-| Netherlands | 760 | flat |
-| Ukraine | 650 | flat |
-| United States | 520 | flat |
-| United Kingdom | 370 | flat |
+| South Africa | 2,820 | declining |
+| Brazil | 2,180 | declining |
+| Greece | 1,570 | declining |
+| Finland | 1,120 | declining |
+| Denmark | 1,080 | declining |
+| Germany | 800 | declining |
+| Netherlands | 690 | declining |
+| Ukraine | 620 | declining |
+| United States | 500 | declining |
+| Switzerland | 330 | declining |
 
-> Full per-country breakdown (70 markets) via the /demand/ endpoint.
+> Full per-country breakdown (71 markets) via the /demand/ endpoint.
 
 ## Links
 

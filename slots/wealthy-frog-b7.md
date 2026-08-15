@@ -138,8 +138,8 @@ curl -H "Authorization: Token $TOKEN" \
 | India | 80 | growing |
 | Philippines | 80 | growing |
 | Greece | 70 | flat |
+| Peru | 60 | flat |
 | Portugal | 60 | growing |
-| Australia | 50 | flat |
 
 > Full per-country breakdown (41 markets) via the /demand/ endpoint.
 

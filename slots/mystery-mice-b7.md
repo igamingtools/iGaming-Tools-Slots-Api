@@ -152,7 +152,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Philippines | 80 | flat |
 | Indonesia | 70 | flat |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
 
 ## Links
 

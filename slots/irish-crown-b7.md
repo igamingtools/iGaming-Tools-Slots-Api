@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/irish-crown-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,570 · **trend:** declining · YoY -45.5%
+**12-month volume (illustrative):** 1,390 · **trend:** declining · YoY -54.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 140 | declining |
-| South Africa | 130 | flat |
-| Brazil | 120 | flat |
-| Greece | 110 | declining |
-| United Kingdom | 100 | flat |
-| Philippines | 80 | flat |
-| Lithuania | 60 | flat |
-| Ukraine | 60 | declining |
-| Portugal | 50 | declining |
-| Germany | 40 | growing |
+| Canada | 120 | flat |
+| South Africa | 120 | declining |
+| Brazil | 110 | declining |
+| Greece | 100 | flat |
+| United Kingdom | 90 | declining |
+| Philippines | 70 | flat |
+| Lithuania | 50 | flat |
+| Portugal | 50 | flat |
+| Ukraine | 50 | flat |
+| Germany | 40 | declining |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
 
 ## Links
 

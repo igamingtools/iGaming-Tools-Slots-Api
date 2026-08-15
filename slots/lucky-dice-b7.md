@@ -134,12 +134,12 @@ curl -H "Authorization: Token $TOKEN" \
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 140 | flat |
-| Brazil | 130 | flat |
-| South Africa | 110 | flat |
-| Greece | 100 | flat |
+| India | 140 | declining |
+| Brazil | 130 | declining |
+| South Africa | 110 | declining |
+| Greece | 100 | declining |
 | Belgium | 80 | flat |
-| Pakistan | 80 | flat |
+| Pakistan | 80 | declining |
 | Peru | 60 | flat |
 | Tunisia | 50 | flat |
 | Finland | 40 | flat |

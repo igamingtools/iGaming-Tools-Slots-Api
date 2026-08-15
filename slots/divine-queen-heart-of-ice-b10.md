@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/divine-queen-heart-of-ice-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,080 · **trend:** flat
+**12-month volume (illustrative):** 1,160 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Cyprus | 160 | declining |
-| United States | 160 | flat |
-| Greece | 90 | declining |
-| Canada | 80 | growing |
-| Germany | 60 | growing |
-| United Kingdom | 50 | growing |
-| Australia | 40 | declining |
+| Cyprus | 160 | flat |
+| United States | 160 | declining |
+| Greece | 90 | flat |
+| Canada | 80 | declining |
+| Germany | 60 | declining |
+| United Kingdom | 50 | declining |
+| Australia | 40 | flat |
 | India | 40 | flat |
+| South Africa | 40 | growing |
 | Ukraine | 40 | flat |
-| Brazil | 30 | flat |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dino-drop-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,090 · **trend:** flat
+**12-month volume (illustrative):** 2,970 · **trend:** growing · YoY +2375.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 760 | declining |
-| Greece | 160 | flat |
-| Canada | 140 | growing |
-| South Africa | 140 | declining |
-| Ukraine | 110 | flat |
-| Indonesia | 100 | flat |
-| United Kingdom | 100 | declining |
-| Germany | 90 | growing |
-| Malaysia | 80 | flat |
+| Greece | 160 | declining |
+| Canada | 140 | declining |
+| South Africa | 140 | flat |
+| Ukraine | 100 | declining |
+| United Kingdom | 100 | flat |
+| Indonesia | 90 | declining |
 | Tunisia | 80 | flat |
+| Germany | 70 | declining |
+| Malaysia | 60 | flat |
 
-> Full per-country breakdown (59 markets) via the /demand/ endpoint.
+> Full per-country breakdown (58 markets) via the /demand/ endpoint.
 
 ## Links
 

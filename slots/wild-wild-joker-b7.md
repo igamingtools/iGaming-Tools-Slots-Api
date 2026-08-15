@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-wild-joker-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,440 · **trend:** growing · YoY +14.6%
+**12-month volume (illustrative):** 2,040 · **trend:** declining · YoY -19.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 290 | flat |
-| Brazil | 260 | flat |
-| Greece | 120 | flat |
-| Canada | 100 | flat |
-| Italy | 100 | declining |
-| Argentina | 90 | declining |
-| Philippines | 90 | flat |
-| Malaysia | 80 | flat |
-| Netherlands | 70 | declining |
-| Peru | 70 | flat |
+| Brazil | 240 | declining |
+| South Africa | 220 | declining |
+| Argentina | 90 | flat |
+| Italy | 90 | flat |
+| Canada | 80 | flat |
+| Greece | 80 | flat |
+| Philippines | 80 | flat |
+| Netherlands | 70 | flat |
+| Lithuania | 60 | declining |
+| Malaysia | 60 | flat |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

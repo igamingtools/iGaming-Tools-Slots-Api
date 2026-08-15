@@ -143,8 +143,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Switzerland | 180 | flat |
 | Canada | 120 | flat |
 | United Kingdom | 100 | declining |
+| Peru | 90 | flat |
 | Tunisia | 90 | growing |
-| Peru | 80 | declining |
 | Italy | 70 | flat |
 | Philippines | 70 | flat |
 

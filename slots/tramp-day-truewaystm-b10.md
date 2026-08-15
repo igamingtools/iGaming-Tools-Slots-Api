@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tramp-day-truewaystm-b10/demand/
 ```
 
-**12-month volume (illustrative):** 400 · **trend:** flat
+**12-month volume (illustrative):** 440 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 60 | growing |
-| United States | 60 | declining |
-| Australia | 50 | flat |
-| New Zealand | 30 | growing |
-| United Kingdom | 30 | declining |
+| Finland | 60 | declining |
+| United States | 60 | flat |
+| Australia | 50 | declining |
+| New Zealand | 30 | declining |
+| United Kingdom | 30 | flat |
 | Belgium | 20 | flat |
 | Canada | 20 | flat |
-| Denmark | 20 | growing |
-| Greece | 20 | declining |
-| India | 20 | declining |
+| Denmark | 20 | declining |
+| Greece | 20 | flat |
+| India | 20 | flat |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 

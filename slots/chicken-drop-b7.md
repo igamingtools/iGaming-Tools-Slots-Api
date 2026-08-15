@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-drop-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,320 · **trend:** declining · YoY -30.4%
+**12-month volume (illustrative):** 6,590 · **trend:** declining · YoY -37.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 560 | growing |
-| Indonesia | 480 | declining |
-| India | 360 | declining |
-| Greece | 320 | declining |
-| Brazil | 310 | declining |
-| Canada | 240 | flat |
-| Finland | 240 | flat |
-| United Kingdom | 240 | flat |
-| United States | 220 | flat |
-| Australia | 200 | growing |
+| South Africa | 490 | declining |
+| Indonesia | 460 | declining |
+| Greece | 300 | declining |
+| India | 280 | flat |
+| Brazil | 270 | declining |
+| Canada | 220 | declining |
+| Finland | 220 | declining |
+| United Kingdom | 220 | declining |
+| United States | 200 | declining |
+| Australia | 190 | declining |
 
-> Full per-country breakdown (65 markets) via the /demand/ endpoint.
+> Full per-country breakdown (63 markets) via the /demand/ endpoint.
 
 ## Links
 

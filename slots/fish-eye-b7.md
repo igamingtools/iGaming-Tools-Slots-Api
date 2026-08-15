@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fish-eye-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,020 · **trend:** declining · YoY -15.5%
+**12-month volume (illustrative):** 7,200 · **trend:** declining · YoY -26.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Netherlands | 1,730 | flat |
-| United Kingdom | 1,170 | flat |
-| Brazil | 1,030 | flat |
-| Switzerland | 360 | growing |
-| Belgium | 240 | flat |
-| South Africa | 200 | flat |
-| Greece | 160 | flat |
-| Argentina | 120 | growing |
-| Chile | 120 | growing |
-| Finland | 120 | flat |
+| Netherlands | 1,520 | declining |
+| United Kingdom | 1,030 | declining |
+| Brazil | 920 | declining |
+| Switzerland | 360 | declining |
+| Belgium | 220 | declining |
+| South Africa | 190 | declining |
+| Greece | 150 | declining |
+| Argentina | 110 | declining |
+| Germany | 110 | declining |
+| Latvia | 110 | declining |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (58 markets) via the /demand/ endpoint.
 
 ## Links
 

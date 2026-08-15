@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/yokai-b10/demand/
 ```
 
-**12-month volume (illustrative):** 310 · **trend:** declining · YoY -8.8%
+**12-month volume (illustrative):** 260 · **trend:** declining · YoY -38.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 100 | declining |
+| United States | 80 | flat |
 | Canada | 40 | flat |
-| France | 30 | growing |
-| Poland | 30 | flat |
+| France | 30 | declining |
 | Switzerland | 30 | flat |
+| Poland | 20 | flat |
 | Australia | 10 | flat |
-| Germany | 10 | flat |
 | Indonesia | 10 | flat |
 | Japan | 10 | flat |
-| Netherlands | 10 | flat |
+| South Africa | 10 | growing |
+| Ukraine | 10 | declining |
 
-> Full per-country breakdown (13 markets) via the /demand/ endpoint.
+> Full per-country breakdown (11 markets) via the /demand/ endpoint.
 
 ## Links
 

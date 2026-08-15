@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fruit-rainbow-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,090 · **trend:** declining · YoY -19.9%
+**12-month volume (illustrative):** 900 · **trend:** declining · YoY -37.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 600 | declining |
-| Belgium | 80 | flat |
-| Brazil | 50 | declining |
-| Cyprus | 50 | flat |
-| Greece | 50 | growing |
-| Indonesia | 40 | declining |
-| Argentina | 30 | flat |
+| South Africa | 530 | declining |
+| Belgium | 40 | flat |
+| Brazil | 40 | flat |
+| Cyprus | 40 | flat |
+| Greece | 40 | declining |
 | Belarus | 30 | flat |
-| Latvia | 20 | flat |
+| Indonesia | 30 | flat |
+| Argentina | 20 | flat |
 | Malaysia | 20 | flat |
+| Mexico | 20 | flat |
 
-> Full per-country breakdown (21 markets) via the /demand/ endpoint.
+> Full per-country breakdown (19 markets) via the /demand/ endpoint.
 
 ## Links
 

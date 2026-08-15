@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-of-minos-b10/demand/
 ```
 
-**12-month volume (illustrative):** 840 · **trend:** declining · YoY -51.2%
+**12-month volume (illustrative):** 810 · **trend:** declining · YoY -50.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 130 | flat |
-| Greece | 90 | flat |
-| India | 60 | growing |
-| United States | 60 | flat |
-| Australia | 50 | growing |
-| Belarus | 40 | flat |
+| Brazil | 110 | declining |
+| Greece | 80 | declining |
+| India | 60 | declining |
+| United States | 60 | declining |
+| Australia | 40 | declining |
 | Canada | 40 | flat |
 | Finland | 40 | flat |
 | Germany | 40 | flat |
-| Switzerland | 30 | growing |
+| Belarus | 30 | flat |
+| Philippines | 30 | declining |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

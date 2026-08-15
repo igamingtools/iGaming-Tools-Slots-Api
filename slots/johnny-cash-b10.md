@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/johnny-cash-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,390 · **trend:** flat · YoY +0.4%
+**12-month volume (illustrative):** 2,200 · **trend:** declining · YoY -12.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 260 | declining |
-| Australia | 120 | flat |
-| Canada | 120 | declining |
-| Greece | 120 | flat |
-| Switzerland | 120 | growing |
-| United Kingdom | 120 | flat |
-| Brazil | 110 | flat |
+| United States | 240 | declining |
+| Australia | 110 | declining |
+| Greece | 110 | flat |
+| United Kingdom | 110 | declining |
+| Brazil | 100 | declining |
+| Canada | 100 | flat |
 | Finland | 100 | flat |
-| Italy | 100 | flat |
-| Portugal | 100 | flat |
+| Italy | 100 | declining |
+| Portugal | 90 | declining |
+| Switzerland | 90 | declining |
 
-> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

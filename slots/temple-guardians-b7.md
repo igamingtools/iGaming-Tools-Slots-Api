@@ -148,8 +148,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 330 | flat |
 | Greece | 160 | flat |
 | Romania | 90 | flat |
+| Peru | 80 | growing |
 | South Africa | 80 | growing |
-| Peru | 70 | flat |
 | United Kingdom | 70 | flat |
 | Finland | 60 | flat |
 | Malaysia | 60 | flat |

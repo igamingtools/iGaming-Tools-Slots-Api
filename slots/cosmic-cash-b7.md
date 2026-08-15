@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cosmic-cash-b7/demand/
 ```
 
-**12-month volume (illustrative):** 17,170 · **trend:** flat · YoY +0.2%
+**12-month volume (illustrative):** 15,700 · **trend:** declining · YoY -9.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 3,380 | declining |
-| Mexico | 2,710 | flat |
-| Switzerland | 2,190 | growing |
-| Argentina | 1,680 | declining |
-| Brazil | 1,250 | growing |
-| Greece | 730 | declining |
-| Spain | 680 | growing |
-| Canada | 580 | flat |
-| India | 240 | flat |
-| United States | 240 | flat |
+| South Africa | 3,060 | declining |
+| Mexico | 2,500 | declining |
+| Switzerland | 2,160 | declining |
+| Argentina | 1,470 | declining |
+| Brazil | 1,080 | declining |
+| Greece | 700 | declining |
+| Spain | 650 | declining |
+| Canada | 540 | declining |
+| United States | 220 | declining |
+| India | 180 | flat |
 
-> Full per-country breakdown (63 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

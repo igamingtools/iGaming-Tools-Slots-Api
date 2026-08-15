@@ -148,24 +148,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-farm-bonanza-b10/demand/
 ```
 
-**12-month volume (illustrative):** 510 · **trend:** growing · YoY +24.4%
+**12-month volume (illustrative):** 510 · **trend:** growing · YoY +8.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 100 | declining |
+| United States | 100 | flat |
 | Belgium | 60 | flat |
-| Brazil | 50 | flat |
-| New Zealand | 50 | declining |
-| Portugal | 30 | growing |
-| United Kingdom | 30 | declining |
-| Finland | 20 | flat |
+| New Zealand | 50 | flat |
+| Brazil | 40 | flat |
+| United Kingdom | 30 | flat |
 | Germany | 20 | flat |
-| Greece | 20 | flat |
 | India | 20 | flat |
+| Philippines | 20 | declining |
+| Portugal | 20 | declining |
+| South Africa | 20 | declining |
 
-> Full per-country breakdown (21 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

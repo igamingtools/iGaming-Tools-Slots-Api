@@ -130,24 +130,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/curse-of-the-werewolf-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,650 · **trend:** growing · YoY +23.3%
+**12-month volume (illustrative):** 2,470 · **trend:** growing · YoY +15.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 220 | flat |
-| Canada | 160 | flat |
-| Greece | 140 | flat |
-| South Africa | 140 | growing |
-| Netherlands | 130 | flat |
-| Tunisia | 120 | flat |
-| United Kingdom | 120 | flat |
-| Brazil | 110 | declining |
-| Malaysia | 100 | flat |
-| Ukraine | 100 | flat |
+| Finland | 200 | declining |
+| Canada | 160 | declining |
+| Greece | 130 | declining |
+| South Africa | 130 | declining |
+| Netherlands | 120 | declining |
+| Tunisia | 110 | declining |
+| United Kingdom | 110 | declining |
+| Brazil | 100 | flat |
+| Malaysia | 100 | declining |
+| Indonesia | 90 | flat |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

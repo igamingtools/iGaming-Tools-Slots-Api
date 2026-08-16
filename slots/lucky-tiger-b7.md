@@ -109,6 +109,10 @@ $data = json_decode(curl_exec($ch), true);
   "studio": {
     "slug": "fat-panda",
     "name": "FAT PANDA"
+  },
+  "series": {
+    "slug": "lucky-tiger",
+    "name": "Lucky Tiger"
   }
 }
 ```

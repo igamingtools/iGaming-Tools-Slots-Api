@@ -1,4 +1,4 @@
-# French Roulette
+# Rocket Dice XY
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/french-roulette-b10/`
+`GET /api/v1/slots/rocket-dice-xy-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/french-roulette-b10/
+  https://i-gaming.tools/api/v1/slots/rocket-dice-xy-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/french-roulette-b10/",
+    "https://i-gaming.tools/api/v1/slots/rocket-dice-xy-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/french-roulette-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/rocket-dice-xy-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/french-roulette-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/rocket-dice-xy-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,39 +53,54 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "french-roulette-b10",
-  "name": "French Roulette",
+  "slug": "rocket-dice-xy-b10",
+  "name": "Rocket Dice XY",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
-  "game_category": "table",
-  "rtp_default": "97.30",
+  "game_category": "crash",
+  "rtp_default": "97.92",
   "rtp_variants": [
     {
-      "rtp": "97.30",
+      "rtp": "97.92",
       "variant": "default",
       "is_default": true
+    },
+    {
+      "rtp": "98.33",
+      "variant": "player_config",
+      "is_default": false
     }
   ],
   "volatility": "",
   "mechanic": "",
   "reels": null,
   "rows": null,
-  "jackpot_type": "unknown",
+  "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2016-04-02",
-  "themes": [],
-  "features": [],
+  "release_date": "2022-03-01",
+  "themes": [
+    {
+      "slug": "dice",
+      "name": "Dice"
+    }
+  ],
+  "features": [
+    {
+      "slug": "gamble",
+      "name": "Gamble"
+    }
+  ],
   "assets": {
     "logo_url": "<live CDN url — request the endpoint>",
     "screenshots": [
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/french-roulette-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/rocket-dice-xy-b10/"
     }
   }
 }
@@ -93,36 +108,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/french-roulette-b10/demand/`
+`GET /api/v1/slots/rocket-dice-xy-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/french-roulette-b10/demand/
+  https://i-gaming.tools/api/v1/slots/rocket-dice-xy-b10/demand/
 ```
-
-**12-month volume (illustrative):** 1,950 · **trend:** declining · YoY -45.2%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Italy | 590 | declining |
-| United States | 180 | declining |
-| India | 140 | declining |
-| Canada | 100 | flat |
-| France | 70 | flat |
-| United Kingdom | 70 | declining |
-| Belgium | 60 | declining |
-| Germany | 60 | declining |
-| Greece | 60 | declining |
-| Japan | 60 | flat |
-
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/french-roulette-b10/
-- **Public page:** https://i-gaming.tools/slot-games/french-roulette-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/rocket-dice-xy-b10/
+- **Public page:** https://i-gaming.tools/slot-games/rocket-dice-xy-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

@@ -105,6 +105,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/joker-s-jewels-hold-spin-b7/"
     }
+  },
+  "series": {
+    "slug": "jokers-jewels",
+    "name": "Joker's Jewels"
   }
 }
 ```

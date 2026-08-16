@@ -115,6 +115,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/wisdom-of-athena-1000-b7/"
     }
+  },
+  "series": {
+    "slug": "wisdom-of-athena",
+    "name": "Wisdom of Athena"
   }
 }
 ```

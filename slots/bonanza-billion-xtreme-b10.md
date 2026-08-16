@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bonanza-billion-xtreme-b10/demand/
 ```
 
-**12-month volume (illustrative):** 770 · **trend:** flat
+**12-month volume (illustrative):** 780 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -166,7 +166,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Netherlands | 30 | declining |
 | New Zealand | 30 | declining |
 
-> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
 
 ## Links
 

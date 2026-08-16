@@ -113,6 +113,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/mahjong-wins-triple-pot-b7/"
     }
+  },
+  "series": {
+    "slug": "mahjong-wins",
+    "name": "Mahjong Wins"
   }
 }
 ```

@@ -113,6 +113,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/totally-hot-b10/"
     }
+  },
+  "series": {
+    "slug": "totally-hot",
+    "name": "Totally Hot"
   }
 }
 ```

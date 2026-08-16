@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-rush-b10/demand/
 ```
 
-**12-month volume (illustrative):** 8,330 · **trend:** declining · YoY -11.7%
+**12-month volume (illustrative):** 8,330 · **trend:** declining · YoY -11.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

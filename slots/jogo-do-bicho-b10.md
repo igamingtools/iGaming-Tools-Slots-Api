@@ -1,4 +1,4 @@
-# Aviamasters 2
+# Jogo Do Bicho
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/aviamasters-2-b10/`
+`GET /api/v1/slots/jogo-do-bicho-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/aviamasters-2-b10/
+  https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/aviamasters-2-b10/",
+    "https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/aviamasters-2-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/aviamasters-2-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,40 +53,42 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "aviamasters-2-b10",
-  "name": "Aviamasters 2",
+  "slug": "jogo-do-bicho-b10",
+  "name": "Jogo Do Bicho",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
-  "game_category": "crash",
-  "rtp_default": "97.00",
+  "game_category": "instant_win",
+  "rtp_default": "94.00",
   "rtp_variants": [
     {
-      "rtp": "97.00",
+      "rtp": "94.00",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "med_low",
+  "volatility": "",
   "mechanic": "",
   "reels": null,
   "rows": null,
-  "jackpot_type": "unknown",
-  "has_bonus_buy": "yes",
-  "bonus_buys": [
-    {
-      "label": "Safe Landing",
-      "cost": "50.00",
-      "is_default": true
-    }
-  ],
-  "release_date": "2026-03-05",
+  "jackpot_type": "none",
+  "has_bonus_buy": "no",
+  "bonus_buys": [],
+  "release_date": "2019-04-30",
   "themes": [
     {
-      "slug": "aviation",
-      "name": "Aviation"
+      "slug": "animals",
+      "name": "Animals"
+    },
+    {
+      "slug": "brazilian",
+      "name": "Brazilian"
+    },
+    {
+      "slug": "jungle",
+      "name": "Jungle"
     }
   ],
   "features": [],
@@ -96,48 +98,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/aviamasters-2-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/jogo-do-bicho-b10/"
     }
-  },
-  "series": {
-    "slug": "aviamasters",
-    "name": "Aviamasters"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/aviamasters-2-b10/demand/`
+`GET /api/v1/slots/jogo-do-bicho-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/aviamasters-2-b10/demand/
+  https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,200 · **trend:** flat
+**12-month volume (illustrative):** 1,310 · **trend:** declining · YoY -45.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 120 | declining |
-| Germany | 120 | declining |
-| United States | 100 | declining |
-| Vietnam | 100 | declining |
-| United Kingdom | 90 | declining |
-| Canada | 80 | declining |
-| India | 80 | declining |
-| Switzerland | 60 | declining |
-| Argentina | 50 | declining |
-| Greece | 50 | declining |
+| Brazil | 700 | declining |
+| India | 220 | declining |
+| Philippines | 60 | growing |
+| Mexico | 50 | flat |
+| Peru | 40 | flat |
+| Portugal | 40 | declining |
+| Ukraine | 30 | flat |
+| Vietnam | 30 | declining |
+| Canada | 20 | flat |
+| Germany | 20 | flat |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (18 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/aviamasters-2-b10/
-- **Public page:** https://i-gaming.tools/slot-games/aviamasters-2-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/
+- **Public page:** https://i-gaming.tools/slot-games/jogo-do-bicho-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

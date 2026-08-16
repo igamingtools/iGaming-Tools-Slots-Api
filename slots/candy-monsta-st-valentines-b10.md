@@ -1,4 +1,4 @@
-# Lady Wolf Moon
+# Candy Monsta St\. Valentines
 
 **Provider:** BGaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/lady-wolf-moon-b10/`
+`GET /api/v1/slots/candy-monsta-st-valentines-b10/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/
+  https://i-gaming.tools/api/v1/slots/candy-monsta-st-valentines-b10/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/",
+    "https://i-gaming.tools/api/v1/slots/candy-monsta-st-valentines-b10/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/candy-monsta-st-valentines-b10/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/candy-monsta-st-valentines-b10/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,38 +53,38 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "lady-wolf-moon-b10",
-  "name": "Lady Wolf Moon",
+  "slug": "candy-monsta-st-valentines-b10",
+  "name": "Candy Monsta St. Valentines",
   "status": "active",
   "provider": {
     "slug": "bgaming",
     "name": "BGaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "97.09",
+  "rtp_default": "94.03",
   "rtp_variants": [
     {
-      "rtp": "97.09",
+      "rtp": "94.03",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "",
+  "volatility": "med_high",
   "mechanic": "lines",
   "reels": 5,
   "rows": 3,
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2020-12-21",
+  "release_date": "2022-02-01",
   "themes": [
     {
-      "slug": "forest",
-      "name": "Forest"
+      "slug": "romance",
+      "name": "Romance"
     },
     {
-      "slug": "werewolves",
-      "name": "Werewolves"
+      "slug": "sweets",
+      "name": "Sweets"
     }
   ],
   "features": [
@@ -93,12 +93,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Free Spins"
     },
     {
-      "slug": "gamble",
-      "name": "Gamble"
-    },
-    {
       "slug": "retrigger",
       "name": "Retrigger"
+    },
+    {
+      "slug": "sticky_wild",
+      "name": "Sticky Wild"
     }
   ],
   "assets": {
@@ -107,44 +107,29 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/lady-wolf-moon-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/candy-monsta-st-valentines-b10/"
     }
+  },
+  "series": {
+    "slug": "candy-monsta",
+    "name": "Candy Monsta"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/lady-wolf-moon-b10/demand/`
+`GET /api/v1/slots/candy-monsta-st-valentines-b10/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/demand/
+  https://i-gaming.tools/api/v1/slots/candy-monsta-st-valentines-b10/demand/
 ```
-
-**12-month volume (illustrative):** 3,550 · **trend:** growing · YoY +32.5%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| United Kingdom | 380 | declining |
-| Austria | 280 | declining |
-| Switzerland | 210 | declining |
-| Canada | 180 | declining |
-| Finland | 160 | declining |
-| South Africa | 150 | growing |
-| India | 140 | declining |
-| United States | 140 | flat |
-| Australia | 130 | declining |
-| Germany | 130 | declining |
-
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/lady-wolf-moon-b10/
-- **Public page:** https://i-gaming.tools/slot-games/lady-wolf-moon-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/candy-monsta-st-valentines-b10/
+- **Public page:** https://i-gaming.tools/slot-games/candy-monsta-st-valentines-b10/
 - **Full schema:** https://i-gaming.tools/api/docs/

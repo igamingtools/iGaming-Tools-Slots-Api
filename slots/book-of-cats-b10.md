@@ -133,7 +133,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-cats-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,280 · **trend:** growing · YoY +5.1%
+**12-month volume (illustrative):** 2,280 · **trend:** flat · YoY +4.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

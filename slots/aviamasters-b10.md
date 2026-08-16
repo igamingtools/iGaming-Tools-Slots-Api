@@ -92,6 +92,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/aviamasters-b10/"
     }
+  },
+  "series": {
+    "slug": "aviamasters",
+    "name": "Aviamasters"
   }
 }
 ```
@@ -107,7 +111,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aviamasters-b10/demand/
 ```
 
-**12-month volume (illustrative):** 16,510 · **trend:** growing · YoY +34.6%
+**12-month volume (illustrative):** 16,750 · **trend:** growing · YoY +35.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -124,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 560 | declining |
 | Belarus | 370 | declining |
 
-> Full per-country breakdown (67 markets) via the /demand/ endpoint.
+> Full per-country breakdown (73 markets) via the /demand/ endpoint.
 
 ## Links
 

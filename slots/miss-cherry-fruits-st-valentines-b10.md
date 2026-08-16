@@ -113,6 +113,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/miss-cherry-fruits-st-valentines-b10/"
     }
+  },
+  "series": {
+    "slug": "miss-cherry-fruits",
+    "name": "Miss Cherry Fruits"
   }
 }
 ```

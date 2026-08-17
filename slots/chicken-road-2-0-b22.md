@@ -1,12 +1,12 @@
-# Jogo Do Bicho
+# Chicken Road 2\.0
 
-**Provider:** BGaming
+**Provider:** InOut Games
 
 > **Note:** Illustrative excerpt — values may differ. Always query the live endpoint for current data, media URLs and demo links.
 
 ## Endpoint
 
-`GET /api/v1/slots/jogo-do-bicho-b10/`
+`GET /api/v1/slots/chicken-road-2-0-b22/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/
+  https://i-gaming.tools/api/v1/slots/chicken-road-2-0-b22/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/",
+    "https://i-gaming.tools/api/v1/slots/chicken-road-2-0-b22/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/chicken-road-2-0-b22/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/chicken-road-2-0-b22/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,18 +53,18 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "jogo-do-bicho-b10",
-  "name": "Jogo Do Bicho",
+  "slug": "chicken-road-2-0-b22",
+  "name": "Chicken Road 2.0",
   "status": "active",
   "provider": {
-    "slug": "bgaming",
-    "name": "BGaming"
+    "slug": "inout-games",
+    "name": "InOut Games"
   },
-  "game_category": "instant_win",
-  "rtp_default": "94.00",
+  "game_category": "crash",
+  "rtp_default": "95.50",
   "rtp_variants": [
     {
-      "rtp": "94.00",
+      "rtp": "95.50",
       "variant": "default",
       "is_default": true
     }
@@ -76,29 +76,34 @@ $data = json_decode(curl_exec($ch), true);
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2019-04-30",
+  "release_date": "2025-04-15",
   "themes": [
     {
       "slug": "animals",
       "name": "Animals"
     },
     {
-      "slug": "brazilian",
-      "name": "Brazilian"
-    },
-    {
-      "slug": "jungle",
-      "name": "Jungle"
+      "slug": "birds",
+      "name": "Birds"
     }
   ],
-  "features": [],
+  "features": [
+    {
+      "slug": "cash-out",
+      "name": "Cash Out"
+    },
+    {
+      "slug": "progressive_multiplier",
+      "name": "Progressive Multiplier"
+    }
+  ],
   "assets": {
     "logo_url": "<live CDN url — request the endpoint>",
     "screenshots": [
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/jogo-do-bicho-b10/"
+      "page_url": "https://i-gaming.tools/slot-games/chicken-road-2-0-b22/"
     }
   }
 }
@@ -106,36 +111,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/jogo-do-bicho-b10/demand/`
+`GET /api/v1/slots/chicken-road-2-0-b22/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/demand/
+  https://i-gaming.tools/api/v1/slots/chicken-road-2-0-b22/demand/
 ```
-
-**12-month volume (illustrative):** 1,450 · **trend:** declining · YoY -39.8%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Brazil | 700 | declining |
-| India | 220 | declining |
-| Pakistan | 140 | declining |
-| Philippines | 60 | growing |
-| Mexico | 50 | flat |
-| Peru | 40 | flat |
-| Portugal | 40 | declining |
-| Ukraine | 30 | flat |
-| Vietnam | 30 | declining |
-| Canada | 20 | flat |
-
-> Full per-country breakdown (19 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b10/
-- **Public page:** https://i-gaming.tools/slot-games/jogo-do-bicho-b10/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/chicken-road-2-0-b22/
+- **Public page:** https://i-gaming.tools/slot-games/chicken-road-2-0-b22/
 - **Full schema:** https://i-gaming.tools/api/docs/

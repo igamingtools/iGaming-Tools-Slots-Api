@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/arrow-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,330 · **trend:** flat · YoY +4.7%
+**12-month volume (illustrative):** 1,330 · **trend:** flat · YoY +3.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

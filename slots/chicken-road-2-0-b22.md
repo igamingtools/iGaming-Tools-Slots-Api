@@ -105,6 +105,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/chicken-road-2-0-b22/"
     }
+  },
+  "series": {
+    "slug": "chicken-road",
+    "name": "Chicken Road"
   }
 }
 ```
@@ -119,6 +123,10 @@ Trailing-12-month search demand for this slot, with per-country breakdown.
 curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-road-2-0-b22/demand/
 ```
+
+**12-month volume (illustrative):** 2,920 · **trend:** growing · YoY +472.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
 
 ## Links
 

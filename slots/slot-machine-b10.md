@@ -127,6 +127,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/slot-machine-b10/demand/
 ```
 
+**12-month volume (illustrative):** 298,080 · **trend:** declining · YoY -36.1%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 188,100 | flat |
+| United States | 82,320 | declining |
+| Canada | 21,120 | declining |
+| Australia | 6,540 | declining |
+
+> Full per-country breakdown (4 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/slot-machine-b10/

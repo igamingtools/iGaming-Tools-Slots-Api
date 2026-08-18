@@ -116,6 +116,10 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/megablock-b22/demand/
 ```
 
+**12-month volume (illustrative):** 180 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/megablock-b22/

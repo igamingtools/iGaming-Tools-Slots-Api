@@ -112,6 +112,10 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/joker-poker-b22/demand/
 ```
 
+**12-month volume (illustrative):** 280 · **trend:** flat · YoY +3.7%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/joker-poker-b22/

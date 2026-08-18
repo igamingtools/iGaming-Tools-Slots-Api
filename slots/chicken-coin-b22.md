@@ -1,4 +1,4 @@
-# Drop The Billionaire
+# Chicken Coin
 
 **Provider:** InOut Games
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/drop-the-billionaire-b22/`
+`GET /api/v1/slots/chicken-coin-b22/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/drop-the-billionaire-b22/
+  https://i-gaming.tools/api/v1/slots/chicken-coin-b22/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/drop-the-billionaire-b22/",
+    "https://i-gaming.tools/api/v1/slots/chicken-coin-b22/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/drop-the-billionaire-b22/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/chicken-coin-b22/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/drop-the-billionaire-b22/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/chicken-coin-b22/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,31 +53,50 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "drop-the-billionaire-b22",
-  "name": "Drop The Billionaire",
+  "slug": "chicken-coin-b22",
+  "name": "Chicken Coin",
   "status": "active",
   "provider": {
     "slug": "inout-games",
     "name": "InOut Games"
   },
-  "game_category": "instant_win",
-  "rtp_default": "96.00",
+  "game_category": "video_slot",
+  "rtp_default": "96.50",
   "rtp_variants": [
     {
-      "rtp": "96.00",
+      "rtp": "96.50",
       "variant": "default",
       "is_default": true
     }
   ],
   "volatility": "",
-  "mechanic": "",
-  "reels": null,
-  "rows": null,
-  "jackpot_type": "none",
+  "mechanic": "lines",
+  "reels": 3,
+  "rows": 4,
+  "jackpot_type": "fixed",
   "has_bonus_buy": "yes",
-  "bonus_buys": [],
-  "release_date": "2026-06-09",
+  "bonus_buys": [
+    {
+      "label": "Blitz Strike",
+      "cost": "75.00",
+      "is_default": true
+    },
+    {
+      "label": "Power Strike",
+      "cost": "200.00",
+      "is_default": false
+    }
+  ],
+  "release_date": "2026-02-25",
   "themes": [
+    {
+      "slug": "farm",
+      "name": "Farm"
+    },
+    {
+      "slug": "fruits",
+      "name": "Fruits"
+    },
     {
       "slug": "money",
       "name": "Money"
@@ -85,16 +104,16 @@ $data = json_decode(curl_exec($ch), true);
   ],
   "features": [
     {
-      "slug": "ante_bet",
-      "name": "Ante Bet"
+      "slug": "hold-and-spin",
+      "name": "Hold and Spin"
     },
     {
-      "slug": "bonus-game",
-      "name": "Bonus Game"
+      "slug": "money-collect",
+      "name": "Money Collect"
     },
     {
-      "slug": "progressive_multiplier",
-      "name": "Progressive Multiplier"
+      "slug": "multiplier",
+      "name": "Multiplier"
     }
   ],
   "assets": {
@@ -103,7 +122,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/drop-the-billionaire-b22/"
+      "page_url": "https://i-gaming.tools/slot-games/chicken-coin-b22/"
     }
   }
 }
@@ -111,21 +130,21 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/drop-the-billionaire-b22/demand/`
+`GET /api/v1/slots/chicken-coin-b22/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/drop-the-billionaire-b22/demand/
+  https://i-gaming.tools/api/v1/slots/chicken-coin-b22/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 10 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/drop-the-billionaire-b22/
-- **Public page:** https://i-gaming.tools/slot-games/drop-the-billionaire-b22/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/chicken-coin-b22/
+- **Public page:** https://i-gaming.tools/slot-games/chicken-coin-b22/
 - **Full schema:** https://i-gaming.tools/api/docs/

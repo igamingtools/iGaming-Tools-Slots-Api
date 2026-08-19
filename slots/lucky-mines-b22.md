@@ -102,9 +102,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-mines-b22/demand/
 ```
 
-**12-month volume (illustrative):** 100 · **trend:** growing · YoY +66.7%
+**12-month volume (illustrative):** 1,470 · **trend:** growing · YoY +86.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| India | 240 | flat |
+| Pakistan | 120 | flat |
+| Spain | 120 | declining |
+| Italy | 90 | declining |
+| Ghana | 60 | flat |
+| Tunisia | 60 | growing |
+| United States | 60 | flat |
+| Algeria | 50 | flat |
+| Germany | 50 | flat |
+| Brazil | 40 | growing |
+
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
 
 ## Links
 

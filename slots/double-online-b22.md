@@ -1,4 +1,4 @@
-# Limbo
+# Double Online
 
 **Provider:** InOut Games
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/limbo-b22/`
+`GET /api/v1/slots/double-online-b22/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/limbo-b22/
+  https://i-gaming.tools/api/v1/slots/double-online-b22/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/limbo-b22/",
+    "https://i-gaming.tools/api/v1/slots/double-online-b22/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/limbo-b22/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/double-online-b22/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/limbo-b22/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/double-online-b22/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,18 +53,18 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "limbo-b22",
-  "name": "Limbo",
+  "slug": "double-online-b22",
+  "name": "Double Online",
   "status": "active",
   "provider": {
     "slug": "inout-games",
     "name": "InOut Games"
   },
-  "game_category": "crash",
-  "rtp_default": "96.00",
+  "game_category": "table",
+  "rtp_default": "95.00",
   "rtp_variants": [
     {
-      "rtp": "96.00",
+      "rtp": "95.00",
       "variant": "default",
       "is_default": true
     }
@@ -74,15 +74,10 @@ $data = json_decode(curl_exec($ch), true);
   "reels": null,
   "rows": null,
   "jackpot_type": "unknown",
-  "has_bonus_buy": "no",
+  "has_bonus_buy": "unknown",
   "bonus_buys": [],
-  "release_date": "2024-01-17",
-  "themes": [
-    {
-      "slug": "space",
-      "name": "Space"
-    }
-  ],
+  "release_date": "2023-03-06",
+  "themes": [],
   "features": [],
   "assets": {
     "logo_url": "<live CDN url — request the endpoint>",
@@ -90,7 +85,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/limbo-b22/"
+      "page_url": "https://i-gaming.tools/slot-games/double-online-b22/"
     }
   }
 }
@@ -98,36 +93,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/limbo-b22/demand/`
+`GET /api/v1/slots/double-online-b22/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/limbo-b22/demand/
+  https://i-gaming.tools/api/v1/slots/double-online-b22/demand/
 ```
-
-**12-month volume (illustrative):** 21,460 · **trend:** declining · YoY -63.2%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| India | 8,300 | flat |
-| Brazil | 1,320 | declining |
-| United States | 1,080 | growing |
-| Pakistan | 720 | declining |
-| Canada | 540 | flat |
-| Indonesia | 420 | flat |
-| Algeria | 410 | flat |
-| Germany | 380 | flat |
-| Mexico | 300 | declining |
-| Philippines | 290 | declining |
-
-> Full per-country breakdown (80 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/limbo-b22/
-- **Public page:** https://i-gaming.tools/slot-games/limbo-b22/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/double-online-b22/
+- **Public page:** https://i-gaming.tools/slot-games/double-online-b22/
 - **Full schema:** https://i-gaming.tools/api/docs/

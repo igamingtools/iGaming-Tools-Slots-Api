@@ -139,17 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jade-legends-b7/demand/
 ```
 
-**12-month volume (illustrative):** 80 · **trend:** flat
+**12-month volume (illustrative):** 580 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Brazil | 70 | growing |
+| Philippines | 70 | growing |
 | Canada | 60 | growing |
+| Argentina | 20 | growing |
+| Belgium | 20 | growing |
+| Croatia | 20 | growing |
+| Finland | 20 | growing |
+| India | 20 | growing |
 | Australia | 10 | growing |
-| United States | 10 | growing |
+| Austria | 10 | growing |
 
-> Full per-country breakdown (3 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

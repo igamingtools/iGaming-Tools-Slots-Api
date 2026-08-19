@@ -124,9 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-road-ice-b22/demand/
 ```
 
-**12-month volume (illustrative):** 90 · **trend:** flat
+**12-month volume (illustrative):** 1,440 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| India | 440 | growing |
+| Pakistan | 160 | growing |
+| Germany | 80 | flat |
+| Italy | 60 | growing |
+| Ukraine | 50 | flat |
+| Spain | 40 | flat |
+| United Kingdom | 40 | growing |
+| France | 30 | growing |
+| Greece | 30 | growing |
+| Indonesia | 30 | flat |
+
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
 
 ## Links
 

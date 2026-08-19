@@ -1,4 +1,4 @@
-# Chicken vs Zombies
+# Hot Mines
 
 **Provider:** InOut Games
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/chicken-vs-zombies-b22/`
+`GET /api/v1/slots/hot-mines-b22/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/chicken-vs-zombies-b22/
+  https://i-gaming.tools/api/v1/slots/hot-mines-b22/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/chicken-vs-zombies-b22/",
+    "https://i-gaming.tools/api/v1/slots/hot-mines-b22/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/chicken-vs-zombies-b22/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/hot-mines-b22/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/chicken-vs-zombies-b22/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/hot-mines-b22/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,18 +53,18 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "chicken-vs-zombies-b22",
-  "name": "Chicken vs Zombies",
+  "slug": "hot-mines-b22",
+  "name": "Hot Mines",
   "status": "active",
   "provider": {
     "slug": "inout-games",
     "name": "InOut Games"
   },
   "game_category": "crash",
-  "rtp_default": "95.50",
+  "rtp_default": "97.00",
   "rtp_variants": [
     {
-      "rtp": "95.50",
+      "rtp": "97.00",
       "variant": "default",
       "is_default": true
     }
@@ -76,15 +76,11 @@ $data = json_decode(curl_exec($ch), true);
   "jackpot_type": "unknown",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2025-10-23",
+  "release_date": "2023-08-07",
   "themes": [
     {
-      "slug": "halloween",
-      "name": "Halloween"
-    },
-    {
-      "slug": "zombies",
-      "name": "Zombies"
+      "slug": "mexican",
+      "name": "Mexican"
     }
   ],
   "features": [
@@ -93,8 +89,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Cash Out"
     },
     {
-      "slug": "level-progression",
-      "name": "Level Progression"
+      "slug": "prize-ladder",
+      "name": "Prize Ladder"
+    },
+    {
+      "slug": "variable_volatility",
+      "name": "Variable Volatility"
     }
   ],
   "assets": {
@@ -103,48 +103,25 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/chicken-vs-zombies-b22/"
+      "page_url": "https://i-gaming.tools/slot-games/hot-mines-b22/"
     }
-  },
-  "series": {
-    "slug": "chicken-road",
-    "name": "Chicken Road"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/chicken-vs-zombies-b22/demand/`
+`GET /api/v1/slots/hot-mines-b22/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/chicken-vs-zombies-b22/demand/
+  https://i-gaming.tools/api/v1/slots/hot-mines-b22/demand/
 ```
-
-**12-month volume (illustrative):** 950 · **trend:** flat
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| India | 180 | flat |
-| Canada | 100 | declining |
-| Pakistan | 80 | flat |
-| Greece | 70 | declining |
-| Germany | 60 | declining |
-| Italy | 60 | flat |
-| Netherlands | 60 | declining |
-| Romania | 50 | growing |
-| Spain | 50 | declining |
-| Poland | 40 | declining |
-
-> Full per-country breakdown (25 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/chicken-vs-zombies-b22/
-- **Public page:** https://i-gaming.tools/slot-games/chicken-vs-zombies-b22/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/hot-mines-b22/
+- **Public page:** https://i-gaming.tools/slot-games/hot-mines-b22/
 - **Full schema:** https://i-gaming.tools/api/docs/

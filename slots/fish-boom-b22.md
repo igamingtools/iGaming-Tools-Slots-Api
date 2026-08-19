@@ -1,4 +1,4 @@
-# Wheel Out
+# Fish Boom
 
 **Provider:** InOut Games
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/wheel-out-b22/`
+`GET /api/v1/slots/fish-boom-b22/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wheel-out-b22/
+  https://i-gaming.tools/api/v1/slots/fish-boom-b22/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/wheel-out-b22/",
+    "https://i-gaming.tools/api/v1/slots/fish-boom-b22/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/wheel-out-b22/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/fish-boom-b22/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/wheel-out-b22/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/fish-boom-b22/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,18 +53,18 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "wheel-out-b22",
-  "name": "Wheel Out",
+  "slug": "fish-boom-b22",
+  "name": "Fish Boom",
   "status": "active",
   "provider": {
     "slug": "inout-games",
     "name": "InOut Games"
   },
   "game_category": "instant_win",
-  "rtp_default": "96.50",
+  "rtp_default": "96.30",
   "rtp_variants": [
     {
-      "rtp": "96.50",
+      "rtp": "96.30",
       "variant": "default",
       "is_default": true
     }
@@ -73,20 +73,24 @@ $data = json_decode(curl_exec($ch), true);
   "mechanic": "",
   "reels": null,
   "rows": null,
-  "jackpot_type": "none",
+  "jackpot_type": "unknown",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2026-06-23",
+  "release_date": "2025-11-18",
   "themes": [
     {
-      "slug": "arabian",
-      "name": "Arabian"
+      "slug": "fishing",
+      "name": "Fishing"
+    },
+    {
+      "slug": "ocean",
+      "name": "Ocean"
     }
   ],
   "features": [
     {
-      "slug": "progressive_multiplier",
-      "name": "Progressive Multiplier"
+      "slug": "free_spins",
+      "name": "Free Spins"
     }
   ],
   "assets": {
@@ -95,7 +99,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/wheel-out-b22/"
+      "page_url": "https://i-gaming.tools/slot-games/fish-boom-b22/"
     }
   }
 }
@@ -103,36 +107,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/wheel-out-b22/demand/`
+`GET /api/v1/slots/fish-boom-b22/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/wheel-out-b22/demand/
+  https://i-gaming.tools/api/v1/slots/fish-boom-b22/demand/
 ```
-
-**12-month volume (illustrative):** 1,080 · **trend:** flat
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| India | 780 | growing |
-| Pakistan | 140 | growing |
-| Argentina | 10 | growing |
-| Brazil | 10 | growing |
-| Croatia | 10 | growing |
-| Czech Republic | 10 | growing |
-| France | 10 | growing |
-| Germany | 10 | growing |
-| Indonesia | 10 | growing |
-| Latvia | 10 | growing |
-
-> Full per-country breakdown (18 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wheel-out-b22/
-- **Public page:** https://i-gaming.tools/slot-games/wheel-out-b22/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fish-boom-b22/
+- **Public page:** https://i-gaming.tools/slot-games/fish-boom-b22/
 - **Full schema:** https://i-gaming.tools/api/docs/

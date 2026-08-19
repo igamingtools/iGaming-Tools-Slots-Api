@@ -1,12 +1,12 @@
-# Plinko 1000
+# Lucky Captain
 
-**Provider:** InOut Games
+**Provider:** PoggiPlay
 
 > **Note:** Illustrative excerpt — values may differ. Always query the live endpoint for current data, media URLs and demo links.
 
 ## Endpoint
 
-`GET /api/v1/slots/plinko-1000-b22/`
+`GET /api/v1/slots/lucky-captain-b23/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/plinko-1000-b22/
+  https://i-gaming.tools/api/v1/slots/lucky-captain-b23/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/plinko-1000-b22/",
+    "https://i-gaming.tools/api/v1/slots/lucky-captain-b23/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/plinko-1000-b22/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/lucky-captain-b23/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/plinko-1000-b22/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/lucky-captain-b23/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,40 +53,52 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "plinko-1000-b22",
-  "name": "Plinko 1000",
+  "slug": "lucky-captain-b23",
+  "name": "Lucky Captain",
   "status": "active",
   "provider": {
-    "slug": "inout-games",
-    "name": "InOut Games"
+    "slug": "poggiplay",
+    "name": "PoggiPlay"
   },
-  "game_category": "instant_win",
-  "rtp_default": "96.00",
+  "game_category": "video_slot",
+  "rtp_default": "94.37",
   "rtp_variants": [
     {
-      "rtp": "96.00",
+      "rtp": "94.37",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "",
-  "mechanic": "",
-  "reels": null,
-  "rows": null,
+  "volatility": "medium",
+  "mechanic": "lines",
+  "reels": 5,
+  "rows": 3,
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2023-07-19",
+  "release_date": "2021-10-14",
   "themes": [
     {
-      "slug": "egyptian",
-      "name": "Egyptian"
+      "slug": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "slug": "ocean",
+      "name": "Ocean"
     }
   ],
   "features": [
     {
+      "slug": "free_spins",
+      "name": "Free Spins"
+    },
+    {
       "slug": "multiplier",
       "name": "Multiplier"
+    },
+    {
+      "slug": "scatter",
+      "name": "Scatter"
     }
   ],
   "assets": {
@@ -95,7 +107,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/plinko-1000-b22/"
+      "page_url": "https://i-gaming.tools/slot-games/lucky-captain-b23/"
     }
   }
 }
@@ -103,36 +115,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/plinko-1000-b22/demand/`
+`GET /api/v1/slots/lucky-captain-b23/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/plinko-1000-b22/demand/
+  https://i-gaming.tools/api/v1/slots/lucky-captain-b23/demand/
 ```
-
-**12-month volume (illustrative):** 1,110 · **trend:** declining · YoY -63.4%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| United Kingdom | 110 | flat |
-| Brazil | 80 | flat |
-| India | 80 | declining |
-| Poland | 70 | flat |
-| Spain | 70 | flat |
-| Ukraine | 70 | declining |
-| Germany | 60 | flat |
-| Canada | 40 | declining |
-| Italy | 40 | flat |
-| France | 30 | growing |
-
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/plinko-1000-b22/
-- **Public page:** https://i-gaming.tools/slot-games/plinko-1000-b22/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/lucky-captain-b23/
+- **Public page:** https://i-gaming.tools/slot-games/lucky-captain-b23/
 - **Full schema:** https://i-gaming.tools/api/docs/

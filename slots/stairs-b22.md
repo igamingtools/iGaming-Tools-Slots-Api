@@ -120,9 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/stairs-b22/demand/
 ```
 
-**12-month volume (illustrative):** 260 · **trend:** growing · YoY +30.0%
+**12-month volume (illustrative):** 920 · **trend:** growing · YoY +31.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| India | 220 | flat |
+| United States | 180 | flat |
+| Pakistan | 140 | flat |
+| Brazil | 70 | flat |
+| Canada | 60 | growing |
+| Philippines | 30 | flat |
+| Belgium | 20 | flat |
+| Indonesia | 20 | flat |
+| Japan | 20 | flat |
+| Portugal | 20 | flat |
+
+> Full per-country breakdown (22 markets) via the /demand/ endpoint.
 
 ## Links
 

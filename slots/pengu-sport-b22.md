@@ -120,9 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pengu-sport-b22/demand/
 ```
 
-**12-month volume (illustrative):** 300 · **trend:** flat
+**12-month volume (illustrative):** 1,970 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| India | 520 | declining |
+| Canada | 140 | flat |
+| Germany | 80 | declining |
+| Pakistan | 80 | growing |
+| Australia | 60 | flat |
+| Malaysia | 60 | flat |
+| New Zealand | 60 | flat |
+| United Kingdom | 60 | growing |
+| France | 50 | flat |
+| Netherlands | 50 | declining |
+
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

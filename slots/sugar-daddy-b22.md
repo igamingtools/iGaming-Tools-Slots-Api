@@ -120,6 +120,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sugar-daddy-b22/demand/
 ```
 
+**12-month volume (illustrative):** 590 · **trend:** declining · YoY -44.9%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 520 | growing |
+| Portugal | 70 | declining |
+
+> Full per-country breakdown (2 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/sugar-daddy-b22/

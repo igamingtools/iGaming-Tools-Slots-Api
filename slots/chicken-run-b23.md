@@ -1,4 +1,4 @@
-# Mines
+# Chicken Run
 
 **Provider:** PoggiPlay
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/mines-b23/`
+`GET /api/v1/slots/chicken-run-b23/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/mines-b23/
+  https://i-gaming.tools/api/v1/slots/chicken-run-b23/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/mines-b23/",
+    "https://i-gaming.tools/api/v1/slots/chicken-run-b23/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/mines-b23/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/chicken-run-b23/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/mines-b23/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/chicken-run-b23/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,18 +53,18 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "mines-b23",
-  "name": "Mines",
+  "slug": "chicken-run-b23",
+  "name": "Chicken Run",
   "status": "active",
   "provider": {
     "slug": "poggiplay",
     "name": "PoggiPlay"
   },
   "game_category": "crash",
-  "rtp_default": "98.00",
+  "rtp_default": "95.00",
   "rtp_variants": [
     {
-      "rtp": "98.00",
+      "rtp": "95.00",
       "variant": "default",
       "is_default": true
     }
@@ -73,28 +73,41 @@ $data = json_decode(curl_exec($ch), true);
   "mechanic": "",
   "reels": null,
   "rows": null,
-  "jackpot_type": "none",
+  "jackpot_type": "unknown",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2026-04-17",
+  "release_date": "2025-07-11",
   "themes": [
     {
       "slug": "adventure",
       "name": "Adventure"
     },
     {
-      "slug": "gems",
-      "name": "Gems"
+      "slug": "jungle",
+      "name": "Jungle"
+    },
+    {
+      "slug": "treasure",
+      "name": "Treasure"
     }
   ],
-  "features": [],
+  "features": [
+    {
+      "slug": "cash-out",
+      "name": "Cash Out"
+    },
+    {
+      "slug": "level-progression",
+      "name": "Level Progression"
+    }
+  ],
   "assets": {
     "logo_url": "<live CDN url — request the endpoint>",
     "screenshots": [
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/mines-b23/"
+      "page_url": "https://i-gaming.tools/slot-games/chicken-run-b23/"
     }
   }
 }
@@ -102,36 +115,36 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/mines-b23/demand/`
+`GET /api/v1/slots/chicken-run-b23/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/mines-b23/demand/
+  https://i-gaming.tools/api/v1/slots/chicken-run-b23/demand/
 ```
 
-**12-month volume (illustrative):** 218,620 · **trend:** declining · YoY -43.2%
+**12-month volume (illustrative):** 7,400 · **trend:** flat · YoY -3.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 127,000 | growing |
-| Brazil | 40,830 | declining |
-| Pakistan | 5,660 | declining |
-| United States | 5,060 | declining |
-| Canada | 3,340 | declining |
-| Greece | 3,030 | declining |
-| Indonesia | 2,920 | declining |
-| Italy | 2,700 | declining |
-| Philippines | 2,480 | declining |
-| United Kingdom | 1,800 | growing |
+| Indonesia | 1,070 | flat |
+| India | 860 | flat |
+| Pakistan | 400 | flat |
+| Germany | 280 | flat |
+| Italy | 260 | flat |
+| Canada | 240 | flat |
+| Spain | 230 | declining |
+| United States | 220 | flat |
+| Brazil | 180 | flat |
+| Switzerland | 180 | flat |
 
-> Full per-country breakdown (80 markets) via the /demand/ endpoint.
+> Full per-country breakdown (72 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/mines-b23/
-- **Public page:** https://i-gaming.tools/slot-games/mines-b23/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/chicken-run-b23/
+- **Public page:** https://i-gaming.tools/slot-games/chicken-run-b23/
 - **Full schema:** https://i-gaming.tools/api/docs/

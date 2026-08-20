@@ -1,4 +1,4 @@
-# Mines
+# Chicken Curry
 
 **Provider:** PoggiPlay
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/mines-b23/`
+`GET /api/v1/slots/chicken-curry-b23/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/mines-b23/
+  https://i-gaming.tools/api/v1/slots/chicken-curry-b23/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/mines-b23/",
+    "https://i-gaming.tools/api/v1/slots/chicken-curry-b23/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/mines-b23/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/chicken-curry-b23/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/mines-b23/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/chicken-curry-b23/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,18 +53,18 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "mines-b23",
-  "name": "Mines",
+  "slug": "chicken-curry-b23",
+  "name": "Chicken Curry",
   "status": "active",
   "provider": {
     "slug": "poggiplay",
     "name": "PoggiPlay"
   },
   "game_category": "crash",
-  "rtp_default": "98.00",
+  "rtp_default": "95.00",
   "rtp_variants": [
     {
-      "rtp": "98.00",
+      "rtp": "95.00",
       "variant": "default",
       "is_default": true
     }
@@ -73,18 +73,18 @@ $data = json_decode(curl_exec($ch), true);
   "mechanic": "",
   "reels": null,
   "rows": null,
-  "jackpot_type": "none",
+  "jackpot_type": "unknown",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2026-04-17",
+  "release_date": "2025-12-19",
   "themes": [
     {
-      "slug": "adventure",
-      "name": "Adventure"
+      "slug": "animals",
+      "name": "Animals"
     },
     {
-      "slug": "gems",
-      "name": "Gems"
+      "slug": "food",
+      "name": "Food"
     }
   ],
   "features": [],
@@ -94,7 +94,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/mines-b23/"
+      "page_url": "https://i-gaming.tools/slot-games/chicken-curry-b23/"
     }
   }
 }
@@ -102,36 +102,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/mines-b23/demand/`
+`GET /api/v1/slots/chicken-curry-b23/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/mines-b23/demand/
+  https://i-gaming.tools/api/v1/slots/chicken-curry-b23/demand/
 ```
-
-**12-month volume (illustrative):** 218,620 · **trend:** declining · YoY -43.2%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| India | 127,000 | growing |
-| Brazil | 40,830 | declining |
-| Pakistan | 5,660 | declining |
-| United States | 5,060 | declining |
-| Canada | 3,340 | declining |
-| Greece | 3,030 | declining |
-| Indonesia | 2,920 | declining |
-| Italy | 2,700 | declining |
-| Philippines | 2,480 | declining |
-| United Kingdom | 1,800 | growing |
-
-> Full per-country breakdown (80 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/mines-b23/
-- **Public page:** https://i-gaming.tools/slot-games/mines-b23/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/chicken-curry-b23/
+- **Public page:** https://i-gaming.tools/slot-games/chicken-curry-b23/
 - **Full schema:** https://i-gaming.tools/api/docs/

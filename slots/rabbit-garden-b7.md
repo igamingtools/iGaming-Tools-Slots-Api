@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rabbit-garden-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,050 · **trend:** declining · YoY -22.0%
+**12-month volume (illustrative):** 7,240 · **trend:** declining · YoY -31.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,500 | declining |
-| Philippines | 330 | flat |
-| Spain | 330 | flat |
+| Brazil | 2,110 | declining |
+| Philippines | 320 | declining |
 | Kazakhstan | 310 | flat |
-| Switzerland | 300 | growing |
+| Spain | 290 | declining |
+| Switzerland | 270 | declining |
 | Canada | 240 | flat |
-| France | 210 | declining |
-| Indonesia | 210 | flat |
-| Portugal | 190 | flat |
-| Turkey | 180 | flat |
+| France | 200 | declining |
+| Indonesia | 180 | declining |
+| Portugal | 180 | declining |
+| Turkey | 160 | declining |
 
 > Full per-country breakdown (59 markets) via the /demand/ endpoint.
 

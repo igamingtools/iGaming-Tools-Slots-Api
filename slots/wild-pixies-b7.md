@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-pixies-b7/demand/
 ```
 
-**12-month volume (illustrative):** 950 · **trend:** growing · YoY +33.8%
+**12-month volume (illustrative):** 910 · **trend:** growing · YoY +15.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 290 | flat |
-| Brazil | 80 | growing |
-| Indonesia | 70 | flat |
-| Canada | 60 | declining |
-| Tunisia | 60 | growing |
-| Argentina | 40 | flat |
+| South Africa | 250 | declining |
+| Canada | 80 | growing |
+| Brazil | 70 | declining |
+| Indonesia | 60 | flat |
+| Tunisia | 50 | declining |
 | Greece | 40 | flat |
 | India | 40 | flat |
 | Latvia | 40 | flat |
-| Portugal | 30 | declining |
+| Argentina | 30 | declining |
+| Portugal | 30 | flat |
 
 > Full per-country breakdown (22 markets) via the /demand/ endpoint.
 

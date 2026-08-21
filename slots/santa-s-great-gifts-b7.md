@@ -141,22 +141,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/santa-s-great-gifts-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,710 · **trend:** growing · YoY +18.8%
+**12-month volume (illustrative):** 1,680 · **trend:** growing · YoY +17.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Turkey | 200 | declining |
-| United Kingdom | 200 | growing |
-| Canada | 140 | declining |
-| South Africa | 130 | flat |
-| Greece | 120 | flat |
-| Denmark | 100 | flat |
-| Brazil | 70 | declining |
-| Norway | 60 | declining |
+| United Kingdom | 210 | declining |
+| Turkey | 200 | flat |
+| Canada | 140 | flat |
+| South Africa | 120 | declining |
+| Greece | 110 | declining |
+| Denmark | 100 | declining |
+| Brazil | 60 | flat |
 | Sweden | 60 | flat |
 | Australia | 50 | flat |
+| Netherlands | 50 | flat |
 
 > Full per-country breakdown (35 markets) via the /demand/ endpoint.
 

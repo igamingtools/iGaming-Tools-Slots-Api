@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-hot-hold-and-spin-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,120 · **trend:** declining · YoY -38.5%
+**12-month volume (illustrative):** 1,000 · **trend:** declining · YoY -45.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 250 | declining |
-| Brazil | 170 | flat |
-| United States | 80 | flat |
-| Australia | 50 | declining |
-| Greece | 50 | flat |
-| Germany | 40 | growing |
-| Indonesia | 40 | flat |
+| South Africa | 220 | declining |
+| Brazil | 160 | declining |
+| United States | 70 | flat |
+| Australia | 50 | flat |
+| Greece | 40 | flat |
 | Tunisia | 40 | flat |
-| Netherlands | 30 | flat |
-| Portugal | 30 | growing |
+| Germany | 30 | declining |
+| Indonesia | 30 | flat |
+| Portugal | 30 | declining |
+| United Kingdom | 30 | growing |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -131,21 +131,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/spin-score-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,100 · **trend:** declining · YoY -10.6%
+**12-month volume (illustrative):** 1,030 · **trend:** flat · YoY -3.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 120 | flat |
+| Greece | 110 | declining |
 | Canada | 80 | flat |
-| Finland | 80 | flat |
-| Denmark | 70 | flat |
+| Denmark | 70 | declining |
 | United Kingdom | 70 | flat |
-| Brazil | 60 | growing |
-| Philippines | 60 | growing |
-| South Africa | 60 | flat |
-| Indonesia | 50 | flat |
+| Finland | 60 | declining |
+| Philippines | 60 | declining |
+| South Africa | 60 | declining |
+| Brazil | 50 | declining |
+| Indonesia | 40 | declining |
 | Turkey | 40 | flat |
 
 > Full per-country breakdown (36 markets) via the /demand/ endpoint.

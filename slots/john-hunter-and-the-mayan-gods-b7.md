@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/john-hunter-and-the-mayan-gods-b7/demand/
 ```
 
-**12-month volume (illustrative):** 480 · **trend:** declining · YoY -26.2%
+**12-month volume (illustrative):** 450 · **trend:** declining · YoY -26.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 80 | declining |
-| Brazil | 70 | flat |
-| Netherlands | 40 | growing |
-| United Kingdom | 40 | flat |
+| South Africa | 70 | flat |
+| Brazil | 60 | declining |
+| Netherlands | 40 | declining |
+| United Kingdom | 40 | declining |
 | Sweden | 30 | flat |
 | Germany | 20 | flat |
-| Greece | 20 | declining |
+| Greece | 20 | flat |
 | New Zealand | 20 | flat |
-| Philippines | 20 | flat |
 | Romania | 20 | flat |
+| Tunisia | 20 | flat |
 
 > Full per-country breakdown (21 markets) via the /demand/ endpoint.
 

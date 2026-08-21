@@ -140,22 +140,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/genie-s-gem-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,970 · **trend:** flat
+**12-month volume (illustrative):** 2,000 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Philippines | 190 | declining |
-| Finland | 180 | flat |
+| Finland | 180 | declining |
+| Canada | 160 | flat |
 | South Africa | 160 | declining |
-| Canada | 140 | growing |
-| Greece | 80 | declining |
-| Indonesia | 80 | flat |
+| Greece | 80 | flat |
+| Indonesia | 80 | declining |
 | Malaysia | 80 | flat |
-| Argentina | 70 | flat |
-| Australia | 60 | flat |
-| Latvia | 60 | flat |
+| Argentina | 70 | declining |
+| United States | 70 | growing |
+| Australia | 60 | declining |
 
 > Full per-country breakdown (48 markets) via the /demand/ endpoint.
 

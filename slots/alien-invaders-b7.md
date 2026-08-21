@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/alien-invaders-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,000 · **trend:** flat
+**12-month volume (illustrative):** 3,070 · **trend:** growing · YoY +223.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 400 | flat |
-| Brazil | 380 | growing |
-| Canada | 220 | flat |
-| Finland | 200 | flat |
-| Indonesia | 180 | flat |
-| South Africa | 180 | flat |
-| Spain | 160 | flat |
-| Switzerland | 120 | flat |
-| Germany | 100 | declining |
-| United States | 100 | declining |
+| Greece | 330 | declining |
+| Brazil | 270 | declining |
+| Canada | 180 | flat |
+| South Africa | 170 | declining |
+| Finland | 160 | declining |
+| Spain | 150 | flat |
+| Indonesia | 110 | flat |
+| Switzerland | 90 | flat |
+| Philippines | 80 | declining |
+| United States | 80 | declining |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (52 markets) via the /demand/ endpoint.
 
 ## Links
 

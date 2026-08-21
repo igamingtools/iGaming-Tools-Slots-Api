@@ -124,14 +124,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/towering-fortunes-b7/demand/
 ```
 
-**12-month volume (illustrative):** 660 · **trend:** growing · YoY +24.5%
+**12-month volume (illustrative):** 640 · **trend:** growing · YoY +30.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 140 | flat |
-| Argentina | 60 | growing |
+| Brazil | 130 | declining |
+| Argentina | 60 | declining |
 | South Africa | 50 | flat |
 | Greece | 40 | flat |
 | Indonesia | 30 | flat |
@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Philippines | 30 | flat |
 | Switzerland | 30 | flat |
 | Bulgaria | 20 | flat |
-| Canada | 20 | declining |
+| Canada | 20 | flat |
 
 > Full per-country breakdown (23 markets) via the /demand/ endpoint.
 

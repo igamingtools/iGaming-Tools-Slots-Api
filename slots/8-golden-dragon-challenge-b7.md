@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/8-golden-dragon-challenge-b7/demand/
 ```
 
-**12-month volume (illustrative):** 500 · **trend:** declining · YoY -33.3%
+**12-month volume (illustrative):** 440 · **trend:** declining · YoY -37.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 80 | flat |
-| South Africa | 80 | flat |
+| Brazil | 70 | flat |
+| South Africa | 70 | flat |
 | Sweden | 50 | flat |
 | Greece | 30 | flat |
 | Italy | 30 | flat |
-| Thailand | 30 | declining |
-| Turkey | 30 | growing |
-| Argentina | 20 | declining |
+| Turkey | 30 | declining |
+| Argentina | 20 | flat |
 | Canada | 20 | flat |
 | Malaysia | 20 | flat |
+| Thailand | 20 | flat |
 
-> Full per-country breakdown (20 markets) via the /demand/ endpoint.
+> Full per-country breakdown (18 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/greek-gods-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,660 · **trend:** declining · YoY -6.2%
+**12-month volume (illustrative):** 1,480 · **trend:** declining · YoY -20.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Tunisia | 340 | declining |
-| South Africa | 230 | flat |
+| Tunisia | 330 | declining |
 | India | 140 | flat |
-| Brazil | 120 | flat |
-| Greece | 110 | flat |
-| Indonesia | 100 | declining |
-| Argentina | 90 | growing |
-| Philippines | 70 | growing |
+| South Africa | 120 | declining |
+| Brazil | 110 | declining |
+| Greece | 100 | declining |
+| Argentina | 80 | declining |
+| Indonesia | 80 | flat |
+| Philippines | 60 | declining |
 | Switzerland | 60 | flat |
-| Canada | 40 | declining |
+| Canada | 40 | flat |
 
 > Full per-country breakdown (32 markets) via the /demand/ endpoint.
 

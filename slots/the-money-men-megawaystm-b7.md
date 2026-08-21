@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-money-men-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,120 · **trend:** declining · YoY -18.8%
+**12-month volume (illustrative):** 1,130 · **trend:** declining · YoY -18.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

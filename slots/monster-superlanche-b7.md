@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/monster-superlanche-b7/demand/
 ```
 
-**12-month volume (illustrative):** 11,060 · **trend:** declining · YoY -31.6%
+**12-month volume (illustrative):** 9,750 · **trend:** declining · YoY -40.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Spain | 1,700 | growing |
-| Brazil | 1,410 | growing |
-| Belgium | 640 | flat |
+| Spain | 1,440 | declining |
+| Brazil | 1,090 | declining |
+| Belgium | 580 | declining |
 | Canada | 480 | flat |
-| Argentina | 440 | declining |
-| Greece | 420 | flat |
-| Switzerland | 360 | flat |
-| United Kingdom | 320 | flat |
+| Argentina | 400 | declining |
+| Greece | 350 | declining |
+| Switzerland | 330 | declining |
+| United Kingdom | 280 | flat |
 | United States | 280 | flat |
-| Finland | 260 | flat |
+| Finland | 240 | declining |
 
-> Full per-country breakdown (61 markets) via the /demand/ endpoint.
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
 
 ## Links
 

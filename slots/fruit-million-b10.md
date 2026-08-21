@@ -128,18 +128,18 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fruit-million-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,430 · **trend:** declining · YoY -7.6%
+**12-month volume (illustrative):** 2,510 · **trend:** flat · YoY -4.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| New Zealand | 170 | declining |
+| New Zealand | 190 | declining |
+| Germany | 170 | growing |
 | Netherlands | 160 | declining |
-| Germany | 150 | declining |
-| Austria | 130 | declining |
-| United Kingdom | 130 | declining |
-| Australia | 120 | declining |
+| Austria | 140 | flat |
+| United Kingdom | 140 | flat |
+| Australia | 130 | flat |
 | Finland | 120 | declining |
 | Brazil | 110 | declining |
 | Canada | 100 | flat |

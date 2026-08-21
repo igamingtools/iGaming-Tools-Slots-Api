@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/madame-destiny-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 42,130 · **trend:** declining · YoY -23.1%
+**12-month volume (illustrative):** 42,680 · **trend:** declining · YoY -22.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -154,12 +154,12 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 6,770 | declining |
 | South Africa | 3,440 | declining |
 | Denmark | 2,210 | declining |
+| United Kingdom | 2,150 | growing |
 | Finland | 1,920 | declining |
-| United Kingdom | 1,890 | declining |
+| Germany | 1,350 | growing |
 | Netherlands | 1,310 | declining |
-| Germany | 1,210 | declining |
 | Brazil | 1,200 | declining |
-| Italy | 1,120 | declining |
+| United States | 1,140 | declining |
 
 > Full per-country breakdown (70 markets) via the /demand/ endpoint.
 

@@ -130,24 +130,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/star-bounty-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,550 · **trend:** declining · YoY -19.3%
+**12-month volume (illustrative):** 1,360 · **trend:** declining · YoY -31.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Thailand | 130 | growing |
-| Brazil | 120 | flat |
-| South Africa | 120 | flat |
-| Indonesia | 100 | flat |
-| Philippines | 100 | flat |
-| Greece | 70 | flat |
-| India | 60 | flat |
-| Lithuania | 60 | growing |
-| Tunisia | 60 | growing |
+| Thailand | 120 | declining |
+| Brazil | 110 | declining |
+| South Africa | 110 | declining |
+| Indonesia | 90 | declining |
+| Philippines | 90 | declining |
+| Greece | 60 | declining |
+| Tunisia | 60 | declining |
 | United Kingdom | 60 | flat |
+| Bulgaria | 50 | flat |
+| Denmark | 50 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mysterious-b7/demand/
 ```
 
-**12-month volume (illustrative):** 990 · **trend:** declining · YoY -21.4%
+**12-month volume (illustrative):** 910 · **trend:** declining · YoY -26.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 120 | flat |
-| Greece | 120 | flat |
-| South Africa | 120 | flat |
-| Finland | 60 | declining |
-| United States | 60 | declining |
+| Brazil | 110 | declining |
+| Greece | 110 | declining |
+| South Africa | 110 | declining |
+| Finland | 60 | flat |
 | Germany | 50 | flat |
-| Indonesia | 50 | growing |
-| Philippines | 40 | flat |
-| Colombia | 30 | flat |
+| United States | 50 | declining |
+| Indonesia | 40 | declining |
+| Philippines | 30 | flat |
 | Romania | 30 | flat |
+| Algeria | 20 | flat |
 
 > Full per-country breakdown (33 markets) via the /demand/ endpoint.
 

@@ -140,22 +140,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fury-of-odin-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,780 · **trend:** growing · YoY +23.6%
+**12-month volume (illustrative):** 1,700 · **trend:** growing · YoY +18.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 120 | flat |
 | Canada | 120 | flat |
+| Brazil | 110 | declining |
 | United Kingdom | 110 | flat |
-| South Africa | 90 | flat |
+| South Africa | 90 | declining |
 | Germany | 80 | flat |
-| Indonesia | 80 | flat |
 | Malaysia | 80 | flat |
-| Thailand | 80 | declining |
-| Denmark | 70 | flat |
-| Philippines | 70 | growing |
+| Thailand | 80 | flat |
+| Denmark | 70 | declining |
+| Indonesia | 70 | declining |
+| Philippines | 70 | declining |
 
 > Full per-country breakdown (43 markets) via the /demand/ endpoint.
 

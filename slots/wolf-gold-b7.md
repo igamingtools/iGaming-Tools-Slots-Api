@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wolf-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 15,570 · **trend:** declining · YoY -20.5%
+**12-month volume (illustrative):** 14,260 · **trend:** declining · YoY -26.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 2,100 | declining |
-| South Africa | 1,550 | flat |
-| Germany | 1,280 | declining |
-| Netherlands | 1,110 | declining |
-| United Kingdom | 1,020 | growing |
-| Canada | 880 | declining |
-| Australia | 450 | declining |
-| United States | 390 | declining |
-| Switzerland | 360 | flat |
-| Ukraine | 350 | declining |
+| Greece | 1,960 | declining |
+| South Africa | 1,290 | declining |
+| Germany | 1,070 | declining |
+| Netherlands | 1,020 | declining |
+| United Kingdom | 950 | declining |
+| Canada | 900 | flat |
+| Australia | 450 | growing |
+| United States | 380 | flat |
+| Ukraine | 340 | declining |
+| Switzerland | 330 | declining |
 
 > Full per-country breakdown (69 markets) via the /demand/ endpoint.
 

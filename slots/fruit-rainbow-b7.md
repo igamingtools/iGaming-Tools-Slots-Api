@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fruit-rainbow-b7/demand/
 ```
 
-**12-month volume (illustrative):** 900 · **trend:** declining · YoY -37.9%
+**12-month volume (illustrative):** 900 · **trend:** declining · YoY -38.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

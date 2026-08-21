@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hellvis-wild-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,200 · **trend:** growing · YoY +5.3%
+**12-month volume (illustrative):** 1,130 · **trend:** flat · YoY +0.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 110 | declining |
-| Greece | 100 | flat |
-| South Africa | 100 | flat |
-| Philippines | 70 | growing |
-| Tunisia | 70 | declining |
-| Malaysia | 60 | growing |
-| Portugal | 50 | growing |
-| Argentina | 40 | flat |
+| Brazil | 100 | flat |
+| Greece | 100 | declining |
+| South Africa | 90 | declining |
+| Tunisia | 70 | flat |
+| Malaysia | 60 | declining |
+| Philippines | 60 | declining |
+| Portugal | 50 | declining |
 | Canada | 40 | flat |
-| Denmark | 40 | declining |
+| Denmark | 40 | flat |
+| Finland | 40 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

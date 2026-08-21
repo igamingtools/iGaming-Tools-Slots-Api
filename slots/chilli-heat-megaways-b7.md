@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chilli-heat-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,710 · **trend:** declining · YoY -34.9%
+**12-month volume (illustrative):** 3,760 · **trend:** declining · YoY -34.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -148,14 +148,14 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Tunisia | 1,200 | declining |
 | South Africa | 240 | declining |
-| United Kingdom | 200 | declining |
+| United Kingdom | 210 | flat |
 | Canada | 140 | declining |
+| United States | 130 | flat |
 | Argentina | 120 | declining |
 | Brazil | 120 | declining |
-| United States | 120 | declining |
 | Lithuania | 100 | declining |
+| Germany | 90 | flat |
 | Greece | 90 | declining |
-| Netherlands | 90 | declining |
 
 > Full per-country breakdown (52 markets) via the /demand/ endpoint.
 

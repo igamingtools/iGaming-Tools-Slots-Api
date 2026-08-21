@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starlight-princess-pachi-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,980 · **trend:** declining · YoY -60.4%
+**12-month volume (illustrative):** 4,030 · **trend:** declining · YoY -59.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -166,9 +166,9 @@ curl -H "Authorization: Token $TOKEN" \
 | Malaysia | 160 | declining |
 | Greece | 150 | declining |
 | Switzerland | 150 | flat |
-| Canada | 120 | flat |
+| Canada | 140 | growing |
 | Philippines | 120 | flat |
-| Germany | 110 | declining |
+| United States | 120 | growing |
 
 > Full per-country breakdown (56 markets) via the /demand/ endpoint.
 

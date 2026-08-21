@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/forge-of-olympus-b7/demand/
 ```
 
-**12-month volume (illustrative):** 17,300 · **trend:** declining · YoY -41.5%
+**12-month volume (illustrative):** 15,230 · **trend:** declining · YoY -48.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 7,380 | declining |
-| Brazil | 1,230 | flat |
-| Philippines | 990 | flat |
-| Indonesia | 860 | declining |
-| Netherlands | 540 | flat |
-| Switzerland | 480 | flat |
-| Cyprus | 460 | growing |
-| Canada | 260 | flat |
-| Belgium | 240 | flat |
-| Malaysia | 220 | declining |
+| Greece | 6,500 | declining |
+| Brazil | 1,020 | declining |
+| Philippines | 880 | declining |
+| Indonesia | 600 | declining |
+| Netherlands | 500 | declining |
+| Switzerland | 480 | declining |
+| Cyprus | 390 | declining |
+| Canada | 240 | flat |
+| Belgium | 220 | declining |
+| Malaysia | 200 | flat |
 
-> Full per-country breakdown (69 markets) via the /demand/ endpoint.
+> Full per-country breakdown (67 markets) via the /demand/ endpoint.
 
 ## Links
 

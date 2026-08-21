@@ -130,7 +130,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/curse-of-the-werewolf-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,470 · **trend:** growing · YoY +15.4%
+**12-month volume (illustrative):** 2,510 · **trend:** growing · YoY +17.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,8 +141,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 130 | declining |
 | South Africa | 130 | declining |
 | Netherlands | 120 | declining |
+| United Kingdom | 120 | flat |
 | Tunisia | 110 | declining |
-| United Kingdom | 110 | declining |
 | Brazil | 100 | flat |
 | Malaysia | 100 | declining |
 | Indonesia | 90 | flat |

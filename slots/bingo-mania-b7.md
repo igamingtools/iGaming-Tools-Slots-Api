@@ -145,22 +145,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bingo-mania-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,880 · **trend:** flat
+**12-month volume (illustrative):** 3,890 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 630 | flat |
-| South Africa | 370 | flat |
-| Indonesia | 170 | growing |
-| Canada | 160 | declining |
-| Switzerland | 120 | flat |
+| Brazil | 630 | declining |
+| South Africa | 370 | declining |
+| Indonesia | 170 | declining |
+| Canada | 160 | flat |
+| Switzerland | 120 | declining |
 | Finland | 100 | flat |
-| Malaysia | 100 | declining |
-| Philippines | 100 | growing |
+| Malaysia | 100 | flat |
+| Philippines | 100 | declining |
 | Germany | 90 | flat |
-| Greece | 90 | growing |
+| Greece | 90 | declining |
 
 > Full per-country breakdown (62 markets) via the /demand/ endpoint.
 

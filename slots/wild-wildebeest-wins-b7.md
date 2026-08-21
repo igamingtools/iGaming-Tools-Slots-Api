@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-wildebeest-wins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,110 · **trend:** growing · YoY +11.1%
+**12-month volume (illustrative):** 1,960 · **trend:** declining · YoY -5.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 190 | flat |
-| Greece | 120 | declining |
+| Brazil | 180 | declining |
 | United States | 120 | flat |
-| South Africa | 110 | flat |
-| Indonesia | 90 | flat |
-| Switzerland | 90 | declining |
-| Denmark | 80 | declining |
-| Finland | 80 | flat |
-| Hungary | 80 | flat |
-| Lithuania | 80 | flat |
+| Greece | 110 | flat |
+| South Africa | 100 | declining |
+| Switzerland | 90 | flat |
+| Denmark | 80 | flat |
+| Indonesia | 80 | declining |
+| United Kingdom | 80 | growing |
+| Hungary | 70 | declining |
+| Lithuania | 70 | flat |
 
 > Full per-country breakdown (45 markets) via the /demand/ endpoint.
 

@@ -116,18 +116,18 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/magic-journey-b7/demand/
 ```
 
-**12-month volume (illustrative):** 610 · **trend:** growing · YoY +24.5%
+**12-month volume (illustrative):** 590 · **trend:** growing · YoY +15.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 140 | flat |
-| South Africa | 110 | flat |
-| Philippines | 60 | flat |
+| Brazil | 130 | declining |
+| South Africa | 100 | declining |
+| Philippines | 60 | declining |
 | Indonesia | 50 | flat |
 | Finland | 40 | flat |
-| Argentina | 30 | flat |
+| Argentina | 30 | declining |
 | Germany | 20 | flat |
 | Malaysia | 20 | flat |
 | United Kingdom | 20 | flat |

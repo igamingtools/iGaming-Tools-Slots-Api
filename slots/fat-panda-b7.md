@@ -144,22 +144,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fat-panda-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,400 · **trend:** declining · YoY -9.3%
+**12-month volume (illustrative):** 3,950 · **trend:** declining · YoY -20.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 710 | growing |
-| Brazil | 370 | declining |
-| Malaysia | 280 | flat |
-| Canada | 200 | declining |
-| Finland | 140 | growing |
-| Greece | 130 | flat |
-| Peru | 130 | flat |
+| Indonesia | 660 | declining |
+| Brazil | 280 | declining |
+| Malaysia | 240 | declining |
+| Canada | 220 | growing |
+| Finland | 120 | declining |
+| Greece | 120 | declining |
 | Switzerland | 120 | flat |
 | United States | 120 | flat |
 | Germany | 110 | flat |
+| South Africa | 110 | declining |
 
 > Full per-country breakdown (53 markets) via the /demand/ endpoint.
 

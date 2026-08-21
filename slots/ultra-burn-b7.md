@@ -119,7 +119,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ultra-burn-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,610 · **trend:** declining · YoY -25.5%
+**12-month volume (illustrative):** 1,630 · **trend:** declining · YoY -24.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -130,9 +130,9 @@ curl -H "Authorization: Token $TOKEN" \
 | Lithuania | 90 | flat |
 | Belgium | 80 | flat |
 | Latvia | 80 | flat |
+| Germany | 70 | growing |
 | Indonesia | 70 | declining |
 | Finland | 60 | flat |
-| Germany | 60 | flat |
 | Tunisia | 60 | declining |
 | Argentina | 50 | declining |
 

@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-pots-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,770 · **trend:** flat
+**12-month volume (illustrative):** 1,830 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -157,14 +157,14 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 130 | declining |
 | South Africa | 120 | declining |
-| Canada | 80 | flat |
+| Canada | 100 | flat |
 | Greece | 80 | declining |
-| Finland | 60 | flat |
-| Indonesia | 60 | flat |
-| Malaysia | 60 | flat |
-| Switzerland | 60 | declining |
-| United States | 60 | flat |
-| United Kingdom | 50 | flat |
+| Finland | 60 | declining |
+| Indonesia | 60 | declining |
+| Malaysia | 60 | declining |
+| Switzerland | 60 | flat |
+| United Kingdom | 60 | flat |
+| United States | 60 | declining |
 
 > Full per-country breakdown (54 markets) via the /demand/ endpoint.
 

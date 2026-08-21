@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fairytale-fortune-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,140 · **trend:** declining · YoY -25.0%
+**12-month volume (illustrative):** 1,010 · **trend:** declining · YoY -34.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 390 | declining |
-| Brazil | 120 | flat |
-| Argentina | 60 | growing |
-| Germany | 60 | flat |
-| Greece | 60 | flat |
-| Mexico | 50 | growing |
-| Tunisia | 40 | declining |
-| Lebanon | 30 | flat |
-| Lithuania | 30 | flat |
+| South Africa | 340 | declining |
+| Brazil | 110 | declining |
+| Germany | 60 | growing |
+| Greece | 60 | declining |
+| Argentina | 50 | declining |
+| Mexico | 50 | declining |
+| Tunisia | 30 | flat |
 | Austria | 20 | flat |
+| Bulgaria | 20 | flat |
+| Finland | 20 | flat |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

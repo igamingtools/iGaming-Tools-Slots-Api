@@ -138,24 +138,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-gold-88-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,510 · **trend:** declining · YoY -37.6%
+**12-month volume (illustrative):** 2,300 · **trend:** declining · YoY -46.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 220 | flat |
-| Indonesia | 190 | declining |
-| Canada | 160 | growing |
-| Malaysia | 160 | flat |
+| Brazil | 200 | declining |
+| Indonesia | 180 | flat |
+| Canada | 160 | flat |
 | United States | 160 | flat |
-| Greece | 130 | flat |
-| South Africa | 130 | flat |
-| Netherlands | 110 | flat |
-| Thailand | 100 | flat |
+| Malaysia | 140 | flat |
+| Greece | 120 | declining |
+| South Africa | 120 | declining |
+| Netherlands | 100 | declining |
 | Switzerland | 90 | flat |
+| Thailand | 90 | flat |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

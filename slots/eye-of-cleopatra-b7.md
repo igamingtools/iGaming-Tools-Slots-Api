@@ -120,15 +120,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/eye-of-cleopatra-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,880 · **trend:** declining · YoY -42.7%
+**12-month volume (illustrative):** 1,910 · **trend:** declining · YoY -41.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 250 | declining |
+| Canada | 160 | growing |
 | Pakistan | 160 | flat |
-| Canada | 140 | flat |
 | South Africa | 130 | declining |
 | Greece | 100 | flat |
 | Philippines | 100 | declining |

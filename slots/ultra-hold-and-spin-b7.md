@@ -132,24 +132,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ultra-hold-and-spin-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,630 · **trend:** declining · YoY -11.3%
+**12-month volume (illustrative):** 4,040 · **trend:** declining · YoY -25.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,840 | declining |
-| Belgium | 700 | flat |
-| Switzerland | 210 | growing |
-| United Kingdom | 150 | flat |
-| Brazil | 140 | flat |
-| Germany | 130 | declining |
-| Poland | 130 | declining |
-| Netherlands | 110 | flat |
-| Canada | 100 | growing |
-| Turkey | 90 | flat |
+| South Africa | 1,520 | declining |
+| Belgium | 640 | declining |
+| Switzerland | 180 | declining |
+| United Kingdom | 140 | declining |
+| Brazil | 130 | declining |
+| Germany | 130 | growing |
+| Poland | 120 | declining |
+| Canada | 100 | declining |
+| Netherlands | 100 | declining |
+| Turkey | 80 | declining |
 
-> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

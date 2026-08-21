@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-monkey-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,100 · **trend:** declining · YoY -8.6%
+**12-month volume (illustrative):** 2,680 · **trend:** declining · YoY -29.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,510 | declining |
-| South Africa | 200 | flat |
-| Indonesia | 130 | flat |
+| Brazil | 1,250 | declining |
+| South Africa | 190 | declining |
+| Indonesia | 130 | declining |
 | United States | 120 | declining |
-| Philippines | 110 | flat |
 | India | 100 | flat |
-| Canada | 80 | declining |
-| Malaysia | 80 | declining |
-| Mexico | 80 | growing |
-| Greece | 70 | flat |
+| Philippines | 100 | declining |
+| Mexico | 80 | declining |
+| Canada | 60 | flat |
+| Greece | 60 | flat |
+| Malaysia | 60 | flat |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

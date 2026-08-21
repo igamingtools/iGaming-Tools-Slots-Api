@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/treasure-wild-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,610 · **trend:** declining · YoY -17.4%
+**12-month volume (illustrative):** 4,260 · **trend:** declining · YoY -23.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,310 | declining |
-| Indonesia | 200 | flat |
+| Brazil | 1,200 | declining |
+| Indonesia | 180 | declining |
 | United Kingdom | 170 | flat |
-| Austria | 160 | flat |
-| Canada | 160 | declining |
-| Malaysia | 160 | declining |
-| Romania | 130 | flat |
-| Greece | 110 | flat |
-| Philippines | 110 | declining |
-| South Africa | 110 | flat |
+| Canada | 160 | growing |
+| Austria | 150 | declining |
+| Malaysia | 140 | flat |
+| Romania | 120 | declining |
+| Germany | 110 | flat |
+| Greece | 100 | declining |
+| Philippines | 100 | flat |
 
-> Full per-country breakdown (55 markets) via the /demand/ endpoint.
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
 
 ## Links
 

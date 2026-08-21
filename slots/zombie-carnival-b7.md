@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/zombie-carnival-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,260 · **trend:** declining · YoY -24.0%
+**12-month volume (illustrative):** 5,700 · **trend:** declining · YoY -30.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 560 | flat |
-| Greece | 550 | flat |
-| South Africa | 290 | flat |
-| India | 260 | declining |
-| Finland | 240 | flat |
+| Greece | 510 | declining |
+| Brazil | 470 | declining |
+| India | 240 | declining |
+| South Africa | 240 | declining |
+| Finland | 220 | declining |
 | United States | 220 | flat |
-| Canada | 180 | flat |
-| Switzerland | 180 | flat |
+| Canada | 180 | growing |
 | United Kingdom | 170 | flat |
-| Malaysia | 160 | flat |
+| Peru | 150 | declining |
+| Switzerland | 150 | flat |
 
-> Full per-country breakdown (63 markets) via the /demand/ endpoint.
+> Full per-country breakdown (62 markets) via the /demand/ endpoint.
 
 ## Links
 

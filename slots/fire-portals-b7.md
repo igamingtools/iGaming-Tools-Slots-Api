@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-portals-b7/demand/
 ```
 
-**12-month volume (illustrative):** 42,230 · **trend:** flat · YoY -4.4%
+**12-month volume (illustrative):** 37,570 · **trend:** declining · YoY -22.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 10,990 | flat |
-| Greece | 5,410 | growing |
-| Denmark | 2,460 | growing |
-| Philippines | 2,300 | growing |
+| Brazil | 9,390 | declining |
+| Greece | 4,690 | declining |
+| Denmark | 2,290 | declining |
+| Philippines | 2,090 | declining |
 | Canada | 1,720 | growing |
-| Indonesia | 1,720 | growing |
-| Finland | 1,360 | flat |
-| United Kingdom | 960 | declining |
-| South Africa | 860 | declining |
-| Germany | 820 | growing |
+| Indonesia | 1,400 | declining |
+| Finland | 1,280 | declining |
+| United Kingdom | 960 | growing |
+| South Africa | 770 | declining |
+| Sweden | 770 | declining |
 
-> Full per-country breakdown (74 markets) via the /demand/ endpoint.
+> Full per-country breakdown (71 markets) via the /demand/ endpoint.
 
 ## Links
 

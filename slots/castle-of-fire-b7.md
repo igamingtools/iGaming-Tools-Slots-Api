@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/castle-of-fire-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,010 · **trend:** declining · YoY -17.5%
+**12-month volume (illustrative):** 2,760 · **trend:** declining · YoY -23.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 230 | flat |
-| Brazil | 160 | declining |
-| Finland | 160 | flat |
-| United States | 140 | declining |
-| Canada | 120 | flat |
-| Greece | 120 | flat |
-| Philippines | 110 | declining |
-| Denmark | 100 | flat |
-| Thailand | 100 | flat |
-| Peru | 90 | declining |
+| South Africa | 220 | declining |
+| Finland | 160 | declining |
+| Brazil | 140 | declining |
+| United States | 130 | declining |
+| Canada | 120 | growing |
+| Greece | 110 | declining |
+| Philippines | 100 | flat |
+| Denmark | 90 | declining |
+| Thailand | 90 | declining |
+| Ukraine | 90 | declining |
 
 > Full per-country breakdown (51 markets) via the /demand/ endpoint.
 

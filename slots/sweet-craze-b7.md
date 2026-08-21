@@ -141,22 +141,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-craze-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,810 · **trend:** flat
+**12-month volume (illustrative):** 5,880 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 570 | flat |
+| Greece | 570 | declining |
 | Brazil | 530 | declining |
 | South Africa | 510 | declining |
 | Philippines | 340 | declining |
-| Canada | 220 | growing |
-| Denmark | 190 | flat |
-| Indonesia | 160 | flat |
+| Canada | 240 | declining |
+| Denmark | 190 | declining |
+| Indonesia | 160 | declining |
+| Australia | 150 | flat |
 | Switzerland | 150 | flat |
-| Australia | 140 | flat |
-| Peru | 140 | flat |
+| Peru | 140 | declining |
 
 > Full per-country breakdown (64 markets) via the /demand/ endpoint.
 

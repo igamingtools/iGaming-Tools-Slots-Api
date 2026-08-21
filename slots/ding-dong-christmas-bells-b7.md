@@ -134,21 +134,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ding-dong-christmas-bells-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,330 · **trend:** declining · YoY -19.9%
+**12-month volume (illustrative):** 1,260 · **trend:** declining · YoY -23.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 150 | flat |
-| South Africa | 120 | growing |
+| Brazil | 140 | declining |
 | Romania | 110 | flat |
-| Greece | 90 | flat |
-| Germany | 80 | declining |
-| Argentina | 60 | flat |
+| South Africa | 110 | declining |
+| Greece | 80 | flat |
+| Germany | 70 | flat |
+| Argentina | 60 | declining |
 | Canada | 60 | flat |
 | United States | 60 | flat |
-| United Kingdom | 50 | declining |
+| United Kingdom | 50 | growing |
 | Philippines | 40 | flat |
 
 > Full per-country breakdown (41 markets) via the /demand/ endpoint.

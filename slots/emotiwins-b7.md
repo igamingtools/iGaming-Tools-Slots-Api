@@ -116,19 +116,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/emotiwins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 700 · **trend:** growing · YoY +40.0%
+**12-month volume (illustrative):** 660 · **trend:** growing · YoY +22.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 160 | flat |
-| Brazil | 110 | flat |
+| South Africa | 140 | declining |
+| Brazil | 100 | declining |
 | Finland | 80 | flat |
 | Tunisia | 50 | flat |
-| Indonesia | 40 | flat |
 | Argentina | 30 | flat |
 | Greece | 30 | flat |
+| Indonesia | 30 | flat |
 | Peru | 30 | flat |
 | Lithuania | 20 | flat |
 | Australia | 10 | flat |

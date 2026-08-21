@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-strike-b7/demand/
 ```
 
-**12-month volume (illustrative):** 32,470 · **trend:** declining · YoY -23.9%
+**12-month volume (illustrative):** 32,540 · **trend:** declining · YoY -23.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,11 +141,11 @@ curl -H "Authorization: Token $TOKEN" \
 | South Africa | 27,900 | declining |
 | Brazil | 680 | declining |
 | Netherlands | 470 | declining |
-| United States | 240 | declining |
-| Canada | 180 | declining |
+| United States | 260 | flat |
+| Canada | 200 | flat |
 | India | 160 | flat |
+| United Kingdom | 130 | flat |
 | Indonesia | 120 | declining |
-| United Kingdom | 120 | declining |
 | Finland | 100 | flat |
 | Germany | 100 | declining |
 

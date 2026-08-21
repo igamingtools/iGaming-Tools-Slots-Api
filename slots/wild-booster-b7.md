@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-booster-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,250 · **trend:** declining · YoY -12.5%
+**12-month volume (illustrative):** 2,050 · **trend:** declining · YoY -17.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 650 | flat |
-| Brazil | 120 | flat |
-| United States | 120 | declining |
-| Romania | 100 | flat |
-| Germany | 80 | growing |
-| Lithuania | 80 | flat |
+| South Africa | 610 | declining |
+| Brazil | 110 | declining |
+| United States | 110 | declining |
+| Romania | 90 | flat |
+| Germany | 80 | flat |
 | Malaysia | 80 | flat |
-| Canada | 60 | flat |
-| Greece | 60 | flat |
-| Indonesia | 60 | flat |
+| Lithuania | 70 | declining |
+| Indonesia | 60 | declining |
+| Turkey | 60 | flat |
+| Greece | 50 | flat |
 
-> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

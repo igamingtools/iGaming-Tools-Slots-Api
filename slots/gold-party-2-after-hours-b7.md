@@ -143,24 +143,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-party-2-after-hours-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,820 · **trend:** growing · YoY +555.8%
+**12-month volume (illustrative):** 2,290 · **trend:** growing · YoY +133.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Portugal | 390 | flat |
-| South Africa | 240 | flat |
-| Argentina | 150 | growing |
-| Germany | 130 | flat |
-| Switzerland | 120 | flat |
-| United States | 120 | flat |
-| Greece | 110 | declining |
-| Turkey | 100 | declining |
-| Brazil | 90 | declining |
-| United Kingdom | 90 | growing |
+| Portugal | 320 | flat |
+| South Africa | 220 | declining |
+| Argentina | 130 | declining |
+| Germany | 130 | growing |
+| United States | 120 | growing |
+| Greece | 90 | flat |
+| Switzerland | 90 | flat |
+| Brazil | 80 | flat |
+| Finland | 80 | flat |
+| Turkey | 80 | flat |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

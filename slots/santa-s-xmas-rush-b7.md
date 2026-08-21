@@ -140,21 +140,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/santa-s-xmas-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 740 · **trend:** declining · YoY -34.5%
+**12-month volume (illustrative):** 700 · **trend:** declining · YoY -40.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 120 | flat |
-| Brazil | 70 | declining |
+| Canada | 100 | flat |
 | Greece | 70 | flat |
-| Denmark | 50 | flat |
+| Brazil | 60 | flat |
 | South Africa | 50 | flat |
 | Belgium | 40 | flat |
+| Denmark | 40 | flat |
 | Lithuania | 30 | flat |
 | Norway | 30 | flat |
-| Philippines | 30 | growing |
+| Philippines | 30 | declining |
 | Switzerland | 30 | flat |
 
 > Full per-country breakdown (27 markets) via the /demand/ endpoint.

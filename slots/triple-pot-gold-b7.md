@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/triple-pot-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,460 · **trend:** growing · YoY +61.5%
+**12-month volume (illustrative):** 7,500 · **trend:** growing · YoY +62.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -145,13 +145,13 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 1,880 | declining |
 | South Africa | 1,390 | declining |
 | India | 380 | declining |
-| Canada | 320 | declining |
+| Canada | 340 | flat |
 | Malaysia | 300 | declining |
 | Indonesia | 280 | declining |
 | Argentina | 140 | declining |
 | Pakistan | 140 | declining |
 | Philippines | 130 | declining |
-| Peru | 120 | declining |
+| United States | 130 | flat |
 
 > Full per-country breakdown (62 markets) via the /demand/ endpoint.
 

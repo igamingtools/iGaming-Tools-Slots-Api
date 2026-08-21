@@ -129,24 +129,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-catfather-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,570 · **trend:** growing · YoY +685.0%
+**12-month volume (illustrative):** 1,400 · **trend:** growing · YoY +268.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 120 | flat |
-| Switzerland | 120 | growing |
-| Brazil | 100 | growing |
-| Indonesia | 90 | declining |
-| Netherlands | 70 | declining |
+| Switzerland | 120 | declining |
+| Greece | 110 | declining |
+| Brazil | 90 | declining |
+| Indonesia | 80 | flat |
 | Tunisia | 70 | flat |
-| Turkey | 70 | flat |
-| Malaysia | 60 | declining |
-| South Africa | 60 | growing |
-| Germany | 50 | declining |
+| Malaysia | 60 | flat |
+| Netherlands | 60 | flat |
+| Turkey | 60 | flat |
+| Portugal | 50 | flat |
+| Romania | 50 | declining |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

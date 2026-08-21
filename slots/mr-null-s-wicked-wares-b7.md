@@ -145,22 +145,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mr-null-s-wicked-wares-b7/demand/
 ```
 
-**12-month volume (illustrative):** 720 · **trend:** flat
+**12-month volume (illustrative):** 730 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 40 | flat |
-| Finland | 40 | flat |
-| Greece | 40 | growing |
-| United States | 40 | flat |
-| Switzerland | 30 | declining |
-| Argentina | 20 | flat |
-| Belgium | 20 | declining |
-| Brazil | 20 | flat |
-| Denmark | 20 | flat |
-| Germany | 20 | flat |
+| Canada | 40 | declining |
+| Finland | 40 | declining |
+| Greece | 40 | declining |
+| United States | 40 | declining |
+| Germany | 30 | flat |
+| Switzerland | 30 | flat |
+| Argentina | 20 | declining |
+| Belgium | 20 | flat |
+| Brazil | 20 | declining |
+| Denmark | 20 | declining |
 
 > Full per-country breakdown (44 markets) via the /demand/ endpoint.
 

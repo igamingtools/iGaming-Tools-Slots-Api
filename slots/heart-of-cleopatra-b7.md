@@ -131,22 +131,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/heart-of-cleopatra-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,870 · **trend:** declining · YoY -10.1%
+**12-month volume (illustrative):** 6,340 · **trend:** declining · YoY -13.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 890 | declining |
-| Greece | 770 | declining |
-| Philippines | 760 | declining |
-| South Africa | 290 | growing |
-| Switzerland | 210 | declining |
-| Malaysia | 180 | declining |
-| United States | 160 | flat |
-| Belgium | 140 | growing |
-| Finland | 140 | declining |
-| Indonesia | 130 | flat |
+| Brazil | 820 | declining |
+| Greece | 720 | declining |
+| Philippines | 670 | declining |
+| South Africa | 280 | declining |
+| Switzerland | 180 | flat |
+| Malaysia | 160 | flat |
+| United States | 160 | growing |
+| Belgium | 120 | declining |
+| Czech Republic | 120 | declining |
+| Finland | 120 | flat |
 
 > Full per-country breakdown (64 markets) via the /demand/ endpoint.
 

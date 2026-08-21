@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/eye-of-spartacus-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,370 · **trend:** growing · YoY +175.8%
+**12-month volume (illustrative):** 5,130 · **trend:** growing · YoY +42.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,500 | declining |
-| Greece | 600 | flat |
-| Canada | 300 | declining |
-| South Africa | 250 | flat |
-| United Kingdom | 240 | declining |
-| Finland | 180 | flat |
-| Germany | 180 | flat |
-| Switzerland | 180 | growing |
-| Malaysia | 160 | flat |
-| Argentina | 140 | growing |
+| Brazil | 1,240 | declining |
+| Greece | 280 | declining |
+| Canada | 240 | flat |
+| South Africa | 200 | declining |
+| United Kingdom | 200 | flat |
+| Finland | 160 | flat |
+| Germany | 160 | flat |
+| Switzerland | 150 | declining |
+| Malaysia | 140 | flat |
+| United States | 130 | flat |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (58 markets) via the /demand/ endpoint.
 
 ## Links
 

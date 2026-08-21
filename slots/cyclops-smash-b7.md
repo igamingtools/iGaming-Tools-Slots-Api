@@ -131,22 +131,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cyclops-smash-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,140 · **trend:** declining · YoY -18.6%
+**12-month volume (illustrative):** 1,040 · **trend:** declining · YoY -22.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 120 | flat |
-| Greece | 110 | flat |
-| Philippines | 110 | flat |
-| Finland | 80 | flat |
-| South Africa | 70 | flat |
+| Brazil | 110 | declining |
+| Greece | 100 | declining |
+| Philippines | 100 | declining |
+| Finland | 60 | flat |
+| South Africa | 60 | flat |
 | Canada | 40 | flat |
 | India | 40 | flat |
-| Portugal | 40 | flat |
-| Romania | 40 | flat |
+| Portugal | 40 | declining |
 | Tunisia | 40 | flat |
+| United Kingdom | 40 | flat |
 
 > Full per-country breakdown (32 markets) via the /demand/ endpoint.
 

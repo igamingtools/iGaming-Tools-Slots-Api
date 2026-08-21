@@ -124,13 +124,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gems-of-serengeti-b7/demand/
 ```
 
-**12-month volume (illustrative):** 370 · **trend:** declining · YoY -26.0%
+**12-month volume (illustrative):** 370 · **trend:** declining · YoY -17.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 80 | flat |
+| Brazil | 80 | declining |
 | United Kingdom | 70 | flat |
 | Argentina | 20 | flat |
 | Belgium | 20 | flat |

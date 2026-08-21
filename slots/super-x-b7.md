@@ -129,7 +129,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-x-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,610 · **trend:** declining · YoY -31.8%
+**12-month volume (illustrative):** 1,630 · **trend:** declining · YoY -32.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -138,8 +138,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 150 | declining |
 | Indonesia | 130 | declining |
 | India | 120 | flat |
+| United Kingdom | 120 | flat |
 | Greece | 110 | declining |
-| United Kingdom | 110 | declining |
 | Argentina | 100 | declining |
 | Philippines | 90 | declining |
 | South Africa | 90 | flat |

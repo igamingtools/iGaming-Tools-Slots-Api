@@ -131,22 +131,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/7-clovers-of-fortune-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,080 · **trend:** growing · YoY +29.9%
+**12-month volume (illustrative):** 6,490 · **trend:** growing · YoY +6.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Mexico | 840 | declining |
-| South Africa | 710 | declining |
-| Argentina | 480 | declining |
-| Brazil | 410 | declining |
-| Peru | 360 | flat |
-| United Kingdom | 340 | growing |
+| Mexico | 700 | declining |
+| South Africa | 620 | declining |
+| Argentina | 460 | declining |
+| Brazil | 370 | declining |
+| United Kingdom | 360 | declining |
+| Peru | 320 | declining |
 | Germany | 250 | flat |
-| Malaysia | 220 | flat |
 | United States | 220 | flat |
-| Canada | 200 | flat |
+| Malaysia | 200 | declining |
+| Canada | 180 | declining |
 
 > Full per-country breakdown (59 markets) via the /demand/ endpoint.
 

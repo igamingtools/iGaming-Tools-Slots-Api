@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jackpot-hunter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,460 · **trend:** declining · YoY -49.5%
+**12-month volume (illustrative):** 1,460 · **trend:** declining · YoY -49.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

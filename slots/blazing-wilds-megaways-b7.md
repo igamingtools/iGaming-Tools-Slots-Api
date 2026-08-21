@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/blazing-wilds-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,440 · **trend:** declining · YoY -6.2%
+**12-month volume (illustrative):** 2,260 · **trend:** declining · YoY -11.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 250 | declining |
-| Canada | 180 | flat |
-| Brazil | 140 | flat |
-| Greece | 140 | flat |
+| South Africa | 240 | declining |
+| Canada | 160 | declining |
+| Greece | 130 | declining |
+| Brazil | 120 | declining |
 | United Kingdom | 120 | flat |
-| Philippines | 110 | flat |
-| Malaysia | 100 | growing |
-| Sweden | 100 | flat |
+| Philippines | 110 | declining |
+| Malaysia | 100 | declining |
+| Sweden | 100 | declining |
 | United States | 100 | declining |
-| Argentina | 80 | flat |
+| Argentina | 80 | declining |
 
 > Full per-country breakdown (48 markets) via the /demand/ endpoint.
 

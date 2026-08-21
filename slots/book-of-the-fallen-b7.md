@@ -148,24 +148,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-the-fallen-b7/demand/
 ```
 
-**12-month volume (illustrative):** 17,060 · **trend:** growing · YoY +15.2%
+**12-month volume (illustrative):** 15,830 · **trend:** growing · YoY +5.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 5,340 | declining |
-| Germany | 2,110 | growing |
-| South Africa | 2,030 | flat |
-| Switzerland | 930 | flat |
+| Greece | 4,950 | declining |
+| Germany | 1,960 | growing |
+| South Africa | 1,860 | declining |
 | Austria | 900 | flat |
-| Italy | 530 | declining |
-| Luxembourg | 260 | flat |
-| United Kingdom | 250 | growing |
-| Finland | 220 | flat |
-| France | 220 | flat |
+| Switzerland | 840 | declining |
+| Italy | 480 | declining |
+| Luxembourg | 240 | declining |
+| France | 220 | declining |
+| United Kingdom | 220 | flat |
+| Finland | 200 | declining |
 
-> Full per-country breakdown (68 markets) via the /demand/ endpoint.
+> Full per-country breakdown (67 markets) via the /demand/ endpoint.
 
 ## Links
 

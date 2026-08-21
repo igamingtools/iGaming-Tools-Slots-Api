@@ -130,22 +130,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-west-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 29,070 · **trend:** declining · YoY -24.0%
+**12-month volume (illustrative):** 26,190 · **trend:** declining · YoY -31.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 4,200 | flat |
-| Indonesia | 2,150 | growing |
-| Greece | 2,100 | growing |
-| Ukraine | 1,250 | growing |
-| South Africa | 1,160 | flat |
-| Germany | 1,120 | flat |
-| Turkey | 1,040 | flat |
-| Netherlands | 1,010 | growing |
-| Thailand | 900 | declining |
-| Tunisia | 850 | growing |
+| Brazil | 3,610 | declining |
+| Indonesia | 1,760 | declining |
+| Greece | 1,710 | declining |
+| Ukraine | 1,220 | declining |
+| Germany | 1,100 | flat |
+| South Africa | 1,050 | declining |
+| Turkey | 930 | declining |
+| Netherlands | 870 | declining |
+| Thailand | 810 | declining |
+| Tunisia | 800 | declining |
 
 > Full per-country breakdown (75 markets) via the /demand/ endpoint.
 

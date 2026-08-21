@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ancient-egypt-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,750 · **trend:** growing · YoY +12.9%
+**12-month volume (illustrative):** 1,620 · **trend:** flat · YoY +3.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 320 | declining |
-| Brazil | 120 | flat |
-| Germany | 90 | growing |
-| El Salvador | 80 | declining |
-| Greece | 80 | flat |
-| Malaysia | 80 | declining |
-| Romania | 70 | declining |
-| Tunisia | 70 | declining |
-| Canada | 60 | declining |
-| Finland | 60 | growing |
+| South Africa | 280 | declining |
+| Brazil | 110 | declining |
+| Germany | 100 | flat |
+| Greece | 80 | declining |
+| Malaysia | 80 | flat |
+| El Salvador | 70 | flat |
+| Tunisia | 70 | flat |
+| Canada | 60 | flat |
+| Finland | 60 | declining |
+| Romania | 60 | flat |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

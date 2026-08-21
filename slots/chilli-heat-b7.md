@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chilli-heat-b7/demand/
 ```
 
-**12-month volume (illustrative):** 13,270 · **trend:** declining · YoY -14.7%
+**12-month volume (illustrative):** 11,970 · **trend:** declining · YoY -23.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 4,560 | flat |
-| Tunisia | 1,900 | growing |
-| United Kingdom | 960 | declining |
-| New Zealand | 540 | declining |
-| Argentina | 410 | flat |
-| Brazil | 360 | declining |
-| Canada | 320 | declining |
-| Mexico | 230 | flat |
-| Lithuania | 200 | flat |
-| Qatar | 200 | flat |
+| South Africa | 4,080 | declining |
+| Tunisia | 1,730 | declining |
+| United Kingdom | 900 | declining |
+| New Zealand | 530 | growing |
+| Argentina | 370 | declining |
+| Canada | 320 | growing |
+| Brazil | 270 | declining |
+| Mexico | 220 | declining |
+| Lithuania | 180 | declining |
+| Qatar | 180 | declining |
 
-> Full per-country breakdown (65 markets) via the /demand/ endpoint.
+> Full per-country breakdown (63 markets) via the /demand/ endpoint.
 
 ## Links
 

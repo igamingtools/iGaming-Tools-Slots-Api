@@ -148,22 +148,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-reel-repeat-b7/demand/
 ```
 
-**12-month volume (illustrative):** 31,050 · **trend:** flat
+**12-month volume (illustrative):** 30,100 · **trend:** growing · YoY +2540.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 5,910 | flat |
-| Brazil | 5,480 | declining |
-| Greece | 2,660 | declining |
-| Netherlands | 1,500 | flat |
-| Canada | 1,380 | growing |
-| Germany | 1,290 | declining |
-| South Africa | 940 | growing |
-| Romania | 740 | growing |
-| Switzerland | 690 | flat |
-| Finland | 580 | declining |
+| United Kingdom | 5,630 | growing |
+| Brazil | 5,270 | declining |
+| Greece | 2,650 | declining |
+| Netherlands | 1,490 | declining |
+| Canada | 1,340 | declining |
+| Germany | 1,300 | growing |
+| South Africa | 930 | declining |
+| Romania | 730 | declining |
+| Switzerland | 660 | declining |
+| Finland | 560 | declining |
 
 > Full per-country breakdown (69 markets) via the /demand/ endpoint.
 

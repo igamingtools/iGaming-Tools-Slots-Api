@@ -136,14 +136,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/face-off-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,090 · **trend:** flat
+**12-month volume (illustrative):** 1,100 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Finland | 140 | flat |
-| United States | 120 | declining |
+| United States | 130 | flat |
 | Germany | 70 | declining |
 | Brazil | 50 | flat |
 | Greece | 50 | flat |

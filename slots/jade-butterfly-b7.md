@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jade-butterfly-b7/demand/
 ```
 
-**12-month volume (illustrative):** 930 · **trend:** growing · YoY +9.4%
+**12-month volume (illustrative):** 780 · **trend:** declining · YoY -16.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 230 | declining |
-| South Africa | 130 | flat |
-| Malaysia | 80 | declining |
-| India | 40 | flat |
-| Indonesia | 40 | flat |
-| Philippines | 40 | growing |
-| United Kingdom | 40 | flat |
-| Germany | 30 | growing |
-| Romania | 30 | flat |
+| Brazil | 200 | declining |
+| South Africa | 120 | declining |
+| Malaysia | 80 | flat |
+| Philippines | 40 | declining |
+| Indonesia | 30 | flat |
 | Switzerland | 30 | flat |
+| Tunisia | 30 | flat |
+| United Kingdom | 30 | flat |
+| Finland | 20 | declining |
+| Germany | 20 | declining |
 
 > Full per-country breakdown (24 markets) via the /demand/ endpoint.
 

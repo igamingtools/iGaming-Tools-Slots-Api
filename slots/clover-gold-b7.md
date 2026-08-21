@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/clover-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 15,760 · **trend:** declining · YoY -28.7%
+**12-month volume (illustrative):** 13,970 · **trend:** declining · YoY -37.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 6,960 | growing |
-| Brazil | 1,630 | flat |
-| Turkey | 1,590 | declining |
-| Indonesia | 570 | declining |
-| Switzerland | 450 | flat |
-| Denmark | 370 | growing |
-| Netherlands | 300 | declining |
-| United Kingdom | 290 | flat |
-| Germany | 220 | flat |
-| Argentina | 200 | flat |
+| South Africa | 6,240 | declining |
+| Brazil | 1,370 | declining |
+| Turkey | 1,330 | declining |
+| Switzerland | 420 | declining |
+| Indonesia | 400 | declining |
+| Denmark | 350 | declining |
+| United Kingdom | 300 | flat |
+| Netherlands | 290 | declining |
+| Germany | 200 | flat |
+| United States | 200 | flat |
 
-> Full per-country breakdown (66 markets) via the /demand/ endpoint.
+> Full per-country breakdown (64 markets) via the /demand/ endpoint.
 
 ## Links
 

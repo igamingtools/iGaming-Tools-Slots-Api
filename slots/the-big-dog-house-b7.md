@@ -145,20 +145,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-big-dog-house-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,800 · **trend:** flat
+**12-month volume (illustrative):** 8,970 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 1,080 | growing |
-| United Kingdom | 650 | declining |
+| Greece | 1,080 | declining |
+| United Kingdom | 700 | declining |
 | Netherlands | 550 | declining |
 | Finland | 520 | declining |
-| Canada | 440 | declining |
+| Canada | 460 | declining |
+| Germany | 430 | declining |
 | Denmark | 420 | declining |
 | Ukraine | 410 | declining |
-| Germany | 380 | declining |
 | Brazil | 310 | declining |
 | Indonesia | 230 | declining |
 

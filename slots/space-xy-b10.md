@@ -117,7 +117,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/space-xy-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,110 · **trend:** declining · YoY -37.6%
+**12-month volume (illustrative):** 2,160 · **trend:** declining · YoY -36.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -125,10 +125,10 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 400 | declining |
 | India | 340 | declining |
-| United States | 200 | declining |
+| United States | 220 | flat |
 | Canada | 160 | flat |
 | Indonesia | 100 | declining |
-| Germany | 70 | declining |
+| Germany | 80 | flat |
 | Ukraine | 70 | flat |
 | Pakistan | 60 | flat |
 | Portugal | 50 | flat |

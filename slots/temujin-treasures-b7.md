@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/temujin-treasures-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,230 · **trend:** declining · YoY -33.5%
+**12-month volume (illustrative):** 1,090 · **trend:** declining · YoY -40.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 310 | declining |
-| South Africa | 240 | flat |
-| United States | 120 | flat |
-| Indonesia | 70 | flat |
-| Germany | 50 | declining |
+| Brazil | 300 | flat |
+| South Africa | 200 | declining |
+| United States | 120 | declining |
+| Indonesia | 60 | flat |
 | Canada | 40 | flat |
-| Greece | 40 | declining |
-| Malaysia | 40 | flat |
-| Tunisia | 40 | flat |
-| Lithuania | 30 | growing |
+| Germany | 40 | flat |
+| Greece | 30 | flat |
+| Lithuania | 30 | declining |
+| Romania | 30 | flat |
+| Tunisia | 30 | flat |
 
 > Full per-country breakdown (26 markets) via the /demand/ endpoint.
 

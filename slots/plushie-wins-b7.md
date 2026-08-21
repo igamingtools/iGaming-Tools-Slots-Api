@@ -115,24 +115,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/plushie-wins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,330 · **trend:** growing · YoY +60.2%
+**12-month volume (illustrative):** 1,000 · **trend:** declining · YoY -13.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 390 | flat |
-| South Africa | 170 | declining |
-| Greece | 100 | growing |
-| Canada | 60 | flat |
-| Argentina | 50 | flat |
-| Lithuania | 50 | growing |
-| Peru | 40 | flat |
-| Spain | 40 | declining |
-| Tunisia | 40 | flat |
-| Indonesia | 30 | flat |
+| Brazil | 250 | declining |
+| South Africa | 160 | declining |
+| Greece | 70 | declining |
+| Lithuania | 50 | declining |
+| Argentina | 40 | flat |
+| Canada | 40 | flat |
+| Spain | 40 | flat |
+| Peru | 30 | flat |
+| Thailand | 30 | flat |
+| Tunisia | 30 | flat |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

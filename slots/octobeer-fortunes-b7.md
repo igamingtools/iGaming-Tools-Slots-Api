@@ -135,15 +135,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/octobeer-fortunes-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,120 · **trend:** declining · YoY -48.4%
+**12-month volume (illustrative):** 1,200 · **trend:** declining · YoY -45.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 170 | declining |
-| South Africa | 120 | declining |
-| Turkey | 80 | declining |
+| Brazil | 180 | declining |
+| South Africa | 130 | flat |
+| Turkey | 90 | flat |
 | Germany | 60 | flat |
 | Greece | 60 | flat |
 | Netherlands | 60 | flat |
@@ -152,7 +152,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 40 | flat |
 | Finland | 40 | flat |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

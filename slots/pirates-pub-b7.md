@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pirates-pub-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,210 · **trend:** declining · YoY -15.4%
+**12-month volume (illustrative):** 5,680 · **trend:** declining · YoY -7.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 360 | declining |
-| Greece | 310 | declining |
-| Brazil | 280 | declining |
-| Italy | 220 | declining |
+| Finland | 380 | flat |
+| Brazil | 370 | flat |
+| Greece | 330 | growing |
+| Italy | 230 | growing |
 | Switzerland | 210 | declining |
 | United States | 210 | growing |
-| Belarus | 180 | declining |
-| Ukraine | 180 | declining |
-| Romania | 170 | declining |
-| Canada | 140 | declining |
+| Belarus | 190 | flat |
+| Ukraine | 190 | flat |
+| Romania | 180 | declining |
+| Denmark | 150 | flat |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (59 markets) via the /demand/ endpoint.
 
 ## Links
 

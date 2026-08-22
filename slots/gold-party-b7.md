@@ -143,21 +143,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-party-b7/demand/
 ```
 
-**12-month volume (illustrative):** 33,810 · **trend:** declining · YoY -41.0%
+**12-month volume (illustrative):** 37,600 · **trend:** declining · YoY -34.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 12,760 | declining |
-| Argentina | 8,330 | declining |
-| Turkey | 2,610 | declining |
-| South Africa | 1,660 | declining |
-| Mexico | 1,080 | declining |
-| Greece | 810 | declining |
+| Brazil | 14,660 | declining |
+| Argentina | 9,330 | growing |
+| Turkey | 2,870 | flat |
+| South Africa | 1,710 | declining |
+| Mexico | 1,250 | growing |
+| Greece | 830 | declining |
 | Germany | 550 | growing |
 | France | 330 | declining |
-| Cyprus | 300 | declining |
+| Cyprus | 310 | flat |
 | United States | 300 | growing |
 
 > Full per-country breakdown (72 markets) via the /demand/ endpoint.

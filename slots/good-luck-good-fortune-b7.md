@@ -139,17 +139,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/good-luck-good-fortune-b7/demand/
 ```
 
-**12-month volume (illustrative):** 300 · **trend:** flat · YoY +3.4%
+**12-month volume (illustrative):** 320 · **trend:** growing · YoY +10.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 60 | declining |
+| South Africa | 70 | flat |
 | Canada | 40 | flat |
+| Greece | 40 | growing |
 | Brazil | 30 | flat |
 | Germany | 30 | flat |
-| Greece | 30 | flat |
 | Croatia | 20 | flat |
 | Italy | 20 | flat |
 | United Kingdom | 20 | flat |

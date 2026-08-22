@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pub-kings-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,370 · **trend:** flat · YoY -3.7%
+**12-month volume (illustrative):** 2,510 · **trend:** flat · YoY +1.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 140 | declining |
-| Greece | 130 | declining |
-| Brazil | 120 | declining |
+| Finland | 160 | flat |
+| Brazil | 140 | flat |
+| Greece | 140 | flat |
 | Canada | 120 | growing |
 | Switzerland | 120 | flat |
 | Philippines | 110 | declining |
-| Denmark | 90 | declining |
-| Indonesia | 90 | declining |
+| Denmark | 100 | flat |
+| Indonesia | 100 | growing |
 | South Africa | 90 | declining |
 | United Kingdom | 90 | flat |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

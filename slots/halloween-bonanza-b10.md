@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/halloween-bonanza-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,640 · **trend:** growing · YoY +18.8%
+**12-month volume (illustrative):** 1,670 · **trend:** growing · YoY +21.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Canada | 160 | flat |
-| Brazil | 120 | declining |
+| Brazil | 130 | flat |
+| Greece | 120 | flat |
 | United States | 120 | declining |
 | El Salvador | 110 | flat |
-| Greece | 110 | declining |
 | Australia | 80 | flat |
 | Germany | 60 | flat |
 | United Kingdom | 60 | flat |
 | Finland | 40 | flat |
 | India | 40 | flat |
 
-> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

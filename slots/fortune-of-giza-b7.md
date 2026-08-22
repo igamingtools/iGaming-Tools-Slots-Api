@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-of-giza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,670 · **trend:** declining · YoY -33.5%
+**12-month volume (illustrative):** 3,940 · **trend:** declining · YoY -28.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 280 | declining |
-| Brazil | 270 | declining |
-| South Africa | 220 | declining |
+| Brazil | 320 | flat |
+| Finland | 300 | flat |
+| South Africa | 240 | growing |
+| Ukraine | 150 | flat |
 | Germany | 140 | flat |
-| Ukraine | 140 | declining |
-| Greece | 130 | declining |
-| Belarus | 120 | declining |
-| Latvia | 110 | declining |
+| Greece | 140 | flat |
+| Belarus | 130 | flat |
+| Indonesia | 120 | declining |
+| Latvia | 120 | flat |
 | Poland | 110 | declining |
-| India | 100 | declining |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (62 markets) via the /demand/ endpoint.
 
 ## Links
 

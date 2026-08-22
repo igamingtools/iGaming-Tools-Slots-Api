@@ -128,20 +128,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/7-piggies-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,300 · **trend:** declining · YoY -35.3%
+**12-month volume (illustrative):** 1,400 · **trend:** declining · YoY -30.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 250 | declining |
-| Brazil | 120 | declining |
+| South Africa | 290 | flat |
+| Brazil | 140 | flat |
+| Sweden | 80 | growing |
 | Tunisia | 80 | declining |
-| Sweden | 70 | declining |
 | Finland | 60 | flat |
+| Italy | 60 | flat |
 | United Kingdom | 60 | flat |
 | Greece | 50 | flat |
-| Italy | 50 | flat |
 | New Zealand | 50 | flat |
 | Canada | 40 | flat |
 

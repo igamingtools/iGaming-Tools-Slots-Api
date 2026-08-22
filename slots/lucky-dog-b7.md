@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-dog-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,060 · **trend:** declining · YoY -25.6%
+**12-month volume (illustrative):** 2,220 · **trend:** declining · YoY -17.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 540 | declining |
-| India | 220 | declining |
-| Pakistan | 140 | declining |
-| South Africa | 140 | declining |
-| Philippines | 110 | declining |
-| Greece | 100 | flat |
+| Brazil | 580 | declining |
+| India | 240 | flat |
+| South Africa | 150 | flat |
+| Pakistan | 140 | growing |
+| Philippines | 120 | flat |
+| Greece | 110 | growing |
 | Malaysia | 100 | flat |
+| Peru | 80 | declining |
 | United States | 80 | declining |
-| Peru | 70 | flat |
-| Lithuania | 60 | declining |
+| Lithuania | 70 | flat |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fruity-treats-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,900 · **trend:** declining · YoY -48.2%
+**12-month volume (illustrative):** 3,050 · **trend:** declining · YoY -46.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 240 | declining |
+| Brazil | 260 | flat |
 | Canada | 240 | declining |
-| Philippines | 210 | declining |
+| Philippines | 220 | flat |
 | Hungary | 180 | declining |
-| South Africa | 170 | declining |
+| South Africa | 180 | flat |
+| Malaysia | 160 | flat |
 | Switzerland | 150 | flat |
-| Malaysia | 140 | declining |
 | Greece | 100 | declining |
-| Indonesia | 90 | declining |
-| Poland | 90 | flat |
+| Indonesia | 100 | growing |
+| Peru | 90 | flat |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -130,22 +130,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hammerstorm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,390 · **trend:** flat
+**12-month volume (illustrative):** 2,480 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Canada | 240 | flat |
-| Greece | 200 | declining |
-| Brazil | 180 | declining |
-| South Africa | 180 | declining |
+| Greece | 210 | declining |
+| South Africa | 190 | declining |
+| Brazil | 180 | flat |
 | Finland | 100 | declining |
-| Indonesia | 80 | declining |
+| Indonesia | 80 | growing |
 | United Kingdom | 70 | growing |
 | Australia | 60 | growing |
+| Cyprus | 60 | growing |
 | Malaysia | 60 | flat |
-| Netherlands | 60 | flat |
 
 > Full per-country breakdown (53 markets) via the /demand/ endpoint.
 

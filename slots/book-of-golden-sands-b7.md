@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-golden-sands-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,860 · **trend:** declining · YoY -12.3%
+**12-month volume (illustrative):** 7,260 · **trend:** declining · YoY -6.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| South Africa | 510 | declining |
 | Austria | 500 | declining |
-| South Africa | 490 | declining |
-| Switzerland | 330 | declining |
-| Netherlands | 260 | declining |
-| Greece | 250 | declining |
-| Croatia | 240 | declining |
+| Switzerland | 360 | flat |
+| Croatia | 280 | growing |
+| Netherlands | 280 | growing |
+| Greece | 260 | declining |
+| Denmark | 240 | flat |
+| Finland | 240 | flat |
 | Germany | 240 | declining |
-| Denmark | 230 | declining |
 | Canada | 220 | declining |
-| Finland | 220 | declining |
 
-> Full per-country breakdown (64 markets) via the /demand/ endpoint.
+> Full per-country breakdown (65 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -128,15 +128,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/elemental-gems-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,260 · **trend:** declining · YoY -20.3%
+**12-month volume (illustrative):** 1,390 · **trend:** declining · YoY -7.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 190 | flat |
-| Brazil | 160 | declining |
-| South Africa | 90 | declining |
+| Indonesia | 300 | declining |
+| Brazil | 170 | growing |
+| South Africa | 100 | flat |
 | Mexico | 70 | flat |
 | Philippines | 70 | flat |
 | Germany | 60 | declining |

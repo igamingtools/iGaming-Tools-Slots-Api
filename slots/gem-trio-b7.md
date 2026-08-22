@@ -149,19 +149,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gem-trio-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,810 · **trend:** growing · YoY +187.3%
+**12-month volume (illustrative):** 2,040 · **trend:** growing · YoY +353.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 210 | declining |
+| Brazil | 250 | flat |
 | Canada | 160 | flat |
-| South Africa | 130 | declining |
+| South Africa | 140 | flat |
 | United Kingdom | 100 | flat |
-| Peru | 80 | flat |
+| Indonesia | 90 | flat |
+| Peru | 90 | declining |
 | Greece | 70 | flat |
-| Indonesia | 70 | declining |
 | Switzerland | 60 | flat |
 | Tunisia | 60 | flat |
 | Germany | 50 | declining |

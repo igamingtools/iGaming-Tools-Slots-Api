@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wealthy-frog-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,640 · **trend:** growing · YoY +30.7%
+**12-month volume (illustrative):** 2,930 · **trend:** growing · YoY +63.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,190 | declining |
-| South Africa | 250 | declining |
-| Argentina | 110 | declining |
-| Mexico | 100 | declining |
+| Brazil | 1,400 | growing |
+| South Africa | 260 | flat |
+| Argentina | 120 | declining |
+| Mexico | 110 | flat |
 | Canada | 80 | flat |
 | India | 80 | declining |
-| Philippines | 70 | declining |
+| Philippines | 80 | flat |
 | Greece | 60 | flat |
-| Peru | 50 | declining |
-| Portugal | 50 | declining |
+| Peru | 60 | flat |
+| Lithuania | 50 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
 
 ## Links
 

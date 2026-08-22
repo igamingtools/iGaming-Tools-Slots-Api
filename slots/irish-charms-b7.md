@@ -116,15 +116,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/irish-charms-b7/demand/
 ```
 
-**12-month volume (illustrative):** 640 · **trend:** flat · YoY +4.9%
+**12-month volume (illustrative):** 670 · **trend:** growing · YoY +11.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 90 | flat |
-| South Africa | 80 | declining |
-| Turkey | 80 | flat |
+| Brazil | 100 | declining |
+| South Africa | 90 | flat |
+| Turkey | 90 | growing |
 | Greece | 50 | flat |
 | United Kingdom | 40 | growing |
 | Poland | 30 | flat |

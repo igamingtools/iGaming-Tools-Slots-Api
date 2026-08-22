@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cash-chips-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,250 · **trend:** declining · YoY -24.7%
+**12-month volume (illustrative):** 1,360 · **trend:** declining · YoY -19.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 260 | declining |
-| Argentina | 140 | declining |
+| South Africa | 270 | flat |
+| Argentina | 150 | flat |
+| Brazil | 90 | flat |
 | Greece | 90 | declining |
-| Brazil | 80 | flat |
-| Indonesia | 60 | flat |
-| Italy | 50 | declining |
-| Lithuania | 50 | flat |
+| Indonesia | 70 | declining |
+| Lithuania | 60 | growing |
+| Italy | 50 | growing |
+| Tunisia | 50 | growing |
 | Canada | 40 | flat |
 | Germany | 40 | growing |
-| Tunisia | 40 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

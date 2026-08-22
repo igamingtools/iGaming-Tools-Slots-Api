@@ -116,16 +116,16 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/777-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,580 · **trend:** flat
+**12-month volume (illustrative):** 3,700 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,270 | declining |
-| Brazil | 190 | declining |
+| South Africa | 1,340 | growing |
+| Brazil | 190 | flat |
 | Argentina | 150 | flat |
-| Greece | 110 | declining |
+| Greece | 120 | flat |
 | Finland | 100 | flat |
 | India | 100 | flat |
 | Pakistan | 100 | flat |

@@ -140,22 +140,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-rush-megawaystm-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,220 · **trend:** growing · YoY +64.4%
+**12-month volume (illustrative):** 2,330 · **trend:** growing · YoY +76.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 210 | declining |
+| Greece | 230 | declining |
 | Germany | 190 | growing |
 | United States | 170 | flat |
-| Brazil | 130 | declining |
+| Brazil | 140 | declining |
+| India | 100 | flat |
 | Switzerland | 90 | declining |
 | Canada | 80 | flat |
-| India | 80 | declining |
 | Portugal | 80 | declining |
+| Hungary | 70 | flat |
 | Australia | 60 | flat |
-| Belgium | 60 | declining |
 
 > Full per-country breakdown (48 markets) via the /demand/ endpoint.
 

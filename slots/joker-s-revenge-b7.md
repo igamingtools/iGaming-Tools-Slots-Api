@@ -145,20 +145,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/joker-s-revenge-b7/demand/
 ```
 
-**12-month volume (illustrative):** 110 · **trend:** flat
+**12-month volume (illustrative):** 220 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 40 | growing |
-| India | 20 | growing |
-| Malaysia | 20 | growing |
+| South Africa | 130 | growing |
+| India | 20 | declining |
+| Malaysia | 20 | declining |
+| Tunisia | 20 | flat |
 | Indonesia | 10 | growing |
-| Philippines | 10 | growing |
-| Tunisia | 10 | growing |
+| Philippines | 10 | declining |
+| Singapore | 10 | growing |
 
-> Full per-country breakdown (6 markets) via the /demand/ endpoint.
+> Full per-country breakdown (7 markets) via the /demand/ endpoint.
 
 ## Links
 

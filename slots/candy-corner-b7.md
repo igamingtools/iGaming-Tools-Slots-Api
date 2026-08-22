@@ -141,22 +141,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-corner-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,250 · **trend:** declining · YoY -35.5%
+**12-month volume (illustrative):** 4,450 · **trend:** declining · YoY -31.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 690 | declining |
-| South Africa | 480 | declining |
-| Brazil | 230 | declining |
+| Greece | 700 | flat |
+| South Africa | 490 | flat |
+| Brazil | 240 | growing |
 | United Kingdom | 230 | growing |
 | Switzerland | 180 | flat |
 | Canada | 160 | declining |
 | United States | 150 | flat |
-| Philippines | 120 | declining |
-| Denmark | 110 | declining |
-| Peru | 110 | flat |
+| Philippines | 130 | flat |
+| Denmark | 120 | flat |
+| Indonesia | 120 | growing |
 
 > Full per-country breakdown (54 markets) via the /demand/ endpoint.
 

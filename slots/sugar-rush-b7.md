@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sugar-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 229,600 · **trend:** declining · YoY -35.9%
+**12-month volume (illustrative):** 245,400 · **trend:** declining · YoY -32.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 25,220 | declining |
-| South Africa | 24,200 | declining |
-| Greece | 21,900 | declining |
-| Turkey | 16,170 | declining |
-| Philippines | 14,000 | declining |
+| Brazil | 28,130 | declining |
+| South Africa | 25,800 | growing |
+| Greece | 23,200 | flat |
+| Turkey | 17,050 | flat |
+| Philippines | 15,000 | flat |
 | Canada | 12,240 | declining |
+| Indonesia | 8,690 | declining |
 | United Kingdom | 8,400 | growing |
-| Indonesia | 7,690 | declining |
-| Netherlands | 6,900 | declining |
-| Switzerland | 6,630 | declining |
+| Netherlands | 7,290 | flat |
+| Switzerland | 7,050 | flat |
 
 > Full per-country breakdown (80 markets) via the /demand/ endpoint.
 

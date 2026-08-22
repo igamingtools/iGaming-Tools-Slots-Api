@@ -141,24 +141,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cowboy-coins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,500 · **trend:** declining · YoY -22.8%
+**12-month volume (illustrative):** 2,740 · **trend:** declining · YoY -15.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 200 | declining |
+| Brazil | 230 | declining |
 | Germany | 160 | growing |
-| Malaysia | 140 | flat |
-| Greece | 110 | declining |
-| Philippines | 110 | declining |
-| South Africa | 110 | declining |
+| Malaysia | 160 | growing |
+| Greece | 120 | flat |
+| Philippines | 120 | flat |
+| South Africa | 120 | flat |
 | Canada | 100 | declining |
 | United Kingdom | 100 | flat |
 | Belarus | 90 | declining |
-| Switzerland | 90 | declining |
+| Indonesia | 90 | flat |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

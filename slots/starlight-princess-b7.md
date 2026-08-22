@@ -144,21 +144,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starlight-princess-b7/demand/
 ```
 
-**12-month volume (illustrative):** 33,470 · **trend:** declining · YoY -49.7%
+**12-month volume (illustrative):** 36,030 · **trend:** declining · YoY -46.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 3,510 | declining |
-| Brazil | 3,090 | declining |
-| Indonesia | 2,220 | declining |
-| Switzerland | 1,950 | declining |
-| Greece | 1,880 | declining |
-| Philippines | 1,640 | declining |
+| Brazil | 3,680 | growing |
+| South Africa | 3,680 | growing |
+| Indonesia | 2,810 | growing |
+| Switzerland | 2,100 | declining |
+| Greece | 1,950 | declining |
+| Philippines | 1,680 | flat |
 | United States | 1,570 | flat |
 | Canada | 1,480 | growing |
-| Turkey | 1,250 | declining |
+| Turkey | 1,300 | growing |
 | Germany | 1,160 | growing |
 
 > Full per-country breakdown (73 markets) via the /demand/ endpoint.

@@ -143,24 +143,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mahjong-wins-super-scatter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,830 · **trend:** growing · YoY +364.7%
+**12-month volume (illustrative):** 9,370 · **trend:** growing · YoY +435.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 2,800 | declining |
-| Philippines | 1,500 | declining |
-| South Africa | 1,090 | declining |
-| Malaysia | 380 | declining |
-| Greece | 220 | declining |
-| Brazil | 200 | declining |
+| Indonesia | 3,000 | declining |
+| Philippines | 1,570 | flat |
+| South Africa | 1,100 | declining |
+| Malaysia | 400 | declining |
+| Greece | 230 | flat |
+| Brazil | 220 | flat |
+| India | 180 | flat |
 | Canada | 160 | flat |
-| India | 160 | declining |
-| Finland | 140 | flat |
+| Finland | 160 | growing |
 | Australia | 110 | declining |
 
-> Full per-country breakdown (55 markets) via the /demand/ endpoint.
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
 
 ## Links
 

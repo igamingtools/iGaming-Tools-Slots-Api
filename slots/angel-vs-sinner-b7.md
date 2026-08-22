@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/angel-vs-sinner-b7/demand/
 ```
 
-**12-month volume (illustrative):** 10,330 · **trend:** declining · YoY -18.8%
+**12-month volume (illustrative):** 11,180 · **trend:** declining · YoY -9.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,560 | declining |
-| Philippines | 670 | declining |
-| South Africa | 650 | declining |
-| Greece | 570 | declining |
-| Argentina | 510 | declining |
-| Switzerland | 390 | declining |
+| Brazil | 1,770 | declining |
+| Philippines | 690 | flat |
+| South Africa | 690 | declining |
+| Argentina | 650 | growing |
+| Greece | 590 | flat |
+| Switzerland | 420 | flat |
 | Canada | 360 | flat |
-| Malaysia | 300 | declining |
-| Finland | 260 | declining |
-| India | 220 | declining |
+| Malaysia | 320 | flat |
+| Finland | 280 | flat |
+| India | 240 | flat |
 
 > Full per-country breakdown (70 markets) via the /demand/ endpoint.
 

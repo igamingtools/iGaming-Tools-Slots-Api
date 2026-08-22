@@ -148,24 +148,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/kingdom-of-the-dead-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,310 · **trend:** declining · YoY -6.4%
+**12-month volume (illustrative):** 1,370 · **trend:** flat · YoY -4.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Greece | 100 | growing |
 | South Africa | 100 | declining |
-| Greece | 90 | flat |
-| Brazil | 80 | declining |
+| Brazil | 80 | flat |
 | Finland | 80 | flat |
 | United States | 80 | flat |
 | Germany | 70 | flat |
+| Lithuania | 70 | flat |
+| Tunisia | 70 | growing |
 | Australia | 60 | flat |
 | Croatia | 60 | flat |
-| Lithuania | 60 | declining |
-| Tunisia | 60 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

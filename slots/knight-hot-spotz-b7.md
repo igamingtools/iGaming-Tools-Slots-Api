@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/knight-hot-spotz-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,180 · **trend:** declining · YoY -34.8%
+**12-month volume (illustrative):** 1,240 · **trend:** declining · YoY -30.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Ukraine | 100 | declining |
 | Switzerland | 90 | flat |
-| Ukraine | 90 | flat |
-| Brazil | 70 | declining |
+| Brazil | 70 | growing |
 | Turkey | 70 | declining |
+| Greece | 60 | growing |
+| Hungary | 60 | declining |
 | Netherlands | 60 | flat |
 | South Africa | 60 | declining |
 | Tunisia | 60 | declining |
-| Greece | 50 | flat |
-| Hungary | 50 | flat |
-| United Kingdom | 50 | growing |
+| Indonesia | 50 | growing |
 
 > Full per-country breakdown (36 markets) via the /demand/ endpoint.
 

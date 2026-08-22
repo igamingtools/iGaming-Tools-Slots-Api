@@ -144,22 +144,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-blast-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,540 · **trend:** flat
+**12-month volume (illustrative):** 5,650 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | United Kingdom | 2,130 | growing |
+| Greece | 1,680 | growing |
 | Canada | 420 | growing |
+| Netherlands | 260 | growing |
 | Germany | 250 | growing |
-| Brazil | 180 | declining |
+| Brazil | 180 | growing |
+| Switzerland | 180 | growing |
 | Australia | 160 | growing |
-| Greece | 80 | declining |
-| Switzerland | 60 | declining |
-| Netherlands | 50 | declining |
-| Romania | 30 | declining |
-| Tunisia | 30 | growing |
+| Latvia | 130 | growing |
+| Denmark | 70 | growing |
 
 > Full per-country breakdown (18 markets) via the /demand/ endpoint.
 

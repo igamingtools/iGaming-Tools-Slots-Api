@@ -145,15 +145,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/easter-heist-b10/demand/
 ```
 
-**12-month volume (illustrative):** 330 · **trend:** flat
+**12-month volume (illustrative):** 340 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | United States | 60 | declining |
-| Brazil | 40 | declining |
-| Poland | 30 | declining |
+| Brazil | 40 | flat |
+| Poland | 40 | flat |
 | Belarus | 20 | flat |
 | Canada | 20 | flat |
 | Finland | 20 | flat |

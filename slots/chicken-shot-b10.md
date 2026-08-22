@@ -102,24 +102,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-shot-b10/demand/
 ```
 
-**12-month volume (illustrative):** 170 · **trend:** flat
+**12-month volume (illustrative):** 200 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| India | 40 | flat |
 | Germany | 20 | flat |
-| India | 20 | declining |
 | Pakistan | 20 | growing |
 | South Africa | 20 | flat |
 | United States | 20 | flat |
 | Australia | 10 | declining |
-| Brazil | 10 | declining |
-| Iceland | 10 | declining |
-| Italy | 10 | declining |
-| Malta | 10 | declining |
+| Brazil | 10 | growing |
+| Iceland | 10 | growing |
+| Italy | 10 | growing |
+| Malta | 10 | growing |
 
-> Full per-country breakdown (12 markets) via the /demand/ endpoint.
+> Full per-country breakdown (13 markets) via the /demand/ endpoint.
 
 ## Links
 

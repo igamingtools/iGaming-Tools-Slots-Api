@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-dog-house-multihold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,910 · **trend:** declining · YoY -22.5%
+**12-month volume (illustrative):** 7,440 · **trend:** declining · YoY -16.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 850 | declining |
-| Ukraine | 450 | declining |
-| Brazil | 370 | declining |
-| Switzerland | 300 | flat |
+| Greece | 880 | flat |
+| Ukraine | 500 | flat |
+| Brazil | 420 | declining |
+| Switzerland | 330 | growing |
 | Germany | 240 | growing |
-| Belarus | 190 | declining |
+| Belarus | 200 | flat |
+| Finland | 200 | flat |
+| South Africa | 200 | growing |
 | Canada | 180 | growing |
-| Finland | 180 | declining |
-| India | 160 | declining |
-| South Africa | 160 | declining |
+| India | 180 | flat |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

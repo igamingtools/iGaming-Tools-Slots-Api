@@ -139,20 +139,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-to-burn-extreme-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,220 · **trend:** declining · YoY -32.1%
+**12-month volume (illustrative):** 2,270 · **trend:** declining · YoY -31.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,300 | declining |
-| Brazil | 100 | declining |
+| South Africa | 1,330 | declining |
+| Brazil | 110 | flat |
 | Canada | 80 | flat |
 | Greece | 70 | flat |
 | Germany | 60 | flat |
+| Romania | 60 | declining |
 | United States | 60 | declining |
 | Lithuania | 50 | flat |
-| Romania | 50 | flat |
 | United Kingdom | 50 | flat |
 | Netherlands | 40 | flat |
 

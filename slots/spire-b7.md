@@ -107,7 +107,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/spire-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,420 · **trend:** growing · YoY +8.5%
+**12-month volume (illustrative):** 2,530 · **trend:** growing · YoY +14.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -115,14 +115,14 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | United States | 250 | growing |
 | Canada | 220 | flat |
+| Brazil | 140 | flat |
 | India | 140 | flat |
-| Brazil | 130 | declining |
-| Indonesia | 120 | declining |
+| Indonesia | 120 | flat |
+| Japan | 110 | flat |
 | United Kingdom | 110 | flat |
 | Belgium | 100 | flat |
-| Japan | 100 | declining |
-| Poland | 80 | declining |
-| Germany | 70 | growing |
+| Switzerland | 90 | growing |
+| Finland | 80 | flat |
 
 > Full per-country breakdown (52 markets) via the /demand/ endpoint.
 

@@ -107,14 +107,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/limbo-xy-b10/demand/
 ```
 
-**12-month volume (illustrative):** 200 · **trend:** flat
+**12-month volume (illustrative):** 220 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 60 | declining |
-| Brazil | 40 | declining |
+| India | 80 | flat |
+| Brazil | 40 | flat |
 | Australia | 30 | declining |
 | Netherlands | 20 | flat |
 | United States | 20 | flat |

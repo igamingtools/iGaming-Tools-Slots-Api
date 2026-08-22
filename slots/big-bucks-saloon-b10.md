@@ -130,7 +130,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bucks-saloon-b10/demand/
 ```
 
-**12-month volume (illustrative):** 760 · **trend:** growing · YoY +230.4%
+**12-month volume (illustrative):** 820 · **trend:** growing · YoY +382.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -143,9 +143,9 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 60 | flat |
 | India | 40 | flat |
 | Slovakia | 30 | flat |
+| Ukraine | 30 | flat |
 | Austria | 20 | flat |
 | Canada | 20 | flat |
-| Denmark | 20 | flat |
 
 > Full per-country breakdown (34 markets) via the /demand/ endpoint.
 

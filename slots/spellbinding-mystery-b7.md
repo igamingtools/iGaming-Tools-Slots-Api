@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/spellbinding-mystery-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,470 · **trend:** declining · YoY -20.1%
+**12-month volume (illustrative):** 1,520 · **trend:** declining · YoY -17.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 120 | declining |
+| Brazil | 130 | flat |
 | Greece | 110 | declining |
+| South Africa | 90 | flat |
 | Switzerland | 90 | flat |
-| South Africa | 80 | declining |
+| Peru | 80 | declining |
 | Netherlands | 70 | flat |
-| Peru | 70 | flat |
 | Austria | 60 | growing |
 | Canada | 60 | flat |
 | Denmark | 60 | declining |
 | Ukraine | 60 | flat |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

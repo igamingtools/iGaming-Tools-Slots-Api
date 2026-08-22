@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/arrow-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,430 · **trend:** growing · YoY +10.9%
+**12-month volume (illustrative):** 1,500 · **trend:** growing · YoY +16.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Germany | 310 | growing |
-| India | 240 | declining |
+| India | 260 | flat |
 | United States | 230 | declining |
-| Switzerland | 80 | declining |
+| Switzerland | 90 | flat |
+| Indonesia | 70 | declining |
 | Canada | 60 | declining |
-| Indonesia | 60 | flat |
 | Austria | 40 | growing |
 | Greece | 40 | flat |
 | Poland | 40 | flat |
-| Philippines | 30 | flat |
+| Mexico | 30 | growing |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

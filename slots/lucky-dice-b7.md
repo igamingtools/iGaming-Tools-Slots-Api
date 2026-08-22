@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-dice-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,740 · **trend:** flat
+**12-month volume (illustrative):** 1,850 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 140 | declining |
-| Brazil | 130 | declining |
-| South Africa | 110 | declining |
+| India | 160 | flat |
+| Brazil | 130 | flat |
+| South Africa | 120 | flat |
+| Belgium | 100 | growing |
 | Greece | 100 | declining |
-| Belgium | 80 | flat |
-| Pakistan | 80 | declining |
+| Pakistan | 80 | flat |
+| Malaysia | 60 | growing |
 | Peru | 60 | flat |
-| Tunisia | 50 | flat |
-| Finland | 40 | flat |
-| Indonesia | 40 | flat |
+| Switzerland | 60 | growing |
+| Philippines | 50 | growing |
 
 > Full per-country breakdown (51 markets) via the /demand/ endpoint.
 

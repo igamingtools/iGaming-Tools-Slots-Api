@@ -140,17 +140,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/money-stacks-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,260 · **trend:** declining · YoY -46.1%
+**12-month volume (illustrative):** 2,370 · **trend:** declining · YoY -43.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 220 | declining |
+| South Africa | 240 | flat |
 | Canada | 160 | growing |
+| Brazil | 110 | flat |
+| Greece | 110 | flat |
 | United Kingdom | 110 | flat |
-| Brazil | 100 | declining |
-| Greece | 100 | declining |
 | Germany | 90 | flat |
 | Latvia | 90 | flat |
 | Tunisia | 90 | declining |

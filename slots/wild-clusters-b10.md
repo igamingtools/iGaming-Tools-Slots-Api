@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-clusters-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,360 · **trend:** growing · YoY +107.0%
+**12-month volume (illustrative):** 2,420 · **trend:** growing · YoY +116.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,11 +153,11 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | United States | 320 | growing |
 | Canada | 280 | flat |
-| Finland | 200 | declining |
+| Finland | 220 | flat |
 | Germany | 180 | flat |
 | Norway | 160 | flat |
 | United Kingdom | 160 | flat |
-| Netherlands | 140 | flat |
+| Netherlands | 150 | growing |
 | Poland | 130 | flat |
 | Italy | 120 | flat |
 | Sweden | 120 | flat |

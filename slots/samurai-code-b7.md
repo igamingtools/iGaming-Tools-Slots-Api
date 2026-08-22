@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/samurai-code-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,650 · **trend:** growing · YoY +5.6%
+**12-month volume (illustrative):** 2,820 · **trend:** flat · YoY +2.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Netherlands | 520 | declining |
+| Netherlands | 560 | declining |
 | Canada | 260 | flat |
-| Brazil | 170 | declining |
-| Romania | 120 | declining |
-| South Africa | 120 | declining |
+| Brazil | 200 | flat |
+| Romania | 130 | growing |
+| South Africa | 130 | flat |
 | Germany | 100 | flat |
+| Greece | 100 | growing |
+| Portugal | 100 | growing |
 | Argentina | 90 | declining |
-| Greece | 90 | flat |
-| Finland | 80 | flat |
-| Malaysia | 80 | flat |
+| Philippines | 90 | growing |
 
 > Full per-country breakdown (43 markets) via the /demand/ endpoint.
 

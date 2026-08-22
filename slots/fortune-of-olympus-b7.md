@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-of-olympus-b7/demand/
 ```
 
-**12-month volume (illustrative):** 42,390 · **trend:** flat
+**12-month volume (illustrative):** 43,320 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 7,820 | declining |
-| Greece | 5,180 | declining |
+| South Africa | 8,210 | declining |
+| Greece | 5,290 | flat |
 | Brazil | 3,730 | declining |
-| Philippines | 2,230 | declining |
+| Philippines | 2,260 | declining |
 | Germany | 1,860 | flat |
-| Indonesia | 1,810 | declining |
+| Indonesia | 1,810 | flat |
 | Canada | 1,540 | declining |
 | Italy | 1,010 | declining |
-| Switzerland | 960 | declining |
-| Finland | 860 | declining |
+| Switzerland | 990 | declining |
+| Finland | 880 | flat |
 
 > Full per-country breakdown (77 markets) via the /demand/ endpoint.
 

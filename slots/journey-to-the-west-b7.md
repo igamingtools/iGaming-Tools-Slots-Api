@@ -128,18 +128,18 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/journey-to-the-west-b7/demand/
 ```
 
-**12-month volume (illustrative):** 990 · **trend:** flat · YoY +2.1%
+**12-month volume (illustrative):** 1,040 · **trend:** growing · YoY +5.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 200 | declining |
-| Brazil | 100 | declining |
-| Philippines | 100 | declining |
-| South Africa | 90 | flat |
-| Indonesia | 80 | declining |
-| Thailand | 60 | declining |
+| India | 220 | flat |
+| Brazil | 110 | flat |
+| Philippines | 110 | declining |
+| South Africa | 100 | growing |
+| Indonesia | 80 | flat |
+| Thailand | 60 | flat |
 | Malaysia | 40 | flat |
 | United States | 40 | flat |
 | Tunisia | 30 | flat |

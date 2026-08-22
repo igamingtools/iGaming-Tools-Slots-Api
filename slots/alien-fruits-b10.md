@@ -143,22 +143,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/alien-fruits-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,340 · **trend:** growing · YoY +22.5%
+**12-month volume (illustrative):** 2,480 · **trend:** growing · YoY +30.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | United States | 260 | flat |
-| Brazil | 140 | declining |
+| Brazil | 150 | flat |
+| India | 140 | flat |
 | Canada | 120 | declining |
-| India | 120 | declining |
+| Greece | 120 | flat |
 | New Zealand | 120 | flat |
-| Greece | 110 | declining |
 | Australia | 90 | flat |
 | Germany | 90 | growing |
-| United Kingdom | 80 | flat |
-| Bulgaria | 70 | flat |
+| Finland | 80 | growing |
+| Netherlands | 80 | flat |
 
 > Full per-country breakdown (49 markets) via the /demand/ endpoint.
 

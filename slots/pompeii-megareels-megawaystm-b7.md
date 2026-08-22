@@ -141,24 +141,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pompeii-megareels-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,680 · **trend:** flat · YoY -4.9%
+**12-month volume (illustrative):** 5,100 · **trend:** flat · YoY +4.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,300 | declining |
-| Finland | 400 | declining |
-| Greece | 270 | declining |
-| Brazil | 260 | declining |
+| South Africa | 1,350 | declining |
+| Finland | 480 | growing |
+| Brazil | 300 | growing |
+| Greece | 290 | declining |
 | Canada | 180 | flat |
 | Switzerland | 180 | declining |
-| Argentina | 130 | declining |
+| Argentina | 140 | declining |
+| Malaysia | 140 | growing |
 | United Kingdom | 130 | flat |
-| Luxembourg | 120 | declining |
-| Malaysia | 120 | flat |
+| Luxembourg | 120 | flat |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

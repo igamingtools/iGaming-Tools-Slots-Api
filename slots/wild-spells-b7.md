@@ -124,18 +124,18 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-spells-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,870 · **trend:** flat · YoY +0.5%
+**12-month volume (illustrative):** 1,960 · **trend:** growing · YoY +5.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 300 | declining |
-| South Africa | 170 | declining |
+| Brazil | 310 | declining |
+| South Africa | 200 | growing |
+| Peru | 80 | growing |
 | Philippines | 80 | flat |
-| Kenya | 70 | declining |
+| Kenya | 70 | flat |
 | Lebanon | 70 | flat |
-| Peru | 70 | declining |
 | Argentina | 60 | flat |
 | Australia | 60 | growing |
 | Finland | 60 | flat |

@@ -128,17 +128,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/triple-dragons-b7/demand/
 ```
 
-**12-month volume (illustrative):** 950 · **trend:** flat · YoY +0.0%
+**12-month volume (illustrative):** 990 · **trend:** growing · YoY +6.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 160 | declining |
+| Brazil | 180 | declining |
 | Canada | 80 | flat |
 | Finland | 80 | flat |
+| South Africa | 70 | growing |
 | Portugal | 60 | flat |
-| South Africa | 60 | flat |
 | Latvia | 50 | declining |
 | Germany | 40 | flat |
 | United Kingdom | 40 | flat |

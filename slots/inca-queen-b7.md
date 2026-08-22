@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/inca-queen-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,410 · **trend:** flat
+**12-month volume (illustrative):** 1,450 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -148,14 +148,14 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 130 | declining |
 | Canada | 100 | flat |
+| Greece | 70 | flat |
 | Australia | 60 | flat |
-| Greece | 60 | declining |
 | Switzerland | 60 | flat |
 | Argentina | 50 | declining |
+| South Africa | 50 | flat |
 | Belgium | 40 | declining |
 | Finland | 40 | declining |
-| Indonesia | 40 | declining |
-| Malaysia | 40 | flat |
+| Indonesia | 40 | flat |
 
 > Full per-country breakdown (53 markets) via the /demand/ endpoint.
 

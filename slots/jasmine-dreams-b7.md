@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jasmine-dreams-b7/demand/
 ```
 
-**12-month volume (illustrative):** 410 · **trend:** growing · YoY +5.1%
+**12-month volume (illustrative):** 460 · **trend:** growing · YoY +21.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Brazil | 40 | growing |
 | Germany | 40 | declining |
 | Greece | 40 | declining |
 | Netherlands | 40 | flat |
 | South Africa | 40 | flat |
-| Brazil | 30 | declining |
 | Argentina | 20 | declining |
 | Canada | 20 | flat |
 | Finland | 20 | flat |
 | Malaysia | 20 | flat |
 | Philippines | 20 | declining |
 
-> Full per-country breakdown (20 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

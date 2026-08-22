@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chilli-heat-spicy-spins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,480 · **trend:** growing · YoY +419.4%
+**12-month volume (illustrative):** 3,830 · **trend:** growing · YoY +714.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 450 | declining |
-| Greece | 310 | declining |
-| Brazil | 190 | declining |
+| South Africa | 500 | growing |
+| Greece | 320 | flat |
+| Brazil | 260 | declining |
 | Canada | 180 | flat |
+| Indonesia | 140 | flat |
+| Tunisia | 140 | flat |
 | United Kingdom | 140 | flat |
-| Indonesia | 130 | declining |
-| Tunisia | 130 | declining |
+| Argentina | 120 | flat |
 | Malaysia | 120 | declining |
-| Argentina | 110 | declining |
 | New Zealand | 100 | flat |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
 
 ## Links
 

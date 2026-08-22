@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/you-can-piggy-bank-on-it-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,980 · **trend:** growing · YoY +160.5%
+**12-month volume (illustrative):** 2,230 · **trend:** growing · YoY +313.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 190 | declining |
-| South Africa | 140 | declining |
+| Brazil | 260 | flat |
+| South Africa | 150 | flat |
 | Canada | 100 | flat |
 | Greece | 100 | flat |
 | Malaysia | 100 | flat |
 | United Kingdom | 100 | flat |
-| Romania | 70 | declining |
+| Romania | 80 | growing |
+| Philippines | 70 | growing |
 | Spain | 70 | declining |
 | Tunisia | 70 | flat |
-| Philippines | 60 | flat |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

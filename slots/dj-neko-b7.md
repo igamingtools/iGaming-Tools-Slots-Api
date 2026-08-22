@@ -128,13 +128,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dj-neko-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,550 · **trend:** flat
+**12-month volume (illustrative):** 1,590 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 240 | declining |
+| Brazil | 240 | flat |
 | South Africa | 130 | declining |
 | Greece | 80 | flat |
 | United Kingdom | 60 | declining |
@@ -142,10 +142,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Australia | 40 | flat |
 | Canada | 40 | flat |
 | Finland | 40 | flat |
-| Indonesia | 40 | declining |
+| Indonesia | 40 | growing |
 | Malaysia | 40 | flat |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (52 markets) via the /demand/ endpoint.
 
 ## Links
 

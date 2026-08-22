@@ -139,20 +139,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wolf-gold-4-pack-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,180 · **trend:** growing · YoY +1490.0%
+**12-month volume (illustrative):** 3,290 · **trend:** growing · YoY +2093.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 440 | declining |
+| South Africa | 450 | declining |
 | Canada | 240 | flat |
 | Greece | 220 | declining |
-| Brazil | 150 | declining |
+| Brazil | 160 | flat |
+| Finland | 120 | growing |
 | Switzerland | 120 | flat |
 | United States | 120 | flat |
 | Australia | 100 | flat |
-| Finland | 100 | flat |
 | United Kingdom | 90 | flat |
 | India | 80 | flat |
 

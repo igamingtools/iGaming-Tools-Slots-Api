@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-treasure-hunt-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,870 · **trend:** declining · YoY -18.7%
+**12-month volume (illustrative):** 1,970 · **trend:** declining · YoY -13.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 530 | declining |
-| South Africa | 520 | declining |
-| Brazil | 100 | declining |
+| South Africa | 560 | growing |
+| Greece | 540 | declining |
+| Brazil | 110 | growing |
 | Philippines | 90 | flat |
 | Switzerland | 90 | flat |
 | Lithuania | 60 | flat |
 | Australia | 40 | flat |
 | India | 40 | flat |
 | Malaysia | 40 | flat |
-| Tunisia | 30 | flat |
+| Croatia | 30 | growing |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

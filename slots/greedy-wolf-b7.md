@@ -129,24 +129,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/greedy-wolf-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,760 · **trend:** declining · YoY -24.7%
+**12-month volume (illustrative):** 6,070 · **trend:** declining · YoY -20.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | United Kingdom | 500 | flat |
-| Denmark | 330 | declining |
-| Netherlands | 310 | declining |
-| Greece | 270 | declining |
+| Denmark | 340 | flat |
+| Netherlands | 320 | flat |
+| Greece | 280 | flat |
 | Canada | 240 | flat |
-| South Africa | 220 | declining |
+| South Africa | 240 | growing |
+| Finland | 220 | flat |
 | Switzerland | 210 | flat |
-| Finland | 200 | declining |
 | United States | 200 | flat |
-| Germany | 140 | flat |
+| India | 160 | flat |
 
-> Full per-country breakdown (62 markets) via the /demand/ endpoint.
+> Full per-country breakdown (63 markets) via the /demand/ endpoint.
 
 ## Links
 

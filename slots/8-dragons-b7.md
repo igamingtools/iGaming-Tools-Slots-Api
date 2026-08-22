@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/8-dragons-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,010 · **trend:** declining · YoY -45.7%
+**12-month volume (illustrative):** 1,150 · **trend:** declining · YoY -38.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 530 | declining |
-| Brazil | 80 | declining |
-| Italy | 40 | flat |
+| South Africa | 640 | growing |
+| Brazil | 90 | flat |
+| Indonesia | 40 | flat |
+| Italy | 40 | declining |
 | United Kingdom | 40 | declining |
 | Austria | 30 | flat |
-| Indonesia | 30 | flat |
 | Lebanon | 30 | declining |
 | Switzerland | 30 | flat |
 | Tunisia | 30 | flat |
 | Canada | 20 | flat |
 
-> Full per-country breakdown (19 markets) via the /demand/ endpoint.
+> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 

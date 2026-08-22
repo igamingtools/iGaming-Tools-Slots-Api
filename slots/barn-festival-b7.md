@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/barn-festival-b7/demand/
 ```
 
-**12-month volume (illustrative):** 10,880 · **trend:** declining · YoY -57.0%
+**12-month volume (illustrative):** 11,530 · **trend:** declining · YoY -54.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 3,940 | declining |
-| Brazil | 2,160 | declining |
-| Philippines | 520 | declining |
-| Malaysia | 440 | declining |
-| Indonesia | 360 | declining |
-| Turkey | 330 | declining |
-| Thailand | 180 | declining |
+| South Africa | 4,080 | declining |
+| Brazil | 2,420 | declining |
+| Philippines | 530 | flat |
+| Malaysia | 460 | flat |
+| Indonesia | 400 | flat |
+| Turkey | 340 | flat |
+| Thailand | 200 | flat |
 | Canada | 140 | declining |
 | United States | 140 | flat |
 | Finland | 120 | declining |
 
-> Full per-country breakdown (62 markets) via the /demand/ endpoint.
+> Full per-country breakdown (64 markets) via the /demand/ endpoint.
 
 ## Links
 

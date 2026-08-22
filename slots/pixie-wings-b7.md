@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pixie-wings-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,120 · **trend:** flat · YoY +1.8%
+**12-month volume (illustrative):** 1,180 · **trend:** growing · YoY +8.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 240 | declining |
-| Brazil | 180 | declining |
-| Hungary | 160 | flat |
+| South Africa | 260 | declining |
+| Brazil | 190 | flat |
+| Hungary | 170 | declining |
 | Greece | 80 | flat |
+| Indonesia | 70 | declining |
 | Finland | 60 | flat |
 | Germany | 60 | flat |
-| Indonesia | 60 | flat |
 | United States | 40 | flat |
 | Australia | 30 | growing |
 | Switzerland | 30 | flat |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (25 markets) via the /demand/ endpoint.
 
 ## Links
 

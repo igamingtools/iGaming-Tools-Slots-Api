@@ -149,22 +149,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/3-magic-eggs-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,390 · **trend:** flat
+**12-month volume (illustrative):** 2,590 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Canada | 200 | flat |
-| Brazil | 150 | declining |
-| Greece | 120 | declining |
-| South Africa | 120 | declining |
+| South Africa | 190 | growing |
+| Brazil | 150 | flat |
+| Greece | 130 | flat |
 | Switzerland | 90 | declining |
 | Malaysia | 80 | flat |
 | United Kingdom | 80 | growing |
+| Argentina | 70 | flat |
 | Germany | 70 | flat |
-| Argentina | 60 | declining |
-| Mexico | 60 | declining |
+| Mexico | 70 | flat |
 
 > Full per-country breakdown (59 markets) via the /demand/ endpoint.
 

@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/power-of-merlin-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,350 · **trend:** declining · YoY -17.5%
+**12-month volume (illustrative):** 7,980 · **trend:** declining · YoY -7.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,470 | declining |
-| South Africa | 730 | declining |
+| Brazil | 1,730 | growing |
+| South Africa | 760 | growing |
 | Switzerland | 300 | declining |
-| Finland | 260 | declining |
+| Indonesia | 290 | flat |
+| Finland | 280 | flat |
+| Turkey | 230 | flat |
 | Canada | 220 | flat |
 | Germany | 220 | flat |
-| Indonesia | 220 | declining |
-| Turkey | 220 | declining |
+| Malaysia | 180 | flat |
 | United Kingdom | 180 | flat |
-| Malaysia | 160 | declining |
 
 > Full per-country breakdown (61 markets) via the /demand/ endpoint.
 

@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/peppe-s-pepperoni-pizza-plaza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 960 · **trend:** flat · YoY +0.0%
+**12-month volume (illustrative):** 980 · **trend:** flat · YoY +4.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -152,14 +152,14 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Greece | 90 | flat |
 | United Kingdom | 90 | declining |
+| Brazil | 60 | declining |
 | Switzerland | 60 | flat |
-| Brazil | 50 | flat |
 | Norway | 50 | flat |
 | Canada | 40 | flat |
 | Turkey | 40 | flat |
 | Australia | 30 | flat |
+| Bulgaria | 30 | declining |
 | Germany | 30 | flat |
-| Peru | 30 | flat |
 
 > Full per-country breakdown (35 markets) via the /demand/ endpoint.
 

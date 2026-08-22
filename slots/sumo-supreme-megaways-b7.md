@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sumo-supreme-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,270 · **trend:** declining · YoY -55.2%
+**12-month volume (illustrative):** 2,460 · **trend:** declining · YoY -50.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 370 | declining |
-| Philippines | 130 | declining |
+| Brazil | 420 | declining |
+| Philippines | 140 | flat |
+| South Africa | 130 | declining |
 | Malaysia | 120 | declining |
-| South Africa | 120 | declining |
+| Mexico | 110 | flat |
 | Argentina | 100 | declining |
-| Mexico | 100 | declining |
+| Greece | 90 | growing |
 | Switzerland | 90 | declining |
-| Greece | 80 | flat |
-| Tunisia | 80 | declining |
-| United Kingdom | 80 | flat |
+| Tunisia | 90 | flat |
+| Netherlands | 80 | flat |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
 
 ## Links
 

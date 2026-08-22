@@ -120,22 +120,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-great-chicken-escape-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,180 · **trend:** declining · YoY -31.0%
+**12-month volume (illustrative):** 1,250 · **trend:** declining · YoY -26.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 100 | declining |
-| South Africa | 100 | flat |
+| Brazil | 110 | flat |
+| South Africa | 110 | growing |
 | Malaysia | 80 | declining |
 | United Kingdom | 80 | declining |
 | Tunisia | 70 | declining |
-| Indonesia | 60 | flat |
+| Indonesia | 60 | declining |
+| Denmark | 50 | growing |
 | Greece | 50 | flat |
-| Italy | 50 | declining |
+| Italy | 50 | growing |
 | Australia | 40 | flat |
-| Denmark | 40 | flat |
 
 > Full per-country breakdown (39 markets) via the /demand/ endpoint.
 

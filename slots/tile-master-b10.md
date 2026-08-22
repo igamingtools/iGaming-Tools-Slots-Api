@@ -118,7 +118,7 @@ curl -H "Authorization: Token $TOKEN" \
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 80 | flat |
+| Brazil | 80 | declining |
 | Germany | 60 | flat |
 | Switzerland | 20 | declining |
 | Austria | 10 | flat |

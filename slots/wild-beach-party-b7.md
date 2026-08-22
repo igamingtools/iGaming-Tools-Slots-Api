@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-beach-party-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,420 · **trend:** declining · YoY -10.2%
+**12-month volume (illustrative):** 4,780 · **trend:** flat · YoY -2.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 410 | declining |
-| Brazil | 350 | declining |
-| Finland | 220 | declining |
-| Switzerland | 210 | declining |
+| Brazil | 420 | flat |
+| South Africa | 420 | declining |
+| Finland | 240 | flat |
+| Switzerland | 240 | flat |
 | Canada | 180 | growing |
-| India | 160 | flat |
+| India | 180 | growing |
 | United States | 160 | flat |
+| Denmark | 140 | flat |
+| Greece | 140 | flat |
 | Malaysia | 140 | flat |
-| Denmark | 130 | declining |
-| Greece | 130 | declining |
 
-> Full per-country breakdown (55 markets) via the /demand/ endpoint.
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
 
 ## Links
 

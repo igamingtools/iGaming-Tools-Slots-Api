@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/5-lions-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 56,200 · **trend:** declining · YoY -25.3%
+**12-month volume (illustrative):** 60,130 · **trend:** declining · YoY -20.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Tunisia | 17,880 | declining |
-| South Africa | 7,360 | declining |
-| Greece | 6,460 | declining |
-| Argentina | 5,200 | declining |
+| Tunisia | 19,180 | flat |
+| South Africa | 7,950 | flat |
+| Greece | 6,940 | flat |
+| Argentina | 5,520 | flat |
 | Canada | 2,400 | declining |
-| Indonesia | 1,670 | declining |
-| Denmark | 1,650 | declining |
+| Indonesia | 1,840 | growing |
+| Denmark | 1,740 | declining |
+| Brazil | 1,450 | growing |
 | United Kingdom | 1,320 | declining |
-| Brazil | 1,240 | declining |
-| Malaysia | 820 | declining |
+| Malaysia | 860 | declining |
 
-> Full per-country breakdown (75 markets) via the /demand/ endpoint.
+> Full per-country breakdown (76 markets) via the /demand/ endpoint.
 
 ## Links
 

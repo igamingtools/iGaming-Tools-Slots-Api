@@ -120,18 +120,18 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/3-genie-wishes-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,360 · **trend:** declining · YoY -18.1%
+**12-month volume (illustrative):** 1,450 · **trend:** declining · YoY -12.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 150 | declining |
-| Netherlands | 130 | flat |
-| Brazil | 120 | declining |
+| South Africa | 160 | flat |
+| Brazil | 140 | flat |
+| Netherlands | 140 | growing |
 | United Kingdom | 90 | flat |
 | Canada | 80 | flat |
-| Greece | 70 | flat |
+| Greece | 80 | growing |
 | Tunisia | 70 | flat |
 | Philippines | 60 | declining |
 | Switzerland | 60 | flat |

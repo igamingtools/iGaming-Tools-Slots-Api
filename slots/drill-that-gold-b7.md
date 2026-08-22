@@ -129,22 +129,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/drill-that-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,800 · **trend:** declining · YoY -39.0%
+**12-month volume (illustrative):** 1,970 · **trend:** declining · YoY -33.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 290 | declining |
-| South Africa | 160 | declining |
-| Greece | 120 | declining |
+| Brazil | 340 | declining |
+| South Africa | 170 | flat |
+| Greece | 130 | flat |
 | Australia | 90 | flat |
 | Germany | 80 | flat |
-| Malaysia | 60 | flat |
-| Philippines | 60 | declining |
+| Malaysia | 80 | growing |
+| Philippines | 70 | flat |
+| Denmark | 60 | growing |
 | Switzerland | 60 | flat |
-| Denmark | 50 | flat |
-| Netherlands | 50 | flat |
+| Thailand | 60 | flat |
 
 > Full per-country breakdown (43 markets) via the /demand/ endpoint.
 

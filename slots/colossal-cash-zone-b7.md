@@ -124,14 +124,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/colossal-cash-zone-b7/demand/
 ```
 
-**12-month volume (illustrative):** 620 · **trend:** declining · YoY -13.9%
+**12-month volume (illustrative):** 650 · **trend:** declining · YoY -9.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 80 | flat |
-| South Africa | 60 | flat |
+| Brazil | 90 | flat |
+| South Africa | 70 | growing |
 | Germany | 50 | declining |
 | Pakistan | 40 | flat |
 | Tunisia | 40 | flat |
@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 20 | flat |
 | Finland | 20 | flat |
 
-> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

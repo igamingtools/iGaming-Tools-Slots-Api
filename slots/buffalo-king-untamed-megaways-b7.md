@@ -134,24 +134,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/buffalo-king-untamed-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,210 · **trend:** flat · YoY -0.4%
+**12-month volume (illustrative):** 5,480 · **trend:** growing · YoY +5.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Netherlands | 1,920 | declining |
-| Tunisia | 250 | declining |
-| South Africa | 230 | declining |
+| Netherlands | 1,930 | flat |
+| Tunisia | 300 | growing |
+| South Africa | 250 | flat |
+| Greece | 230 | flat |
 | Canada | 220 | growing |
-| Greece | 210 | declining |
-| Brazil | 200 | declining |
-| Finland | 160 | declining |
+| Brazil | 210 | growing |
+| Finland | 180 | flat |
 | Germany | 150 | flat |
 | United States | 150 | declining |
 | United Kingdom | 130 | flat |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

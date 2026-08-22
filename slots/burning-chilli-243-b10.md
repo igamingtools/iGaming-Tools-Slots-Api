@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/burning-chilli-243-b10/demand/
 ```
 
-**12-month volume (illustrative):** 310 · **trend:** flat
+**12-month volume (illustrative):** 330 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Ukraine | 40 | declining |
+| Ukraine | 40 | flat |
 | Turkey | 30 | declining |
 | Australia | 20 | growing |
 | Belgium | 20 | declining |
-| Czech Republic | 20 | declining |
+| Czech Republic | 20 | growing |
 | Germany | 20 | declining |
+| Greece | 20 | growing |
 | Slovakia | 20 | flat |
 | United Kingdom | 20 | declining |
 | United States | 20 | declining |
-| Austria | 10 | flat |
 
-> Full per-country breakdown (19 markets) via the /demand/ endpoint.
+> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 

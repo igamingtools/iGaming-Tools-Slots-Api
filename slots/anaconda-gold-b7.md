@@ -135,19 +135,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/anaconda-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,150 · **trend:** flat
+**12-month volume (illustrative):** 3,250 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 490 | declining |
-| South Africa | 280 | declining |
-| Greece | 220 | declining |
-| Indonesia | 130 | declining |
+| South Africa | 290 | flat |
+| Greece | 230 | flat |
+| Indonesia | 130 | flat |
 | Finland | 100 | flat |
+| Philippines | 100 | flat |
 | United Kingdom | 100 | declining |
-| Philippines | 90 | declining |
 | Canada | 80 | flat |
 | Peru | 80 | declining |
 | United States | 80 | declining |

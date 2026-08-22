@@ -131,19 +131,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/duel-of-night-day-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,770 · **trend:** flat
+**12-month volume (illustrative):** 2,880 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 200 | declining |
-| Greece | 200 | flat |
-| South Africa | 190 | declining |
-| Switzerland | 180 | flat |
+| Greece | 210 | growing |
+| Switzerland | 210 | growing |
+| Brazil | 200 | flat |
+| South Africa | 200 | declining |
 | Canada | 140 | growing |
 | United Kingdom | 100 | flat |
-| Peru | 90 | declining |
+| Peru | 90 | flat |
 | Tunisia | 90 | declining |
 | Italy | 70 | flat |
 | Philippines | 70 | declining |

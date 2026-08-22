@@ -144,22 +144,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/better-barn-house-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,560 · **trend:** flat
+**12-month volume (illustrative):** 2,380 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Greece | 470 | growing |
+| Netherlands | 240 | declining |
 | Germany | 190 | growing |
+| South Africa | 190 | growing |
 | United Kingdom | 190 | flat |
 | Canada | 160 | declining |
-| Greece | 150 | declining |
-| Netherlands | 150 | declining |
-| Brazil | 120 | declining |
+| Brazil | 120 | growing |
 | New Zealand | 100 | growing |
-| Indonesia | 70 | declining |
-| Argentina | 40 | declining |
-| Belgium | 40 | declining |
+| Tunisia | 90 | growing |
+| Belgium | 80 | flat |
 
 > Full per-country breakdown (31 markets) via the /demand/ endpoint.
 

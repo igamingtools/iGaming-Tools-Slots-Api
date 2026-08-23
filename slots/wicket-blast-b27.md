@@ -1,4 +1,4 @@
-# Crystal Poker
+# Wicket Blast
 
 **Provider:** Turbo Games
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/crystal-poker-b27/`
+`GET /api/v1/slots/wicket-blast-b27/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/crystal-poker-b27/
+  https://i-gaming.tools/api/v1/slots/wicket-blast-b27/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/crystal-poker-b27/",
+    "https://i-gaming.tools/api/v1/slots/wicket-blast-b27/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/crystal-poker-b27/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/wicket-blast-b27/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/crystal-poker-b27/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/wicket-blast-b27/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,18 +53,18 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "crystal-poker-b27",
-  "name": "Crystal Poker",
+  "slug": "wicket-blast-b27",
+  "name": "Wicket Blast",
   "status": "active",
   "provider": {
     "slug": "turbo-games",
     "name": "Turbo Games"
   },
-  "game_category": "instant_win",
-  "rtp_default": "96.00",
+  "game_category": "crash",
+  "rtp_default": "95.00",
   "rtp_variants": [
     {
-      "rtp": "96.00",
+      "rtp": "95.00",
       "variant": "default",
       "is_default": true
     }
@@ -76,29 +76,29 @@ $data = json_decode(curl_exec($ch), true);
   "jackpot_type": "unknown",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2024-08-01",
+  "release_date": "2023-04-01",
   "themes": [
     {
-      "slug": "cards",
-      "name": "Cards"
+      "slug": "cricket",
+      "name": "Cricket"
     },
     {
-      "slug": "gems",
-      "name": "Gems"
+      "slug": "sports",
+      "name": "Sports"
     }
   ],
   "features": [
     {
-      "slug": "bonus-game",
-      "name": "Bonus Game"
+      "slug": "adjustable-grid",
+      "name": "Adjustable Grid"
     },
     {
-      "slug": "combination-match",
-      "name": "Combination Match"
+      "slug": "batch-reveal",
+      "name": "Batch Reveal"
     },
     {
-      "slug": "plinko-bonus",
-      "name": "Plinko Bonus"
+      "slug": "cash-out",
+      "name": "Cash Out"
     }
   ],
   "assets": {
@@ -107,25 +107,29 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/crystal-poker-b27/"
+      "page_url": "https://i-gaming.tools/slot-games/wicket-blast-b27/"
     }
+  },
+  "series": {
+    "slug": "cricket-arena",
+    "name": "Cricket Arena"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/crystal-poker-b27/demand/`
+`GET /api/v1/slots/wicket-blast-b27/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/crystal-poker-b27/demand/
+  https://i-gaming.tools/api/v1/slots/wicket-blast-b27/demand/
 ```
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/crystal-poker-b27/
-- **Public page:** https://i-gaming.tools/slot-games/crystal-poker-b27/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/wicket-blast-b27/
+- **Public page:** https://i-gaming.tools/slot-games/wicket-blast-b27/
 - **Full schema:** https://i-gaming.tools/api/docs/

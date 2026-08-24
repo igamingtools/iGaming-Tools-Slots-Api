@@ -1,4 +1,4 @@
-# Book Of Mines
+# Donny King
 
 **Provider:** Turbo Games
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/book-of-mines-b27/`
+`GET /api/v1/slots/donny-king-b27/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/book-of-mines-b27/
+  https://i-gaming.tools/api/v1/slots/donny-king-b27/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/book-of-mines-b27/",
+    "https://i-gaming.tools/api/v1/slots/donny-king-b27/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/book-of-mines-b27/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/donny-king-b27/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/book-of-mines-b27/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/donny-king-b27/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,18 +53,18 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "book-of-mines-b27",
-  "name": "Book Of Mines",
+  "slug": "donny-king-b27",
+  "name": "Donny King",
   "status": "active",
   "provider": {
     "slug": "turbo-games",
     "name": "Turbo Games"
   },
   "game_category": "crash",
-  "rtp_default": "95.00",
+  "rtp_default": "96.00",
   "rtp_variants": [
     {
-      "rtp": "95.00",
+      "rtp": "96.00",
       "variant": "default",
       "is_default": true
     }
@@ -76,29 +76,29 @@ $data = json_decode(curl_exec($ch), true);
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2024-04-01",
+  "release_date": "2024-08-01",
   "themes": [
     {
-      "slug": "egyptian",
-      "name": "Egyptian"
+      "slug": "jungle",
+      "name": "Jungle"
     },
     {
-      "slug": "treasure",
-      "name": "Treasure"
+      "slug": "monkeys",
+      "name": "Monkeys"
     }
   ],
   "features": [
     {
-      "slug": "adjustable-grid",
-      "name": "Adjustable Grid"
+      "slug": "bonus-game",
+      "name": "Bonus Game"
     },
     {
       "slug": "cash-out",
       "name": "Cash Out"
     },
     {
-      "slug": "level-progression",
-      "name": "Level Progression"
+      "slug": "multiplier",
+      "name": "Multiplier"
     }
   ],
   "assets": {
@@ -107,7 +107,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/book-of-mines-b27/"
+      "page_url": "https://i-gaming.tools/slot-games/donny-king-b27/"
     }
   }
 }
@@ -115,36 +115,36 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/book-of-mines-b27/demand/`
+`GET /api/v1/slots/donny-king-b27/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/book-of-mines-b27/demand/
+  https://i-gaming.tools/api/v1/slots/donny-king-b27/demand/
 ```
 
-**12-month volume (illustrative):** 1,040 · **trend:** growing · YoY +121.3%
+**12-month volume (illustrative):** 540 · **trend:** declining · YoY -18.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 780 | flat |
-| Egypt | 60 | flat |
+| India | 300 | flat |
+| Vietnam | 100 | flat |
 | Pakistan | 60 | flat |
-| Hungary | 40 | flat |
-| Ukraine | 30 | flat |
-| Nigeria | 20 | declining |
-| Tunisia | 20 | flat |
-| Argentina | 10 | flat |
-| Germany | 10 | flat |
-| Italy | 10 | flat |
+| Cyprus | 10 | flat |
+| Czech Republic | 10 | flat |
+| France | 10 | flat |
+| Ghana | 10 | flat |
+| Greece | 10 | flat |
+| Hungary | 10 | flat |
+| Kenya | 10 | flat |
 
-> Full per-country breakdown (10 markets) via the /demand/ endpoint.
+> Full per-country breakdown (11 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/book-of-mines-b27/
-- **Public page:** https://i-gaming.tools/slot-games/book-of-mines-b27/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/donny-king-b27/
+- **Public page:** https://i-gaming.tools/slot-games/donny-king-b27/
 - **Full schema:** https://i-gaming.tools/api/docs/

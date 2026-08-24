@@ -120,6 +120,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fast-fielder-b27/demand/
 ```
 
+**12-month volume (illustrative):** 310 · **trend:** declining · YoY -40.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| India | 220 | flat |
+| Pakistan | 60 | flat |
+| Malaysia | 20 | flat |
+| Philippines | 10 | flat |
+
+> Full per-country breakdown (4 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/fast-fielder-b27/

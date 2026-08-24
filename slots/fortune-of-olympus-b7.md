@@ -116,10 +116,6 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/fortune-of-olympus-b7/"
     }
-  },
-  "series": {
-    "slug": "gates-of-olympus",
-    "name": "Gates of Olympus"
   }
 }
 ```

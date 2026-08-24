@@ -121,6 +121,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mines-b27/demand/
 ```
 
+**12-month volume (illustrative):** 197,540 · **trend:** declining · YoY -50.1%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| India | 108,600 | declining |
+| Brazil | 40,830 | declining |
+| Pakistan | 5,660 | declining |
+| United States | 4,810 | declining |
+| Canada | 3,060 | declining |
+| Indonesia | 2,920 | declining |
+| Greece | 2,730 | declining |
+| Italy | 2,700 | declining |
+| Philippines | 2,440 | growing |
+| Sweden | 1,620 | declining |
+
+> Full per-country breakdown (80 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/mines-b27/

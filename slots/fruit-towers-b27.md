@@ -1,4 +1,4 @@
-# Book Of Mines
+# Fruit Towers
 
 **Provider:** Turbo Games
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/book-of-mines-b27/`
+`GET /api/v1/slots/fruit-towers-b27/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/book-of-mines-b27/
+  https://i-gaming.tools/api/v1/slots/fruit-towers-b27/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/book-of-mines-b27/",
+    "https://i-gaming.tools/api/v1/slots/fruit-towers-b27/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/book-of-mines-b27/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/fruit-towers-b27/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/book-of-mines-b27/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/fruit-towers-b27/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,20 +53,25 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "book-of-mines-b27",
-  "name": "Book Of Mines",
+  "slug": "fruit-towers-b27",
+  "name": "Fruit Towers",
   "status": "active",
   "provider": {
     "slug": "turbo-games",
     "name": "Turbo Games"
   },
   "game_category": "crash",
-  "rtp_default": "95.00",
+  "rtp_default": "96.64",
   "rtp_variants": [
     {
-      "rtp": "95.00",
+      "rtp": "96.64",
       "variant": "default",
       "is_default": true
+    },
+    {
+      "rtp": "94.22",
+      "variant": "player_config",
+      "is_default": false
     }
   ],
   "volatility": "",
@@ -76,22 +81,18 @@ $data = json_decode(curl_exec($ch), true);
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2024-04-01",
+  "release_date": "2023-02-02",
   "themes": [
     {
-      "slug": "egyptian",
-      "name": "Egyptian"
+      "slug": "fruits",
+      "name": "Fruits"
     },
     {
-      "slug": "treasure",
-      "name": "Treasure"
+      "slug": "jungle",
+      "name": "Jungle"
     }
   ],
   "features": [
-    {
-      "slug": "adjustable-grid",
-      "name": "Adjustable Grid"
-    },
     {
       "slug": "cash-out",
       "name": "Cash Out"
@@ -99,6 +100,10 @@ $data = json_decode(curl_exec($ch), true);
     {
       "slug": "level-progression",
       "name": "Level Progression"
+    },
+    {
+      "slug": "prize-ladder",
+      "name": "Prize Ladder"
     }
   ],
   "assets": {
@@ -107,7 +112,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/book-of-mines-b27/"
+      "page_url": "https://i-gaming.tools/slot-games/fruit-towers-b27/"
     }
   }
 }
@@ -115,36 +120,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/book-of-mines-b27/demand/`
+`GET /api/v1/slots/fruit-towers-b27/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/book-of-mines-b27/demand/
+  https://i-gaming.tools/api/v1/slots/fruit-towers-b27/demand/
 ```
-
-**12-month volume (illustrative):** 1,040 · **trend:** growing · YoY +121.3%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| India | 780 | flat |
-| Egypt | 60 | flat |
-| Pakistan | 60 | flat |
-| Hungary | 40 | flat |
-| Ukraine | 30 | flat |
-| Nigeria | 20 | declining |
-| Tunisia | 20 | flat |
-| Argentina | 10 | flat |
-| Germany | 10 | flat |
-| Italy | 10 | flat |
-
-> Full per-country breakdown (10 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/book-of-mines-b27/
-- **Public page:** https://i-gaming.tools/slot-games/book-of-mines-b27/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fruit-towers-b27/
+- **Public page:** https://i-gaming.tools/slot-games/fruit-towers-b27/
 - **Full schema:** https://i-gaming.tools/api/docs/

@@ -124,6 +124,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jewel-clicker-b27/demand/
 ```
 
+**12-month volume (illustrative):** 1,310 · **trend:** growing · YoY +74.7%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Vietnam | 590 | declining |
+| India | 340 | flat |
+| Indonesia | 70 | growing |
+| Pakistan | 60 | flat |
+| Nigeria | 40 | growing |
+| Ukraine | 30 | flat |
+| Canada | 20 | flat |
+| Malaysia | 20 | declining |
+| Singapore | 20 | growing |
+| Turkey | 20 | flat |
+
+> Full per-country breakdown (19 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/jewel-clicker-b27/

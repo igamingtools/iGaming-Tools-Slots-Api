@@ -1,4 +1,4 @@
-# 10 Cash Bisons
+# Razor Returns
 
 **Provider:** Push Gaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/10-cash-bisons-b28/`
+`GET /api/v1/slots/razor-returns-b28/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/10-cash-bisons-b28/
+  https://i-gaming.tools/api/v1/slots/razor-returns-b28/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/10-cash-bisons-b28/",
+    "https://i-gaming.tools/api/v1/slots/razor-returns-b28/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/10-cash-bisons-b28/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/razor-returns-b28/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/10-cash-bisons-b28/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/razor-returns-b28/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,68 +53,73 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "10-cash-bisons-b28",
-  "name": "10 Cash Bisons",
+  "slug": "razor-returns-b28",
+  "name": "Razor Returns",
   "status": "active",
   "provider": {
     "slug": "push-gaming",
     "name": "Push Gaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.29",
+  "rtp_default": "96.55",
   "rtp_variants": [
     {
-      "rtp": "96.29",
+      "rtp": "96.55",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.43",
-      "variant": "bonus_buy",
+      "rtp": "96.55",
+      "variant": "ante_bet",
       "is_default": false
     },
     {
-      "rtp": "96.29",
-      "variant": "player_config",
+      "rtp": "96.16",
+      "variant": "ante_bet",
       "is_default": false
     }
   ],
-  "volatility": "",
+  "volatility": "high",
   "mechanic": "lines",
   "reels": 5,
-  "rows": null,
-  "jackpot_type": "fixed",
+  "rows": 5,
+  "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Random Free Spins",
-      "cost": "85.00",
+      "label": "3 Torpedo Free Spins",
+      "cost": "106.00",
       "is_default": true
-    }
-  ],
-  "release_date": "2025-08-27",
-  "themes": [
-    {
-      "slug": "animals",
-      "name": "Animals"
     },
     {
-      "slug": "buffalo",
-      "name": "Buffalo"
+      "label": "4 Torpedo Free Spins",
+      "cost": "186.00",
+      "is_default": false
+    }
+  ],
+  "release_date": "2023-07-04",
+  "themes": [
+    {
+      "slug": "ocean",
+      "name": "Ocean"
+    },
+    {
+      "slug": "sharks",
+      "name": "Sharks"
     }
   ],
   "features": [
     {
-      "slug": "adjustable-grid",
-      "name": "Adjustable Grid"
+      "slug": "ante_bet",
+      "name": "Ante Bet"
     },
     {
       "slug": "free_spins",
       "name": "Free Spins"
     },
     {
-      "slug": "growing-reels",
-      "name": "Growing Reels"
+      "slug": "gamble",
+      "name": "Gamble"
     }
   ],
   "assets": {
@@ -123,44 +128,48 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/10-cash-bisons-b28/"
+      "page_url": "https://i-gaming.tools/slot-games/razor-returns-b28/"
     }
+  },
+  "series": {
+    "slug": "razor",
+    "name": "Razor"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/10-cash-bisons-b28/demand/`
+`GET /api/v1/slots/razor-returns-b28/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/10-cash-bisons-b28/demand/
+  https://i-gaming.tools/api/v1/slots/razor-returns-b28/demand/
 ```
 
-**12-month volume (illustrative):** 520 · **trend:** flat
+**12-month volume (illustrative):** 70,140 · **trend:** declining · YoY -29.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 50 | declining |
-| Canada | 40 | declining |
-| Finland | 40 | growing |
-| New Zealand | 40 | growing |
-| United States | 40 | flat |
-| Denmark | 30 | flat |
-| Germany | 30 | flat |
-| Italy | 30 | growing |
-| Latvia | 30 | flat |
-| Australia | 20 | growing |
+| Germany | 28,830 | declining |
+| United Kingdom | 4,820 | growing |
+| Switzerland | 3,330 | growing |
+| United States | 2,980 | declining |
+| Austria | 2,940 | growing |
+| Netherlands | 2,940 | flat |
+| Sweden | 2,620 | growing |
+| Finland | 2,560 | growing |
+| Denmark | 2,300 | growing |
+| Greece | 2,050 | growing |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (77 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/10-cash-bisons-b28/
-- **Public page:** https://i-gaming.tools/slot-games/10-cash-bisons-b28/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/razor-returns-b28/
+- **Public page:** https://i-gaming.tools/slot-games/razor-returns-b28/
 - **Full schema:** https://i-gaming.tools/api/docs/

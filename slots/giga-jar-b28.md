@@ -133,6 +133,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/giga-jar-b28/demand/
 ```
 
+**12-month volume (illustrative):** 4,940 · **trend:** flat · YoY -4.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Netherlands | 880 | declining |
+| Finland | 780 | declining |
+| Greece | 240 | declining |
+| United States | 240 | flat |
+| Belgium | 220 | flat |
+| Switzerland | 180 | growing |
+| Canada | 160 | flat |
+| United Kingdom | 160 | growing |
+| Germany | 140 | flat |
+| Denmark | 120 | growing |
+
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/giga-jar-b28/

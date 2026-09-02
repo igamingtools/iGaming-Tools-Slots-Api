@@ -1,4 +1,4 @@
-# Bamboo Ways
+# Samurai's Katana
 
 **Provider:** Push Gaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/bamboo-ways-b28/`
+`GET /api/v1/slots/samurai-s-katana-b28/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/bamboo-ways-b28/
+  https://i-gaming.tools/api/v1/slots/samurai-s-katana-b28/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/bamboo-ways-b28/",
+    "https://i-gaming.tools/api/v1/slots/samurai-s-katana-b28/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/bamboo-ways-b28/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/samurai-s-katana-b28/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/bamboo-ways-b28/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/samurai-s-katana-b28/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,73 +53,72 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "bamboo-ways-b28",
-  "name": "Bamboo Ways",
+  "slug": "samurai-s-katana-b28",
+  "name": "Samurai's Katana",
   "status": "active",
   "provider": {
     "slug": "push-gaming",
     "name": "Push Gaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.30",
+  "rtp_default": "96.32",
   "rtp_variants": [
     {
-      "rtp": "96.30",
+      "rtp": "96.32",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.36",
-      "variant": "ante_bet",
-      "is_default": false
-    },
-    {
-      "rtp": "96.37",
-      "variant": "ante_bet",
+      "rtp": "95.99",
+      "variant": "default",
       "is_default": false
     }
   ],
   "volatility": "high",
-  "mechanic": "variable_ways",
-  "reels": 6,
-  "rows": null,
+  "mechanic": "lines",
+  "reels": 5,
+  "rows": 4,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Mystery Symbols",
-      "cost": "18.00",
+      "label": "2 Wild Stacks",
+      "cost": "18.80",
       "is_default": true
     },
     {
-      "label": "Grand Golden Bamboo",
-      "cost": "120.00",
+      "label": "3 Wild Stacks",
+      "cost": "83.00",
       "is_default": false
     }
   ],
-  "release_date": "2025-09-03",
+  "release_date": "2024-03-20",
   "themes": [
     {
-      "slug": "chinese",
-      "name": "Chinese"
+      "slug": "cyberpunk",
+      "name": "Cyberpunk"
     },
     {
-      "slug": "panda",
-      "name": "Panda"
+      "slug": "japanese",
+      "name": "Japanese"
+    },
+    {
+      "slug": "neon",
+      "name": "Neon"
     }
   ],
   "features": [
     {
-      "slug": "ante_bet",
-      "name": "Ante Bet"
-    },
-    {
-      "slug": "expanding_wild",
-      "name": "Expanding Wild"
-    },
-    {
       "slug": "free_spins",
       "name": "Free Spins"
+    },
+    {
+      "slug": "gamble",
+      "name": "Gamble"
+    },
+    {
+      "slug": "nudge",
+      "name": "Nudge"
     }
   ],
   "assets": {
@@ -128,48 +127,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/bamboo-ways-b28/"
+      "page_url": "https://i-gaming.tools/slot-games/samurai-s-katana-b28/"
     }
-  },
-  "series": {
-    "slug": "bamboo-series",
-    "name": "Bamboo Series"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/bamboo-ways-b28/demand/`
+`GET /api/v1/slots/samurai-s-katana-b28/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/bamboo-ways-b28/demand/
+  https://i-gaming.tools/api/v1/slots/samurai-s-katana-b28/demand/
 ```
 
-**12-month volume (illustrative):** 5,410 · **trend:** flat
+**12-month volume (illustrative):** 280 · **trend:** declining · YoY -58.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 630 | growing |
-| Netherlands | 370 | flat |
-| Finland | 340 | declining |
-| Canada | 320 | flat |
-| United Kingdom | 270 | flat |
-| Denmark | 240 | flat |
-| Switzerland | 240 | growing |
-| United States | 200 | growing |
-| Australia | 180 | flat |
-| Italy | 180 | flat |
+| Finland | 40 | flat |
+| Sweden | 40 | declining |
+| Romania | 30 | flat |
+| Switzerland | 30 | declining |
+| Canada | 20 | flat |
+| Greece | 20 | flat |
+| Netherlands | 20 | flat |
+| Norway | 20 | flat |
+| Brazil | 10 | flat |
+| Denmark | 10 | declining |
 
-> Full per-country breakdown (57 markets) via the /demand/ endpoint.
+> Full per-country breakdown (14 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/bamboo-ways-b28/
-- **Public page:** https://i-gaming.tools/slot-games/bamboo-ways-b28/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/samurai-s-katana-b28/
+- **Public page:** https://i-gaming.tools/slot-games/samurai-s-katana-b28/
 - **Full schema:** https://i-gaming.tools/api/docs/

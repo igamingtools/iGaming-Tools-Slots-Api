@@ -130,6 +130,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/fat-banker-b28/"
     }
+  },
+  "series": {
+    "slug": "fat",
+    "name": "Fat"
   }
 }
 ```

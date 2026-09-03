@@ -1,4 +1,4 @@
-# Big Bite
+# Sea of Spirits
 
 **Provider:** Push Gaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/big-bite-b28/`
+`GET /api/v1/slots/sea-of-spirits-b28/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/big-bite-b28/
+  https://i-gaming.tools/api/v1/slots/sea-of-spirits-b28/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/big-bite-b28/",
+    "https://i-gaming.tools/api/v1/slots/sea-of-spirits-b28/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/big-bite-b28/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/sea-of-spirits-b28/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/big-bite-b28/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/sea-of-spirits-b28/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,59 +53,63 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "big-bite-b28",
-  "name": "Big Bite",
+  "slug": "sea-of-spirits-b28",
+  "name": "Sea of Spirits",
   "status": "active",
   "provider": {
     "slug": "push-gaming",
     "name": "Push Gaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.38",
+  "rtp_default": "96.36",
   "rtp_variants": [
     {
-      "rtp": "96.38",
+      "rtp": "96.36",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.45",
+      "rtp": "96.23",
       "variant": "ante_bet",
       "is_default": false
     },
     {
-      "rtp": "96.74",
-      "variant": "bonus_buy",
+      "rtp": "96.41",
+      "variant": "ante_bet",
       "is_default": false
     }
   ],
-  "volatility": "",
-  "mechanic": "lines",
-  "reels": 5,
-  "rows": 3,
-  "jackpot_type": "fixed",
+  "volatility": "high",
+  "mechanic": "ways",
+  "reels": 6,
+  "rows": 4,
+  "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Initial Multiplier x1",
-      "cost": "43.00",
+      "label": "Bonus Feature",
+      "cost": "100.00",
       "is_default": true
     },
     {
-      "label": "Initial Multiplier x3",
-      "cost": "93.00",
+      "label": "Super Bonus Feature",
+      "cost": "500.00",
       "is_default": false
     }
   ],
-  "release_date": "2024-02-22",
+  "release_date": "2025-11-19",
   "themes": [
+    {
+      "slug": "ghosts",
+      "name": "Ghosts"
+    },
     {
       "slug": "ocean",
       "name": "Ocean"
     },
     {
-      "slug": "winter",
-      "name": "Winter"
+      "slug": "pirates",
+      "name": "Pirates"
     }
   ],
   "features": [
@@ -118,8 +122,8 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Free Spins"
     },
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
+      "slug": "one-shot-collect",
+      "name": "One-shot Collect"
     }
   ],
   "assets": {
@@ -128,48 +132,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/big-bite-b28/"
+      "page_url": "https://i-gaming.tools/slot-games/sea-of-spirits-b28/"
     }
-  },
-  "series": {
-    "slug": "big-bite",
-    "name": "Big Bite"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/big-bite-b28/demand/`
+`GET /api/v1/slots/sea-of-spirits-b28/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/big-bite-b28/demand/
+  https://i-gaming.tools/api/v1/slots/sea-of-spirits-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,050 · **trend:** declining · YoY -21.8%
+**12-month volume (illustrative):** 2,520 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 320 | declining |
-| Canada | 200 | flat |
-| Latvia | 140 | flat |
-| Netherlands | 140 | flat |
-| Greece | 130 | flat |
-| Sweden | 130 | flat |
-| United States | 120 | flat |
-| Norway | 110 | declining |
-| United Kingdom | 110 | flat |
-| Finland | 100 | flat |
+| Finland | 160 | declining |
+| Denmark | 130 | declining |
+| Canada | 120 | flat |
+| Greece | 120 | declining |
+| United States | 120 | declining |
+| Netherlands | 110 | flat |
+| Germany | 90 | flat |
+| Sweden | 90 | flat |
+| Switzerland | 90 | flat |
+| United Kingdom | 90 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bite-b28/
-- **Public page:** https://i-gaming.tools/slot-games/big-bite-b28/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/sea-of-spirits-b28/
+- **Public page:** https://i-gaming.tools/slot-games/sea-of-spirits-b28/
 - **Full schema:** https://i-gaming.tools/api/docs/

@@ -1,4 +1,4 @@
-# Big Bite
+# The Grand Show
 
 **Provider:** Push Gaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/big-bite-b28/`
+`GET /api/v1/slots/the-grand-show-b28/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/big-bite-b28/
+  https://i-gaming.tools/api/v1/slots/the-grand-show-b28/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/big-bite-b28/",
+    "https://i-gaming.tools/api/v1/slots/the-grand-show-b28/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/big-bite-b28/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/the-grand-show-b28/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/big-bite-b28/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/the-grand-show-b28/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,59 +53,59 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "big-bite-b28",
-  "name": "Big Bite",
+  "slug": "the-grand-show-b28",
+  "name": "The Grand Show",
   "status": "active",
   "provider": {
     "slug": "push-gaming",
     "name": "Push Gaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.38",
+  "rtp_default": "96.28",
   "rtp_variants": [
     {
-      "rtp": "96.38",
+      "rtp": "96.28",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.45",
+      "rtp": "96.35",
       "variant": "ante_bet",
       "is_default": false
     },
     {
-      "rtp": "96.74",
-      "variant": "bonus_buy",
+      "rtp": "96.38",
+      "variant": "ante_bet",
       "is_default": false
     }
   ],
-  "volatility": "",
+  "volatility": "medium",
   "mechanic": "lines",
   "reels": 5,
-  "rows": 3,
+  "rows": 4,
   "jackpot_type": "fixed",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Initial Multiplier x1",
-      "cost": "43.00",
+      "label": "Minimum x1 Instant Prizes",
+      "cost": "46.40",
       "is_default": true
     },
     {
-      "label": "Initial Multiplier x3",
-      "cost": "93.00",
+      "label": "Minimum x5 Instant Prizes",
+      "cost": "86.60",
       "is_default": false
     }
   ],
-  "release_date": "2024-02-22",
+  "release_date": "2024-07-17",
   "themes": [
     {
-      "slug": "ocean",
-      "name": "Ocean"
+      "slug": "carnival",
+      "name": "Carnival"
     },
     {
-      "slug": "winter",
-      "name": "Winter"
+      "slug": "tigers",
+      "name": "Tigers"
     }
   ],
   "features": [
@@ -114,12 +114,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Ante Bet"
     },
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "bonus-game",
+      "name": "Bonus Game"
     },
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
+      "slug": "free_spins",
+      "name": "Free Spins"
     }
   ],
   "assets": {
@@ -128,48 +128,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/big-bite-b28/"
+      "page_url": "https://i-gaming.tools/slot-games/the-grand-show-b28/"
     }
-  },
-  "series": {
-    "slug": "big-bite",
-    "name": "Big Bite"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/big-bite-b28/demand/`
+`GET /api/v1/slots/the-grand-show-b28/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/big-bite-b28/demand/
+  https://i-gaming.tools/api/v1/slots/the-grand-show-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,050 · **trend:** declining · YoY -21.8%
+**12-month volume (illustrative):** 1,270 · **trend:** declining · YoY -44.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 320 | declining |
-| Canada | 200 | flat |
-| Latvia | 140 | flat |
-| Netherlands | 140 | flat |
-| Greece | 130 | flat |
-| Sweden | 130 | flat |
-| United States | 120 | flat |
-| Norway | 110 | declining |
-| United Kingdom | 110 | flat |
-| Finland | 100 | flat |
+| Canada | 140 | declining |
+| Greece | 110 | flat |
+| United States | 100 | flat |
+| Brazil | 80 | flat |
+| Italy | 70 | declining |
+| Spain | 70 | flat |
+| Sweden | 70 | flat |
+| Denmark | 60 | flat |
+| Finland | 60 | flat |
+| Netherlands | 60 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/big-bite-b28/
-- **Public page:** https://i-gaming.tools/slot-games/big-bite-b28/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/the-grand-show-b28/
+- **Public page:** https://i-gaming.tools/slot-games/the-grand-show-b28/
 - **Full schema:** https://i-gaming.tools/api/docs/

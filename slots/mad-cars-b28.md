@@ -1,4 +1,4 @@
-# Fish 'n' Nudge
+# Mad Cars
 
 **Provider:** Push Gaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/fish-n-nudge-b28/`
+`GET /api/v1/slots/mad-cars-b28/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/fish-n-nudge-b28/
+  https://i-gaming.tools/api/v1/slots/mad-cars-b28/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/fish-n-nudge-b28/",
+    "https://i-gaming.tools/api/v1/slots/mad-cars-b28/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/fish-n-nudge-b28/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/mad-cars-b28/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/fish-n-nudge-b28/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/mad-cars-b28/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,66 +53,62 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "fish-n-nudge-b28",
-  "name": "Fish 'n' Nudge",
+  "slug": "mad-cars-b28",
+  "name": "Mad Cars",
   "status": "active",
   "provider": {
     "slug": "push-gaming",
     "name": "Push Gaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.40",
+  "rtp_default": "96.39",
   "rtp_variants": [
     {
-      "rtp": "96.40",
+      "rtp": "96.39",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.41",
-      "variant": "ante_bet",
+      "rtp": "96.40",
+      "variant": "bonus_buy",
       "is_default": false
     },
     {
-      "rtp": "94.38",
-      "variant": "operator_config",
+      "rtp": "96.46",
+      "variant": "bonus_buy",
       "is_default": false
     }
   ],
-  "volatility": "medium",
+  "volatility": "",
   "mechanic": "lines",
   "reels": 5,
-  "rows": 4,
+  "rows": 5,
   "jackpot_type": "none",
   "has_bonus_buy": "yes",
   "bonus_buys": [
     {
-      "label": "Initial Multiplier x1",
-      "cost": "42.00",
+      "label": "Mad Bonus",
+      "cost": "115.70",
       "is_default": true
     },
     {
-      "label": "Initial Multiplier x10",
-      "cost": "87.00",
+      "label": "Payer Bonus",
+      "cost": "301.00",
       "is_default": false
     }
   ],
-  "release_date": "2023-10-10",
+  "release_date": "2022-08-10",
   "themes": [
     {
-      "slug": "fishing",
-      "name": "Fishing"
+      "slug": "post-apocalyptic",
+      "name": "Post-Apocalyptic"
     },
     {
-      "slug": "ocean",
-      "name": "Ocean"
+      "slug": "road-trip",
+      "name": "Road Trip"
     }
   ],
   "features": [
-    {
-      "slug": "ante_bet",
-      "name": "Ante Bet"
-    },
     {
       "slug": "free_spins",
       "name": "Free Spins"
@@ -120,6 +116,10 @@ $data = json_decode(curl_exec($ch), true);
     {
       "slug": "money-collect",
       "name": "Money Collect"
+    },
+    {
+      "slug": "moving-value-symbols",
+      "name": "Moving Value Symbols"
     }
   ],
   "assets": {
@@ -128,48 +128,44 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/fish-n-nudge-b28/"
+      "page_url": "https://i-gaming.tools/slot-games/mad-cars-b28/"
     }
-  },
-  "series": {
-    "slug": "fish-n-nudge",
-    "name": "Fish 'n' Nudge"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/fish-n-nudge-b28/demand/`
+`GET /api/v1/slots/mad-cars-b28/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/fish-n-nudge-b28/demand/
+  https://i-gaming.tools/api/v1/slots/mad-cars-b28/demand/
 ```
 
-**12-month volume (illustrative):** 920 · **trend:** declining · YoY -39.1%
+**12-month volume (illustrative):** 1,930 · **trend:** declining · YoY -20.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 110 | flat |
-| Finland | 80 | growing |
-| Denmark | 70 | flat |
-| Netherlands | 70 | declining |
-| Canada | 60 | flat |
-| Greece | 60 | declining |
-| Norway | 60 | declining |
-| Romania | 50 | flat |
-| Sweden | 50 | flat |
-| Germany | 40 | flat |
+| Finland | 140 | growing |
+| Greece | 130 | declining |
+| India | 100 | flat |
+| Romania | 100 | flat |
+| Ukraine | 100 | flat |
+| Netherlands | 90 | growing |
+| Sweden | 90 | declining |
+| Switzerland | 90 | flat |
+| Canada | 80 | flat |
+| Denmark | 80 | declining |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/fish-n-nudge-b28/
-- **Public page:** https://i-gaming.tools/slot-games/fish-n-nudge-b28/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/mad-cars-b28/
+- **Public page:** https://i-gaming.tools/slot-games/mad-cars-b28/
 - **Full schema:** https://i-gaming.tools/api/docs/

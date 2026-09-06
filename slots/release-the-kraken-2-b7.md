@@ -134,6 +134,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/release-the-kraken-2-b7/"
     }
+  },
+  "series": {
+    "slug": "release-the-kraken",
+    "name": "Release the Kraken"
   }
 }
 ```

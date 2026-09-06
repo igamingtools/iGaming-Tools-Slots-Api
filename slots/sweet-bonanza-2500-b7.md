@@ -130,6 +130,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/sweet-bonanza-2500-b7/"
     }
+  },
+  "series": {
+    "slug": "sweet-bonanza",
+    "name": "Sweet Bonanza"
   }
 }
 ```

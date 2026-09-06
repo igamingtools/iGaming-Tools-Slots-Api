@@ -1,4 +1,4 @@
-# Jaguar Drop
+# Jammin' Jars 2
 
 **Provider:** Push Gaming
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/jaguar-drop-b28/`
+`GET /api/v1/slots/jammin-jars-2-b28/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/jaguar-drop-b28/
+  https://i-gaming.tools/api/v1/slots/jammin-jars-2-b28/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/jaguar-drop-b28/",
+    "https://i-gaming.tools/api/v1/slots/jammin-jars-2-b28/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/jaguar-drop-b28/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/jammin-jars-2-b28/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/jaguar-drop-b28/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/jammin-jars-2-b28/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,58 +53,58 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "jaguar-drop-b28",
-  "name": "Jaguar Drop",
+  "slug": "jammin-jars-2-b28",
+  "name": "Jammin' Jars 2",
   "status": "active",
   "provider": {
     "slug": "push-gaming",
     "name": "Push Gaming"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.31",
+  "rtp_default": "96.40",
   "rtp_variants": [
     {
-      "rtp": "96.31",
+      "rtp": "96.40",
       "variant": "default",
       "is_default": true
     },
     {
-      "rtp": "96.33",
-      "variant": "ante_bet",
+      "rtp": "96.10",
+      "variant": "feature",
       "is_default": false
     },
     {
-      "rtp": "94.39",
-      "variant": "operator_config",
+      "rtp": "96.20",
+      "variant": "feature",
       "is_default": false
     }
   ],
-  "volatility": "medium",
+  "volatility": "high",
   "mechanic": "cluster",
-  "reels": 5,
-  "rows": 5,
+  "reels": 8,
+  "rows": 8,
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2024-11-28",
+  "release_date": "2021-06-02",
   "themes": [
     {
-      "slug": "aztec",
-      "name": "Aztec"
+      "slug": "fruits",
+      "name": "Fruits"
     },
     {
-      "slug": "jaguars",
-      "name": "Jaguars"
+      "slug": "music",
+      "name": "Music"
     },
     {
-      "slug": "jungle",
-      "name": "Jungle"
+      "slug": "neon",
+      "name": "Neon"
     }
   ],
   "features": [
     {
-      "slug": "ante_bet",
-      "name": "Ante Bet"
+      "slug": "bonus-game",
+      "name": "Bonus Game"
     },
     {
       "slug": "cluster_pays",
@@ -121,44 +121,48 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/jaguar-drop-b28/"
+      "page_url": "https://i-gaming.tools/slot-games/jammin-jars-2-b28/"
     }
+  },
+  "series": {
+    "slug": "jammin-jars",
+    "name": "Jammin' Jars"
   }
 }
 ```
 
 ## Search Demand
 
-`GET /api/v1/slots/jaguar-drop-b28/demand/`
+`GET /api/v1/slots/jammin-jars-2-b28/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/jaguar-drop-b28/demand/
+  https://i-gaming.tools/api/v1/slots/jammin-jars-2-b28/demand/
 ```
 
-**12-month volume (illustrative):** 550 · **trend:** declining · YoY -76.8%
+**12-month volume (illustrative):** 7,150 · **trend:** declining · YoY -25.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Netherlands | 130 | flat |
-| Romania | 60 | declining |
-| Brazil | 40 | growing |
-| Greece | 40 | flat |
-| United Kingdom | 40 | flat |
-| United States | 40 | flat |
-| Belgium | 20 | declining |
-| Finland | 20 | flat |
-| Germany | 20 | flat |
-| New Zealand | 20 | flat |
+| Germany | 1,000 | declining |
+| Greece | 410 | declining |
+| United States | 400 | declining |
+| United Kingdom | 350 | growing |
+| Austria | 300 | declining |
+| Switzerland | 300 | flat |
+| Finland | 240 | flat |
+| Australia | 230 | declining |
+| Netherlands | 210 | flat |
+| Canada | 200 | declining |
 
-> Full per-country breakdown (20 markets) via the /demand/ endpoint.
+> Full per-country breakdown (63 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/jaguar-drop-b28/
-- **Public page:** https://i-gaming.tools/slot-games/jaguar-drop-b28/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/jammin-jars-2-b28/
+- **Public page:** https://i-gaming.tools/slot-games/jammin-jars-2-b28/
 - **Full schema:** https://i-gaming.tools/api/docs/

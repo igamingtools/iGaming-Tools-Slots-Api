@@ -109,6 +109,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/pirate-gold-b7/"
     }
+  },
+  "series": {
+    "slug": "pirate-gold",
+    "name": "Pirate Gold"
   }
 }
 ```

@@ -124,6 +124,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mount-mazuma-b29/demand/
 ```
 
+**12-month volume (illustrative):** 1,480 · **trend:** declining · YoY -32.1%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| South Africa | 1,100 | declining |
+| India | 80 | flat |
+| Tunisia | 60 | flat |
+| Australia | 50 | flat |
+| Indonesia | 50 | flat |
+| Mexico | 40 | declining |
+| United States | 20 | flat |
+| Brazil | 10 | flat |
+| Chile | 10 | growing |
+| Colombia | 10 | flat |
+
+> Full per-country breakdown (15 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/mount-mazuma-b29/

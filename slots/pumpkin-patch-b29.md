@@ -124,6 +124,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pumpkin-patch-b29/demand/
 ```
 
+**12-month volume (illustrative):** 1,090 · **trend:** declining · YoY -35.5%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| South Africa | 880 | flat |
+| India | 100 | flat |
+| United States | 40 | flat |
+| Argentina | 10 | flat |
+| Bulgaria | 10 | flat |
+| Czech Republic | 10 | flat |
+| Latvia | 10 | flat |
+| Lithuania | 10 | flat |
+| Mexico | 10 | flat |
+| United Kingdom | 10 | flat |
+
+> Full per-country breakdown (10 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/pumpkin-patch-b29/

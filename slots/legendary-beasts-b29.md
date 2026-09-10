@@ -128,6 +128,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/legendary-beasts-b29/demand/
 ```
 
+**12-month volume (illustrative):** 3,920 · **trend:** declining · YoY -19.8%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| South Africa | 3,410 | declining |
+| India | 60 | flat |
+| Indonesia | 50 | growing |
+| Italy | 50 | flat |
+| Peru | 40 | flat |
+| United States | 40 | flat |
+| Tunisia | 30 | flat |
+| Brazil | 20 | flat |
+| Germany | 20 | flat |
+| Lithuania | 20 | flat |
+
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/legendary-beasts-b29/

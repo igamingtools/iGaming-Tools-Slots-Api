@@ -92,7 +92,7 @@ $data = json_decode(curl_exec($ch), true);
       "is_default": true
     }
   ],
-  "release_date": null,
+  "release_date": "2025-06-24",
   "themes": [
     {
       "slug": "fantasy",
@@ -143,6 +143,25 @@ Trailing-12-month search demand for this slot, with per-country breakdown.
 curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystic-rings-b29/demand/
 ```
+
+**12-month volume (illustrative):** 9,040 · **trend:** growing · YoY +11200.0%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| South Africa | 8,440 | flat |
+| Canada | 60 | flat |
+| Indonesia | 60 | flat |
+| United Kingdom | 60 | growing |
+| United States | 60 | declining |
+| Panama | 50 | flat |
+| Tunisia | 50 | flat |
+| Lebanon | 40 | flat |
+| Mexico | 30 | growing |
+| Germany | 20 | flat |
+
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

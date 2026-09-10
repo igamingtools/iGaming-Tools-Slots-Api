@@ -1,4 +1,4 @@
-# Scopa
+# King Frog Feast
 
 **Provider:** Habanero
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/scopa-b29/`
+`GET /api/v1/slots/king-frog-feast-b29/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/scopa-b29/
+  https://i-gaming.tools/api/v1/slots/king-frog-feast-b29/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/scopa-b29/",
+    "https://i-gaming.tools/api/v1/slots/king-frog-feast-b29/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/scopa-b29/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/king-frog-feast-b29/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/scopa-b29/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/king-frog-feast-b29/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,52 +53,58 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "scopa-b29",
-  "name": "Scopa",
+  "slug": "king-frog-feast-b29",
+  "name": "King Frog Feast",
   "status": "active",
   "provider": {
     "slug": "habanero",
     "name": "Habanero"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.67",
+  "rtp_default": "96.70",
   "rtp_variants": [
     {
-      "rtp": "96.67",
+      "rtp": "96.70",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "high",
-  "mechanic": "ways",
-  "reels": 5,
-  "rows": null,
+  "volatility": "",
+  "mechanic": "scatter_pays",
+  "reels": 6,
+  "rows": 5,
   "jackpot_type": "progressive",
-  "has_bonus_buy": "no",
-  "bonus_buys": [],
-  "release_date": "2020-06-01",
+  "has_bonus_buy": "yes",
+  "bonus_buys": [
+    {
+      "label": "Buy Feature",
+      "cost": "53.57",
+      "is_default": true
+    }
+  ],
+  "release_date": null,
   "themes": [
     {
-      "slug": "cards",
-      "name": "Cards"
+      "slug": "frogs",
+      "name": "Frogs"
     },
     {
-      "slug": "italian",
-      "name": "Italian"
+      "slug": "royalty",
+      "name": "Royalty"
     }
   ],
   "features": [
     {
-      "slug": "expanding_wild",
-      "name": "Expanding Wild"
+      "slug": "ante_bet",
+      "name": "Ante Bet"
     },
     {
       "slug": "free_spins",
       "name": "Free Spins"
     },
     {
-      "slug": "level-progression",
-      "name": "Level Progression"
+      "slug": "progressive_multiplier",
+      "name": "Progressive Multiplier"
     }
   ],
   "assets": {
@@ -107,7 +113,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/scopa-b29/"
+      "page_url": "https://i-gaming.tools/slot-games/king-frog-feast-b29/"
     }
   }
 }
@@ -115,36 +121,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/scopa-b29/demand/`
+`GET /api/v1/slots/king-frog-feast-b29/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/scopa-b29/demand/
+  https://i-gaming.tools/api/v1/slots/king-frog-feast-b29/demand/
 ```
-
-**12-month volume (illustrative):** 3,690 · **trend:** declining · YoY -31.2%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| South Africa | 3,020 | flat |
-| Switzerland | 140 | flat |
-| Italy | 120 | flat |
-| Germany | 110 | flat |
-| United States | 80 | flat |
-| Indonesia | 40 | growing |
-| Australia | 20 | growing |
-| Canada | 20 | flat |
-| France | 20 | flat |
-| Pakistan | 20 | flat |
-
-> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/scopa-b29/
-- **Public page:** https://i-gaming.tools/slot-games/scopa-b29/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/king-frog-feast-b29/
+- **Public page:** https://i-gaming.tools/slot-games/king-frog-feast-b29/
 - **Full schema:** https://i-gaming.tools/api/docs/

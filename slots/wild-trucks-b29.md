@@ -120,6 +120,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-trucks-b29/demand/
 ```
 
+**12-month volume (illustrative):** 21,130 · **trend:** declining · YoY -24.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| South Africa | 17,100 | flat |
+| Lithuania | 1,460 | growing |
+| United States | 500 | flat |
+| Canada | 280 | declining |
+| India | 160 | declining |
+| United Kingdom | 140 | growing |
+| Pakistan | 100 | flat |
+| Indonesia | 80 | declining |
+| New Zealand | 80 | flat |
+| Brazil | 70 | flat |
+
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-trucks-b29/

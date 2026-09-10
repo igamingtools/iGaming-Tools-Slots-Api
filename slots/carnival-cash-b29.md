@@ -1,4 +1,4 @@
-# Naughty Santa
+# Carnival Cash
 
 **Provider:** Habanero
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/naughty-santa-b29/`
+`GET /api/v1/slots/carnival-cash-b29/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/naughty-santa-b29/
+  https://i-gaming.tools/api/v1/slots/carnival-cash-b29/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/naughty-santa-b29/",
+    "https://i-gaming.tools/api/v1/slots/carnival-cash-b29/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/naughty-santa-b29/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/carnival-cash-b29/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/naughty-santa-b29/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/carnival-cash-b29/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,48 +53,48 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "naughty-santa-b29",
-  "name": "Naughty Santa",
+  "slug": "carnival-cash-b29",
+  "name": "Carnival Cash",
   "status": "active",
   "provider": {
     "slug": "habanero",
     "name": "Habanero"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.78",
+  "rtp_default": "95.97",
   "rtp_variants": [
     {
-      "rtp": "96.78",
+      "rtp": "95.97",
       "variant": "default",
       "is_default": true
     }
   ],
   "volatility": "very_high",
-  "mechanic": "ways",
+  "mechanic": "lines",
   "reels": 5,
-  "rows": null,
+  "rows": 3,
   "jackpot_type": "progressive",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2019-11-26",
+  "release_date": null,
   "themes": [
     {
-      "slug": "christmas",
-      "name": "Christmas"
+      "slug": "carnival",
+      "name": "Carnival"
     }
   ],
   "features": [
     {
-      "slug": "colossal-symbols",
-      "name": "Colossal Symbols"
+      "slug": "scatter",
+      "name": "Scatter"
     },
     {
-      "slug": "expanding_wild",
-      "name": "Expanding Wild"
+      "slug": "super-spin",
+      "name": "Super Spin"
     },
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "wild",
+      "name": "Wild"
     }
   ],
   "assets": {
@@ -103,7 +103,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/naughty-santa-b29/"
+      "page_url": "https://i-gaming.tools/slot-games/carnival-cash-b29/"
     }
   }
 }
@@ -111,36 +111,29 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/naughty-santa-b29/demand/`
+`GET /api/v1/slots/carnival-cash-b29/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/naughty-santa-b29/demand/
+  https://i-gaming.tools/api/v1/slots/carnival-cash-b29/demand/
 ```
 
-**12-month volume (illustrative):** 3,390 · **trend:** growing · YoY +6.3%
+**12-month volume (illustrative):** 240 · **trend:** declining · YoY -22.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,200 | declining |
-| Finland | 180 | growing |
-| Canada | 120 | declining |
-| India | 120 | flat |
-| United States | 80 | flat |
-| Tunisia | 60 | declining |
-| Malaysia | 40 | flat |
-| Puerto Rico | 40 | flat |
-| United Kingdom | 40 | flat |
-| Denmark | 30 | flat |
+| South Africa | 170 | flat |
+| India | 60 | flat |
+| Greece | 10 | flat |
 
-> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+> Full per-country breakdown (3 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/naughty-santa-b29/
-- **Public page:** https://i-gaming.tools/slot-games/naughty-santa-b29/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/carnival-cash-b29/
+- **Public page:** https://i-gaming.tools/slot-games/carnival-cash-b29/
 - **Full schema:** https://i-gaming.tools/api/docs/

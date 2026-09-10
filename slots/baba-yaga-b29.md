@@ -1,4 +1,4 @@
-# Naughty Santa
+# Baba Yaga
 
 **Provider:** Habanero
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/naughty-santa-b29/`
+`GET /api/v1/slots/baba-yaga-b29/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/naughty-santa-b29/
+  https://i-gaming.tools/api/v1/slots/baba-yaga-b29/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/naughty-santa-b29/",
+    "https://i-gaming.tools/api/v1/slots/baba-yaga-b29/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/naughty-santa-b29/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/baba-yaga-b29/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/naughty-santa-b29/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/baba-yaga-b29/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,48 +53,68 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "naughty-santa-b29",
-  "name": "Naughty Santa",
+  "slug": "baba-yaga-b29",
+  "name": "Baba Yaga",
   "status": "active",
   "provider": {
     "slug": "habanero",
     "name": "Habanero"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.78",
+  "rtp_default": "96.69",
   "rtp_variants": [
     {
-      "rtp": "96.78",
+      "rtp": "96.69",
       "variant": "default",
       "is_default": true
+    },
+    {
+      "rtp": "96.53",
+      "variant": "ante_bet",
+      "is_default": false
+    },
+    {
+      "rtp": "96.64",
+      "variant": "bonus_buy",
+      "is_default": false
     }
   ],
   "volatility": "very_high",
-  "mechanic": "ways",
-  "reels": 5,
-  "rows": null,
+  "mechanic": "lines",
+  "reels": 6,
+  "rows": 4,
   "jackpot_type": "progressive",
-  "has_bonus_buy": "no",
-  "bonus_buys": [],
-  "release_date": "2019-11-26",
+  "has_bonus_buy": "yes",
+  "bonus_buys": [
+    {
+      "label": "Buy Feature",
+      "cost": "63.96",
+      "is_default": true
+    }
+  ],
+  "release_date": "2024-10-29",
   "themes": [
     {
-      "slug": "christmas",
-      "name": "Christmas"
+      "slug": "fairy-tale",
+      "name": "Fairy Tale"
+    },
+    {
+      "slug": "witchcraft",
+      "name": "Witchcraft"
     }
   ],
   "features": [
     {
-      "slug": "colossal-symbols",
-      "name": "Colossal Symbols"
-    },
-    {
-      "slug": "expanding_wild",
-      "name": "Expanding Wild"
+      "slug": "ante_bet",
+      "name": "Ante Bet"
     },
     {
       "slug": "free_spins",
       "name": "Free Spins"
+    },
+    {
+      "slug": "random-wilds",
+      "name": "Random Wilds"
     }
   ],
   "assets": {
@@ -103,7 +123,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/naughty-santa-b29/"
+      "page_url": "https://i-gaming.tools/slot-games/baba-yaga-b29/"
     }
   }
 }
@@ -111,36 +131,36 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/naughty-santa-b29/demand/`
+`GET /api/v1/slots/baba-yaga-b29/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/naughty-santa-b29/demand/
+  https://i-gaming.tools/api/v1/slots/baba-yaga-b29/demand/
 ```
 
-**12-month volume (illustrative):** 3,390 · **trend:** growing · YoY +6.3%
+**12-month volume (illustrative):** 2,240 · **trend:** declining · YoY -22.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,200 | declining |
-| Finland | 180 | growing |
-| Canada | 120 | declining |
-| India | 120 | flat |
+| South Africa | 950 | growing |
+| Ukraine | 400 | flat |
+| Netherlands | 110 | flat |
+| India | 100 | declining |
+| Latvia | 80 | growing |
 | United States | 80 | flat |
-| Tunisia | 60 | declining |
-| Malaysia | 40 | flat |
-| Puerto Rico | 40 | flat |
-| United Kingdom | 40 | flat |
-| Denmark | 30 | flat |
+| Greece | 70 | growing |
+| Lithuania | 40 | growing |
+| Poland | 40 | flat |
+| Brazil | 30 | flat |
 
-> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/naughty-santa-b29/
-- **Public page:** https://i-gaming.tools/slot-games/naughty-santa-b29/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/baba-yaga-b29/
+- **Public page:** https://i-gaming.tools/slot-games/baba-yaga-b29/
 - **Full schema:** https://i-gaming.tools/api/docs/

@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/reel-banks-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,520 · **trend:** declining · YoY -30.3%
+**12-month volume (illustrative):** 1,450 · **trend:** declining · YoY -33.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 280 | flat |
-| Brazil | 130 | flat |
+| Greece | 250 | flat |
+| Brazil | 120 | flat |
 | Canada | 80 | flat |
-| South Africa | 80 | flat |
-| Denmark | 70 | flat |
-| Indonesia | 70 | declining |
-| United States | 70 | flat |
-| India | 60 | declining |
-| Philippines | 50 | flat |
-| Turkey | 50 | flat |
+| South Africa | 70 | flat |
+| Denmark | 60 | flat |
+| Finland | 60 | growing |
+| India | 60 | flat |
+| Indonesia | 60 | flat |
+| United States | 60 | growing |
+| Malaysia | 40 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

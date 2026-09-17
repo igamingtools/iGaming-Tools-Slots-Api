@@ -134,24 +134,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wisdom-of-athena-1000-b7/demand/
 ```
 
-**12-month volume (illustrative):** 23,930 · **trend:** declining · YoY -35.8%
+**12-month volume (illustrative):** 21,830 · **trend:** declining · YoY -45.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 3,600 | growing |
-| South Africa | 3,500 | growing |
-| Greece | 3,190 | growing |
-| Netherlands | 1,570 | growing |
-| Canada | 1,040 | growing |
-| Indonesia | 570 | flat |
-| Belgium | 520 | growing |
+| South Africa | 3,020 | declining |
+| Philippines | 3,010 | declining |
+| Greece | 2,940 | declining |
+| Netherlands | 1,510 | declining |
+| Canada | 980 | growing |
 | United Kingdom | 510 | growing |
-| Brazil | 490 | growing |
-| Romania | 460 | flat |
+| Belgium | 480 | flat |
+| Indonesia | 460 | declining |
+| Romania | 460 | growing |
+| Brazil | 430 | flat |
 
-> Full per-country breakdown (74 markets) via the /demand/ endpoint.
+> Full per-country breakdown (72 markets) via the /demand/ endpoint.
 
 ## Links
 

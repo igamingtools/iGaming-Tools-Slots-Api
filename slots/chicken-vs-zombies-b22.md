@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-vs-zombies-b22/demand/
 ```
 
-**12-month volume (illustrative):** 950 · **trend:** flat
+**12-month volume (illustrative):** 1,080 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 180 | flat |
-| Canada | 100 | declining |
+| India | 180 | declining |
+| Canada | 100 | flat |
+| Greece | 80 | growing |
 | Pakistan | 80 | flat |
-| Greece | 70 | declining |
-| Germany | 60 | declining |
+| Germany | 70 | growing |
 | Italy | 60 | flat |
-| Netherlands | 60 | declining |
-| Romania | 50 | growing |
-| Spain | 50 | declining |
-| Poland | 40 | declining |
+| Netherlands | 60 | flat |
+| Romania | 50 | flat |
+| Spain | 50 | flat |
+| Poland | 40 | flat |
 
-> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

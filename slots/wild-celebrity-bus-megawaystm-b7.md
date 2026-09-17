@@ -141,22 +141,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-celebrity-bus-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,990 · **trend:** growing · YoY +24.4%
+**12-month volume (illustrative):** 1,920 · **trend:** growing · YoY +18.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 150 | flat |
-| Canada | 140 | flat |
+| Canada | 120 | flat |
 | Greece | 100 | flat |
-| United Kingdom | 100 | declining |
-| South Africa | 90 | flat |
-| Tunisia | 80 | flat |
+| South Africa | 90 | declining |
+| United Kingdom | 90 | flat |
+| Finland | 80 | growing |
 | Hungary | 70 | flat |
-| Netherlands | 70 | flat |
-| Romania | 70 | flat |
-| Finland | 60 | flat |
+| Netherlands | 70 | declining |
+| Tunisia | 70 | declining |
+| Indonesia | 60 | declining |
 
 > Full per-country breakdown (51 markets) via the /demand/ endpoint.
 

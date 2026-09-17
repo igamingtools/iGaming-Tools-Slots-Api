@@ -102,24 +102,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/coinflip-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,610 · **trend:** growing · YoY +120.5%
+**12-month volume (illustrative):** 1,530 · **trend:** growing · YoY +75.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 280 | flat |
+| India | 260 | declining |
 | Pakistan | 120 | flat |
 | Finland | 100 | flat |
 | Malaysia | 100 | flat |
-| Canada | 80 | growing |
-| Italy | 70 | declining |
-| Poland | 70 | growing |
-| South Africa | 60 | flat |
-| United States | 60 | growing |
-| Ukraine | 50 | flat |
+| Canada | 80 | declining |
+| Italy | 60 | declining |
+| Poland | 60 | declining |
+| South Africa | 60 | declining |
+| United States | 60 | flat |
+| Belgium | 40 | flat |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

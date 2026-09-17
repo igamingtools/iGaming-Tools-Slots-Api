@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dinopolis-b28/demand/
 ```
 
-**12-month volume (illustrative):** 7,950 · **trend:** declining · YoY -25.4%
+**12-month volume (illustrative):** 7,590 · **trend:** declining · YoY -25.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 1,580 | growing |
-| Ukraine | 850 | flat |
-| Netherlands | 740 | declining |
-| Germany | 330 | growing |
+| Greece | 1,540 | declining |
+| Netherlands | 720 | flat |
+| Ukraine | 720 | declining |
+| Germany | 320 | declining |
 | Switzerland | 270 | flat |
-| Denmark | 240 | flat |
-| United States | 240 | growing |
-| Canada | 220 | growing |
+| United States | 240 | flat |
+| Denmark | 230 | flat |
+| Canada | 220 | declining |
 | Finland | 220 | flat |
-| Romania | 190 | growing |
+| Romania | 170 | declining |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
 
 ## Links
 

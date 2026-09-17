@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lobster-house-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,320 · **trend:** flat
+**12-month volume (illustrative):** 6,440 · **trend:** growing · YoY +2583.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 900 | growing |
-| Greece | 690 | declining |
-| South Africa | 550 | flat |
+| Brazil | 920 | declining |
+| Greece | 710 | growing |
+| South Africa | 540 | declining |
 | Canada | 260 | flat |
-| Switzerland | 240 | declining |
-| Finland | 200 | flat |
+| Switzerland | 240 | growing |
+| Finland | 220 | growing |
 | Germany | 170 | flat |
-| Latvia | 160 | flat |
+| Latvia | 170 | flat |
 | United Kingdom | 160 | flat |
-| United States | 140 | declining |
+| Spain | 130 | declining |
 
-> Full per-country breakdown (62 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

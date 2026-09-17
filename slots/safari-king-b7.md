@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/safari-king-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,910 · **trend:** growing · YoY +51.6%
+**12-month volume (illustrative):** 1,870 · **trend:** growing · YoY +46.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | India | 260 | declining |
-| Pakistan | 180 | growing |
-| Malaysia | 160 | growing |
-| South Africa | 140 | flat |
-| Philippines | 120 | flat |
-| Brazil | 100 | flat |
-| Indonesia | 90 | flat |
-| Finland | 80 | flat |
-| Tunisia | 80 | growing |
-| Greece | 60 | growing |
+| Pakistan | 180 | declining |
+| Malaysia | 140 | declining |
+| South Africa | 130 | declining |
+| Philippines | 110 | declining |
+| Brazil | 100 | growing |
+| Finland | 100 | flat |
+| Indonesia | 80 | flat |
+| Tunisia | 80 | declining |
+| Germany | 60 | flat |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tree-of-riches-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,740 · **trend:** declining · YoY -47.1%
+**12-month volume (illustrative):** 3,260 · **trend:** declining · YoY -52.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,940 | declining |
-| Brazil | 260 | flat |
-| United Kingdom | 100 | flat |
-| Peru | 90 | declining |
-| Argentina | 80 | declining |
+| South Africa | 1,680 | declining |
+| Brazil | 200 | flat |
+| United Kingdom | 90 | declining |
+| Argentina | 80 | growing |
 | Finland | 80 | flat |
-| Mexico | 80 | flat |
-| Greece | 70 | growing |
-| El Salvador | 60 | growing |
-| Portugal | 60 | growing |
+| Mexico | 80 | growing |
+| Peru | 80 | growing |
+| Portugal | 70 | flat |
+| Greece | 60 | declining |
+| Denmark | 50 | declining |
 
-> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
 
 ## Links
 

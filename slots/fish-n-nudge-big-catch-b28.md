@@ -149,22 +149,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fish-n-nudge-big-catch-b28/demand/
 ```
 
-**12-month volume (illustrative):** 690 · **trend:** growing · YoY +200.0%
+**12-month volume (illustrative):** 620 · **trend:** growing · YoY +72.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 90 | growing |
-| Sweden | 70 | declining |
-| Netherlands | 60 | flat |
-| Canada | 40 | flat |
+| Sweden | 70 | growing |
+| Switzerland | 60 | declining |
+| Netherlands | 50 | flat |
 | Finland | 40 | flat |
-| United Kingdom | 40 | flat |
-| Brazil | 30 | growing |
+| United Kingdom | 40 | growing |
+| Brazil | 30 | flat |
 | Denmark | 30 | flat |
-| Greece | 30 | declining |
-| Ireland | 30 | flat |
+| Belgium | 20 | flat |
+| Canada | 20 | flat |
+| Greece | 20 | flat |
 
 > Full per-country breakdown (26 markets) via the /demand/ endpoint.
 

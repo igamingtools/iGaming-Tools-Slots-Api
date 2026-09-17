@@ -152,24 +152,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bigger-bass-blizzard-christmas-catchtm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,610 · **trend:** growing · YoY +19.3%
+**12-month volume (illustrative):** 1,630 · **trend:** growing · YoY +15.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 220 | flat |
-| Brazil | 140 | growing |
-| Canada | 120 | declining |
+| United Kingdom | 260 | growing |
+| Brazil | 170 | declining |
+| Canada | 120 | flat |
+| Netherlands | 100 | flat |
 | Turkey | 100 | flat |
-| Netherlands | 90 | flat |
-| South Africa | 90 | declining |
-| Latvia | 80 | flat |
-| Germany | 60 | growing |
-| Greece | 60 | flat |
-| Ireland | 60 | flat |
+| South Africa | 90 | flat |
+| Switzerland | 90 | flat |
+| Italy | 80 | flat |
+| Latvia | 70 | declining |
+| Germany | 60 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
 
 ## Links
 

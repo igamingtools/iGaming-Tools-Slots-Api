@@ -124,14 +124,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/donny-king-b27/demand/
 ```
 
-**12-month volume (illustrative):** 540 · **trend:** declining · YoY -18.2%
+**12-month volume (illustrative):** 500 · **trend:** declining · YoY -28.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 300 | flat |
-| Vietnam | 100 | flat |
+| India | 280 | declining |
+| Vietnam | 90 | declining |
 | Pakistan | 60 | flat |
 | Cyprus | 10 | flat |
 | Czech Republic | 10 | flat |
@@ -139,9 +139,9 @@ curl -H "Authorization: Token $TOKEN" \
 | Ghana | 10 | flat |
 | Greece | 10 | flat |
 | Hungary | 10 | flat |
-| Kenya | 10 | flat |
+| Turkey | 10 | flat |
 
-> Full per-country breakdown (11 markets) via the /demand/ endpoint.
+> Full per-country breakdown (10 markets) via the /demand/ endpoint.
 
 ## Links
 

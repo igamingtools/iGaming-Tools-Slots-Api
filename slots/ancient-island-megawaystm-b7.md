@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ancient-island-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,960 · **trend:** declining · YoY -24.0%
+**12-month volume (illustrative):** 1,910 · **trend:** declining · YoY -31.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -144,15 +144,15 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 160 | flat |
 | Brazil | 130 | flat |
 | Greece | 120 | flat |
-| South Africa | 120 | flat |
-| Netherlands | 90 | growing |
-| Philippines | 90 | growing |
+| South Africa | 110 | declining |
+| Finland | 80 | growing |
 | Malaysia | 80 | flat |
-| Tunisia | 80 | flat |
-| United Kingdom | 80 | declining |
-| Portugal | 70 | declining |
+| Netherlands | 80 | declining |
+| Philippines | 80 | declining |
+| Tunisia | 80 | declining |
+| United Kingdom | 80 | growing |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

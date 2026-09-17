@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/country-farming-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,270 · **trend:** declining · YoY -18.6%
+**12-month volume (illustrative):** 1,240 · **trend:** declining · YoY -13.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 140 | flat |
+| South Africa | 130 | declining |
 | Australia | 120 | flat |
-| Brazil | 110 | flat |
+| Brazil | 120 | flat |
 | Greece | 100 | flat |
-| Tunisia | 90 | flat |
+| Tunisia | 80 | declining |
 | Canada | 60 | flat |
-| Chile | 60 | flat |
+| Chile | 50 | flat |
 | United Kingdom | 50 | flat |
-| Argentina | 40 | declining |
-| Cyprus | 40 | growing |
+| Argentina | 40 | flat |
+| Czech Republic | 40 | declining |
 
-> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

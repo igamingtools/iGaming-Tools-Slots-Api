@@ -144,22 +144,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pizza-pizza-pizza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,900 · **trend:** flat · YoY -2.8%
+**12-month volume (illustrative):** 7,750 · **trend:** declining · YoY -8.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 3,340 | declining |
-| Greece | 530 | flat |
+| Brazil | 3,210 | growing |
+| Greece | 610 | growing |
 | Switzerland | 240 | flat |
-| United Kingdom | 200 | growing |
+| United Kingdom | 210 | growing |
 | Finland | 180 | flat |
 | Cyprus | 150 | flat |
 | Romania | 150 | flat |
-| Canada | 140 | growing |
-| United States | 140 | flat |
+| United States | 140 | declining |
 | Germany | 130 | flat |
+| Italy | 130 | flat |
 
 > Full per-country breakdown (57 markets) via the /demand/ endpoint.
 

@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/escape-the-pyramid-fire-ice-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,120 · **trend:** declining · YoY -40.1%
+**12-month volume (illustrative):** 1,010 · **trend:** declining · YoY -50.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 120 | declining |
-| Switzerland | 120 | flat |
+| Canada | 120 | flat |
 | Brazil | 110 | flat |
 | Greece | 100 | flat |
-| Denmark | 50 | flat |
-| South Africa | 50 | flat |
+| Switzerland | 90 | flat |
+| Denmark | 40 | flat |
 | India | 40 | flat |
 | Malaysia | 40 | flat |
-| Philippines | 40 | flat |
-| Tunisia | 40 | flat |
+| South Africa | 40 | flat |
+| United Kingdom | 40 | declining |
+| Peru | 30 | declining |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

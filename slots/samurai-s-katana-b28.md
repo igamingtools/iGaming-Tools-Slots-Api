@@ -144,22 +144,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/samurai-s-katana-b28/demand/
 ```
 
-**12-month volume (illustrative):** 280 · **trend:** declining · YoY -58.2%
+**12-month volume (illustrative):** 260 · **trend:** declining · YoY -58.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Finland | 40 | flat |
-| Sweden | 40 | declining |
-| Romania | 30 | flat |
-| Switzerland | 30 | declining |
+| Sweden | 40 | flat |
+| Switzerland | 30 | flat |
 | Canada | 20 | flat |
-| Greece | 20 | flat |
+| Greece | 20 | growing |
 | Netherlands | 20 | flat |
-| Norway | 20 | flat |
+| Romania | 20 | flat |
 | Brazil | 10 | flat |
-| Denmark | 10 | declining |
+| Denmark | 10 | flat |
+| Lithuania | 10 | flat |
 
 > Full per-country breakdown (14 markets) via the /demand/ endpoint.
 

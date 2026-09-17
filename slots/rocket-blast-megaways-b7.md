@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rocket-blast-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,880 · **trend:** growing · YoY +17.1%
+**12-month volume (illustrative):** 2,710 · **trend:** growing · YoY +6.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 210 | declining |
-| Canada | 200 | flat |
-| United States | 150 | declining |
-| Malaysia | 140 | flat |
-| South Africa | 140 | flat |
+| Canada | 220 | flat |
+| Brazil | 180 | flat |
 | Greece | 130 | flat |
-| Switzerland | 120 | flat |
-| Indonesia | 110 | flat |
-| Tunisia | 110 | growing |
+| South Africa | 130 | declining |
+| Malaysia | 120 | flat |
+| Switzerland | 120 | declining |
+| United States | 120 | flat |
 | Finland | 100 | flat |
+| Indonesia | 100 | declining |
+| Tunisia | 100 | declining |
 
-> Full per-country breakdown (50 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

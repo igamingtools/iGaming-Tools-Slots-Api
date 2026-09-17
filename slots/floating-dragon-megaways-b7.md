@@ -148,22 +148,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/floating-dragon-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,380 · **trend:** declining · YoY -28.9%
+**12-month volume (illustrative):** 5,050 · **trend:** declining · YoY -29.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,800 | declining |
-| Canada | 160 | flat |
-| United States | 150 | declining |
+| South Africa | 2,590 | declining |
+| Canada | 140 | flat |
 | United Kingdom | 140 | flat |
-| Brazil | 130 | growing |
-| Greece | 130 | flat |
+| United States | 140 | growing |
 | Australia | 120 | flat |
-| Finland | 120 | declining |
-| Tunisia | 120 | declining |
-| Malaysia | 100 | declining |
+| Brazil | 120 | flat |
+| Finland | 120 | growing |
+| Greece | 120 | declining |
+| Tunisia | 110 | flat |
+| Malaysia | 100 | flat |
 
 > Full per-country breakdown (46 markets) via the /demand/ endpoint.
 

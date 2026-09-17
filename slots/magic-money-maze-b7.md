@@ -143,24 +143,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/magic-money-maze-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,360 · **trend:** declining · YoY -42.3%
+**12-month volume (illustrative):** 2,070 · **trend:** declining · YoY -48.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 670 | declining |
-| Brazil | 300 | flat |
-| Canada | 120 | flat |
-| Greece | 110 | declining |
-| Malaysia | 80 | growing |
-| Philippines | 80 | flat |
-| Germany | 70 | flat |
-| Spain | 70 | flat |
-| United States | 70 | flat |
+| South Africa | 530 | declining |
+| Brazil | 250 | flat |
+| Canada | 140 | growing |
+| Greece | 110 | growing |
+| Malaysia | 80 | declining |
+| Germany | 70 | growing |
+| Philippines | 70 | flat |
+| Spain | 60 | flat |
 | Thailand | 60 | flat |
+| United States | 60 | flat |
 
-> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

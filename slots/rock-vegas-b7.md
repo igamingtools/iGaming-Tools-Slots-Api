@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rock-vegas-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,240 · **trend:** declining · YoY -5.6%
+**12-month volume (illustrative):** 5,120 · **trend:** declining · YoY -8.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 660 | growing |
-| Greece | 440 | growing |
-| Hungary | 350 | growing |
-| Indonesia | 280 | growing |
-| Switzerland | 240 | flat |
-| Portugal | 210 | declining |
+| Brazil | 580 | flat |
+| Greece | 440 | declining |
+| Hungary | 380 | growing |
+| Indonesia | 270 | declining |
+| Portugal | 210 | flat |
+| Switzerland | 210 | declining |
 | Finland | 200 | flat |
-| United States | 170 | growing |
-| Argentina | 160 | growing |
-| Poland | 160 | growing |
+| United States | 180 | flat |
+| Argentina | 170 | flat |
+| Poland | 160 | declining |
 
-> Full per-country breakdown (52 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

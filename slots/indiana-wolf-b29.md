@@ -146,7 +146,7 @@ curl -H "Authorization: Token $TOKEN" \
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 310 | growing |
+| South Africa | 310 | declining |
 | India | 40 | flat |
 | Lebanon | 30 | flat |
 | Panama | 30 | flat |

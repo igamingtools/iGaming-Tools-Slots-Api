@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,060 · **trend:** declining · YoY -26.2%
+**12-month volume (illustrative):** 6,590 · **trend:** declining · YoY -30.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,890 | growing |
-| India | 400 | flat |
-| United States | 370 | flat |
-| Brazil | 300 | flat |
+| South Africa | 1,570 | declining |
+| India | 360 | declining |
+| United States | 360 | flat |
+| Brazil | 260 | declining |
 | Canada | 240 | flat |
-| Philippines | 230 | flat |
-| Germany | 220 | flat |
-| Malaysia | 200 | flat |
-| Switzerland | 190 | flat |
-| United Kingdom | 190 | flat |
+| Germany | 210 | declining |
+| Philippines | 210 | declining |
+| Switzerland | 210 | flat |
+| Malaysia | 180 | declining |
+| Pakistan | 180 | declining |
 
 > Full per-country breakdown (66 markets) via the /demand/ endpoint.
 

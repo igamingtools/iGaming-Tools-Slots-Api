@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-walker-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,360 · **trend:** declining · YoY -9.9%
+**12-month volume (illustrative):** 2,310 · **trend:** declining · YoY -10.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 240 | flat |
+| Brazil | 240 | declining |
 | Greece | 140 | flat |
-| Philippines | 130 | flat |
-| South Africa | 120 | flat |
-| Switzerland | 120 | flat |
-| United Kingdom | 100 | declining |
+| Philippines | 120 | declining |
+| Switzerland | 120 | declining |
+| South Africa | 110 | declining |
+| Norway | 90 | flat |
+| United Kingdom | 90 | flat |
 | Finland | 80 | flat |
+| Hungary | 80 | declining |
 | India | 80 | flat |
-| Malaysia | 80 | flat |
-| Norway | 80 | flat |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

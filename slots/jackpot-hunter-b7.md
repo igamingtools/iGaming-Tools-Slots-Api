@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jackpot-hunter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,600 · **trend:** declining · YoY -47.5%
+**12-month volume (illustrative):** 1,450 · **trend:** declining · YoY -41.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 180 | growing |
-| South Africa | 150 | flat |
-| Philippines | 110 | flat |
-| Brazil | 100 | declining |
-| Canada | 100 | flat |
+| India | 160 | declining |
+| South Africa | 140 | declining |
+| Brazil | 100 | flat |
 | Malaysia | 100 | flat |
-| Greece | 90 | flat |
-| Lithuania | 60 | growing |
-| Switzerland | 60 | growing |
-| Bulgaria | 50 | flat |
+| Philippines | 100 | declining |
+| Canada | 80 | flat |
+| Greece | 80 | declining |
+| Switzerland | 60 | declining |
+| Indonesia | 50 | flat |
+| Lithuania | 50 | declining |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

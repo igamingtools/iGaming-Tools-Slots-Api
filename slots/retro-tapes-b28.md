@@ -149,22 +149,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/retro-tapes-b28/demand/
 ```
 
-**12-month volume (illustrative):** 40,080 · **trend:** declining · YoY -27.5%
+**12-month volume (illustrative):** 39,080 · **trend:** declining · YoY -25.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 3,850 | growing |
-| Denmark | 3,550 | declining |
-| United Kingdom | 3,180 | growing |
-| Sweden | 2,950 | flat |
-| Germany | 2,820 | flat |
-| United States | 2,660 | flat |
-| Canada | 2,340 | flat |
-| Switzerland | 2,220 | declining |
-| Netherlands | 1,740 | declining |
-| Ukraine | 1,720 | growing |
+| Greece | 3,630 | declining |
+| Denmark | 3,550 | growing |
+| United Kingdom | 3,120 | growing |
+| Sweden | 2,950 | declining |
+| Germany | 2,600 | growing |
+| United States | 2,560 | growing |
+| Canada | 2,340 | growing |
+| Switzerland | 2,100 | declining |
+| Ukraine | 1,790 | growing |
+| Netherlands | 1,740 | growing |
 
 > Full per-country breakdown (73 markets) via the /demand/ endpoint.
 

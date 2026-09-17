@@ -143,22 +143,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gemhalla-xtreme-b10/demand/
 ```
 
-**12-month volume (illustrative):** 340 · **trend:** flat
+**12-month volume (illustrative):** 430 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 30 | declining |
-| United States | 30 | growing |
-| Australia | 20 | flat |
-| Canada | 20 | declining |
-| Germany | 20 | flat |
-| Greece | 20 | flat |
-| Netherlands | 20 | flat |
-| New Zealand | 20 | flat |
-| Pakistan | 20 | growing |
-| Poland | 20 | flat |
+| Australia | 40 | growing |
+| United States | 40 | declining |
+| Brazil | 30 | flat |
+| Germany | 30 | flat |
+| Greece | 30 | flat |
+| Netherlands | 30 | flat |
+| Poland | 30 | flat |
+| Switzerland | 30 | flat |
+| Canada | 20 | flat |
+| New Zealand | 20 | declining |
 
 > Full per-country breakdown (21 markets) via the /demand/ endpoint.
 

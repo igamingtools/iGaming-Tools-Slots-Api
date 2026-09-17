@@ -140,19 +140,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tapinata-b27/demand/
 ```
 
-**12-month volume (illustrative):** 100 · **trend:** flat
+**12-month volume (illustrative):** 110 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 30 | declining |
-| India | 20 | declining |
+| South Africa | 30 | flat |
+| India | 20 | flat |
+| Ukraine | 20 | growing |
 | Algeria | 10 | flat |
 | Germany | 10 | flat |
 | Philippines | 10 | flat |
-| Ukraine | 10 | flat |
-| Vietnam | 10 | growing |
+| Vietnam | 10 | declining |
 
 > Full per-country breakdown (7 markets) via the /demand/ endpoint.
 

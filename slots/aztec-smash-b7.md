@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-smash-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,480 · **trend:** declining · YoY -33.3%
+**12-month volume (illustrative):** 2,290 · **trend:** declining · YoY -43.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 160 | growing |
-| Brazil | 140 | flat |
-| Finland | 140 | declining |
-| Peru | 140 | declining |
-| Malaysia | 120 | growing |
-| Philippines | 120 | flat |
+| Canada | 160 | flat |
+| Peru | 160 | flat |
+| Brazil | 130 | flat |
+| Finland | 120 | flat |
+| Malaysia | 120 | declining |
 | Denmark | 110 | flat |
-| Greece | 110 | flat |
-| South Africa | 110 | flat |
-| United Kingdom | 110 | declining |
+| Philippines | 110 | declining |
+| Greece | 100 | declining |
+| United Kingdom | 100 | flat |
+| Indonesia | 80 | declining |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

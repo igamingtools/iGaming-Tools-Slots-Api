@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/happy-dragon-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,470 · **trend:** flat
+**12-month volume (illustrative):** 1,840 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 210 | flat |
+| Brazil | 490 | declining |
 | Philippines | 90 | declining |
-| South Africa | 90 | flat |
+| South Africa | 90 | declining |
 | Canada | 60 | flat |
-| Greece | 60 | declining |
+| Greece | 60 | flat |
 | Switzerland | 60 | flat |
-| India | 40 | flat |
+| Sweden | 50 | flat |
+| Hungary | 40 | growing |
+| India | 40 | declining |
 | Malaysia | 40 | flat |
-| Australia | 30 | flat |
-| Cyprus | 30 | flat |
 
-> Full per-country breakdown (50 markets) via the /demand/ endpoint.
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
 
 ## Links
 

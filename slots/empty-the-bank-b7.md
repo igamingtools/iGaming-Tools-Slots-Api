@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/empty-the-bank-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,440 · **trend:** declining · YoY -31.8%
+**12-month volume (illustrative):** 2,370 · **trend:** declining · YoY -32.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 180 | flat |
-| South Africa | 130 | flat |
-| Tunisia | 130 | declining |
-| Canada | 120 | growing |
-| Philippines | 120 | flat |
-| Romania | 120 | flat |
-| Bulgaria | 110 | growing |
-| Greece | 110 | growing |
-| Indonesia | 110 | growing |
-| United Kingdom | 110 | growing |
+| Brazil | 150 | flat |
+| Canada | 120 | declining |
+| Tunisia | 120 | flat |
+| Bulgaria | 110 | flat |
+| Greece | 110 | flat |
+| Philippines | 110 | declining |
+| Romania | 110 | growing |
+| South Africa | 110 | declining |
+| United Kingdom | 110 | flat |
+| Indonesia | 100 | declining |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fury-stairs-b27/demand/
 ```
 
-**12-month volume (illustrative):** 800 · **trend:** declining · YoY -44.1%
+**12-month volume (illustrative):** 670 · **trend:** declining · YoY -54.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 240 | flat |
-| South Africa | 200 | declining |
+| India | 220 | declining |
+| South Africa | 160 | declining |
 | Pakistan | 60 | flat |
-| United States | 40 | flat |
-| Brazil | 30 | flat |
-| Netherlands | 30 | growing |
-| Vietnam | 30 | flat |
+| Brazil | 20 | flat |
 | Canada | 20 | flat |
 | Greece | 20 | flat |
-| Nigeria | 20 | growing |
+| Netherlands | 20 | declining |
+| Nigeria | 20 | declining |
+| Saudi Arabia | 20 | flat |
+| Tunisia | 20 | flat |
 
-> Full per-country breakdown (19 markets) via the /demand/ endpoint.
+> Full per-country breakdown (17 markets) via the /demand/ endpoint.
 
 ## Links
 

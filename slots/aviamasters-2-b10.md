@@ -117,24 +117,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aviamasters-2-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,430 · **trend:** flat
+**12-month volume (illustrative):** 2,730 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 130 | flat |
-| Finland | 120 | declining |
-| India | 100 | flat |
-| United Kingdom | 100 | declining |
-| United States | 100 | declining |
+| Germany | 150 | growing |
+| Finland | 140 | growing |
+| United States | 120 | growing |
+| United Kingdom | 110 | flat |
+| Canada | 100 | growing |
+| India | 100 | declining |
 | Vietnam | 100 | declining |
-| Canada | 80 | declining |
-| Pakistan | 80 | flat |
-| Switzerland | 60 | declining |
-| Argentina | 50 | declining |
+| Pakistan | 80 | declining |
+| Argentina | 60 | growing |
+| Australia | 60 | flat |
 
-> Full per-country breakdown (57 markets) via the /demand/ endpoint.
+> Full per-country breakdown (58 markets) via the /demand/ endpoint.
 
 ## Links
 

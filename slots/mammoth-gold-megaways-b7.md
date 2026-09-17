@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mammoth-gold-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,800 · **trend:** declining · YoY -25.3%
+**12-month volume (illustrative):** 3,550 · **trend:** declining · YoY -31.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 430 | growing |
-| Canada | 260 | flat |
-| Switzerland | 240 | declining |
-| Indonesia | 210 | flat |
-| South Africa | 210 | flat |
-| Tunisia | 200 | flat |
+| Brazil | 380 | growing |
+| Switzerland | 210 | flat |
+| Canada | 200 | flat |
+| South Africa | 190 | declining |
+| Indonesia | 180 | declining |
+| Tunisia | 170 | declining |
 | Greece | 130 | flat |
-| Finland | 120 | declining |
+| Finland | 120 | growing |
 | Germany | 120 | flat |
-| Malaysia | 100 | flat |
+| United States | 120 | flat |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

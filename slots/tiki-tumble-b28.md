@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tiki-tumble-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,630 · **trend:** declining · YoY -25.6%
+**12-month volume (illustrative):** 1,570 · **trend:** declining · YoY -26.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 220 | flat |
-| Switzerland | 180 | declining |
+| Finland | 240 | flat |
+| Switzerland | 180 | growing |
 | Germany | 150 | flat |
-| Canada | 100 | declining |
-| Sweden | 90 | declining |
-| Denmark | 80 | growing |
-| India | 80 | flat |
-| United Kingdom | 80 | declining |
-| Greece | 60 | flat |
-| Netherlands | 60 | flat |
+| Canada | 80 | flat |
+| Denmark | 80 | declining |
+| Sweden | 80 | flat |
+| United Kingdom | 80 | growing |
+| Greece | 60 | growing |
+| India | 60 | flat |
+| Netherlands | 60 | growing |
 
-> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

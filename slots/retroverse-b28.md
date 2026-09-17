@@ -149,22 +149,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/retroverse-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,680 · **trend:** flat
+**12-month volume (illustrative):** 1,800 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 240 | growing |
-| Sweden | 120 | flat |
-| Netherlands | 90 | flat |
-| United Kingdom | 90 | flat |
-| Canada | 80 | flat |
-| Latvia | 70 | declining |
-| Belgium | 60 | declining |
-| Denmark | 60 | flat |
-| Switzerland | 60 | flat |
-| United States | 60 | growing |
+| Finland | 260 | declining |
+| Sweden | 130 | flat |
+| Canada | 100 | flat |
+| Netherlands | 100 | flat |
+| United Kingdom | 100 | flat |
+| Latvia | 80 | flat |
+| Denmark | 70 | flat |
+| Belgium | 60 | flat |
+| Greece | 60 | flat |
+| Norway | 60 | flat |
 
 > Full per-country breakdown (42 markets) via the /demand/ endpoint.
 

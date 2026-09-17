@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/raiden-shogun-b29/demand/
 ```
 
-**12-month volume (illustrative):** 5,930 · **trend:** declining · YoY -59.9%
+**12-month volume (illustrative):** 5,540 · **trend:** declining · YoY -59.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 840 | growing |
-| India | 300 | flat |
+| United States | 720 | declining |
+| India | 260 | declining |
 | Canada | 240 | flat |
-| Malaysia | 240 | flat |
-| Philippines | 240 | flat |
-| Indonesia | 200 | flat |
-| Finland | 180 | flat |
-| Belgium | 160 | declining |
+| Malaysia | 220 | declining |
+| Philippines | 220 | declining |
+| Indonesia | 190 | declining |
+| Finland | 180 | growing |
+| Belgium | 160 | growing |
 | Brazil | 160 | flat |
-| Poland | 140 | growing |
+| Poland | 140 | declining |
 
-> Full per-country breakdown (66 markets) via the /demand/ endpoint.
+> Full per-country breakdown (65 markets) via the /demand/ endpoint.
 
 ## Links
 

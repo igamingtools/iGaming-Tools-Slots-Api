@@ -131,22 +131,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/luxor-of-cleopatra-b7/demand/
 ```
 
-**12-month volume (illustrative):** 250 · **trend:** flat
+**12-month volume (illustrative):** 270 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Belgium | 40 | flat |
-| Malaysia | 40 | flat |
-| Philippines | 30 | growing |
+| Belgium | 60 | flat |
+| Malaysia | 40 | declining |
+| Philippines | 30 | declining |
 | Tunisia | 30 | declining |
-| India | 20 | growing |
-| South Africa | 20 | flat |
-| Indonesia | 10 | growing |
-| Japan | 10 | growing |
-| Lebanon | 10 | growing |
-| Nigeria | 10 | declining |
+| India | 20 | declining |
+| South Africa | 20 | declining |
+| Indonesia | 10 | declining |
+| Japan | 10 | declining |
+| Lebanon | 10 | declining |
+| Nigeria | 10 | flat |
 
 > Full per-country breakdown (13 markets) via the /demand/ endpoint.
 

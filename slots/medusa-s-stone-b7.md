@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/medusa-s-stone-b7/demand/
 ```
 
-**12-month volume (illustrative):** 600 · **trend:** declining · YoY -16.7%
+**12-month volume (illustrative):** 610 · **trend:** declining · YoY -10.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 90 | flat |
-| Germany | 80 | flat |
-| Brazil | 40 | flat |
-| Greece | 40 | declining |
-| Argentina | 30 | flat |
-| Latvia | 30 | growing |
-| Lithuania | 30 | growing |
-| Philippines | 30 | declining |
-| Sweden | 30 | flat |
-| United Kingdom | 30 | declining |
+| Germany | 90 | flat |
+| Switzerland | 60 | flat |
+| Brazil | 50 | declining |
+| Greece | 40 | growing |
+| Sweden | 40 | growing |
+| Argentina | 30 | declining |
+| Latvia | 30 | declining |
+| Lithuania | 30 | declining |
+| United Kingdom | 30 | growing |
+| Croatia | 20 | flat |
 
-> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

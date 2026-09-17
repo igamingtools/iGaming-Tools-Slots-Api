@@ -112,24 +112,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/plinko-1000-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,110 · **trend:** declining · YoY -63.4%
+**12-month volume (illustrative):** 950 · **trend:** declining · YoY -68.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 110 | flat |
-| Brazil | 80 | flat |
-| India | 80 | declining |
-| Poland | 70 | flat |
-| Spain | 70 | flat |
-| Ukraine | 70 | declining |
-| Germany | 60 | flat |
-| Canada | 40 | declining |
-| Italy | 40 | flat |
-| France | 30 | growing |
+| Brazil | 90 | flat |
+| United Kingdom | 90 | growing |
+| India | 60 | flat |
+| Poland | 60 | flat |
+| Spain | 60 | flat |
+| Ukraine | 60 | flat |
+| Germany | 50 | flat |
+| Canada | 40 | flat |
+| Netherlands | 40 | growing |
+| United States | 40 | declining |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

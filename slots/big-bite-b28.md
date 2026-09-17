@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bite-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,050 · **trend:** declining · YoY -21.8%
+**12-month volume (illustrative):** 2,090 · **trend:** declining · YoY -19.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -160,13 +160,13 @@ curl -H "Authorization: Token $TOKEN" \
 | Latvia | 140 | flat |
 | Netherlands | 140 | flat |
 | Greece | 130 | flat |
-| Sweden | 130 | flat |
+| Sweden | 120 | declining |
 | United States | 120 | flat |
-| Norway | 110 | declining |
+| Norway | 110 | growing |
 | United Kingdom | 110 | flat |
 | Finland | 100 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

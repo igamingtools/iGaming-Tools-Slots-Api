@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/infective-wild-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,720 · **trend:** growing · YoY +30.5%
+**12-month volume (illustrative):** 3,650 · **trend:** growing · YoY +23.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 390 | declining |
-| Greece | 260 | declining |
-| Canada | 200 | growing |
-| Finland | 140 | growing |
-| Indonesia | 130 | flat |
-| Philippines | 130 | flat |
-| South Africa | 130 | declining |
+| Brazil | 340 | flat |
+| Greece | 260 | flat |
+| Canada | 200 | flat |
+| Finland | 120 | declining |
+| Philippines | 120 | declining |
+| South Africa | 120 | flat |
+| Switzerland | 120 | growing |
 | United Kingdom | 120 | flat |
-| France | 100 | declining |
-| Argentina | 90 | flat |
+| Indonesia | 110 | declining |
+| Argentina | 100 | flat |
 
 > Full per-country breakdown (56 markets) via the /demand/ endpoint.
 

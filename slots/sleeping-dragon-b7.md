@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sleeping-dragon-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,210 · **trend:** growing · YoY +134.3%
+**12-month volume (illustrative):** 6,090 · **trend:** growing · YoY +77.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Australia | 1,120 | growing |
-| Brazil | 620 | growing |
-| Romania | 570 | declining |
-| Greece | 480 | declining |
-| South Africa | 260 | flat |
-| Indonesia | 200 | flat |
+| Australia | 1,250 | declining |
+| Brazil | 710 | declining |
+| Romania | 440 | flat |
+| Greece | 400 | growing |
+| South Africa | 250 | declining |
 | Canada | 180 | flat |
-| Malaysia | 180 | flat |
-| Finland | 160 | growing |
-| New Zealand | 150 | flat |
+| Indonesia | 180 | declining |
+| Malaysia | 180 | declining |
+| New Zealand | 150 | declining |
+| Finland | 140 | declining |
 
-> Full per-country breakdown (64 markets) via the /demand/ endpoint.
+> Full per-country breakdown (65 markets) via the /demand/ endpoint.
 
 ## Links
 

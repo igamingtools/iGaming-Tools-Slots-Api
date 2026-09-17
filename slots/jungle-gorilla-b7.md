@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jungle-gorilla-b7/demand/
 ```
 
-**12-month volume (illustrative):** 840 · **trend:** declining · YoY -22.2%
+**12-month volume (illustrative):** 790 · **trend:** declining · YoY -24.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 100 | growing |
-| Brazil | 90 | declining |
+| South Africa | 90 | declining |
 | El Salvador | 80 | flat |
-| United Kingdom | 70 | growing |
-| Romania | 40 | flat |
-| Germany | 30 | declining |
-| Greece | 30 | declining |
+| Brazil | 70 | flat |
+| United Kingdom | 60 | declining |
+| Romania | 40 | growing |
+| Germany | 30 | flat |
+| Greece | 30 | growing |
 | Switzerland | 30 | flat |
 | Turkey | 30 | flat |
-| India | 20 | flat |
+| Ukraine | 30 | growing |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

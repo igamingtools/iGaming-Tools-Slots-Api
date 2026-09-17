@@ -132,24 +132,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/return-of-the-dead-b7/demand/
 ```
 
-**12-month volume (illustrative):** 880 · **trend:** declining · YoY -6.4%
+**12-month volume (illustrative):** 780 · **trend:** declining · YoY -16.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 170 | flat |
-| Brazil | 100 | growing |
-| Malaysia | 80 | declining |
-| United Kingdom | 80 | flat |
-| Germany | 50 | flat |
-| Indonesia | 40 | flat |
-| Philippines | 40 | growing |
-| Romania | 30 | declining |
+| South Africa | 140 | declining |
+| Brazil | 100 | declining |
+| United Kingdom | 70 | flat |
+| Malaysia | 60 | flat |
+| Germany | 40 | flat |
+| Philippines | 40 | declining |
+| Indonesia | 30 | flat |
+| Romania | 30 | flat |
 | Switzerland | 30 | flat |
 | Finland | 20 | flat |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

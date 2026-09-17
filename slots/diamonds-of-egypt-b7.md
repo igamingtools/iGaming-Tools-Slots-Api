@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/diamonds-of-egypt-b7/demand/
 ```
 
-**12-month volume (illustrative):** 770 · **trend:** growing · YoY +28.3%
+**12-month volume (illustrative):** 680 · **trend:** flat · YoY +4.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 140 | declining |
-| Portugal | 80 | growing |
-| United States | 80 | declining |
-| Brazil | 70 | declining |
-| South Africa | 70 | declining |
-| United Kingdom | 40 | declining |
+| Greece | 100 | flat |
+| United States | 80 | flat |
+| Portugal | 70 | declining |
+| Brazil | 60 | declining |
+| South Africa | 60 | flat |
+| United Kingdom | 40 | flat |
 | Netherlands | 30 | flat |
-| Philippines | 30 | flat |
 | Finland | 20 | flat |
-| Germany | 20 | growing |
+| Germany | 20 | declining |
+| Latvia | 20 | flat |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/monkey-warrior-b7/demand/
 ```
 
-**12-month volume (illustrative):** 740 · **trend:** declining · YoY -15.9%
+**12-month volume (illustrative):** 690 · **trend:** declining · YoY -18.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 110 | flat |
+| South Africa | 100 | declining |
 | Brazil | 90 | declining |
-| Indonesia | 90 | declining |
-| United Kingdom | 70 | declining |
-| Tunisia | 60 | growing |
+| Indonesia | 80 | flat |
+| United Kingdom | 70 | growing |
+| Tunisia | 60 | declining |
 | Malaysia | 40 | flat |
 | Lithuania | 30 | flat |
 | Philippines | 30 | flat |
 | Romania | 30 | flat |
 | Finland | 20 | flat |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (22 markets) via the /demand/ endpoint.
 
 ## Links
 

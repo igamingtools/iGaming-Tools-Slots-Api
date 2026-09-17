@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-olympus-b7/demand/
 ```
 
-**12-month volume (illustrative):** 522,540 · **trend:** declining · YoY -44.6%
+**12-month volume (illustrative):** 495,530 · **trend:** declining · YoY -45.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Turkey | 105,300 | flat |
-| Brazil | 56,250 | declining |
-| Indonesia | 52,100 | declining |
-| South Africa | 34,700 | declining |
-| Greece | 34,200 | flat |
-| Romania | 23,500 | flat |
-| Germany | 19,310 | declining |
-| Switzerland | 14,840 | flat |
-| Netherlands | 14,580 | declining |
-| Canada | 11,320 | growing |
+| Turkey | 102,000 | growing |
+| Brazil | 55,150 | growing |
+| Indonesia | 42,200 | declining |
+| Greece | 33,200 | flat |
+| South Africa | 31,100 | declining |
+| Romania | 22,700 | declining |
+| Germany | 19,240 | growing |
+| Switzerland | 15,220 | growing |
+| Netherlands | 14,280 | growing |
+| Canada | 11,320 | flat |
 
 > Full per-country breakdown (80 markets) via the /demand/ endpoint.
 

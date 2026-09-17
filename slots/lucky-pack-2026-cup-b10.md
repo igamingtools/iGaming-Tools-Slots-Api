@@ -127,22 +127,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-pack-2026-cup-b10/demand/
 ```
 
-**12-month volume (illustrative):** 350 · **trend:** flat
+**12-month volume (illustrative):** 440 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 40 | declining |
-| Greece | 40 | declining |
-| United Kingdom | 30 | flat |
-| United States | 30 | growing |
-| Brazil | 20 | flat |
-| Cyprus | 20 | growing |
-| Germany | 20 | flat |
-| South Africa | 20 | growing |
-| Argentina | 10 | flat |
-| Australia | 10 | flat |
+| Greece | 50 | growing |
+| Canada | 40 | flat |
+| United Kingdom | 40 | flat |
+| United States | 40 | declining |
+| Brazil | 30 | declining |
+| Cyprus | 30 | flat |
+| Australia | 20 | growing |
+| Denmark | 20 | growing |
+| Germany | 20 | declining |
+| Netherlands | 20 | growing |
 
 > Full per-country breakdown (21 markets) via the /demand/ endpoint.
 

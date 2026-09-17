@@ -120,22 +120,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bounty-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,110 · **trend:** declining · YoY -33.9%
+**12-month volume (illustrative):** 2,080 · **trend:** declining · YoY -31.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 290 | flat |
-| Indonesia | 170 | flat |
-| South Africa | 150 | flat |
-| Greece | 120 | flat |
-| Tunisia | 110 | declining |
+| Brazil | 260 | flat |
+| Indonesia | 150 | declining |
+| South Africa | 140 | declining |
+| Greece | 110 | declining |
 | Malaysia | 100 | flat |
+| Tunisia | 100 | flat |
 | Argentina | 90 | flat |
 | Mexico | 90 | flat |
-| Philippines | 70 | flat |
-| Turkey | 70 | flat |
+| Switzerland | 90 | growing |
+| Turkey | 70 | growing |
 
 > Full per-country breakdown (45 markets) via the /demand/ endpoint.
 

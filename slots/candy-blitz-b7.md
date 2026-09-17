@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-blitz-b7/demand/
 ```
 
-**12-month volume (illustrative):** 11,850 · **trend:** declining · YoY -15.4%
+**12-month volume (illustrative):** 10,800 · **trend:** declining · YoY -24.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,330 | declining |
-| Philippines | 1,220 | declining |
-| South Africa | 880 | declining |
-| Greece | 700 | flat |
-| Argentina | 410 | growing |
+| Brazil | 1,750 | declining |
+| Philippines | 1,110 | declining |
+| South Africa | 860 | declining |
+| Greece | 640 | declining |
 | Canada | 400 | flat |
-| Indonesia | 400 | declining |
-| Peru | 280 | growing |
-| Switzerland | 270 | growing |
-| Turkey | 260 | flat |
+| Argentina | 390 | declining |
+| Indonesia | 350 | declining |
+| Peru | 290 | flat |
+| Belgium | 240 | flat |
+| Switzerland | 240 | declining |
 
-> Full per-country breakdown (66 markets) via the /demand/ endpoint.
+> Full per-country breakdown (65 markets) via the /demand/ endpoint.
 
 ## Links
 

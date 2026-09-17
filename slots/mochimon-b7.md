@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mochimon-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,720 · **trend:** declining · YoY -13.2%
+**12-month volume (illustrative):** 4,610 · **trend:** declining · YoY -15.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 380 | declining |
-| Brazil | 340 | flat |
-| Canada | 220 | declining |
-| Hungary | 200 | declining |
-| Malaysia | 180 | flat |
-| Portugal | 180 | declining |
-| Indonesia | 160 | flat |
-| Switzerland | 150 | growing |
+| United States | 380 | growing |
+| Brazil | 330 | growing |
+| Hungary | 230 | growing |
+| Canada | 200 | flat |
+| Switzerland | 180 | flat |
+| Malaysia | 160 | declining |
+| Indonesia | 150 | declining |
+| Portugal | 150 | flat |
 | Greece | 140 | flat |
-| Australia | 130 | flat |
+| Australia | 120 | declining |
 
 > Full per-country breakdown (57 markets) via the /demand/ endpoint.
 

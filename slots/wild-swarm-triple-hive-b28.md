@@ -132,24 +132,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-swarm-triple-hive-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,390 · **trend:** growing · YoY +291.8%
+**12-month volume (illustrative):** 1,840 · **trend:** growing · YoY +46.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Netherlands | 210 | flat |
-| Finland | 200 | flat |
-| United Kingdom | 200 | growing |
-| Canada | 140 | declining |
-| Greece | 130 | declining |
-| Germany | 110 | flat |
-| Sweden | 100 | growing |
-| United States | 100 | flat |
-| Austria | 80 | flat |
-| Brazil | 70 | growing |
+| Finland | 160 | declining |
+| Netherlands | 150 | flat |
+| Canada | 140 | growing |
+| Greece | 120 | growing |
+| Germany | 100 | declining |
+| United Kingdom | 100 | flat |
+| Sweden | 90 | flat |
+| United States | 80 | flat |
+| Austria | 70 | flat |
+| Brazil | 60 | declining |
 
-> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
 
 ## Links
 

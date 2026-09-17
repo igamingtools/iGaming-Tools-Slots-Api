@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/down-the-rails-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,900 · **trend:** flat · YoY +4.3%
+**12-month volume (illustrative):** 2,820 · **trend:** flat · YoY -0.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 520 | declining |
+| Greece | 520 | growing |
 | Poland | 220 | flat |
-| United Kingdom | 200 | flat |
-| South Africa | 190 | flat |
-| Finland | 160 | declining |
+| United Kingdom | 220 | growing |
+| Finland | 140 | flat |
+| South Africa | 140 | declining |
 | Brazil | 110 | flat |
-| Netherlands | 110 | growing |
+| Netherlands | 100 | declining |
+| Bulgaria | 90 | flat |
 | Switzerland | 90 | flat |
-| Argentina | 80 | growing |
-| Bulgaria | 80 | flat |
+| Argentina | 80 | flat |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

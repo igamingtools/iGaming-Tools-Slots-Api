@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bison-battle-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,950 · **trend:** declining · YoY -57.6%
+**12-month volume (illustrative):** 1,900 · **trend:** declining · YoY -55.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 140 | flat |
-| Greece | 110 | growing |
-| Canada | 100 | declining |
-| Denmark | 100 | flat |
-| Germany | 100 | declining |
+| Finland | 160 | growing |
+| Greece | 110 | flat |
+| Denmark | 100 | declining |
+| Germany | 100 | growing |
+| Romania | 90 | growing |
 | Brazil | 80 | flat |
-| Romania | 80 | declining |
-| Sweden | 80 | flat |
-| Netherlands | 70 | growing |
-| Ukraine | 70 | growing |
+| Canada | 80 | flat |
+| Netherlands | 80 | flat |
+| Sweden | 80 | growing |
+| Ukraine | 70 | flat |
 
-> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

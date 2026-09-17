@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/joker-king-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,520 · **trend:** declining · YoY -23.2%
+**12-month volume (illustrative):** 1,410 · **trend:** declining · YoY -28.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 150 | flat |
+| South Africa | 130 | declining |
 | Brazil | 110 | flat |
 | Argentina | 100 | flat |
-| Indonesia | 100 | flat |
-| Ukraine | 80 | growing |
-| Belgium | 60 | flat |
+| Indonesia | 90 | flat |
+| Ukraine | 70 | flat |
 | Greece | 60 | flat |
-| Czech Republic | 50 | flat |
 | Lebanon | 50 | flat |
 | Netherlands | 50 | flat |
+| Poland | 50 | growing |
+| United Kingdom | 50 | growing |
 
-> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

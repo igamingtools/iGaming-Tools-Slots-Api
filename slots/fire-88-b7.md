@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-88-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,490 · **trend:** declining · YoY -16.3%
+**12-month volume (illustrative):** 1,380 · **trend:** declining · YoY -24.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 220 | flat |
-| Brazil | 130 | flat |
-| Nicaragua | 130 | flat |
-| El Salvador | 100 | flat |
-| Indonesia | 100 | declining |
+| South Africa | 200 | declining |
+| Brazil | 120 | flat |
+| Nicaragua | 110 | declining |
+| El Salvador | 90 | declining |
+| Indonesia | 90 | flat |
 | Mexico | 90 | flat |
-| Peru | 80 | growing |
-| Guatemala | 60 | growing |
+| Peru | 90 | flat |
+| Guatemala | 60 | declining |
 | India | 60 | flat |
 | Argentina | 40 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

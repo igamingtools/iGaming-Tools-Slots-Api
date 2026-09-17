@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/smugglers-cove-b7/demand/
 ```
 
-**12-month volume (illustrative):** 760 · **trend:** growing · YoY +192.3%
+**12-month volume (illustrative):** 710 · **trend:** growing · YoY +108.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 120 | flat |
-| South Africa | 80 | growing |
+| South Africa | 80 | declining |
 | Greece | 70 | flat |
-| Lithuania | 70 | growing |
-| Argentina | 40 | growing |
+| Lithuania | 60 | declining |
+| Argentina | 40 | declining |
 | Malaysia | 40 | flat |
-| Philippines | 40 | growing |
+| Philippines | 40 | declining |
 | Germany | 30 | flat |
 | Switzerland | 30 | flat |
-| Tunisia | 30 | flat |
+| Ukraine | 30 | declining |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

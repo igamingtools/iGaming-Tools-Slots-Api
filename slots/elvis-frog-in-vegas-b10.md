@@ -132,24 +132,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/elvis-frog-in-vegas-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,840 · **trend:** growing · YoY +45.6%
+**12-month volume (illustrative):** 2,840 · **trend:** growing · YoY +26.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 340 | declining |
-| New Zealand | 280 | declining |
-| Australia | 250 | growing |
-| Canada | 180 | flat |
-| United States | 140 | flat |
+| Finland | 320 | growing |
+| New Zealand | 310 | growing |
+| Australia | 280 | declining |
+| Canada | 200 | flat |
+| United States | 160 | flat |
 | United Kingdom | 120 | flat |
-| Belarus | 110 | flat |
-| Germany | 100 | flat |
-| Netherlands | 100 | flat |
-| Ukraine | 100 | flat |
+| Netherlands | 110 | flat |
+| Belarus | 100 | declining |
+| Germany | 90 | declining |
+| Greece | 90 | flat |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

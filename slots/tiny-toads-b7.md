@@ -141,21 +141,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tiny-toads-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,050 · **trend:** declining · YoY -22.4%
+**12-month volume (illustrative):** 3,580 · **trend:** declining · YoY -39.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 760 | growing |
-| South Africa | 280 | growing |
-| Canada | 180 | flat |
-| United States | 160 | growing |
-| Denmark | 150 | flat |
-| El Salvador | 140 | flat |
-| Malaysia | 140 | growing |
-| Indonesia | 130 | declining |
-| Mexico | 130 | flat |
+| Brazil | 600 | growing |
+| South Africa | 260 | declining |
+| Canada | 160 | declining |
+| Denmark | 140 | flat |
+| United States | 140 | declining |
+| El Salvador | 130 | declining |
+| Indonesia | 120 | declining |
+| Malaysia | 120 | declining |
+| Mexico | 120 | flat |
 | United Kingdom | 120 | flat |
 
 > Full per-country breakdown (51 markets) via the /demand/ endpoint.

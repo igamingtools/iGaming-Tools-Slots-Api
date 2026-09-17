@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rocket-eruption-triple-blast-b10/demand/
 ```
 
-**12-month volume (illustrative):** 620 · **trend:** flat
+**12-month volume (illustrative):** 730 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 120 | flat |
-| United States | 90 | flat |
-| United Kingdom | 50 | flat |
-| Greece | 40 | declining |
-| Netherlands | 40 | flat |
-| Germany | 30 | declining |
-| Ireland | 30 | growing |
-| Qatar | 30 | flat |
-| Australia | 20 | declining |
-| Brazil | 20 | declining |
+| Canada | 140 | flat |
+| United States | 120 | flat |
+| United Kingdom | 60 | flat |
+| Netherlands | 50 | flat |
+| Germany | 40 | growing |
+| Greece | 40 | flat |
+| Brazil | 30 | declining |
+| Ireland | 30 | declining |
+| Italy | 30 | declining |
+| Qatar | 30 | declining |
 
 > Full per-country breakdown (21 markets) via the /demand/ endpoint.
 

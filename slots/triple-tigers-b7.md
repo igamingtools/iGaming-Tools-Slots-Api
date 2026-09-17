@@ -115,24 +115,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/triple-tigers-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,490 · **trend:** declining · YoY -43.8%
+**12-month volume (illustrative):** 1,380 · **trend:** declining · YoY -48.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 570 | flat |
-| Brazil | 140 | flat |
-| India | 80 | flat |
-| Peru | 50 | declining |
-| Turkey | 50 | growing |
-| Romania | 40 | declining |
-| Argentina | 30 | growing |
-| Germany | 30 | declining |
-| Netherlands | 30 | flat |
+| South Africa | 480 | declining |
+| Brazil | 130 | flat |
+| India | 60 | flat |
+| Peru | 50 | flat |
+| Turkey | 50 | declining |
+| Argentina | 40 | growing |
+| Netherlands | 40 | growing |
+| Romania | 40 | flat |
+| Malta | 30 | flat |
 | Philippines | 30 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
 
 ## Links
 

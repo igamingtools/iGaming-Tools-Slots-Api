@@ -135,21 +135,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ufo-pyramids-b10/demand/
 ```
 
-**12-month volume (illustrative):** 430 · **trend:** flat
+**12-month volume (illustrative):** 470 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Brazil | 40 | flat |
 | United States | 40 | flat |
-| Germany | 30 | growing |
+| Australia | 30 | growing |
+| Germany | 30 | declining |
 | Poland | 30 | flat |
-| United Kingdom | 30 | declining |
-| Australia | 20 | declining |
+| United Kingdom | 30 | flat |
 | Belarus | 20 | flat |
-| Brazil | 20 | growing |
 | Colombia | 20 | flat |
-| Cyprus | 20 | growing |
+| Cyprus | 20 | declining |
 | Italy | 20 | flat |
 
 > Full per-country breakdown (25 markets) via the /demand/ endpoint.

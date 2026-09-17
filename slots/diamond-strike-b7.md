@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/diamond-strike-b7/demand/
 ```
 
-**12-month volume (illustrative):** 13,590 · **trend:** declining · YoY -38.9%
+**12-month volume (illustrative):** 12,140 · **trend:** declining · YoY -43.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 8,260 | flat |
-| Brazil | 890 | declining |
-| Argentina | 300 | declining |
-| United States | 240 | flat |
-| Canada | 180 | declining |
-| Italy | 160 | growing |
-| Mexico | 160 | flat |
-| Tunisia | 150 | growing |
-| India | 140 | growing |
-| Indonesia | 140 | declining |
+| South Africa | 7,260 | declining |
+| Brazil | 680 | declining |
+| Argentina | 280 | growing |
+| United States | 220 | declining |
+| Canada | 180 | growing |
+| Italy | 160 | flat |
+| Mexico | 150 | flat |
+| Tunisia | 140 | declining |
+| Greece | 130 | flat |
+| Indonesia | 130 | declining |
 
-> Full per-country breakdown (69 markets) via the /demand/ endpoint.
+> Full per-country breakdown (68 markets) via the /demand/ endpoint.
 
 ## Links
 

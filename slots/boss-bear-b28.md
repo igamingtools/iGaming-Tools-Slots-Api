@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/boss-bear-b28/demand/
 ```
 
-**12-month volume (illustrative):** 4,410 · **trend:** declining · YoY -30.4%
+**12-month volume (illustrative):** 4,230 · **trend:** declining · YoY -31.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 510 | growing |
-| United Kingdom | 300 | growing |
-| Germany | 270 | declining |
-| Netherlands | 250 | declining |
+| Switzerland | 480 | declining |
+| United Kingdom | 290 | declining |
+| Germany | 250 | flat |
 | Finland | 240 | flat |
-| Canada | 180 | declining |
-| Austria | 170 | growing |
-| United States | 160 | flat |
+| Netherlands | 240 | growing |
+| Canada | 180 | growing |
+| Austria | 170 | flat |
+| United States | 160 | growing |
 | Sweden | 150 | flat |
 | Denmark | 140 | flat |
 
-> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

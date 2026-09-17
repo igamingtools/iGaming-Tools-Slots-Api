@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/joker-troupe-b28/demand/
 ```
 
-**12-month volume (illustrative):** 4,940 · **trend:** declining · YoY -18.2%
+**12-month volume (illustrative):** 4,660 · **trend:** declining · YoY -21.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 710 | flat |
+| Greece | 660 | declining |
 | Romania | 250 | flat |
-| Canada | 240 | flat |
 | United States | 240 | flat |
-| Belgium | 160 | growing |
-| Finland | 160 | flat |
-| Denmark | 150 | declining |
-| India | 140 | flat |
+| Canada | 220 | declining |
+| Finland | 180 | flat |
+| Denmark | 150 | flat |
+| Belgium | 140 | declining |
 | Germany | 130 | flat |
 | Spain | 130 | flat |
+| India | 120 | declining |
 
-> Full per-country breakdown (59 markets) via the /demand/ endpoint.
+> Full per-country breakdown (58 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -141,24 +141,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rise-of-pyramids-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,130 · **trend:** growing · YoY +19.7%
+**12-month volume (illustrative):** 1,940 · **trend:** flat · YoY +4.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 190 | flat |
-| India | 120 | flat |
-| Switzerland | 120 | flat |
-| Brazil | 110 | declining |
-| Germany | 100 | declining |
-| Malaysia | 100 | declining |
-| South Africa | 100 | declining |
+| Greece | 180 | flat |
+| India | 120 | declining |
+| Switzerland | 120 | growing |
+| Malaysia | 100 | flat |
+| Brazil | 90 | flat |
+| Germany | 90 | flat |
+| South Africa | 90 | flat |
+| Australia | 70 | flat |
 | Portugal | 70 | flat |
-| Australia | 60 | flat |
-| Canada | 60 | growing |
+| Canada | 60 | declining |
 
-> Full per-country breakdown (50 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

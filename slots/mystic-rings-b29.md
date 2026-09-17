@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystic-rings-b29/demand/
 ```
 
-**12-month volume (illustrative):** 9,040 · **trend:** growing · YoY +11200.0%
+**12-month volume (illustrative):** 8,920 · **trend:** growing · YoY +4360.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 8,440 | flat |
+| South Africa | 8,370 | declining |
 | Canada | 60 | flat |
-| Indonesia | 60 | flat |
-| United Kingdom | 60 | growing |
-| United States | 60 | declining |
-| Panama | 50 | flat |
+| United Kingdom | 60 | declining |
+| United States | 60 | flat |
+| Indonesia | 50 | flat |
 | Tunisia | 50 | flat |
-| Lebanon | 40 | flat |
-| Mexico | 30 | growing |
+| Panama | 40 | flat |
+| Lebanon | 30 | flat |
+| Mexico | 30 | declining |
 | Germany | 20 | flat |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

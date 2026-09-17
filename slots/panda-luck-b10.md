@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/panda-luck-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,420 · **trend:** growing · YoY +44.9%
+**12-month volume (illustrative):** 1,310 · **trend:** growing · YoY +14.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 660 | declining |
+| Brazil | 580 | flat |
 | India | 120 | flat |
-| United States | 100 | flat |
-| Mexico | 50 | growing |
+| United States | 80 | flat |
+| Mexico | 60 | flat |
 | Belgium | 40 | flat |
-| Greece | 30 | growing |
-| Hungary | 30 | declining |
-| Romania | 30 | flat |
+| Greece | 30 | declining |
+| Hungary | 30 | flat |
+| Italy | 30 | declining |
 | South Africa | 30 | flat |
-| United Kingdom | 30 | flat |
+| Canada | 20 | flat |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (32 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -125,7 +125,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/3-magic-pots-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,620 · **trend:** growing · YoY +80.0%
+**12-month volume (illustrative):** 1,570 · **trend:** growing · YoY +49.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -133,16 +133,16 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Finland | 260 | flat |
 | Brazil | 160 | flat |
-| United States | 160 | declining |
 | Greece | 150 | flat |
 | Canada | 140 | flat |
+| United States | 140 | flat |
 | Netherlands | 110 | flat |
-| United Kingdom | 100 | flat |
-| Sweden | 80 | growing |
-| Australia | 70 | declining |
-| Spain | 50 | flat |
+| United Kingdom | 90 | declining |
+| Australia | 60 | flat |
+| Sweden | 60 | declining |
+| Spain | 50 | growing |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (32 markets) via the /demand/ endpoint.
 
 ## Links
 

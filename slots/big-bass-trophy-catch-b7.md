@@ -153,22 +153,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-trophy-catch-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,440 · **trend:** flat
+**12-month volume (illustrative):** 7,460 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 1,160 | declining |
-| Brazil | 810 | growing |
-| Greece | 650 | growing |
-| Canada | 420 | flat |
+| United Kingdom | 1,300 | growing |
+| Brazil | 980 | growing |
+| Greece | 760 | growing |
+| Canada | 440 | flat |
+| Portugal | 240 | growing |
 | South Africa | 240 | declining |
-| Portugal | 200 | growing |
-| Netherlands | 190 | declining |
-| Switzerland | 180 | flat |
-| Germany | 170 | growing |
-| Latvia | 170 | flat |
+| Switzerland | 210 | flat |
+| Latvia | 200 | growing |
+| Netherlands | 200 | flat |
+| Germany | 190 | flat |
 
 > Full per-country breakdown (62 markets) via the /demand/ endpoint.
 

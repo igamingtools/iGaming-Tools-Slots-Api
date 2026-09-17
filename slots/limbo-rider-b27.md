@@ -111,24 +111,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/limbo-rider-b27/demand/
 ```
 
-**12-month volume (illustrative):** 1,030 · **trend:** flat · YoY -2.8%
+**12-month volume (illustrative):** 910 · **trend:** declining · YoY -22.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 420 | flat |
+| India | 380 | declining |
 | Pakistan | 120 | flat |
-| South Africa | 110 | growing |
+| South Africa | 100 | declining |
 | Brazil | 30 | flat |
-| Nigeria | 30 | flat |
-| Australia | 20 | growing |
-| Canada | 20 | growing |
-| France | 20 | declining |
-| Kuwait | 20 | flat |
+| Canada | 20 | declining |
+| France | 20 | flat |
 | Malaysia | 20 | flat |
+| Nigeria | 20 | flat |
+| Poland | 20 | flat |
+| Saudi Arabia | 20 | flat |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (26 markets) via the /demand/ endpoint.
 
 ## Links
 

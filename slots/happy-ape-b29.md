@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/happy-ape-b29/demand/
 ```
 
-**12-month volume (illustrative):** 910 · **trend:** declining · YoY -34.5%
+**12-month volume (illustrative):** 810 · **trend:** declining · YoY -42.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 560 | flat |
-| India | 120 | declining |
+| South Africa | 490 | declining |
+| India | 100 | flat |
 | Pakistan | 60 | flat |
-| Indonesia | 20 | flat |
-| Mexico | 20 | flat |
+| Mexico | 30 | growing |
 | Panama | 20 | flat |
-| Poland | 20 | flat |
-| Tunisia | 20 | growing |
+| Tunisia | 20 | declining |
 | United Kingdom | 20 | flat |
 | Brazil | 10 | flat |
+| Indonesia | 10 | flat |
+| Nigeria | 10 | flat |
 
 > Full per-country breakdown (14 markets) via the /demand/ endpoint.
 

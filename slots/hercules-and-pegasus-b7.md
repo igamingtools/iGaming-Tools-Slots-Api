@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hercules-and-pegasus-b7/demand/
 ```
 
-**12-month volume (illustrative):** 530 · **trend:** declining · YoY -27.4%
+**12-month volume (illustrative):** 500 · **trend:** declining · YoY -35.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 60 | flat |
-| Brazil | 50 | flat |
 | Greece | 50 | flat |
-| Tunisia | 40 | growing |
-| Australia | 30 | growing |
+| South Africa | 50 | flat |
+| Brazil | 40 | flat |
+| Romania | 40 | declining |
+| Tunisia | 40 | declining |
+| Australia | 30 | declining |
 | Philippines | 30 | flat |
-| Romania | 30 | flat |
 | Switzerland | 30 | flat |
 | United Kingdom | 30 | flat |
 | Croatia | 20 | flat |
 
-> Full per-country breakdown (23 markets) via the /demand/ endpoint.
+> Full per-country breakdown (21 markets) via the /demand/ endpoint.
 
 ## Links
 

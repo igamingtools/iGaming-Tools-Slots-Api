@@ -132,22 +132,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-road-race-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,220 · **trend:** flat
+**12-month volume (illustrative):** 1,350 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 120 | flat |
-| Pakistan | 100 | flat |
-| Canada | 80 | flat |
+| India | 120 | declining |
+| Pakistan | 100 | declining |
+| Canada | 80 | declining |
+| Norway | 70 | flat |
+| United Kingdom | 70 | flat |
+| Czech Republic | 60 | growing |
 | Finland | 60 | flat |
-| Norway | 60 | flat |
-| Czech Republic | 50 | flat |
-| Germany | 50 | declining |
-| Italy | 50 | growing |
-| New Zealand | 50 | flat |
-| Poland | 50 | declining |
+| Germany | 60 | growing |
+| New Zealand | 60 | flat |
+| Sweden | 60 | flat |
 
 > Full per-country breakdown (30 markets) via the /demand/ endpoint.
 

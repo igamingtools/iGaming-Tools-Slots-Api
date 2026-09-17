@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mustang-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 11,150 · **trend:** declining · YoY -22.3%
+**12-month volume (illustrative):** 10,750 · **trend:** declining · YoY -26.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 1,140 | flat |
-| United Kingdom | 960 | declining |
-| Argentina | 770 | growing |
-| South Africa | 750 | growing |
-| Germany | 630 | declining |
-| Ireland | 510 | flat |
-| Greece | 500 | flat |
-| Australia | 460 | declining |
-| Indonesia | 460 | declining |
+| Philippines | 1,030 | declining |
+| United Kingdom | 940 | growing |
+| Argentina | 820 | growing |
+| Germany | 680 | growing |
+| South Africa | 660 | declining |
+| Greece | 480 | declining |
+| Ireland | 450 | flat |
 | Canada | 440 | flat |
+| Australia | 430 | growing |
+| Indonesia | 420 | declining |
 
-> Full per-country breakdown (69 markets) via the /demand/ endpoint.
+> Full per-country breakdown (68 markets) via the /demand/ endpoint.
 
 ## Links
 

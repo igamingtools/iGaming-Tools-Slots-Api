@@ -153,24 +153,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystery-museum-b28/demand/
 ```
 
-**12-month volume (illustrative):** 7,340 · **trend:** declining · YoY -5.4%
+**12-month volume (illustrative):** 7,370 · **trend:** flat · YoY -4.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 1,300 | growing |
-| Austria | 570 | growing |
-| Greece | 480 | declining |
+| Germany | 1,370 | flat |
+| Austria | 650 | growing |
+| Greece | 440 | growing |
 | Denmark | 430 | declining |
-| Switzerland | 360 | flat |
-| Spain | 250 | flat |
+| Switzerland | 390 | growing |
 | Finland | 240 | flat |
+| Spain | 230 | flat |
 | United States | 220 | flat |
-| India | 180 | flat |
 | Canada | 160 | flat |
+| India | 160 | flat |
 
-> Full per-country breakdown (61 markets) via the /demand/ endpoint.
+> Full per-country breakdown (58 markets) via the /demand/ endpoint.
 
 ## Links
 

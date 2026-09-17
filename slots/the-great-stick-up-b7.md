@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-great-stick-up-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,440 · **trend:** declining · YoY -15.6%
+**12-month volume (illustrative):** 2,270 · **trend:** declining · YoY -21.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 490 | declining |
-| United States | 180 | declining |
-| Denmark | 140 | declining |
-| Brazil | 110 | flat |
-| South Africa | 100 | flat |
-| Thailand | 90 | flat |
+| Greece | 450 | declining |
+| United States | 180 | growing |
+| Denmark | 140 | flat |
+| Brazil | 100 | declining |
+| Finland | 100 | growing |
+| South Africa | 90 | declining |
 | Canada | 80 | flat |
-| Cyprus | 80 | declining |
-| Finland | 80 | flat |
-| Germany | 80 | flat |
+| Cyprus | 80 | growing |
+| Germany | 80 | growing |
+| Norway | 80 | growing |
 
-> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

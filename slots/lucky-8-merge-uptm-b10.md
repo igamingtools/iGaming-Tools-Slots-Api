@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-8-merge-uptm-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,200 · **trend:** flat
+**12-month volume (illustrative):** 1,270 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Netherlands | 290 | declining |
+| Netherlands | 300 | flat |
 | United States | 140 | flat |
 | Brazil | 100 | flat |
-| Australia | 70 | flat |
-| Germany | 70 | flat |
-| United Kingdom | 70 | flat |
-| Finland | 60 | flat |
+| Australia | 80 | flat |
+| Finland | 80 | growing |
+| United Kingdom | 80 | growing |
+| Germany | 70 | declining |
+| Austria | 50 | growing |
 | Greece | 50 | flat |
-| Austria | 40 | flat |
 | Canada | 40 | flat |
 
-> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

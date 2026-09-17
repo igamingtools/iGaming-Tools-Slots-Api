@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/snakes-and-ladders-megadicetm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,070 · **trend:** declining · YoY -9.3%
+**12-month volume (illustrative):** 1,070 · **trend:** declining · YoY -10.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -140,16 +140,16 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 110 | flat |
 | United Kingdom | 90 | flat |
-| Germany | 80 | growing |
-| Finland | 60 | flat |
-| Malaysia | 60 | growing |
-| Peru | 60 | growing |
-| South Africa | 60 | flat |
-| Spain | 60 | flat |
+| Germany | 80 | flat |
+| Peru | 70 | declining |
+| Spain | 70 | growing |
+| Malaysia | 60 | declining |
 | Tunisia | 60 | flat |
-| Turkey | 50 | growing |
+| South Africa | 50 | flat |
+| Turkey | 50 | declining |
+| Finland | 40 | flat |
 
-> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

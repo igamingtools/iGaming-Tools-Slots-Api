@@ -140,22 +140,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/strawberry-cocktail-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,350 · **trend:** declining · YoY -22.0%
+**12-month volume (illustrative):** 1,310 · **trend:** declining · YoY -22.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 140 | flat |
-| Brazil | 120 | flat |
+| Brazil | 130 | growing |
+| South Africa | 130 | declining |
 | Greece | 110 | flat |
-| Philippines | 90 | flat |
-| Romania | 70 | flat |
-| Sweden | 70 | declining |
+| Philippines | 80 | declining |
+| Romania | 70 | growing |
+| Sweden | 70 | growing |
 | Finland | 60 | flat |
-| Tunisia | 60 | declining |
-| Indonesia | 50 | flat |
-| Italy | 50 | flat |
+| Tunisia | 50 | flat |
+| Argentina | 40 | growing |
+| Canada | 40 | growing |
 
 > Full per-country breakdown (37 markets) via the /demand/ endpoint.
 

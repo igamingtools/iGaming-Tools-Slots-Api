@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-hold-spinner-b7/demand/
 ```
 
-**12-month volume (illustrative):** 21,050 · **trend:** declining · YoY -9.3%
+**12-month volume (illustrative):** 19,860 · **trend:** declining · YoY -17.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 5,170 | growing |
-| United Kingdom | 4,810 | flat |
-| Greece | 980 | flat |
-| Germany | 910 | declining |
-| South Africa | 810 | flat |
-| Canada | 600 | flat |
-| Netherlands | 460 | flat |
-| Switzerland | 450 | growing |
-| Spain | 440 | growing |
-| Latvia | 330 | flat |
+| United Kingdom | 4,650 | growing |
+| Brazil | 4,480 | growing |
+| Greece | 940 | flat |
+| Germany | 930 | growing |
+| South Africa | 740 | declining |
+| Canada | 620 | flat |
+| Switzerland | 510 | flat |
+| Netherlands | 450 | flat |
+| Spain | 410 | declining |
+| Latvia | 340 | growing |
 
-> Full per-country breakdown (68 markets) via the /demand/ endpoint.
+> Full per-country breakdown (66 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/savannah-legend-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,100 · **trend:** declining · YoY -11.0%
+**12-month volume (illustrative):** 1,920 · **trend:** declining · YoY -27.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 300 | declining |
-| South Africa | 220 | flat |
-| Finland | 140 | flat |
+| Canada | 300 | flat |
+| South Africa | 200 | declining |
 | Brazil | 130 | flat |
+| Finland | 120 | declining |
 | Poland | 120 | flat |
-| Peru | 80 | flat |
-| Denmark | 70 | declining |
-| United Kingdom | 70 | declining |
-| Lithuania | 60 | declining |
+| Peru | 70 | declining |
+| Denmark | 60 | flat |
 | Malaysia | 60 | flat |
+| United Kingdom | 60 | flat |
+| United States | 60 | growing |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

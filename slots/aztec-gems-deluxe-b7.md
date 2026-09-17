@@ -132,22 +132,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-gems-deluxe-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,210 · **trend:** growing · YoY +22.7%
+**12-month volume (illustrative):** 5,730 · **trend:** growing · YoY +6.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,590 | flat |
-| Finland | 1,060 | declining |
-| Indonesia | 510 | growing |
-| South Africa | 380 | flat |
-| Tunisia | 250 | flat |
-| India | 180 | flat |
-| Pakistan | 160 | growing |
-| Malaysia | 140 | flat |
+| Brazil | 1,400 | declining |
+| Finland | 1,020 | declining |
+| Indonesia | 420 | declining |
+| South Africa | 330 | declining |
+| Tunisia | 240 | declining |
+| India | 160 | declining |
+| Pakistan | 160 | declining |
 | Mexico | 130 | flat |
-| Philippines | 130 | flat |
+| Malaysia | 120 | declining |
+| Philippines | 120 | declining |
 
 > Full per-country breakdown (52 markets) via the /demand/ endpoint.
 

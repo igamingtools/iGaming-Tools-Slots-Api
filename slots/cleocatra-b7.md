@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cleocatra-b7/demand/
 ```
 
-**12-month volume (illustrative):** 16,580 · **trend:** declining · YoY -27.9%
+**12-month volume (illustrative):** 15,030 · **trend:** declining · YoY -36.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 3,210 | growing |
-| South Africa | 2,160 | declining |
-| Greece | 2,010 | declining |
-| Ukraine | 820 | growing |
-| Belarus | 410 | growing |
-| Finland | 380 | growing |
-| Romania | 330 | growing |
+| Brazil | 2,590 | flat |
+| Greece | 1,860 | growing |
+| South Africa | 1,840 | declining |
+| Ukraine | 700 | declining |
+| Belarus | 380 | declining |
+| Finland | 380 | declining |
+| Romania | 330 | flat |
 | Switzerland | 330 | flat |
-| Sweden | 260 | flat |
 | Canada | 240 | flat |
+| Germany | 230 | flat |
 
-> Full per-country breakdown (71 markets) via the /demand/ endpoint.
+> Full per-country breakdown (70 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-hero-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,130 · **trend:** declining · YoY -14.0%
+**12-month volume (illustrative):** 6,930 · **trend:** declining · YoY -14.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,250 | growing |
-| Peru | 750 | flat |
-| Greece | 460 | flat |
-| South Africa | 270 | flat |
-| Canada | 240 | flat |
-| Malaysia | 220 | flat |
-| Finland | 200 | growing |
-| Denmark | 190 | flat |
-| United States | 170 | flat |
+| Brazil | 1,180 | flat |
+| Peru | 860 | flat |
+| Greece | 440 | flat |
+| South Africa | 250 | declining |
+| Canada | 220 | declining |
+| Denmark | 200 | growing |
+| Malaysia | 200 | declining |
+| Finland | 180 | declining |
 | Romania | 150 | flat |
+| United States | 140 | flat |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (59 markets) via the /demand/ endpoint.
 
 ## Links
 

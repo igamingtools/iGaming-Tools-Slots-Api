@@ -137,24 +137,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fat-drac-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,800 · **trend:** declining · YoY -7.7%
+**12-month volume (illustrative):** 1,730 · **trend:** declining · YoY -13.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 240 | declining |
-| Germany | 170 | flat |
-| Finland | 120 | declining |
-| Romania | 110 | declining |
+| Switzerland | 210 | flat |
+| Germany | 160 | flat |
+| Finland | 140 | growing |
+| Romania | 110 | growing |
 | United Kingdom | 110 | flat |
-| Austria | 100 | declining |
-| Sweden | 100 | flat |
-| Greece | 90 | declining |
+| Austria | 90 | flat |
+| Greece | 90 | growing |
+| Sweden | 90 | declining |
 | Canada | 80 | flat |
 | Netherlands | 80 | flat |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

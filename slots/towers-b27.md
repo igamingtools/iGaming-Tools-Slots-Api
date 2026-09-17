@@ -115,24 +115,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/towers-b27/demand/
 ```
 
-**12-month volume (illustrative):** 2,630 · **trend:** declining · YoY -9.9%
+**12-month volume (illustrative):** 2,540 · **trend:** declining · YoY -13.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 520 | flat |
-| Canada | 180 | flat |
-| United States | 170 | flat |
-| Finland | 140 | flat |
+| India | 500 | declining |
+| Canada | 180 | growing |
+| United States | 180 | flat |
+| Finland | 140 | growing |
 | Switzerland | 120 | flat |
-| Pakistan | 100 | flat |
-| South Africa | 100 | growing |
+| Pakistan | 100 | declining |
 | Brazil | 90 | flat |
+| South Africa | 90 | declining |
 | United Kingdom | 90 | flat |
-| Netherlands | 80 | declining |
+| Germany | 70 | growing |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

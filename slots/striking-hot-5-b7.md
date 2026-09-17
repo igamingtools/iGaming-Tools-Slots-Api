@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/striking-hot-5-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,220 · **trend:** declining · YoY -29.4%
+**12-month volume (illustrative):** 2,810 · **trend:** declining · YoY -38.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,140 | flat |
-| Brazil | 110 | flat |
-| Greece | 70 | flat |
-| Romania | 60 | growing |
-| Switzerland | 60 | flat |
+| South Africa | 1,930 | declining |
+| Brazil | 90 | flat |
+| Switzerland | 90 | growing |
+| Greece | 60 | declining |
+| Romania | 50 | flat |
 | Canada | 40 | flat |
-| India | 40 | flat |
-| Latvia | 40 | flat |
-| Lithuania | 40 | flat |
-| Malaysia | 40 | flat |
+| Bulgaria | 30 | flat |
+| Denmark | 30 | flat |
+| Latvia | 30 | flat |
+| Lithuania | 30 | flat |
 
-> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
 
 ## Links
 

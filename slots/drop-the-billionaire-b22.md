@@ -120,9 +120,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/drop-the-billionaire-b22/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 10 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Australia | 10 | growing |
+
+> Full per-country breakdown (1 markets) via the /demand/ endpoint.
 
 ## Links
 

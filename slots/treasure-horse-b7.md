@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/treasure-horse-b7/demand/
 ```
 
-**12-month volume (illustrative):** 610 · **trend:** declining · YoY -31.5%
+**12-month volume (illustrative):** 560 · **trend:** declining · YoY -38.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 140 | flat |
+| South Africa | 130 | declining |
 | Brazil | 120 | flat |
-| Mexico | 50 | flat |
+| Mexico | 50 | growing |
 | Philippines | 30 | flat |
 | Tunisia | 30 | flat |
 | Argentina | 20 | flat |
 | Canada | 20 | flat |
 | Finland | 20 | flat |
 | India | 20 | flat |
-| Indonesia | 20 | flat |
+| Australia | 10 | declining |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (21 markets) via the /demand/ endpoint.
 
 ## Links
 

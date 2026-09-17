@@ -141,22 +141,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-blast-b28/demand/
 ```
 
-**12-month volume (illustrative):** 4,540 · **trend:** growing · YoY +76.7%
+**12-month volume (illustrative):** 4,350 · **trend:** growing · YoY +44.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Netherlands | 1,400 | declining |
+| Netherlands | 1,330 | growing |
 | Belgium | 240 | flat |
 | Finland | 200 | flat |
-| Canada | 180 | flat |
-| United States | 180 | flat |
-| Greece | 150 | flat |
+| Canada | 160 | declining |
+| United States | 160 | declining |
+| Greece | 130 | flat |
 | Sweden | 130 | flat |
 | Brazil | 120 | flat |
-| India | 120 | flat |
 | Switzerland | 120 | flat |
+| United Kingdom | 120 | flat |
 
 > Full per-country breakdown (48 markets) via the /demand/ endpoint.
 

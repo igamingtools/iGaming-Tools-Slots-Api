@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/peak-power-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,950 · **trend:** declining · YoY -25.3%
+**12-month volume (illustrative):** 1,820 · **trend:** declining · YoY -30.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 160 | flat |
-| Brazil | 150 | declining |
+| Brazil | 140 | flat |
+| South Africa | 130 | declining |
 | Greece | 120 | flat |
-| Canada | 100 | flat |
+| Finland | 100 | growing |
 | Argentina | 90 | flat |
-| Finland | 80 | declining |
-| Indonesia | 80 | declining |
-| Denmark | 70 | flat |
-| Germany | 70 | flat |
-| Philippines | 70 | flat |
+| Canada | 80 | flat |
+| Denmark | 70 | declining |
+| Indonesia | 70 | flat |
+| Germany | 60 | flat |
+| Philippines | 60 | flat |
 
-> Full per-country breakdown (50 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

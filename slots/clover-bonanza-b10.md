@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/clover-bonanza-b10/demand/
 ```
 
-**12-month volume (illustrative):** 960 · **trend:** flat · YoY -2.0%
+**12-month volume (illustrative):** 970 · **trend:** flat · YoY +4.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 100 | declining |
+| United States | 100 | growing |
+| Brazil | 90 | flat |
 | United Kingdom | 80 | flat |
-| United States | 80 | declining |
-| Portugal | 70 | flat |
-| Denmark | 60 | flat |
-| Romania | 60 | growing |
-| Australia | 50 | growing |
-| Poland | 50 | flat |
-| Germany | 40 | flat |
-| Turkey | 40 | growing |
+| Romania | 70 | declining |
+| Australia | 60 | flat |
+| Denmark | 60 | declining |
+| Portugal | 50 | flat |
+| Poland | 40 | flat |
+| Argentina | 30 | growing |
+| El Salvador | 30 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

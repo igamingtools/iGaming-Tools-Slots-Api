@@ -120,22 +120,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-chilli-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,960 · **trend:** flat · YoY -4.2%
+**12-month volume (illustrative):** 2,840 · **trend:** declining · YoY -9.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 540 | declining |
-| India | 260 | flat |
-| Finland | 160 | declining |
+| South Africa | 470 | declining |
+| India | 220 | declining |
+| Finland | 180 | growing |
 | Brazil | 120 | flat |
-| Malaysia | 120 | growing |
-| Greece | 110 | declining |
-| Philippines | 90 | flat |
-| Switzerland | 90 | flat |
-| United Kingdom | 90 | flat |
-| United States | 90 | flat |
+| Malaysia | 120 | declining |
+| Greece | 110 | growing |
+| United Kingdom | 100 | flat |
+| United States | 100 | declining |
+| Pakistan | 80 | flat |
+| Philippines | 80 | declining |
 
 > Full per-country breakdown (50 markets) via the /demand/ endpoint.
 

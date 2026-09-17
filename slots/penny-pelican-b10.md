@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/penny-pelican-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,140 · **trend:** flat · YoY +1.9%
+**12-month volume (illustrative):** 2,160 · **trend:** growing · YoY +5.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 260 | flat |
-| United States | 250 | flat |
+| Greece | 260 | growing |
+| United States | 260 | flat |
 | Finland | 140 | flat |
 | Australia | 120 | flat |
-| Cyprus | 100 | flat |
 | Brazil | 90 | flat |
-| Switzerland | 90 | growing |
-| Germany | 70 | declining |
-| Sweden | 70 | declining |
-| Argentina | 60 | declining |
+| Cyprus | 90 | flat |
+| Switzerland | 90 | declining |
+| Germany | 80 | growing |
+| Sweden | 80 | flat |
+| Netherlands | 70 | growing |
 
 > Full per-country breakdown (41 markets) via the /demand/ endpoint.
 

@@ -107,22 +107,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/limbo-b22/demand/
 ```
 
-**12-month volume (illustrative):** 20,230 · **trend:** declining · YoY -63.2%
+**12-month volume (illustrative):** 18,490 · **trend:** declining · YoY -63.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 7,540 | declining |
-| Brazil | 1,320 | declining |
-| United States | 990 | declining |
-| Pakistan | 720 | declining |
-| Canada | 540 | growing |
-| Indonesia | 420 | flat |
-| Algeria | 360 | flat |
-| Germany | 360 | declining |
-| Finland | 280 | flat |
-| Morocco | 270 | flat |
+| India | 6,760 | declining |
+| Brazil | 1,300 | growing |
+| United States | 840 | flat |
+| Pakistan | 620 | declining |
+| Canada | 500 | declining |
+| Indonesia | 390 | declining |
+| Germany | 350 | declining |
+| Algeria | 320 | declining |
+| Finland | 280 | declining |
+| Philippines | 250 | declining |
 
 > Full per-country breakdown (79 markets) via the /demand/ endpoint.
 

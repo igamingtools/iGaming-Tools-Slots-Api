@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mad-cars-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,930 · **trend:** declining · YoY -20.2%
+**12-month volume (illustrative):** 1,830 · **trend:** declining · YoY -22.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 140 | growing |
-| Greece | 130 | declining |
-| India | 100 | flat |
-| Romania | 100 | flat |
-| Ukraine | 100 | flat |
-| Netherlands | 90 | growing |
-| Sweden | 90 | declining |
+| Finland | 120 | declining |
+| Greece | 110 | growing |
+| Romania | 100 | growing |
+| Netherlands | 90 | flat |
+| Sweden | 90 | flat |
 | Switzerland | 90 | flat |
+| Ukraine | 90 | declining |
 | Canada | 80 | flat |
-| Denmark | 80 | declining |
+| India | 80 | flat |
+| Poland | 80 | flat |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

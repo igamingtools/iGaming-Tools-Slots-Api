@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/carnival-bonanza-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,200 · **trend:** growing · YoY +29.0%
+**12-month volume (illustrative):** 1,150 · **trend:** growing · YoY +10.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 160 | declining |
-| United States | 130 | growing |
+| Brazil | 160 | flat |
+| United States | 140 | declining |
 | Finland | 100 | flat |
-| Ukraine | 100 | growing |
-| Australia | 90 | flat |
-| Greece | 90 | growing |
-| Germany | 60 | growing |
-| India | 60 | flat |
+| Greece | 100 | declining |
+| Australia | 80 | declining |
+| Ukraine | 80 | flat |
+| Germany | 60 | declining |
 | Estonia | 50 | flat |
-| New Zealand | 40 | flat |
+| India | 40 | flat |
+| Portugal | 40 | flat |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

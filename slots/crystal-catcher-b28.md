@@ -145,22 +145,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/crystal-catcher-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,100 · **trend:** declining · YoY -32.9%
+**12-month volume (illustrative):** 1,070 · **trend:** declining · YoY -32.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 120 | declining |
-| Finland | 100 | growing |
-| Germany | 100 | flat |
-| Greece | 100 | growing |
-| India | 100 | growing |
-| Netherlands | 50 | growing |
-| Sweden | 50 | declining |
-| Australia | 40 | declining |
-| Brazil | 40 | flat |
-| Denmark | 40 | declining |
+| Canada | 100 | flat |
+| Finland | 100 | declining |
+| Greece | 100 | flat |
+| Germany | 90 | declining |
+| India | 80 | declining |
+| Sweden | 60 | growing |
+| Hungary | 50 | growing |
+| Netherlands | 50 | declining |
+| Australia | 40 | flat |
+| Denmark | 40 | flat |
 
 > Full per-country breakdown (29 markets) via the /demand/ endpoint.
 

@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/vegas-vault-b28/demand/
 ```
 
-**12-month volume (illustrative):** 300 · **trend:** flat
+**12-month volume (illustrative):** 360 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 30 | flat |
-| Brazil | 20 | growing |
-| Canada | 20 | flat |
+| Canada | 40 | growing |
+| United Kingdom | 40 | growing |
+| Brazil | 30 | flat |
+| Greece | 30 | declining |
 | Finland | 20 | flat |
-| Italy | 20 | declining |
-| Latvia | 20 | declining |
-| Netherlands | 20 | declining |
-| United Kingdom | 20 | declining |
+| Italy | 20 | flat |
+| Latvia | 20 | flat |
+| Netherlands | 20 | flat |
+| Norway | 20 | flat |
 | United States | 20 | flat |
-| Australia | 10 | flat |
 
 > Full per-country breakdown (20 markets) via the /demand/ endpoint.
 

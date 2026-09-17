@@ -143,24 +143,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jammin-jars-b28/demand/
 ```
 
-**12-month volume (illustrative):** 27,740 · **trend:** flat · YoY -0.4%
+**12-month volume (illustrative):** 27,110 · **trend:** flat · YoY -1.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 5,910 | growing |
-| Finland | 2,440 | declining |
-| United Kingdom | 1,970 | growing |
-| United States | 1,920 | declining |
-| Switzerland | 1,760 | growing |
-| Denmark | 1,270 | declining |
-| Canada | 1,240 | growing |
-| Greece | 1,230 | declining |
-| Netherlands | 890 | flat |
-| Sweden | 880 | flat |
+| Germany | 5,750 | declining |
+| Finland | 2,520 | growing |
+| United Kingdom | 1,970 | declining |
+| United States | 1,880 | declining |
+| Switzerland | 1,660 | flat |
+| Denmark | 1,330 | growing |
+| Greece | 1,190 | flat |
+| Canada | 1,120 | declining |
+| Sweden | 920 | growing |
+| Netherlands | 800 | flat |
 
-> Full per-country breakdown (70 markets) via the /demand/ endpoint.
+> Full per-country breakdown (69 markets) via the /demand/ endpoint.
 
 ## Links
 

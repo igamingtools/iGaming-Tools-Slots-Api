@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/generous-jack-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,020 · **trend:** declining · YoY -25.0%
+**12-month volume (illustrative):** 1,110 · **trend:** declining · YoY -18.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Switzerland | 120 | growing |
 | Greece | 110 | flat |
-| Bulgaria | 90 | flat |
-| Romania | 90 | flat |
-| Switzerland | 90 | flat |
-| United Kingdom | 90 | declining |
-| Germany | 80 | declining |
-| Sweden | 70 | declining |
-| Canada | 60 | growing |
-| Italy | 60 | declining |
-| Norway | 60 | flat |
+| Bulgaria | 100 | flat |
+| Romania | 90 | growing |
+| United Kingdom | 90 | growing |
+| Germany | 80 | growing |
+| Netherlands | 80 | growing |
+| Norway | 70 | growing |
+| Sweden | 70 | flat |
+| Canada | 60 | declining |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (21 markets) via the /demand/ endpoint.
 
 ## Links
 

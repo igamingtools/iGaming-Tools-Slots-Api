@@ -141,22 +141,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bounty-hunter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 9,640 · **trend:** growing · YoY +275.1%
+**12-month volume (illustrative):** 9,840 · **trend:** growing · YoY +259.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 1,560 | declining |
-| Greece | 1,450 | declining |
-| Brazil | 990 | declining |
-| Indonesia | 400 | growing |
-| South Africa | 290 | declining |
-| Canada | 240 | flat |
-| Finland | 220 | flat |
-| India | 200 | flat |
-| Malaysia | 200 | flat |
-| Switzerland | 180 | flat |
+| Philippines | 1,490 | declining |
+| Greece | 1,460 | declining |
+| Brazil | 1,110 | flat |
+| Indonesia | 390 | declining |
+| South Africa | 280 | declining |
+| Canada | 260 | flat |
+| Finland | 240 | flat |
+| Switzerland | 210 | growing |
+| Malaysia | 200 | declining |
+| India | 180 | declining |
 
 > Full per-country breakdown (71 markets) via the /demand/ endpoint.
 

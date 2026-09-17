@@ -149,22 +149,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/henry-the-ape-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,580 · **trend:** growing · YoY +77.5%
+**12-month volume (illustrative):** 1,430 · **trend:** growing · YoY +27.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 160 | declining |
-| Greece | 140 | declining |
-| Netherlands | 130 | declining |
-| Switzerland | 120 | flat |
+| Netherlands | 130 | flat |
+| Greece | 110 | growing |
 | Sweden | 110 | flat |
+| Brazil | 90 | flat |
+| Switzerland | 90 | flat |
 | Finland | 80 | flat |
-| Germany | 80 | growing |
-| United Kingdom | 80 | flat |
+| Germany | 80 | flat |
+| United Kingdom | 80 | declining |
 | United States | 80 | flat |
-| Denmark | 70 | declining |
+| Belgium | 60 | flat |
 
 > Full per-country breakdown (40 markets) via the /demand/ endpoint.
 

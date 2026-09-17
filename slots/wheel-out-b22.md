@@ -112,24 +112,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wheel-out-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,080 · **trend:** flat
+**12-month volume (illustrative):** 1,310 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 780 | growing |
-| Pakistan | 140 | growing |
-| Argentina | 10 | growing |
-| Brazil | 10 | growing |
-| Croatia | 10 | growing |
-| Czech Republic | 10 | growing |
-| France | 10 | growing |
-| Germany | 10 | growing |
-| Indonesia | 10 | growing |
-| Latvia | 10 | growing |
+| India | 780 | declining |
+| Pakistan | 140 | declining |
+| France | 30 | growing |
+| Italy | 30 | growing |
+| Ukraine | 30 | growing |
+| Belarus | 20 | flat |
+| Brazil | 20 | flat |
+| Croatia | 20 | flat |
+| Czech Republic | 20 | flat |
+| Germany | 20 | flat |
 
-> Full per-country breakdown (18 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

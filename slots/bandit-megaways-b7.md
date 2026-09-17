@@ -141,24 +141,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bandit-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 17,150 · **trend:** growing · YoY +55.2%
+**12-month volume (illustrative):** 16,050 · **trend:** growing · YoY +22.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 7,050 | declining |
-| Brazil | 1,810 | declining |
-| Indonesia | 780 | declining |
-| Philippines | 610 | growing |
-| South Africa | 590 | growing |
-| Cyprus | 540 | declining |
-| United Kingdom | 370 | declining |
-| Switzerland | 270 | flat |
-| Canada | 260 | flat |
-| Germany | 260 | flat |
+| Greece | 6,670 | declining |
+| Brazil | 1,740 | declining |
+| Indonesia | 570 | declining |
+| Philippines | 560 | declining |
+| Cyprus | 540 | growing |
+| South Africa | 480 | declining |
+| United Kingdom | 390 | growing |
+| Canada | 240 | declining |
+| Finland | 240 | flat |
+| Switzerland | 240 | declining |
 
-> Full per-country breakdown (66 markets) via the /demand/ endpoint.
+> Full per-country breakdown (65 markets) via the /demand/ endpoint.
 
 ## Links
 

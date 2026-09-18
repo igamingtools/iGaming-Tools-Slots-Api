@@ -148,14 +148,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/buffalo-king-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 31,420 · **trend:** declining · YoY -12.9%
+**12-month volume (illustrative):** 32,390 · **trend:** declining · YoY -10.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 4,290 | declining |
-| Tunisia | 3,350 | declining |
+| South Africa | 4,680 | flat |
+| Tunisia | 3,670 | growing |
 | Canada | 3,260 | growing |
 | United Kingdom | 2,550 | declining |
 | Argentina | 1,920 | growing |

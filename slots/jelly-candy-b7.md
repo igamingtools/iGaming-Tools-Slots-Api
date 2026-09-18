@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jelly-candy-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,650 · **trend:** flat · YoY -2.9%
+**12-month volume (illustrative):** 1,650 · **trend:** flat · YoY -3.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -132,11 +132,11 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 430 | growing |
 | Greece | 180 | growing |
-| South Africa | 170 | flat |
+| South Africa | 180 | growing |
 | Canada | 140 | growing |
 | India | 60 | flat |
-| Indonesia | 60 | flat |
 | Switzerland | 60 | flat |
+| Indonesia | 50 | flat |
 | Peru | 50 | declining |
 | Denmark | 40 | growing |
 | Puerto Rico | 40 | flat |

@@ -135,17 +135,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tropical-tiki-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,340 · **trend:** declining · YoY -34.8%
+**12-month volume (illustrative):** 3,440 · **trend:** declining · YoY -32.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 330 | declining |
+| South Africa | 440 | growing |
 | Croatia | 260 | declining |
 | Netherlands | 260 | flat |
 | Brazil | 200 | flat |
-| Indonesia | 140 | declining |
+| Indonesia | 140 | flat |
 | Canada | 120 | growing |
 | Greece | 120 | flat |
 | Malaysia | 120 | flat |

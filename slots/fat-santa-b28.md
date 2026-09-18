@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fat-santa-b28/demand/
 ```
 
-**12-month volume (illustrative):** 5,620 · **trend:** declining · YoY -20.7%
+**12-month volume (illustrative):** 5,630 · **trend:** declining · YoY -20.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

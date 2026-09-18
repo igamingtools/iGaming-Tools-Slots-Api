@@ -120,13 +120,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wealth-inn-b29/demand/
 ```
 
-**12-month volume (illustrative):** 54,750 · **trend:** declining · YoY -35.8%
+**12-month volume (illustrative):** 56,080 · **trend:** declining · YoY -34.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 52,400 | declining |
+| South Africa | 53,700 | declining |
 | United States | 420 | flat |
 | India | 220 | declining |
 | Canada | 200 | flat |
@@ -134,8 +134,8 @@ curl -H "Authorization: Token $TOKEN" \
 | New Zealand | 110 | flat |
 | Pakistan | 100 | flat |
 | Indonesia | 90 | flat |
+| Philippines | 70 | growing |
 | Greece | 60 | growing |
-| Mexico | 60 | growing |
 
 > Full per-country breakdown (48 markets) via the /demand/ endpoint.
 

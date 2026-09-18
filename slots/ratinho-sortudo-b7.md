@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ratinho-sortudo-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,920 · **trend:** declining · YoY -40.7%
+**12-month volume (illustrative):** 5,910 · **trend:** declining · YoY -40.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Argentina | 10 | flat |
 | Colombia | 10 | flat |
 
-> Full per-country breakdown (18 markets) via the /demand/ endpoint.
+> Full per-country breakdown (17 markets) via the /demand/ endpoint.
 
 ## Links
 

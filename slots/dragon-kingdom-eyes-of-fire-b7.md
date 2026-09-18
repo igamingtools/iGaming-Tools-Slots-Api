@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 210 | declining |
 | Malaysia | 140 | flat |
-| South Africa | 120 | declining |
+| South Africa | 130 | flat |
 | United Kingdom | 80 | declining |
 | Poland | 70 | flat |
 | Germany | 40 | flat |

@@ -139,13 +139,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/volcano-goddess-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,420 · **trend:** growing · YoY +30.0%
+**12-month volume (illustrative):** 5,560 · **trend:** growing · YoY +33.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 3,400 | declining |
+| South Africa | 3,540 | growing |
 | Canada | 540 | growing |
 | Brazil | 180 | flat |
 | Argentina | 120 | flat |

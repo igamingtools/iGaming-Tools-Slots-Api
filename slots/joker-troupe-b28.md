@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/joker-troupe-b28/demand/
 ```
 
-**12-month volume (illustrative):** 4,660 · **trend:** declining · YoY -21.2%
+**12-month volume (illustrative):** 4,670 · **trend:** declining · YoY -21.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

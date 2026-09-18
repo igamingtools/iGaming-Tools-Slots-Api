@@ -144,13 +144,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mermaid-s-treasure-trove-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,420 · **trend:** flat
+**12-month volume (illustrative):** 2,430 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 190 | declining |
+| South Africa | 200 | flat |
 | Finland | 160 | flat |
 | Belgium | 140 | flat |
 | Canada | 140 | declining |

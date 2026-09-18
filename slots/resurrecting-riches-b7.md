@@ -139,18 +139,18 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/resurrecting-riches-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,110 · **trend:** growing · YoY +65.4%
+**12-month volume (illustrative):** 5,130 · **trend:** growing · YoY +63.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 1,760 | declining |
-| South Africa | 300 | declining |
-| Indonesia | 290 | declining |
-| Philippines | 260 | declining |
+| South Africa | 320 | declining |
+| Philippines | 270 | flat |
+| Indonesia | 260 | flat |
 | Canada | 160 | flat |
-| Malaysia | 140 | declining |
+| Malaysia | 160 | flat |
 | Argentina | 120 | flat |
 | United States | 120 | growing |
 | Greece | 110 | growing |

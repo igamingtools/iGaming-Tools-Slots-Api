@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/yeti-quest-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,230 · **trend:** declining · YoY -33.6%
+**12-month volume (illustrative):** 2,260 · **trend:** declining · YoY -31.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -149,11 +149,11 @@ curl -H "Authorization: Token $TOKEN" \
 | Switzerland | 150 | flat |
 | Greece | 130 | flat |
 | Brazil | 120 | flat |
-| Philippines | 110 | declining |
-| South Africa | 110 | declining |
+| Philippines | 120 | flat |
+| South Africa | 120 | flat |
 | Argentina | 80 | growing |
 | Finland | 80 | growing |
-| Indonesia | 80 | flat |
+| Indonesia | 80 | declining |
 | Turkey | 80 | flat |
 
 > Full per-country breakdown (51 markets) via the /demand/ endpoint.

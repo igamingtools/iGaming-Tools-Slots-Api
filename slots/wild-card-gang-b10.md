@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-card-gang-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,270 · **trend:** growing · YoY +119.0%
+**12-month volume (illustrative):** 1,280 · **trend:** growing · YoY +120.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

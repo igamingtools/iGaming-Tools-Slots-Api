@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tiki-tumble-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,570 · **trend:** declining · YoY -26.3%
+**12-month volume (illustrative):** 1,590 · **trend:** declining · YoY -25.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

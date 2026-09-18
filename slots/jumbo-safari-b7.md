@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jumbo-safari-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,120 · **trend:** growing · YoY +53.7%
+**12-month volume (illustrative):** 3,190 · **trend:** growing · YoY +57.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -128,13 +128,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/totem-towers-b29/demand/
 ```
 
-**12-month volume (illustrative):** 550 · **trend:** declining · YoY -40.2%
+**12-month volume (illustrative):** 560 · **trend:** declining · YoY -39.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 290 | declining |
+| South Africa | 300 | flat |
 | India | 100 | flat |
 | Pakistan | 40 | flat |
 | United Kingdom | 30 | flat |

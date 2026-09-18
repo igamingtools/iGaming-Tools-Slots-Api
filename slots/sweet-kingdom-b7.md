@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-kingdom-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,880 · **trend:** declining · YoY -34.2%
+**12-month volume (illustrative):** 3,920 · **trend:** declining · YoY -32.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -139,12 +139,12 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 390 | growing |
 | Canada | 220 | flat |
-| South Africa | 190 | declining |
-| Philippines | 180 | declining |
+| South Africa | 200 | flat |
+| Philippines | 190 | flat |
 | Switzerland | 150 | flat |
 | Finland | 140 | growing |
+| India | 140 | growing |
 | Greece | 130 | flat |
-| India | 120 | flat |
 | Hungary | 110 | declining |
 | Italy | 110 | flat |
 

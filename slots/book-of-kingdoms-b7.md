@@ -128,21 +128,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-kingdoms-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,380 · **trend:** declining · YoY -15.9%
+**12-month volume (illustrative):** 1,380 · **trend:** declining · YoY -16.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 250 | declining |
+| South Africa | 260 | flat |
 | Austria | 120 | flat |
 | Italy | 120 | flat |
 | Brazil | 110 | growing |
 | Lithuania | 90 | flat |
 | Finland | 80 | growing |
-| Indonesia | 70 | flat |
 | Germany | 60 | growing |
 | Greece | 60 | flat |
+| Indonesia | 60 | flat |
 | United Kingdom | 40 | flat |
 
 > Full per-country breakdown (31 markets) via the /demand/ endpoint.

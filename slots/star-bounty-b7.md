@@ -130,17 +130,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/star-bounty-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,330 · **trend:** declining · YoY -34.5%
+**12-month volume (illustrative):** 1,370 · **trend:** declining · YoY -32.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Thailand | 130 | flat |
 | Brazil | 120 | flat |
-| Thailand | 120 | declining |
-| South Africa | 110 | declining |
-| Indonesia | 90 | declining |
-| Philippines | 90 | declining |
+| South Africa | 120 | flat |
+| Philippines | 100 | flat |
+| Indonesia | 90 | growing |
 | Greece | 70 | flat |
 | Bulgaria | 60 | growing |
 | Lithuania | 50 | flat |

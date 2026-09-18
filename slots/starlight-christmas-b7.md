@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starlight-christmas-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,110 · **trend:** declining · YoY -12.1%
+**12-month volume (illustrative):** 3,140 · **trend:** declining · YoY -11.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -154,10 +154,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 290 | growing |
 | Malaysia | 160 | flat |
 | United States | 160 | growing |
-| South Africa | 140 | declining |
+| South Africa | 150 | flat |
 | Canada | 120 | flat |
+| Philippines | 120 | flat |
 | Germany | 110 | flat |
-| Philippines | 110 | declining |
 | Finland | 100 | growing |
 | Switzerland | 90 | flat |
 

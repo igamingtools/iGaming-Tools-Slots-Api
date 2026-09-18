@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/red-hot-luck-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,620 · **trend:** declining · YoY -44.5%
+**12-month volume (illustrative):** 1,630 · **trend:** declining · YoY -44.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Switzerland | 360 | flat |
 | Canada | 140 | declining |
-| South Africa | 130 | declining |
+| South Africa | 140 | flat |
 | Brazil | 120 | flat |
 | Greece | 90 | flat |
 | United States | 80 | flat |

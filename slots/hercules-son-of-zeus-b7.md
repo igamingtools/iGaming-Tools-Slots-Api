@@ -124,13 +124,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hercules-son-of-zeus-b7/demand/
 ```
 
-**12-month volume (illustrative):** 720 · **trend:** declining · YoY -5.3%
+**12-month volume (illustrative):** 730 · **trend:** flat · YoY -2.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 120 | declining |
+| South Africa | 130 | flat |
 | Brazil | 100 | flat |
 | Finland | 60 | growing |
 | Tunisia | 50 | flat |

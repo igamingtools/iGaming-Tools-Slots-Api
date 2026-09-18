@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/heroic-spins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,690 · **trend:** declining · YoY -59.4%
+**12-month volume (illustrative):** 2,700 · **trend:** declining · YoY -59.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

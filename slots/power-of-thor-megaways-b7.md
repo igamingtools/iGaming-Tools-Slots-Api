@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/power-of-thor-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,070 · **trend:** declining · YoY -21.5%
+**12-month volume (illustrative):** 7,280 · **trend:** declining · YoY -19.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 840 | declining |
-| Tunisia | 630 | declining |
+| Tunisia | 680 | growing |
 | Ukraine | 330 | declining |
 | Canada | 280 | flat |
-| Malaysia | 240 | declining |
-| Thailand | 220 | declining |
+| Indonesia | 270 | growing |
+| Malaysia | 260 | flat |
+| Thailand | 230 | flat |
 | United Kingdom | 220 | growing |
-| Indonesia | 200 | declining |
-| South Africa | 190 | declining |
-| India | 180 | declining |
+| India | 200 | flat |
+| South Africa | 200 | declining |
 
 > Full per-country breakdown (64 markets) via the /demand/ endpoint.
 

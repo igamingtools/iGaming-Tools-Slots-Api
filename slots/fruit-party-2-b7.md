@@ -135,13 +135,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fruit-party-2-b7/demand/
 ```
 
-**12-month volume (illustrative):** 13,060 · **trend:** declining · YoY -17.8%
+**12-month volume (illustrative):** 13,150 · **trend:** declining · YoY -17.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,350 | declining |
+| South Africa | 2,440 | flat |
 | United States | 1,520 | flat |
 | Germany | 580 | flat |
 | Greece | 530 | flat |
@@ -150,7 +150,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Denmark | 400 | flat |
 | Switzerland | 390 | declining |
 | Finland | 340 | flat |
-| Indonesia | 270 | declining |
+| United Kingdom | 270 | flat |
 
 > Full per-country breakdown (68 markets) via the /demand/ endpoint.
 

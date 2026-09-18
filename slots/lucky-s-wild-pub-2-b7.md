@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-s-wild-pub-2-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,050 · **trend:** flat
+**12-month volume (illustrative):** 1,060 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -157,7 +157,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Canada | 120 | flat |
 | Brazil | 110 | growing |
-| South Africa | 100 | declining |
+| South Africa | 110 | declining |
 | Switzerland | 60 | flat |
 | United States | 60 | flat |
 | Greece | 50 | flat |

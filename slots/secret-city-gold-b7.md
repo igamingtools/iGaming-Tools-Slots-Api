@@ -139,15 +139,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/secret-city-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 740 · **trend:** growing · YoY +12.1%
+**12-month volume (illustrative):** 760 · **trend:** growing · YoY +16.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 160 | flat |
-| South Africa | 60 | flat |
-| Indonesia | 50 | declining |
+| South Africa | 70 | growing |
+| Indonesia | 50 | flat |
 | Belgium | 40 | flat |
 | Argentina | 30 | flat |
 | Chile | 30 | flat |

@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-hades-b7/demand/
 ```
 
-**12-month volume (illustrative):** 24,040 · **trend:** growing · YoY +8.8%
+**12-month volume (illustrative):** 24,350 · **trend:** growing · YoY +9.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,10 +153,10 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Greece | 3,860 | growing |
 | Brazil | 2,750 | declining |
-| South Africa | 1,930 | declining |
-| Philippines | 1,460 | declining |
+| South Africa | 2,140 | growing |
+| Philippines | 1,530 | declining |
 | Netherlands | 1,350 | declining |
-| Indonesia | 1,170 | declining |
+| Indonesia | 1,120 | growing |
 | Germany | 1,110 | flat |
 | Canada | 940 | flat |
 | Finland | 600 | declining |

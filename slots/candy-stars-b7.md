@@ -131,22 +131,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-stars-b7/demand/
 ```
 
-**12-month volume (illustrative):** 920 · **trend:** declining · YoY -37.4%
+**12-month volume (illustrative):** 940 · **trend:** declining · YoY -35.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Canada | 100 | flat |
-| South Africa | 90 | declining |
+| South Africa | 100 | flat |
 | Brazil | 80 | flat |
 | Greece | 60 | flat |
 | Tunisia | 50 | flat |
 | Germany | 40 | flat |
 | Spain | 40 | declining |
 | Austria | 30 | growing |
+| Indonesia | 30 | growing |
 | Portugal | 30 | flat |
-| Romania | 30 | flat |
 
 > Full per-country breakdown (35 markets) via the /demand/ endpoint.
 

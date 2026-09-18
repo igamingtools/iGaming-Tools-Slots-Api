@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/masked-mayhem-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,080 · **trend:** flat
+**12-month volume (illustrative):** 2,120 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

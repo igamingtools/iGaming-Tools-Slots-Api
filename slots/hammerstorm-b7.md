@@ -130,7 +130,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hammerstorm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,570 · **trend:** flat
+**12-month volume (illustrative):** 2,600 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -138,10 +138,10 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Canada | 260 | flat |
 | Greece | 210 | declining |
+| South Africa | 200 | flat |
 | Brazil | 190 | declining |
-| South Africa | 190 | declining |
 | Finland | 100 | flat |
-| Indonesia | 80 | declining |
+| Indonesia | 100 | flat |
 | United Kingdom | 80 | flat |
 | Australia | 60 | declining |
 | Cyprus | 60 | declining |

@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cyclops-smash-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,030 · **trend:** declining · YoY -24.8%
+**12-month volume (illustrative):** 1,040 · **trend:** declining · YoY -23.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 120 | flat |
 | Greece | 120 | flat |
-| Philippines | 90 | flat |
+| Philippines | 100 | growing |
 | Canada | 60 | growing |
 | Finland | 60 | flat |
 | South Africa | 50 | flat |

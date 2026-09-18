@@ -131,15 +131,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wildies-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,270 · **trend:** declining · YoY -15.5%
+**12-month volume (illustrative):** 3,310 · **trend:** declining · YoY -14.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Greece | 430 | growing |
-| Philippines | 360 | declining |
-| South Africa | 260 | declining |
+| Philippines | 370 | flat |
+| South Africa | 270 | declining |
 | Brazil | 200 | growing |
 | Switzerland | 150 | declining |
 | Netherlands | 110 | flat |

@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-splash-b7/demand/
 ```
 
-**12-month volume (illustrative):** 251,980 · **trend:** declining · YoY -24.2%
+**12-month volume (illustrative):** 252,980 · **trend:** declining · YoY -23.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 45,140 | declining |
 | Greece | 23,000 | declining |
 | Germany | 13,620 | declining |
-| South Africa | 11,520 | declining |
+| South Africa | 12,240 | declining |
 | Netherlands | 9,010 | declining |
 | Canada | 7,880 | growing |
 | Spain | 5,240 | flat |

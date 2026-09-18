@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/snakes-and-ladders-megadicetm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,070 · **trend:** declining · YoY -10.1%
+**12-month volume (illustrative):** 1,080 · **trend:** declining · YoY -9.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -144,8 +144,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Peru | 70 | declining |
 | Spain | 70 | growing |
 | Malaysia | 60 | declining |
+| South Africa | 60 | growing |
 | Tunisia | 60 | flat |
-| South Africa | 50 | flat |
 | Turkey | 50 | declining |
 | Finland | 40 | flat |
 

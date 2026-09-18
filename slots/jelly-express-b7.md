@@ -135,19 +135,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jelly-express-b7/demand/
 ```
 
-**12-month volume (illustrative):** 14,130 · **trend:** flat
+**12-month volume (illustrative):** 14,750 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 3,100 | declining |
+| South Africa | 3,490 | declining |
 | Brazil | 2,040 | declining |
-| Philippines | 1,000 | declining |
+| Philippines | 1,070 | flat |
 | Canada | 780 | growing |
 | Greece | 740 | declining |
 | Finland | 440 | flat |
-| Indonesia | 320 | declining |
+| Indonesia | 410 | declining |
 | United Kingdom | 300 | growing |
 | Denmark | 290 | declining |
 | Netherlands | 290 | declining |

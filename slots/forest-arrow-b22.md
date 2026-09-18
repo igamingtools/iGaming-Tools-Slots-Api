@@ -120,13 +120,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/forest-arrow-b22/demand/
 ```
 
-**12-month volume (illustrative):** 9,250 · **trend:** growing · YoY +481.8%
+**12-month volume (illustrative):** 9,370 · **trend:** growing · YoY +489.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 5,820 | declining |
+| India | 5,900 | declining |
 | Pakistan | 1,080 | declining |
 | Italy | 210 | flat |
 | Canada | 140 | flat |

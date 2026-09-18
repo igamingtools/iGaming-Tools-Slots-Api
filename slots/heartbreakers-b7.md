@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/heartbreakers-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,730 · **trend:** flat
+**12-month volume (illustrative):** 1,760 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -157,10 +157,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 90 | flat |
 | Latvia | 80 | flat |
 | Canada | 60 | growing |
+| South Africa | 60 | declining |
 | Argentina | 50 | flat |
-| South Africa | 50 | declining |
+| Philippines | 50 | growing |
 | Australia | 40 | flat |
-| Cyprus | 40 | growing |
 
 > Full per-country breakdown (51 markets) via the /demand/ endpoint.
 

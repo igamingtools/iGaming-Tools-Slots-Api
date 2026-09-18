@@ -149,13 +149,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/golden-unicorn-deluxe-b29/demand/
 ```
 
-**12-month volume (illustrative):** 2,010 · **trend:** declining · YoY -53.1%
+**12-month volume (illustrative):** 2,150 · **trend:** declining · YoY -49.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,690 | declining |
+| South Africa | 1,830 | growing |
 | Mexico | 40 | flat |
 | Norway | 40 | flat |
 | El Salvador | 20 | flat |

@@ -140,17 +140,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/devilicious-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,930 · **trend:** declining · YoY -19.2%
+**12-month volume (illustrative):** 1,950 · **trend:** declining · YoY -18.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 170 | flat |
-| Indonesia | 130 | declining |
+| Indonesia | 140 | declining |
+| South Africa | 130 | flat |
 | Canada | 120 | flat |
 | Greece | 120 | flat |
-| South Africa | 120 | declining |
 | Switzerland | 120 | flat |
 | Germany | 100 | growing |
 | Philippines | 90 | flat |

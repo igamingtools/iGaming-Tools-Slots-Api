@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/oodles-of-noodles-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,530 · **trend:** declining · YoY -41.8%
+**12-month volume (illustrative):** 1,560 · **trend:** declining · YoY -40.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -158,12 +158,12 @@ curl -H "Authorization: Token $TOKEN" \
 | Finland | 120 | flat |
 | Brazil | 100 | growing |
 | Greece | 100 | flat |
-| South Africa | 90 | declining |
+| South Africa | 100 | flat |
 | United Kingdom | 80 | growing |
 | Denmark | 70 | growing |
 | Canada | 60 | growing |
+| Indonesia | 60 | declining |
 | Lithuania | 60 | flat |
-| Romania | 60 | growing |
 
 > Full per-country breakdown (38 markets) via the /demand/ endpoint.
 

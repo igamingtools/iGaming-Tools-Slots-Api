@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mustang-trail-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,050 · **trend:** declining · YoY -16.7%
+**12-month volume (illustrative):** 2,110 · **trend:** declining · YoY -14.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -147,9 +147,9 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 230 | declining |
 | Latvia | 160 | flat |
-| Indonesia | 120 | flat |
+| Indonesia | 130 | growing |
+| South Africa | 110 | flat |
 | Finland | 100 | growing |
-| South Africa | 100 | declining |
 | Argentina | 90 | growing |
 | Greece | 90 | flat |
 | Philippines | 90 | flat |

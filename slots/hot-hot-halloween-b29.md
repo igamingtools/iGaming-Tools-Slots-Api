@@ -124,15 +124,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-hot-halloween-b29/demand/
 ```
 
-**12-month volume (illustrative):** 10,000 · **trend:** declining · YoY -20.3%
+**12-month volume (illustrative):** 10,620 · **trend:** declining · YoY -15.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 8,820 | declining |
-| India | 160 | flat |
-| Tunisia | 120 | flat |
+| South Africa | 9,410 | flat |
+| India | 180 | growing |
+| Tunisia | 130 | growing |
 | Indonesia | 80 | declining |
 | United States | 80 | flat |
 | Italy | 60 | flat |

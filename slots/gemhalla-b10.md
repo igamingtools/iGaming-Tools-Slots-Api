@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gemhalla-b10/demand/
 ```
 
-**12-month volume (illustrative):** 4,230 · **trend:** growing · YoY +14.9%
+**12-month volume (illustrative):** 4,300 · **trend:** growing · YoY +16.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

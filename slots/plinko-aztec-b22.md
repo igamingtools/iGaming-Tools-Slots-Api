@@ -120,13 +120,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/plinko-aztec-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,470 · **trend:** growing · YoY +98.6%
+**12-month volume (illustrative):** 1,500 · **trend:** growing · YoY +102.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 240 | declining |
+| India | 260 | flat |
 | Indonesia | 80 | declining |
 | Italy | 80 | flat |
 | Pakistan | 80 | flat |

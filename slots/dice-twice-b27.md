@@ -117,13 +117,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dice-twice-b27/demand/
 ```
 
-**12-month volume (illustrative):** 750 · **trend:** declining · YoY -34.2%
+**12-month volume (illustrative):** 770 · **trend:** declining · YoY -32.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 180 | declining |
+| India | 200 | flat |
 | South Africa | 100 | declining |
 | United States | 60 | flat |
 | Canada | 40 | flat |

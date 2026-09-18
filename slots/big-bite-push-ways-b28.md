@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bite-push-ways-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,910 · **trend:** growing · YoY +20.1%
+**12-month volume (illustrative):** 1,930 · **trend:** growing · YoY +21.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -128,16 +128,16 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/emerald-king-rainbow-road-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,370 · **trend:** declining · YoY -27.9%
+**12-month volume (illustrative):** 1,420 · **trend:** declining · YoY -24.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| South Africa | 130 | flat |
+| Tunisia | 130 | flat |
 | Canada | 120 | growing |
 | Denmark | 120 | flat |
-| South Africa | 120 | declining |
-| Tunisia | 120 | declining |
 | United Kingdom | 120 | growing |
 | Brazil | 90 | flat |
 | Switzerland | 60 | flat |
@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 50 | growing |
 | Turkey | 50 | growing |
 
-> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -131,21 +131,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mysterious-egypt-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,850 · **trend:** declining · YoY -37.7%
+**12-month volume (illustrative):** 1,900 · **trend:** declining · YoY -35.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 420 | declining |
+| South Africa | 450 | flat |
 | Brazil | 130 | flat |
 | Canada | 120 | declining |
 | Romania | 90 | flat |
 | Switzerland | 90 | flat |
 | United States | 80 | flat |
 | Germany | 70 | flat |
+| Indonesia | 70 | growing |
 | Greece | 60 | flat |
-| Indonesia | 60 | flat |
 | Malaysia | 60 | declining |
 
 > Full per-country breakdown (40 markets) via the /demand/ endpoint.

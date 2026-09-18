@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/towering-fortunes-b7/demand/
 ```
 
-**12-month volume (illustrative):** 760 · **trend:** growing · YoY +58.3%
+**12-month volume (illustrative):** 760 · **trend:** growing · YoY +61.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

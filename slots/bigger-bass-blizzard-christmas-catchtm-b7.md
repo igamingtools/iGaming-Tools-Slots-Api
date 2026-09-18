@@ -152,7 +152,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bigger-bass-blizzard-christmas-catchtm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,630 · **trend:** growing · YoY +15.6%
+**12-month volume (illustrative):** 1,640 · **trend:** growing · YoY +16.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

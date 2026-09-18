@@ -120,13 +120,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/striking-hot-5-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,810 · **trend:** declining · YoY -38.8%
+**12-month volume (illustrative):** 2,910 · **trend:** declining · YoY -36.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,930 | declining |
+| South Africa | 2,020 | growing |
 | Brazil | 90 | flat |
 | Switzerland | 90 | growing |
 | Greece | 60 | declining |

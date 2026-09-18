@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ride-the-lightning-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,480 · **trend:** declining · YoY -8.7%
+**12-month volume (illustrative):** 8,540 · **trend:** declining · YoY -8.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -147,7 +147,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Finland | 260 | flat |
 | Brazil | 250 | flat |
 | Italy | 200 | flat |
-| Malaysia | 180 | declining |
+| Malaysia | 200 | flat |
 | Switzerland | 180 | flat |
 | Argentina | 170 | flat |
 | United Kingdom | 170 | flat |

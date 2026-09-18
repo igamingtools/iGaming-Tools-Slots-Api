@@ -139,14 +139,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ice-mints-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,660 · **trend:** growing · YoY +400.9%
+**12-month volume (illustrative):** 5,660 · **trend:** growing · YoY +387.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 950 | flat |
-| South Africa | 930 | declining |
+| South Africa | 940 | declining |
 | Greece | 400 | flat |
 | Finland | 220 | flat |
 | Switzerland | 210 | flat |

@@ -102,13 +102,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/squid-gamebler-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,710 · **trend:** flat
+**12-month volume (illustrative):** 1,870 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 800 | declining |
+| India | 900 | growing |
 | Pakistan | 120 | flat |
 | France | 80 | flat |
 | Greece | 70 | growing |
@@ -119,7 +119,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Ukraine | 50 | flat |
 | Brazil | 40 | growing |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

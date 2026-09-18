@@ -144,14 +144,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/juicy-fruits-b7/demand/
 ```
 
-**12-month volume (illustrative):** 27,400 · **trend:** declining · YoY -31.1%
+**12-month volume (illustrative):** 27,620 · **trend:** declining · YoY -30.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| South Africa | 2,470 | growing |
 | Greece | 2,330 | growing |
-| South Africa | 2,330 | declining |
 | Romania | 2,150 | declining |
 | Netherlands | 2,020 | flat |
 | Canada | 1,500 | growing |

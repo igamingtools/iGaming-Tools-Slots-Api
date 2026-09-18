@@ -128,14 +128,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-train-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,070 · **trend:** declining · YoY -24.2%
+**12-month volume (illustrative):** 2,120 · **trend:** declining · YoY -22.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 230 | declining |
-| India | 180 | declining |
+| South Africa | 240 | declining |
+| India | 200 | flat |
 | Brazil | 120 | flat |
 | Mexico | 100 | flat |
 | Philippines | 100 | flat |

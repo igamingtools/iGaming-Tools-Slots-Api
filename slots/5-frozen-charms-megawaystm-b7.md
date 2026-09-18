@@ -130,19 +130,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/5-frozen-charms-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,680 · **trend:** growing · YoY +15.0%
+**12-month volume (illustrative):** 2,720 · **trend:** growing · YoY +16.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Tunisia | 420 | declining |
+| Tunisia | 440 | growing |
 | Canada | 140 | growing |
 | Finland | 140 | flat |
 | United States | 140 | growing |
 | Greece | 130 | flat |
 | Brazil | 120 | flat |
-| South Africa | 110 | declining |
+| South Africa | 120 | flat |
 | Denmark | 90 | flat |
 | Argentina | 80 | flat |
 | Indonesia | 70 | declining |

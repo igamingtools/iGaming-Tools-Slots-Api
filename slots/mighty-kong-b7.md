@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mighty-kong-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,080 · **trend:** declining · YoY -11.5%
+**12-month volume (illustrative):** 1,090 · **trend:** declining · YoY -10.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

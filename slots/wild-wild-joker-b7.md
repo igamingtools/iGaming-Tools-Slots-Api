@@ -145,14 +145,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-wild-joker-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,960 · **trend:** declining · YoY -30.0%
+**12-month volume (illustrative):** 1,960 · **trend:** declining · YoY -30.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 250 | flat |
-| South Africa | 160 | declining |
+| South Africa | 170 | flat |
 | Argentina | 90 | growing |
 | Italy | 90 | growing |
 | Greece | 80 | declining |

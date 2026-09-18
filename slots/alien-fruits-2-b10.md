@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/alien-fruits-2-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,250 · **trend:** growing · YoY +57.3%
+**12-month volume (illustrative):** 2,280 · **trend:** growing · YoY +60.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

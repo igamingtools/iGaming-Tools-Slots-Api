@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-monsters-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,300 · **trend:** declining · YoY -25.8%
+**12-month volume (illustrative):** 7,310 · **trend:** declining · YoY -25.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Greece | 1,410 | declining |
 | Brazil | 490 | growing |
-| South Africa | 280 | declining |
+| South Africa | 290 | flat |
 | Switzerland | 270 | flat |
 | Canada | 240 | growing |
 | Finland | 220 | flat |

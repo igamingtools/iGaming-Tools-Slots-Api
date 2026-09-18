@@ -124,14 +124,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-run-b23/demand/
 ```
 
-**12-month volume (illustrative):** 6,530 · **trend:** declining · YoY -22.8%
+**12-month volume (illustrative):** 6,600 · **trend:** declining · YoY -22.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 900 | declining |
-| India | 720 | declining |
+| Indonesia | 930 | flat |
+| India | 740 | flat |
 | Pakistan | 360 | declining |
 | Canada | 240 | flat |
 | United States | 220 | flat |

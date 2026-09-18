@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/brick-house-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 22,450 · **trend:** declining · YoY -16.6%
+**12-month volume (illustrative):** 22,530 · **trend:** declining · YoY -16.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

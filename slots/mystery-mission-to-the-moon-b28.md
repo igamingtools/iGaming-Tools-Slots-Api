@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystery-mission-to-the-moon-b28/demand/
 ```
 
-**12-month volume (illustrative):** 3,150 · **trend:** declining · YoY -5.7%
+**12-month volume (illustrative):** 3,170 · **trend:** declining · YoY -5.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

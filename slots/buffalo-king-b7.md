@@ -134,21 +134,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/buffalo-king-b7/demand/
 ```
 
-**12-month volume (illustrative):** 15,850 · **trend:** declining · YoY -17.1%
+**12-month volume (illustrative):** 16,170 · **trend:** declining · YoY -15.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Tunisia | 1,620 | declining |
-| South Africa | 1,410 | declining |
+| Tunisia | 1,690 | declining |
+| South Africa | 1,480 | flat |
 | Greece | 1,030 | declining |
 | Canada | 900 | flat |
 | United Kingdom | 740 | growing |
 | Germany | 670 | declining |
 | Brazil | 650 | declining |
 | Netherlands | 610 | flat |
-| Indonesia | 490 | declining |
+| Indonesia | 520 | declining |
 | Italy | 490 | flat |
 
 > Full per-country breakdown (73 markets) via the /demand/ endpoint.

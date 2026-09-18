@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-keeping-it-reel-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,670 · **trend:** declining · YoY -36.8%
+**12-month volume (illustrative):** 6,730 · **trend:** declining · YoY -36.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -158,7 +158,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Netherlands | 290 | growing |
 | United States | 220 | declining |
 | Romania | 200 | flat |
-| South Africa | 150 | declining |
+| South Africa | 160 | flat |
 | Latvia | 140 | flat |
 
 > Full per-country breakdown (55 markets) via the /demand/ endpoint.

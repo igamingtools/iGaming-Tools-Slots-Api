@@ -139,17 +139,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/north-guardians-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,580 · **trend:** declining · YoY -13.2%
+**12-month volume (illustrative):** 1,590 · **trend:** declining · YoY -12.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 160 | declining |
+| South Africa | 170 | flat |
 | Brazil | 130 | flat |
 | Greece | 130 | flat |
 | Finland | 80 | flat |
-| Philippines | 70 | declining |
+| Philippines | 80 | flat |
 | United Kingdom | 70 | growing |
 | Netherlands | 60 | flat |
 | Switzerland | 60 | flat |

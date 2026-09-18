@@ -141,22 +141,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-skullz-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,940 · **trend:** flat
+**12-month volume (illustrative):** 4,660 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| India | 700 | growing |
+| Philippines | 270 | flat |
 | Greece | 260 | growing |
-| Philippines | 260 | declining |
 | Brazil | 240 | growing |
 | Finland | 180 | flat |
-| Indonesia | 160 | declining |
+| Indonesia | 180 | flat |
 | Switzerland | 150 | growing |
 | United Kingdom | 150 | flat |
-| South Africa | 130 | declining |
+| South Africa | 140 | declining |
 | Canada | 120 | growing |
-| Germany | 100 | flat |
 
 > Full per-country breakdown (63 markets) via the /demand/ endpoint.
 

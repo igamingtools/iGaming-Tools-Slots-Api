@@ -133,7 +133,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/razor-shark-jackpots-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,550 · **trend:** flat
+**12-month volume (illustrative):** 1,560 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -154,13 +154,13 @@ curl -H "Authorization: Token $TOKEN" \
 | Hungary | 270 | growing |
 | Brazil | 240 | flat |
 | Canada | 220 | growing |
-| Philippines | 190 | declining |
-| South Africa | 170 | declining |
+| Philippines | 200 | flat |
+| South Africa | 180 | flat |
 | Switzerland | 150 | flat |
 | Malaysia | 140 | declining |
 | Greece | 90 | flat |
-| Indonesia | 90 | declining |
 | Peru | 90 | flat |
+| Poland | 90 | growing |
 
 > Full per-country breakdown (50 markets) via the /demand/ endpoint.
 

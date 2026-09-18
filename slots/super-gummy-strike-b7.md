@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-gummy-strike-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,740 · **trend:** flat
+**12-month volume (illustrative):** 6,780 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 1,430 | flat |
 | Greece | 650 | declining |
-| South Africa | 380 | declining |
+| South Africa | 400 | growing |
 | Tunisia | 320 | declining |
 | Canada | 260 | flat |
 | Netherlands | 190 | flat |

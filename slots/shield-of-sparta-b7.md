@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Croatia | 110 | flat |
 | South Africa | 110 | declining |
 | United Kingdom | 110 | flat |
-| Romania | 100 | growing |
+| Indonesia | 100 | flat |
 
 > Full per-country breakdown (45 markets) via the /demand/ endpoint.
 

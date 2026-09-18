@@ -151,7 +151,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 40 | flat |
 | Poland | 30 | flat |
 | India | 20 | flat |
-| Indonesia | 20 | declining |
+| Indonesia | 20 | flat |
 | Ukraine | 20 | flat |
 | United States | 20 | flat |
 | Australia | 10 | flat |

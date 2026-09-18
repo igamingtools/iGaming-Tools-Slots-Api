@@ -149,14 +149,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jackpot-hunter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,450 · **trend:** declining · YoY -41.3%
+**12-month volume (illustrative):** 1,480 · **trend:** declining · YoY -39.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 160 | declining |
-| South Africa | 140 | declining |
+| India | 180 | flat |
+| South Africa | 150 | flat |
 | Brazil | 100 | flat |
 | Malaysia | 100 | flat |
 | Philippines | 100 | declining |

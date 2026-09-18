@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bamboo-b28/demand/
 ```
 
-**12-month volume (illustrative):** 69,270 · **trend:** declining · YoY -22.7%
+**12-month volume (illustrative):** 69,460 · **trend:** declining · YoY -22.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -170,7 +170,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Netherlands | 2,620 | declining |
 | Italy | 2,210 | declining |
 
-> Full per-country breakdown (78 markets) via the /demand/ endpoint.
+> Full per-country breakdown (79 markets) via the /demand/ endpoint.
 
 ## Links
 

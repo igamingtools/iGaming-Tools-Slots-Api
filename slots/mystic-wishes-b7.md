@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystic-wishes-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,950 · **trend:** flat
+**12-month volume (illustrative):** 1,960 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 360 | flat |
 | Greece | 170 | growing |
-| South Africa | 160 | declining |
+| South Africa | 170 | flat |
 | Tunisia | 70 | flat |
 | Indonesia | 60 | flat |
 | Switzerland | 60 | flat |

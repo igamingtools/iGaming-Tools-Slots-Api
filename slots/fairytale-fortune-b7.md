@@ -124,13 +124,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fairytale-fortune-b7/demand/
 ```
 
-**12-month volume (illustrative):** 880 · **trend:** declining · YoY -45.0%
+**12-month volume (illustrative):** 890 · **trend:** declining · YoY -44.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 250 | flat |
+| South Africa | 260 | growing |
 | Brazil | 120 | flat |
 | Germany | 70 | flat |
 | Greece | 50 | flat |

@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/day-of-dead-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,610 · **trend:** declining · YoY -8.5%
+**12-month volume (illustrative):** 1,660 · **trend:** declining · YoY -5.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -144,8 +144,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 170 | flat |
 | South Africa | 130 | declining |
 | Greece | 120 | flat |
+| Indonesia | 110 | flat |
 | Germany | 100 | flat |
-| Indonesia | 100 | declining |
 | Romania | 90 | growing |
 | Canada | 60 | flat |
 | Belarus | 50 | growing |

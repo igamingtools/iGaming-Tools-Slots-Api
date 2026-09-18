@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/irish-crown-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,400 · **trend:** declining · YoY -56.4%
+**12-month volume (illustrative):** 1,400 · **trend:** declining · YoY -56.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 140 | declining |
 | Brazil | 120 | flat |
 | Greece | 110 | flat |
-| South Africa | 90 | flat |
+| South Africa | 100 | growing |
 | United Kingdom | 90 | growing |
 | Philippines | 60 | flat |
 | Italy | 50 | declining |

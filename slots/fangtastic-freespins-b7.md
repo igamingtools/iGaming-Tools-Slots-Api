@@ -148,22 +148,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fangtastic-freespins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 610 · **trend:** declining · YoY -51.6%
+**12-month volume (illustrative):** 630 · **trend:** declining · YoY -50.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Greece | 90 | flat |
+| South Africa | 70 | growing |
 | United Kingdom | 70 | growing |
 | Brazil | 60 | flat |
-| South Africa | 60 | flat |
 | Finland | 40 | growing |
 | Bulgaria | 30 | flat |
 | Netherlands | 30 | growing |
+| Tunisia | 30 | growing |
 | Denmark | 20 | flat |
 | Germany | 20 | flat |
-| Lithuania | 20 | flat |
 
 > Full per-country breakdown (23 markets) via the /demand/ endpoint.
 

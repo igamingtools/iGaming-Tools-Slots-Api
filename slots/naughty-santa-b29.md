@@ -120,13 +120,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/naughty-santa-b29/demand/
 ```
 
-**12-month volume (illustrative):** 3,080 · **trend:** flat · YoY -4.0%
+**12-month volume (illustrative):** 3,170 · **trend:** flat · YoY -1.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,990 | declining |
+| South Africa | 2,080 | flat |
 | Finland | 180 | declining |
 | Canada | 120 | flat |
 | India | 100 | declining |

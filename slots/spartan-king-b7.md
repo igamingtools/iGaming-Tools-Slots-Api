@@ -120,15 +120,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/spartan-king-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,010 · **trend:** declining · YoY -41.3%
+**12-month volume (illustrative):** 1,020 · **trend:** declining · YoY -40.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 100 | declining |
-| Indonesia | 80 | flat |
-| South Africa | 80 | flat |
+| South Africa | 90 | growing |
+| Indonesia | 80 | declining |
 | Finland | 60 | growing |
 | Greece | 60 | flat |
 | Netherlands | 60 | declining |

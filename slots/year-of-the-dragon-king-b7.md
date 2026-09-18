@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/year-of-the-dragon-king-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,040 · **trend:** declining · YoY -30.2%
+**12-month volume (illustrative):** 1,050 · **trend:** declining · YoY -29.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -151,8 +151,8 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 110 | flat |
 | Greece | 100 | declining |
+| Philippines | 80 | growing |
 | South Africa | 80 | declining |
-| Philippines | 70 | flat |
 | United Kingdom | 70 | growing |
 | United States | 60 | flat |
 | Germany | 50 | growing |

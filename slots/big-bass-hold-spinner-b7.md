@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-hold-spinner-b7/demand/
 ```
 
-**12-month volume (illustrative):** 19,860 · **trend:** declining · YoY -17.3%
+**12-month volume (illustrative):** 19,950 · **trend:** declining · YoY -16.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -159,7 +159,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 4,480 | growing |
 | Greece | 940 | flat |
 | Germany | 930 | growing |
-| South Africa | 740 | declining |
+| South Africa | 810 | flat |
 | Canada | 620 | flat |
 | Switzerland | 510 | flat |
 | Netherlands | 450 | flat |

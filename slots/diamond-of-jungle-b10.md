@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/diamond-of-jungle-b10/demand/
 ```
 
-**12-month volume (illustrative):** 740 · **trend:** declining · YoY -26.0%
+**12-month volume (illustrative):** 780 · **trend:** declining · YoY -22.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -166,7 +166,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Mexico | 30 | growing |
 | Netherlands | 30 | flat |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

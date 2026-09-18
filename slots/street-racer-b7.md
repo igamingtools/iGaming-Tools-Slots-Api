@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/street-racer-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,140 · **trend:** declining · YoY -8.8%
+**12-month volume (illustrative):** 1,170 · **trend:** flat · YoY -4.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -130,14 +130,14 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 120 | flat |
 | Brazil | 100 | flat |
 | South Africa | 80 | declining |
-| Tunisia | 70 | flat |
+| Tunisia | 80 | growing |
 | Mexico | 60 | flat |
 | Denmark | 50 | flat |
 | Germany | 50 | declining |
 | Latvia | 50 | flat |
-| Portugal | 40 | growing |
+| Philippines | 40 | growing |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

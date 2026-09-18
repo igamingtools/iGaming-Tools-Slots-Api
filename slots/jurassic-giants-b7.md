@@ -124,13 +124,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jurassic-giants-b7/demand/
 ```
 
-**12-month volume (illustrative):** 340 · **trend:** declining · YoY -17.1%
+**12-month volume (illustrative):** 350 · **trend:** declining · YoY -14.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 110 | declining |
+| South Africa | 120 | flat |
 | Argentina | 20 | flat |
 | Brazil | 20 | flat |
 | Finland | 20 | flat |

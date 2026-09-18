@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mr-null-s-wicked-wares-b7/demand/
 ```
 
-**12-month volume (illustrative):** 780 · **trend:** flat
+**12-month volume (illustrative):** 790 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -155,10 +155,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 40 | growing |
 | Canada | 40 | flat |
 | Finland | 40 | flat |
+| South Africa | 40 | flat |
 | United States | 40 | flat |
 | Germany | 30 | declining |
 | Philippines | 30 | declining |
-| South Africa | 30 | declining |
 | Switzerland | 30 | flat |
 | Argentina | 20 | flat |
 

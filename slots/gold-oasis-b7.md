@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-oasis-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,060 · **trend:** declining · YoY -28.1%
+**12-month volume (illustrative):** 4,150 · **trend:** declining · YoY -26.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -158,7 +158,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Denmark | 120 | flat |
 | Germany | 120 | flat |
 
-> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
 
 ## Links
 

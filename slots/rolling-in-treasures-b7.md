@@ -145,22 +145,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rolling-in-treasures-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,520 · **trend:** flat
+**12-month volume (illustrative):** 4,690 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Greece | 630 | flat |
-| Philippines | 420 | declining |
+| Philippines | 440 | declining |
 | Brazil | 340 | growing |
 | Switzerland | 270 | flat |
 | Canada | 140 | flat |
+| Malaysia | 140 | flat |
 | Finland | 120 | flat |
-| Malaysia | 120 | declining |
+| Indonesia | 120 | growing |
 | United States | 120 | flat |
 | Netherlands | 90 | growing |
-| Belgium | 80 | flat |
 
 > Full per-country breakdown (62 markets) via the /demand/ endpoint.
 

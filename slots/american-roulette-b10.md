@@ -102,14 +102,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/american-roulette-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,830 · **trend:** declining · YoY -8.7%
+**12-month volume (illustrative):** 2,850 · **trend:** declining · YoY -7.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | United States | 420 | flat |
-| India | 260 | declining |
+| India | 280 | flat |
 | Canada | 200 | flat |
 | Pakistan | 120 | declining |
 | Poland | 120 | growing |

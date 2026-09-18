@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pirate-golden-age-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,290 · **trend:** growing · YoY +19.9%
+**12-month volume (illustrative):** 2,300 · **trend:** growing · YoY +19.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

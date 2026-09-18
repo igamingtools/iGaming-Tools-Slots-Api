@@ -136,22 +136,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-rush-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 109,720 · **trend:** growing · YoY +78271.4%
+**12-month volume (illustrative):** 110,730 · **trend:** growing · YoY +69106.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Greece | 16,780 | growing |
-| South Africa | 10,950 | declining |
+| South Africa | 11,340 | growing |
 | Canada | 9,580 | flat |
 | Brazil | 7,010 | declining |
-| Philippines | 6,400 | declining |
+| Philippines | 6,610 | growing |
 | Denmark | 4,950 | growing |
 | Netherlands | 4,900 | flat |
 | United Kingdom | 3,110 | growing |
+| Indonesia | 3,040 | growing |
 | Finland | 2,960 | growing |
-| Turkey | 2,910 | growing |
 
 > Full per-country breakdown (75 markets) via the /demand/ endpoint.
 

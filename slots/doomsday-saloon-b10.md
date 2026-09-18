@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/doomsday-saloon-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,090 · **trend:** growing · YoY +16.0%
+**12-month volume (illustrative):** 1,130 · **trend:** growing · YoY +18.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -159,12 +159,12 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 110 | growing |
 | Greece | 90 | flat |
 | United Kingdom | 90 | declining |
+| India | 60 | growing |
 | New Zealand | 50 | flat |
 | Brazil | 40 | growing |
 | Finland | 40 | flat |
-| India | 40 | flat |
+| Indonesia | 40 | flat |
 | Australia | 30 | declining |
-| Indonesia | 30 | declining |
 
 > Full per-country breakdown (36 markets) via the /demand/ endpoint.
 

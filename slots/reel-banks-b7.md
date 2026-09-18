@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/reel-banks-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,450 · **trend:** declining · YoY -33.8%
+**12-month volume (illustrative):** 1,480 · **trend:** declining · YoY -32.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -140,11 +140,11 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 250 | flat |
 | Brazil | 120 | flat |
 | Canada | 80 | flat |
-| South Africa | 70 | flat |
+| India | 80 | growing |
+| South Africa | 80 | growing |
 | Denmark | 60 | flat |
 | Finland | 60 | growing |
-| India | 60 | flat |
-| Indonesia | 60 | flat |
+| Indonesia | 60 | growing |
 | United States | 60 | growing |
 | Malaysia | 40 | flat |
 

@@ -131,20 +131,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/yum-yum-powerways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 880 · **trend:** flat · YoY +4.8%
+**12-month volume (illustrative):** 910 · **trend:** growing · YoY +9.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 200 | flat |
-| Indonesia | 90 | declining |
+| Indonesia | 100 | declining |
+| South Africa | 70 | growing |
 | Germany | 60 | growing |
 | Philippines | 60 | declining |
-| South Africa | 60 | flat |
 | Greece | 40 | flat |
 | Sweden | 40 | growing |
-| Thailand | 40 | flat |
+| Thailand | 40 | declining |
 | Argentina | 30 | flat |
 | Romania | 30 | growing |
 

@@ -124,13 +124,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/disco-beats-b29/demand/
 ```
 
-**12-month volume (illustrative):** 19,480 · **trend:** declining · YoY -44.0%
+**12-month volume (illustrative):** 20,500 · **trend:** declining · YoY -41.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 17,100 | declining |
+| South Africa | 18,100 | flat |
 | United States | 600 | declining |
 | Canada | 260 | flat |
 | United Kingdom | 140 | flat |
@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Ukraine | 70 | flat |
 | Malaysia | 60 | flat |
 | Germany | 50 | flat |
-| Vietnam | 50 | flat |
+| Philippines | 50 | growing |
 
 > Full per-country breakdown (55 markets) via the /demand/ endpoint.
 

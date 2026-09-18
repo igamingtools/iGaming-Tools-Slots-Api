@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cult-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,350 · **trend:** growing · YoY +509.5%
+**12-month volume (illustrative):** 8,580 · **trend:** growing · YoY +526.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -157,7 +157,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Greece | 1,340 | flat |
 | Brazil | 680 | growing |
-| South Africa | 570 | declining |
+| South Africa | 680 | declining |
 | Finland | 360 | flat |
 | Germany | 280 | growing |
 | Italy | 250 | declining |

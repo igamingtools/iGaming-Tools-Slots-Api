@@ -128,13 +128,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-big-deal-b29/demand/
 ```
 
-**12-month volume (illustrative):** 2,590 · **trend:** growing · YoY +5.7%
+**12-month volume (illustrative):** 2,910 · **trend:** growing · YoY +18.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,370 | declining |
+| South Africa | 2,690 | flat |
 | United States | 60 | growing |
 | Tunisia | 50 | flat |
 | Canada | 40 | growing |

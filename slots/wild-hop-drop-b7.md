@@ -131,13 +131,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-hop-drop-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,390 · **trend:** declining · YoY -24.1%
+**12-month volume (illustrative):** 2,420 · **trend:** declining · YoY -22.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 210 | declining |
+| South Africa | 220 | flat |
 | Greece | 130 | flat |
 | Portugal | 110 | flat |
 | Austria | 100 | flat |
@@ -145,8 +145,8 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 100 | flat |
 | Brazil | 90 | growing |
 | Denmark | 90 | growing |
+| Indonesia | 90 | flat |
 | Italy | 90 | flat |
-| Philippines | 90 | declining |
 
 > Full per-country breakdown (42 markets) via the /demand/ endpoint.
 

@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-dog-house-royal-hunt-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,970 · **trend:** growing · YoY +8.6%
+**12-month volume (illustrative):** 8,130 · **trend:** growing · YoY +10.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -162,9 +162,9 @@ curl -H "Authorization: Token $TOKEN" \
 | Belarus | 280 | flat |
 | Canada | 260 | flat |
 | Finland | 240 | flat |
-| Indonesia | 220 | declining |
+| Indonesia | 230 | flat |
+| Malaysia | 220 | flat |
 | Romania | 220 | flat |
-| Latvia | 210 | declining |
 
 > Full per-country breakdown (66 markets) via the /demand/ endpoint.
 

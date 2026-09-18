@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mummy-s-jewels-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,110 · **trend:** growing · YoY +124.5%
+**12-month volume (illustrative):** 2,100 · **trend:** growing · YoY +121.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/shamrock-saints-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,350 · **trend:** declining · YoY -26.6%
+**12-month volume (illustrative):** 1,360 · **trend:** declining · YoY -26.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

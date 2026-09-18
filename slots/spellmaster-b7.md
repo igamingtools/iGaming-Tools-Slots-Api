@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/spellmaster-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,190 · **trend:** growing · YoY +279.8%
+**12-month volume (illustrative):** 3,190 · **trend:** growing · YoY +262.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -143,12 +143,12 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Greece | 600 | flat |
 | Brazil | 560 | declining |
-| South Africa | 160 | declining |
+| South Africa | 170 | flat |
 | Australia | 140 | growing |
 | Argentina | 100 | growing |
 | United Kingdom | 100 | flat |
 | Germany | 90 | growing |
-| Indonesia | 90 | declining |
+| Indonesia | 90 | flat |
 | Peru | 90 | flat |
 | Canada | 80 | flat |
 

@@ -116,7 +116,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bubbles-b27/demand/
 ```
 
-**12-month volume (illustrative):** 79,320 · **trend:** declining · YoY -8.4%
+**12-month volume (illustrative):** 79,370 · **trend:** declining · YoY -8.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Switzerland | 1,530 | growing |
 | Brazil | 740 | flat |
 | United States | 340 | growing |
-| India | 260 | declining |
+| India | 280 | flat |
 | Canada | 240 | flat |
 | Pakistan | 180 | declining |
 | United Kingdom | 150 | declining |

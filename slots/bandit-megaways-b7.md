@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bandit-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 16,050 · **trend:** growing · YoY +22.1%
+**12-month volume (illustrative):** 16,100 · **trend:** growing · YoY +21.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -149,10 +149,10 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Greece | 6,670 | declining |
 | Brazil | 1,740 | declining |
-| Indonesia | 570 | declining |
-| Philippines | 560 | declining |
+| Philippines | 580 | declining |
 | Cyprus | 540 | growing |
-| South Africa | 480 | declining |
+| Indonesia | 530 | growing |
+| South Africa | 500 | declining |
 | United Kingdom | 390 | growing |
 | Canada | 240 | declining |
 | Finland | 240 | flat |

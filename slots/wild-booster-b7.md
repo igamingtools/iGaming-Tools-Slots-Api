@@ -135,20 +135,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-booster-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,100 · **trend:** declining · YoY -9.9%
+**12-month volume (illustrative):** 2,180 · **trend:** declining · YoY -5.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 620 | declining |
+| South Africa | 690 | growing |
 | Brazil | 120 | flat |
 | Turkey | 100 | declining |
 | United States | 100 | flat |
 | Romania | 90 | growing |
 | Germany | 80 | declining |
 | Malaysia | 80 | flat |
-| Indonesia | 60 | declining |
+| Indonesia | 70 | declining |
 | Lithuania | 60 | flat |
 | Bulgaria | 50 | declining |
 

@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/heart-of-cleopatra-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,360 · **trend:** declining · YoY -10.8%
+**12-month volume (illustrative):** 6,420 · **trend:** declining · YoY -9.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -139,8 +139,8 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 770 | growing |
 | Greece | 720 | flat |
-| Philippines | 650 | declining |
-| South Africa | 280 | declining |
+| Philippines | 670 | declining |
+| South Africa | 310 | growing |
 | Switzerland | 240 | flat |
 | United States | 160 | flat |
 | Czech Republic | 140 | flat |

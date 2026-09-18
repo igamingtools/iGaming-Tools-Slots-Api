@@ -139,19 +139,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sleeping-dragon-ultra-dark-b7/demand/
 ```
 
-**12-month volume (illustrative):** 60 · **trend:** flat
+**12-month volume (illustrative):** 120 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 20 | growing |
-| Hong Kong | 10 | growing |
-| Jordan | 10 | growing |
-| Lebanon | 10 | growing |
-| South Africa | 10 | growing |
+| Philippines | 30 | declining |
+| South Africa | 30 | growing |
+| Tunisia | 20 | flat |
+| Hong Kong | 10 | declining |
+| Jordan | 10 | declining |
+| Lebanon | 10 | declining |
+| Nigeria | 10 | declining |
 
-> Full per-country breakdown (5 markets) via the /demand/ endpoint.
+> Full per-country breakdown (7 markets) via the /demand/ endpoint.
 
 ## Links
 

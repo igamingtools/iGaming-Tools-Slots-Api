@@ -117,22 +117,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/space-xy-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,990 · **trend:** declining · YoY -44.6%
+**12-month volume (illustrative):** 2,060 · **trend:** declining · YoY -42.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 350 | flat |
-| India | 260 | declining |
+| India | 280 | flat |
 | United States | 200 | declining |
 | Canada | 160 | growing |
-| Indonesia | 100 | declining |
+| Indonesia | 120 | flat |
 | Ukraine | 90 | flat |
 | Germany | 70 | declining |
 | Pakistan | 60 | flat |
 | Switzerland | 60 | declining |
-| France | 40 | declining |
+| Tunisia | 60 | flat |
 
 > Full per-country breakdown (40 markets) via the /demand/ endpoint.
 

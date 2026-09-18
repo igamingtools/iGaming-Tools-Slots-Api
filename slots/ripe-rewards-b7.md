@@ -136,16 +136,16 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ripe-rewards-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,960 · **trend:** declining · YoY -31.5%
+**12-month volume (illustrative):** 1,990 · **trend:** declining · YoY -29.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 120 | flat |
+| India | 140 | growing |
 | Brazil | 110 | flat |
 | Greece | 110 | declining |
-| South Africa | 100 | declining |
+| South Africa | 110 | flat |
 | Austria | 90 | flat |
 | Switzerland | 90 | declining |
 | Canada | 80 | flat |

@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/escape-the-pyramid-fire-ice-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,010 · **trend:** declining · YoY -50.5%
+**12-month volume (illustrative):** 1,020 · **trend:** declining · YoY -50.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

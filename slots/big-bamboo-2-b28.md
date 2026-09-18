@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bamboo-2-b28/demand/
 ```
 
-**12-month volume (illustrative):** 13,350 · **trend:** growing · YoY +2327.3%
+**12-month volume (illustrative):** 13,360 · **trend:** growing · YoY +2329.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

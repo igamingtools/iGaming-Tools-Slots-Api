@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/eternal-empress-freeze-time-b7/demand/
 ```
 
-**12-month volume (illustrative):** 560 · **trend:** declining · YoY -59.7%
+**12-month volume (illustrative):** 550 · **trend:** declining · YoY -60.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/juicy-fruits-multihold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,030 · **trend:** declining · YoY -10.8%
+**12-month volume (illustrative):** 6,030 · **trend:** declining · YoY -10.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -149,14 +149,14 @@ curl -H "Authorization: Token $TOKEN" \
 | Finland | 300 | declining |
 | Tunisia | 300 | flat |
 | Greece | 270 | flat |
-| South Africa | 260 | declining |
+| South Africa | 270 | flat |
 | Canada | 240 | flat |
 | Switzerland | 210 | flat |
 | United States | 200 | flat |
 | Belgium | 180 | flat |
 | India | 160 | flat |
 
-> Full per-country breakdown (59 markets) via the /demand/ endpoint.
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
 
 ## Links
 

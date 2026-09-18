@@ -124,14 +124,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/honey-honey-honey-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,890 · **trend:** growing · YoY +6.2%
+**12-month volume (illustrative):** 1,930 · **trend:** growing · YoY +9.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 580 | flat |
-| South Africa | 180 | declining |
+| South Africa | 190 | flat |
 | Finland | 120 | declining |
 | Greece | 80 | flat |
 | Denmark | 60 | growing |

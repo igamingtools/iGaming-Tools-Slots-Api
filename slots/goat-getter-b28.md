@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/goat-getter-b28/demand/
 ```
 
-**12-month volume (illustrative):** 5,740 · **trend:** growing · YoY +47.9%
+**12-month volume (illustrative):** 5,780 · **trend:** growing · YoY +49.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

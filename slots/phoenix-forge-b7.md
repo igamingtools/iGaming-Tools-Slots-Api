@@ -128,13 +128,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/phoenix-forge-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,390 · **trend:** declining · YoY -8.8%
+**12-month volume (illustrative):** 2,420 · **trend:** declining · YoY -7.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 440 | declining |
+| South Africa | 450 | flat |
 | Brazil | 170 | declining |
 | Greece | 150 | declining |
 | Switzerland | 120 | declining |

@@ -145,21 +145,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gem-fire-fortune-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,920 · **trend:** flat · YoY +4.3%
+**12-month volume (illustrative):** 1,950 · **trend:** flat · YoY +4.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 420 | declining |
+| Philippines | 110 | flat |
+| South Africa | 110 | flat |
 | Greece | 100 | flat |
-| Philippines | 100 | declining |
-| South Africa | 100 | declining |
+| India | 100 | growing |
 | Peru | 90 | growing |
-| India | 80 | flat |
 | Tunisia | 70 | declining |
 | Canada | 60 | declining |
-| Indonesia | 60 | flat |
+| Indonesia | 60 | declining |
 | Switzerland | 60 | flat |
 
 > Full per-country breakdown (44 markets) via the /demand/ endpoint.

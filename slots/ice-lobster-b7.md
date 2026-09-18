@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ice-lobster-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,930 · **trend:** declining · YoY -9.8%
+**12-month volume (illustrative):** 1,960 · **trend:** declining · YoY -7.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -150,7 +150,7 @@ curl -H "Authorization: Token $TOKEN" \
 | South Africa | 130 | declining |
 | Brazil | 120 | flat |
 | Greece | 110 | declining |
-| Philippines | 100 | declining |
+| Philippines | 110 | flat |
 | United Kingdom | 80 | flat |
 | India | 60 | flat |
 | Romania | 60 | flat |

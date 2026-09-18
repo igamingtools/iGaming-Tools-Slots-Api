@@ -147,7 +147,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-secrets-of-the-golden-lake-b7/demand/
 ```
 
-**12-month volume (illustrative):** 22,800 · **trend:** declining · YoY -28.1%
+**12-month volume (illustrative):** 22,880 · **trend:** declining · YoY -27.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lobster-house-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,440 · **trend:** growing · YoY +2583.3%
+**12-month volume (illustrative):** 6,460 · **trend:** growing · YoY +2384.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 920 | declining |
 | Greece | 710 | growing |
-| South Africa | 540 | declining |
+| South Africa | 550 | flat |
 | Canada | 260 | flat |
 | Switzerland | 240 | growing |
 | Finland | 220 | growing |

@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/retro-sweets-b28/demand/
 ```
 
-**12-month volume (illustrative):** 18,500 · **trend:** declining · YoY -20.4%
+**12-month volume (illustrative):** 18,590 · **trend:** declining · YoY -20.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

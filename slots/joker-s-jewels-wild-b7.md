@@ -132,13 +132,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/joker-s-jewels-wild-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,030 · **trend:** growing · YoY +24.1%
+**12-month volume (illustrative):** 1,090 · **trend:** growing · YoY +31.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 230 | declining |
+| South Africa | 250 | flat |
 | Canada | 160 | declining |
 | Argentina | 110 | flat |
 | Netherlands | 100 | growing |
@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 30 | growing |
 | Greece | 30 | growing |
 
-> Full per-country breakdown (20 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

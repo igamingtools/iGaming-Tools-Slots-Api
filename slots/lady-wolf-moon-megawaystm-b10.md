@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lady-wolf-moon-megawaystm-b10/demand/
 ```
 
-**12-month volume (illustrative):** 4,070 · **trend:** growing · YoY +67.5%
+**12-month volume (illustrative):** 4,110 · **trend:** growing · YoY +67.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

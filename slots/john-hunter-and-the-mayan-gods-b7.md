@@ -128,14 +128,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/john-hunter-and-the-mayan-gods-b7/demand/
 ```
 
-**12-month volume (illustrative):** 490 · **trend:** declining · YoY -21.0%
+**12-month volume (illustrative):** 500 · **trend:** declining · YoY -19.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 80 | flat |
-| South Africa | 70 | declining |
+| South Africa | 80 | flat |
 | Netherlands | 50 | growing |
 | Greece | 30 | growing |
 | Sweden | 30 | flat |

@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-powernudge-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,600 · **trend:** declining · YoY -47.4%
+**12-month volume (illustrative):** 1,590 · **trend:** declining · YoY -47.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -149,8 +149,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Sweden | 70 | declining |
 | Philippines | 60 | flat |
 | Switzerland | 60 | flat |
+| Tunisia | 60 | growing |
 | Argentina | 50 | flat |
-| Austria | 50 | growing |
 
 > Full per-country breakdown (43 markets) via the /demand/ endpoint.
 

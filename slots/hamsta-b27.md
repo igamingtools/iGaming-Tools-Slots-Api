@@ -128,16 +128,16 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hamsta-b27/demand/
 ```
 
-**12-month volume (illustrative):** 560 · **trend:** declining · YoY -30.9%
+**12-month volume (illustrative):** 570 · **trend:** declining · YoY -30.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 360 | declining |
+| India | 380 | flat |
 | South Africa | 90 | declining |
-| Vietnam | 30 | declining |
 | Netherlands | 20 | flat |
+| Vietnam | 20 | flat |
 | Algeria | 10 | flat |
 | France | 10 | flat |
 | Greece | 10 | flat |

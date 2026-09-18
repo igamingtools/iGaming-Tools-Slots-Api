@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/monster-superlanche-b7/demand/
 ```
 
-**12-month volume (illustrative):** 9,330 · **trend:** declining · YoY -43.4%
+**12-month volume (illustrative):** 9,350 · **trend:** declining · YoY -43.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

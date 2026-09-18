@@ -128,13 +128,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/shining-hot-5-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,090 · **trend:** declining · YoY -41.4%
+**12-month volume (illustrative):** 1,110 · **trend:** declining · YoY -40.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 360 | declining |
+| South Africa | 380 | declining |
 | Greece | 70 | declining |
 | Belgium | 60 | flat |
 | Germany | 60 | flat |

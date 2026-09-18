@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,360 · **trend:** flat
+**12-month volume (illustrative):** 1,370 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

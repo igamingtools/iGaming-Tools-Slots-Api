@@ -148,13 +148,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/floating-dragon-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,050 · **trend:** declining · YoY -29.6%
+**12-month volume (illustrative):** 5,130 · **trend:** declining · YoY -28.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,590 | declining |
+| South Africa | 2,680 | declining |
 | Canada | 140 | flat |
 | United Kingdom | 140 | flat |
 | United States | 140 | growing |

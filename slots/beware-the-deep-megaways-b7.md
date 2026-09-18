@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/beware-the-deep-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,700 · **trend:** declining · YoY -19.8%
+**12-month volume (illustrative):** 1,740 · **trend:** declining · YoY -17.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| South Africa | 130 | flat |
 | Brazil | 120 | flat |
-| South Africa | 120 | declining |
 | Greece | 100 | flat |
 | Italy | 100 | flat |
-| Tunisia | 90 | declining |
+| Tunisia | 100 | flat |
 | Canada | 80 | flat |
+| Indonesia | 80 | flat |
 | United Kingdom | 80 | flat |
 | Argentina | 70 | declining |
 | Germany | 70 | flat |
-| Indonesia | 70 | declining |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -142,7 +142,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jammin-jars-2-b28/demand/
 ```
 
-**12-month volume (illustrative):** 6,600 · **trend:** declining · YoY -31.3%
+**12-month volume (illustrative):** 6,610 · **trend:** declining · YoY -31.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

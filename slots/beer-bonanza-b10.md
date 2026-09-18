@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/beer-bonanza-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,560 · **trend:** declining · YoY -18.3%
+**12-month volume (illustrative):** 1,570 · **trend:** declining · YoY -17.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

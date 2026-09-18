@@ -135,21 +135,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-tiki-strike-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,270 · **trend:** flat
+**12-month volume (illustrative):** 4,430 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 740 | growing |
-| South Africa | 580 | declining |
-| Philippines | 150 | declining |
+| South Africa | 690 | flat |
+| Philippines | 160 | flat |
 | Canada | 140 | flat |
 | Greece | 130 | growing |
 | Malaysia | 120 | flat |
-| Indonesia | 100 | declining |
+| Indonesia | 110 | growing |
+| Tunisia | 110 | flat |
 | Romania | 100 | flat |
-| Tunisia | 100 | declining |
 | United Kingdom | 100 | flat |
 
 > Full per-country breakdown (60 markets) via the /demand/ endpoint.

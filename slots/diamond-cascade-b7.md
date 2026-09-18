@@ -136,15 +136,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/diamond-cascade-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,170 · **trend:** declining · YoY -18.2%
+**12-month volume (illustrative):** 1,190 · **trend:** declining · YoY -16.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| South Africa | 100 | growing |
 | Brazil | 90 | growing |
-| Indonesia | 90 | flat |
-| South Africa | 90 | flat |
+| Indonesia | 90 | growing |
 | Greece | 80 | growing |
 | Argentina | 70 | declining |
 | Canada | 60 | growing |

@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/might-of-freya-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,190 · **trend:** declining · YoY -24.0%
+**12-month volume (illustrative):** 2,200 · **trend:** declining · YoY -23.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

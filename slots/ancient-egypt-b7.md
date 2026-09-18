@@ -120,13 +120,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ancient-egypt-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,630 · **trend:** flat · YoY +0.0%
+**12-month volume (illustrative):** 1,770 · **trend:** growing · YoY +8.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 360 | declining |
+| South Africa | 500 | growing |
 | Brazil | 120 | flat |
 | Germany | 90 | declining |
 | Greece | 80 | declining |

@@ -132,19 +132,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cash-elevator-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,660 · **trend:** declining · YoY -37.4%
+**12-month volume (illustrative):** 1,690 · **trend:** declining · YoY -36.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 220 | declining |
+| South Africa | 230 | flat |
 | Brazil | 150 | declining |
 | United States | 120 | declining |
+| Indonesia | 90 | flat |
 | Switzerland | 90 | flat |
+| Tunisia | 90 | flat |
 | India | 80 | declining |
-| Indonesia | 80 | flat |
-| Tunisia | 80 | declining |
 | United Kingdom | 80 | flat |
 | France | 70 | flat |
 | Germany | 70 | growing |

@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pirates-pub-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,450 · **trend:** declining · YoY -11.7%
+**12-month volume (illustrative):** 5,500 · **trend:** declining · YoY -10.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -152,7 +152,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Ukraine | 180 | flat |
 | Argentina | 170 | growing |
 
-> Full per-country breakdown (59 markets) via the /demand/ endpoint.
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-tuna-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,700 · **trend:** flat
+**12-month volume (illustrative):** 6,820 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -154,8 +154,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 810 | declining |
 | United Kingdom | 270 | growing |
 | Switzerland | 210 | growing |
+| South Africa | 200 | flat |
 | Finland | 180 | flat |
-| South Africa | 170 | declining |
 | Canada | 160 | growing |
 | Germany | 140 | flat |
 | Cyprus | 120 | flat |

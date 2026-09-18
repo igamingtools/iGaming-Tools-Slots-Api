@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-reel-repeat-b7/demand/
 ```
 
-**12-month volume (illustrative):** 23,400 · **trend:** growing · YoY +161.5%
+**12-month volume (illustrative):** 23,300 · **trend:** growing · YoY +156.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -160,7 +160,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Netherlands | 1,150 | declining |
 | Germany | 1,050 | declining |
 | Canada | 940 | flat |
-| South Africa | 930 | declining |
+| South Africa | 940 | declining |
 | Romania | 660 | flat |
 | Switzerland | 630 | flat |
 | Finland | 520 | growing |

@@ -139,14 +139,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/club-tropicana-b7/demand/
 ```
 
-**12-month volume (illustrative):** 9,880 · **trend:** declining · YoY -16.7%
+**12-month volume (illustrative):** 9,950 · **trend:** declining · YoY -16.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 2,740 | growing |
-| South Africa | 1,280 | declining |
+| South Africa | 1,300 | declining |
 | Greece | 1,210 | growing |
 | Argentina | 300 | flat |
 | Romania | 270 | declining |

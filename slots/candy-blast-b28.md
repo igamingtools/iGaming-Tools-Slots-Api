@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-blast-b28/demand/
 ```
 
-**12-month volume (illustrative):** 4,350 · **trend:** growing · YoY +44.5%
+**12-month volume (illustrative):** 4,360 · **trend:** growing · YoY +44.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/elvis-frog-in-vegas-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,840 · **trend:** growing · YoY +26.8%
+**12-month volume (illustrative):** 2,850 · **trend:** growing · YoY +27.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

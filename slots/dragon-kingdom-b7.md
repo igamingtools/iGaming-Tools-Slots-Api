@@ -128,14 +128,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-kingdom-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,040 · **trend:** declining · YoY -27.8%
+**12-month volume (illustrative):** 1,060 · **trend:** declining · YoY -25.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| South Africa | 170 | growing |
 | Brazil | 160 | flat |
-| South Africa | 150 | declining |
 | Tunisia | 70 | declining |
 | United Kingdom | 60 | declining |
 | Australia | 50 | growing |

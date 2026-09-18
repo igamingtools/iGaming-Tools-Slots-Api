@@ -124,20 +124,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/leprechaun-song-b7/demand/
 ```
 
-**12-month volume (illustrative):** 650 · **trend:** flat · YoY -4.4%
+**12-month volume (illustrative):** 650 · **trend:** flat · YoY -3.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 100 | flat |
-| South Africa | 90 | declining |
+| South Africa | 100 | flat |
 | Mexico | 70 | flat |
 | Argentina | 50 | growing |
 | Finland | 40 | growing |
-| Indonesia | 40 | flat |
 | United Kingdom | 40 | flat |
 | United States | 40 | flat |
+| Indonesia | 30 | flat |
 | Belgium | 20 | flat |
 | Germany | 20 | flat |
 

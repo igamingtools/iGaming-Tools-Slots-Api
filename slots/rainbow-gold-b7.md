@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rainbow-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,210 · **trend:** declining · YoY -28.0%
+**12-month volume (illustrative):** 1,260 · **trend:** declining · YoY -23.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -128,16 +128,16 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | United Kingdom | 190 | flat |
 | Brazil | 170 | declining |
-| South Africa | 110 | declining |
+| South Africa | 120 | flat |
 | United States | 80 | growing |
 | Germany | 70 | flat |
 | Greece | 60 | flat |
+| Indonesia | 40 | declining |
+| Malaysia | 40 | growing |
 | Argentina | 30 | flat |
-| Indonesia | 30 | flat |
 | Mexico | 30 | declining |
-| Philippines | 30 | flat |
 
-> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

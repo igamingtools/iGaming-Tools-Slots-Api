@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/queenie-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,300 · **trend:** declining · YoY -35.6%
+**12-month volume (illustrative):** 4,320 · **trend:** declining · YoY -35.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -147,7 +147,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 180 | flat |
 | Canada | 160 | growing |
 | Lithuania | 150 | growing |
-| South Africa | 140 | declining |
+| South Africa | 150 | flat |
 | El Salvador | 120 | declining |
 | Argentina | 110 | flat |
 | Belgium | 100 | growing |

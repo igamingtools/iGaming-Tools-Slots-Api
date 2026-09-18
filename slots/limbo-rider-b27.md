@@ -111,15 +111,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/limbo-rider-b27/demand/
 ```
 
-**12-month volume (illustrative):** 910 · **trend:** declining · YoY -22.9%
+**12-month volume (illustrative):** 940 · **trend:** declining · YoY -20.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 380 | declining |
+| India | 400 | declining |
 | Pakistan | 120 | flat |
-| South Africa | 100 | declining |
+| South Africa | 110 | flat |
 | Brazil | 30 | flat |
 | Canada | 20 | declining |
 | France | 20 | flat |

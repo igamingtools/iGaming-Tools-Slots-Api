@@ -134,7 +134,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/odds-on-winner-b7/demand/
 ```
 
-**12-month volume (illustrative):** 60 · **trend:** flat
+**12-month volume (illustrative):** 70 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -142,8 +142,8 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 20 | flat |
 | Greece | 20 | flat |
+| South Africa | 20 | flat |
 | Philippines | 10 | declining |
-| South Africa | 10 | declining |
 
 > Full per-country breakdown (4 markets) via the /demand/ endpoint.
 

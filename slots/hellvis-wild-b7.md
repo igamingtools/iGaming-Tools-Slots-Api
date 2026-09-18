@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hellvis-wild-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,170 · **trend:** flat · YoY +3.5%
+**12-month volume (illustrative):** 1,180 · **trend:** flat · YoY +3.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -150,10 +150,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 100 | declining |
 | South Africa | 100 | declining |
 | Malaysia | 60 | flat |
+| Philippines | 60 | growing |
 | Portugal | 60 | declining |
 | Tunisia | 60 | flat |
 | Denmark | 50 | declining |
-| Philippines | 50 | flat |
 | Canada | 40 | flat |
 | Finland | 40 | declining |
 

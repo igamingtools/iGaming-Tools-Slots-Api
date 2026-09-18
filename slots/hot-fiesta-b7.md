@@ -136,13 +136,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-fiesta-b7/demand/
 ```
 
-**12-month volume (illustrative):** 19,920 · **trend:** declining · YoY -19.9%
+**12-month volume (illustrative):** 20,240 · **trend:** declining · YoY -18.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,640 | declining |
+| South Africa | 2,850 | growing |
 | Brazil | 2,440 | declining |
 | Greece | 1,560 | growing |
 | Finland | 1,320 | growing |

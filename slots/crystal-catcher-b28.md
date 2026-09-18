@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/crystal-catcher-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,070 · **trend:** declining · YoY -32.3%
+**12-month volume (illustrative):** 1,080 · **trend:** declining · YoY -31.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

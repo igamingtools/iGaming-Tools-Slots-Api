@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-dog-house-dog-or-alive-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,870 · **trend:** declining · YoY -6.1%
+**12-month volume (illustrative):** 3,940 · **trend:** flat · YoY -3.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

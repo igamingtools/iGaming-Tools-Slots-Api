@@ -139,20 +139,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hundreds-and-thousands-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,820 · **trend:** flat
+**12-month volume (illustrative):** 2,850 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Greece | 340 | growing |
-| South Africa | 310 | declining |
+| South Africa | 320 | declining |
 | Brazil | 280 | flat |
 | Canada | 180 | declining |
 | Finland | 180 | flat |
 | Peru | 110 | declining |
+| Philippines | 90 | growing |
 | United Kingdom | 90 | growing |
-| Philippines | 80 | flat |
 | Ukraine | 80 | flat |
 | Portugal | 70 | growing |
 

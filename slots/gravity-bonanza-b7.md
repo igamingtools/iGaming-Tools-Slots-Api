@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gravity-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,140 · **trend:** declining · YoY -23.0%
+**12-month volume (illustrative):** 3,200 · **trend:** declining · YoY -21.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,12 +141,12 @@ curl -H "Authorization: Token $TOKEN" \
 | Denmark | 150 | flat |
 | Finland | 140 | flat |
 | Brazil | 130 | flat |
-| Indonesia | 120 | declining |
-| Philippines | 120 | declining |
+| Indonesia | 130 | flat |
+| Philippines | 130 | declining |
 | Greece | 110 | growing |
+| South Africa | 110 | flat |
 | Belgium | 100 | growing |
 | Italy | 100 | flat |
-| Latvia | 100 | growing |
 
 > Full per-country breakdown (47 markets) via the /demand/ endpoint.
 

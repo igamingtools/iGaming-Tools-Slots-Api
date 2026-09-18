@@ -124,14 +124,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jade-butterfly-b7/demand/
 ```
 
-**12-month volume (illustrative):** 720 · **trend:** declining · YoY -28.7%
+**12-month volume (illustrative):** 730 · **trend:** declining · YoY -27.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 210 | flat |
-| South Africa | 120 | declining |
+| South Africa | 130 | flat |
 | Malaysia | 60 | flat |
 | Indonesia | 30 | flat |
 | Philippines | 30 | flat |

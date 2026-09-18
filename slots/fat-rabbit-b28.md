@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fat-rabbit-b28/demand/
 ```
 
-**12-month volume (illustrative):** 4,590 · **trend:** declining · YoY -25.7%
+**12-month volume (illustrative):** 4,610 · **trend:** declining · YoY -25.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

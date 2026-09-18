@@ -120,13 +120,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-tower-b29/demand/
 ```
 
-**12-month volume (illustrative):** 1,490 · **trend:** declining · YoY -56.8%
+**12-month volume (illustrative):** 1,540 · **trend:** declining · YoY -55.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 990 | declining |
+| South Africa | 1,040 | growing |
 | India | 120 | flat |
 | Canada | 40 | flat |
 | Honduras | 40 | flat |

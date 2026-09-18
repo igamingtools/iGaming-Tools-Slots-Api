@@ -116,19 +116,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/888-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,080 · **trend:** declining · YoY -37.5%
+**12-month volume (illustrative):** 2,180 · **trend:** declining · YoY -34.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 720 | declining |
-| Indonesia | 130 | declining |
-| India | 80 | declining |
-| Philippines | 80 | flat |
+| Indonesia | 160 | flat |
+| India | 100 | flat |
+| Philippines | 90 | growing |
+| Malaysia | 80 | growing |
 | Greece | 60 | flat |
 | Kenya | 60 | declining |
-| Malaysia | 60 | flat |
 | Romania | 60 | flat |
 | United States | 60 | flat |
 | South Africa | 50 | declining |

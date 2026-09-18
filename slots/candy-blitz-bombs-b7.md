@@ -135,17 +135,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-blitz-bombs-b7/demand/
 ```
 
-**12-month volume (illustrative):** 11,530 · **trend:** declining · YoY -33.8%
+**12-month volume (illustrative):** 11,830 · **trend:** declining · YoY -31.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 1,660 | declining |
+| Philippines | 1,750 | growing |
 | Brazil | 880 | growing |
 | Switzerland | 750 | growing |
 | Canada | 700 | growing |
-| South Africa | 630 | declining |
+| South Africa | 700 | growing |
 | United Kingdom | 470 | growing |
 | Lithuania | 410 | growing |
 | Argentina | 390 | flat |

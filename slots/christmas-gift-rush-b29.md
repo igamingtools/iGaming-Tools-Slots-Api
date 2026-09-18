@@ -139,13 +139,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/christmas-gift-rush-b29/demand/
 ```
 
-**12-month volume (illustrative):** 2,680 · **trend:** declining · YoY -47.9%
+**12-month volume (illustrative):** 2,790 · **trend:** declining · YoY -45.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,340 | declining |
+| South Africa | 2,450 | declining |
 | India | 40 | flat |
 | Brazil | 30 | flat |
 | El Salvador | 30 | flat |

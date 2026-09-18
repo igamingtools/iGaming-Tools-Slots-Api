@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/6-jokers-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,640 · **trend:** flat · YoY +4.3%
+**12-month volume (illustrative):** 5,660 · **trend:** flat · YoY +4.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 480 | declining |
 | Canada | 280 | flat |
 | Switzerland | 270 | flat |
-| South Africa | 230 | declining |
+| South Africa | 240 | flat |
 | Germany | 210 | growing |
 | Finland | 200 | declining |
 | Philippines | 130 | declining |

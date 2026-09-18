@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystery-museum-b28/demand/
 ```
 
-**12-month volume (illustrative):** 7,370 · **trend:** flat · YoY -4.7%
+**12-month volume (illustrative):** 7,400 · **trend:** flat · YoY -4.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

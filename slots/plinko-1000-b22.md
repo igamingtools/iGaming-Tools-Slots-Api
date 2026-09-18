@@ -112,7 +112,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/plinko-1000-b22/demand/
 ```
 
-**12-month volume (illustrative):** 950 · **trend:** declining · YoY -68.4%
+**12-month volume (illustrative):** 970 · **trend:** declining · YoY -67.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 90 | flat |
 | United Kingdom | 90 | growing |
-| India | 60 | flat |
+| India | 80 | growing |
 | Poland | 60 | flat |
 | Spain | 60 | flat |
 | Ukraine | 60 | flat |

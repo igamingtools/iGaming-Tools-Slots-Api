@@ -144,18 +144,18 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/raiden-shogun-b29/demand/
 ```
 
-**12-month volume (illustrative):** 5,540 · **trend:** declining · YoY -59.6%
+**12-month volume (illustrative):** 5,630 · **trend:** declining · YoY -58.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | United States | 720 | declining |
-| India | 260 | declining |
+| India | 280 | flat |
 | Canada | 240 | flat |
-| Malaysia | 220 | declining |
-| Philippines | 220 | declining |
-| Indonesia | 190 | declining |
+| Malaysia | 240 | flat |
+| Philippines | 230 | flat |
+| Indonesia | 200 | flat |
 | Finland | 180 | growing |
 | Belgium | 160 | growing |
 | Brazil | 160 | flat |

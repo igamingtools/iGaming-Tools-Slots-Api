@@ -144,15 +144,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/madame-destiny-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 44,180 · **trend:** declining · YoY -18.9%
+**12-month volume (illustrative):** 45,040 · **trend:** declining · YoY -17.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Tunisia | 7,850 | declining |
+| Tunisia | 8,170 | declining |
 | Greece | 7,250 | flat |
-| South Africa | 3,550 | declining |
+| South Africa | 3,940 | growing |
 | Denmark | 2,280 | growing |
 | United Kingdom | 2,270 | flat |
 | Finland | 2,220 | growing |

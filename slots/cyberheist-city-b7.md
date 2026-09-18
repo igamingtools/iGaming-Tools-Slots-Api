@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cyberheist-city-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,340 · **trend:** flat
+**12-month volume (illustrative):** 2,360 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -155,8 +155,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Switzerland | 150 | declining |
 | Brazil | 130 | flat |
 | Greece | 120 | flat |
+| South Africa | 110 | growing |
 | Canada | 100 | growing |
-| South Africa | 90 | declining |
 | Denmark | 80 | flat |
 | Germany | 70 | flat |
 | Belgium | 60 | growing |

@@ -116,13 +116,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cricket-road-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,270 · **trend:** flat
+**12-month volume (illustrative):** 1,370 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 340 | declining |
+| India | 400 | growing |
 | Pakistan | 220 | declining |
 | Canada | 100 | growing |
 | Australia | 70 | flat |
@@ -133,7 +133,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Italy | 40 | flat |
 | Ukraine | 40 | growing |
 
-> Full per-country breakdown (23 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

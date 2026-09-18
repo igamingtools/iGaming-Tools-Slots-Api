@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/5-lions-reborn-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,290 · **trend:** growing · YoY +7.3%
+**12-month volume (illustrative):** 5,340 · **trend:** growing · YoY +7.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 950 | declining |
+| South Africa | 970 | flat |
 | Canada | 420 | flat |
 | Switzerland | 270 | growing |
 | Argentina | 230 | declining |
 | Finland | 200 | flat |
-| Tunisia | 190 | declining |
-| Malaysia | 180 | flat |
+| Malaysia | 200 | growing |
+| Tunisia | 200 | flat |
 | Greece | 160 | flat |
 | Brazil | 140 | declining |
 | Germany | 140 | flat |
 
-> Full per-country breakdown (63 markets) via the /demand/ endpoint.
+> Full per-country breakdown (64 markets) via the /demand/ endpoint.
 
 ## Links
 

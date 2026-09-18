@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dinopolis-b28/demand/
 ```
 
-**12-month volume (illustrative):** 7,590 · **trend:** declining · YoY -25.2%
+**12-month volume (illustrative):** 7,600 · **trend:** declining · YoY -25.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

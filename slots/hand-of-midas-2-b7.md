@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hand-of-midas-2-b7/demand/
 ```
 
-**12-month volume (illustrative):** 10,310 · **trend:** declining · YoY -11.0%
+**12-month volume (illustrative):** 10,360 · **trend:** declining · YoY -10.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -160,7 +160,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 270 | growing |
 | Indonesia | 260 | growing |
 
-> Full per-country breakdown (65 markets) via the /demand/ endpoint.
+> Full per-country breakdown (66 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/clover-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 14,180 · **trend:** declining · YoY -35.6%
+**12-month volume (illustrative):** 14,190 · **trend:** declining · YoY -35.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

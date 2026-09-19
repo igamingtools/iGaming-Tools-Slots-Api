@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-phoenix-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,830 · **trend:** growing · YoY +35.6%
+**12-month volume (illustrative):** 1,850 · **trend:** growing · YoY +37.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

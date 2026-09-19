@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-hero-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,010 · **trend:** declining · YoY -13.7%
+**12-month volume (illustrative):** 7,040 · **trend:** declining · YoY -13.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/resurrecting-riches-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,130 · **trend:** growing · YoY +63.4%
+**12-month volume (illustrative):** 5,150 · **trend:** growing · YoY +64.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

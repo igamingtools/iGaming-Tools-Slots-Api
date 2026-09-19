@@ -115,7 +115,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/towers-b27/demand/
 ```
 
-**12-month volume (illustrative):** 2,580 · **trend:** declining · YoY -11.6%
+**12-month volume (illustrative):** 2,600 · **trend:** declining · YoY -11.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -125,8 +125,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 180 | growing |
 | United States | 180 | flat |
 | Finland | 140 | growing |
+| Pakistan | 120 | flat |
 | Switzerland | 120 | flat |
-| Pakistan | 100 | declining |
 | South Africa | 100 | flat |
 | Brazil | 90 | flat |
 | United Kingdom | 90 | flat |

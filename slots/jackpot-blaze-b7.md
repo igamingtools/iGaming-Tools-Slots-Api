@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jackpot-blaze-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,300 · **trend:** growing · YoY +551.5%
+**12-month volume (illustrative):** 4,320 · **trend:** growing · YoY +554.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -162,7 +162,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Belgium | 100 | declining |
 | Canada | 100 | flat |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (57 markets) via the /demand/ endpoint.
 
 ## Links
 

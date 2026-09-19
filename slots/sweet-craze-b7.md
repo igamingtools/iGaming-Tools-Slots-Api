@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-craze-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,450 · **trend:** flat
+**12-month volume (illustrative):** 6,460 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

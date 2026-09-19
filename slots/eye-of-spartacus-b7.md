@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/eye-of-spartacus-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,730 · **trend:** growing · YoY +8.7%
+**12-month volume (illustrative):** 4,720 · **trend:** growing · YoY +8.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Argentina | 120 | flat |
 | Malaysia | 120 | flat |
 
-> Full per-country breakdown (57 markets) via the /demand/ endpoint.
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
 
 ## Links
 

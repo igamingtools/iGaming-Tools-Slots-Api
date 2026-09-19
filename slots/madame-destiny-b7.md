@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/madame-destiny-b7/demand/
 ```
 
-**12-month volume (illustrative):** 31,160 · **trend:** growing · YoY +17.0%
+**12-month volume (illustrative):** 31,200 · **trend:** growing · YoY +17.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

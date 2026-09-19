@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 60 | declining |
 | Australia | 50 | growing |
 | India | 40 | flat |
-| Saudi Arabia | 40 | declining |
+| Saudi Arabia | 40 | flat |
 | Indonesia | 30 | flat |
 | Lebanon | 30 | flat |
 | Mexico | 30 | flat |

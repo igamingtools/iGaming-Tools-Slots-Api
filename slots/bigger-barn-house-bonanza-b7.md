@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bigger-barn-house-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 13,080 · **trend:** growing · YoY +7594.1%
+**12-month volume (illustrative):** 13,100 · **trend:** growing · YoY +7605.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

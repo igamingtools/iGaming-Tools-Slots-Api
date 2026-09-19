@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/alien-invaders-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,610 · **trend:** growing · YoY +57.2%
+**12-month volume (illustrative):** 2,620 · **trend:** growing · YoY +57.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

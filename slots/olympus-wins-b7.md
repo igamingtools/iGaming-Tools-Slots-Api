@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/olympus-wins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,250 · **trend:** growing · YoY +425.0%
+**12-month volume (illustrative):** 5,280 · **trend:** growing · YoY +428.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

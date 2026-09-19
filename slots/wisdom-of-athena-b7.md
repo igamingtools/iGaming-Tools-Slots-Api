@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wisdom-of-athena-b7/demand/
 ```
 
-**12-month volume (illustrative):** 17,740 · **trend:** declining · YoY -35.1%
+**12-month volume (illustrative):** 17,750 · **trend:** declining · YoY -35.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

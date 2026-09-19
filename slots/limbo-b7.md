@@ -102,7 +102,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/limbo-b7/demand/
 ```
 
-**12-month volume (illustrative):** 19,120 · **trend:** declining · YoY -61.7%
+**12-month volume (illustrative):** 19,140 · **trend:** declining · YoY -61.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -111,7 +111,7 @@ curl -H "Authorization: Token $TOKEN" \
 | India | 7,180 | flat |
 | Brazil | 1,300 | growing |
 | United States | 840 | flat |
-| Pakistan | 620 | declining |
+| Pakistan | 580 | growing |
 | Canada | 500 | declining |
 | Indonesia | 420 | growing |
 | Germany | 350 | declining |

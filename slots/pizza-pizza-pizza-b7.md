@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pizza-pizza-pizza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,840 · **trend:** declining · YoY -7.3%
+**12-month volume (illustrative):** 7,870 · **trend:** declining · YoY -7.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -161,7 +161,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 130 | flat |
 | Italy | 130 | flat |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (59 markets) via the /demand/ endpoint.
 
 ## Links
 

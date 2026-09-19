@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/peak-power-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,860 · **trend:** declining · YoY -28.5%
+**12-month volume (illustrative):** 1,870 · **trend:** declining · YoY -28.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -162,7 +162,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 60 | flat |
 | Malaysia | 60 | growing |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

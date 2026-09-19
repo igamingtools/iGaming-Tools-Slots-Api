@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/blade-fangs-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,340 · **trend:** declining · YoY -19.0%
+**12-month volume (illustrative):** 2,360 · **trend:** declining · YoY -18.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -156,7 +156,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Portugal | 80 | flat |
 | United States | 80 | flat |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chests-of-cai-shen-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,510 · **trend:** growing · YoY +5.0%
+**12-month volume (illustrative):** 5,540 · **trend:** growing · YoY +5.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

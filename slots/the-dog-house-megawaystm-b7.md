@@ -130,7 +130,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-dog-house-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 24,310 · **trend:** flat · YoY -1.6%
+**12-month volume (illustrative):** 24,360 · **trend:** flat · YoY -1.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -147,7 +147,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 560 | declining |
 | Tunisia | 550 | declining |
 
-> Full per-country breakdown (74 markets) via the /demand/ endpoint.
+> Full per-country breakdown (75 markets) via the /demand/ endpoint.
 
 ## Links
 

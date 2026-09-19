@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-dog-house-muttley-crew-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,930 · **trend:** declining · YoY -32.6%
+**12-month volume (illustrative):** 4,930 · **trend:** declining · YoY -32.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

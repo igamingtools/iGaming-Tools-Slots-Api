@@ -127,7 +127,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/slot-machine-b10/demand/
 ```
 
-**12-month volume (illustrative):** 119,546,380 · **trend:** declining · YoY -11.6%
+**12-month volume (illustrative):** 119,550,820 · **trend:** declining · YoY -11.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

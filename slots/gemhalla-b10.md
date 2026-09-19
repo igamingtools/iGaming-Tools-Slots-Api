@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gemhalla-b10/demand/
 ```
 
-**12-month volume (illustrative):** 4,300 · **trend:** growing · YoY +16.8%
+**12-month volume (illustrative):** 4,310 · **trend:** growing · YoY +17.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 220 | flat |
 | Switzerland | 210 | declining |
 | Finland | 200 | declining |
-| United Arab Emirates | 180 | declining |
+| United Arab Emirates | 190 | declining |
 | Netherlands | 170 | declining |
 | United Kingdom | 170 | growing |
 | Turkey | 160 | declining |

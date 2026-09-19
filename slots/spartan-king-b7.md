@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/spartan-king-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,020 · **trend:** declining · YoY -40.4%
+**12-month volume (illustrative):** 1,000 · **trend:** declining · YoY -42.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -137,7 +137,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Romania | 40 | flat |
 | Tunisia | 40 | flat |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

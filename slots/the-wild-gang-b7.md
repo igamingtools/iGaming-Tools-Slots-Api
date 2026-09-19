@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-wild-gang-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,850 · **trend:** declining · YoY -15.1%
+**12-month volume (illustrative):** 6,860 · **trend:** declining · YoY -15.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

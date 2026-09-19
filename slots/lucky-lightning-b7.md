@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-lightning-b7/demand/
 ```
 
-**12-month volume (illustrative):** 10,830 · **trend:** declining · YoY -37.1%
+**12-month volume (illustrative):** 10,840 · **trend:** declining · YoY -37.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bison-battle-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,930 · **trend:** declining · YoY -55.0%
+**12-month volume (illustrative):** 1,950 · **trend:** declining · YoY -54.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

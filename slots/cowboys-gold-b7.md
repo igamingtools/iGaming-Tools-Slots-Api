@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cowboys-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,270 · **trend:** declining · YoY -22.2%
+**12-month volume (illustrative):** 6,290 · **trend:** declining · YoY -22.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

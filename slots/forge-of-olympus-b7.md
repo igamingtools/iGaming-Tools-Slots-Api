@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/forge-of-olympus-b7/demand/
 ```
 
-**12-month volume (illustrative):** 15,200 · **trend:** declining · YoY -47.8%
+**12-month volume (illustrative):** 15,220 · **trend:** declining · YoY -47.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

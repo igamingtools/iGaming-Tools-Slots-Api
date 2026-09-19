@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-wild-riches-b7/demand/
 ```
 
-**12-month volume (illustrative):** 14,060 · **trend:** declining · YoY -30.0%
+**12-month volume (illustrative):** 14,110 · **trend:** declining · YoY -29.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-the-fallen-b7/demand/
 ```
 
-**12-month volume (illustrative):** 16,750 · **trend:** growing · YoY +10.3%
+**12-month volume (illustrative):** 16,760 · **trend:** growing · YoY +10.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

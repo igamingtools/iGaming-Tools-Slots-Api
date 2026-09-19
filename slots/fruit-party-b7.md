@@ -134,7 +134,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fruit-party-b7/demand/
 ```
 
-**12-month volume (illustrative):** 49,540 · **trend:** declining · YoY -23.2%
+**12-month volume (illustrative):** 49,600 · **trend:** declining · YoY -23.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-bonanza-1000-b7/demand/
 ```
 
-**12-month volume (illustrative):** 47,100 · **trend:** growing · YoY +47.0%
+**12-month volume (illustrative):** 47,200 · **trend:** growing · YoY +47.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

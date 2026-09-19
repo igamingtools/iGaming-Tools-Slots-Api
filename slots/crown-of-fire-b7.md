@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/crown-of-fire-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,920 · **trend:** declining · YoY -13.1%
+**12-month volume (illustrative):** 3,920 · **trend:** declining · YoY -12.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

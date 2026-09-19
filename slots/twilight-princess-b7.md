@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/twilight-princess-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,280 · **trend:** declining · YoY -23.8%
+**12-month volume (illustrative):** 7,270 · **trend:** declining · YoY -24.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -102,7 +102,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,570 · **trend:** declining · YoY -34.9%
+**12-month volume (illustrative):** 1,570 · **trend:** declining · YoY -35.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -110,7 +110,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 710 | declining |
 | India | 240 | flat |
-| Pakistan | 140 | flat |
+| Pakistan | 140 | growing |
 | Mexico | 70 | flat |
 | Philippines | 70 | flat |
 | Portugal | 50 | growing |

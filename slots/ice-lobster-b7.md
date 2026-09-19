@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ice-lobster-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,960 · **trend:** declining · YoY -7.5%
+**12-month volume (illustrative):** 1,940 · **trend:** declining · YoY -9.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

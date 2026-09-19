@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-bonanza-super-scatter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 78,270 · **trend:** growing · YoY +117.5%
+**12-month volume (illustrative):** 78,290 · **trend:** growing · YoY +117.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

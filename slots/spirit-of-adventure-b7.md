@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/spirit-of-adventure-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,070 · **trend:** growing · YoY +7.8%
+**12-month volume (illustrative):** 6,090 · **trend:** growing · YoY +8.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -154,11 +154,11 @@ curl -H "Authorization: Token $TOKEN" \
 | South Africa | 110 | flat |
 | Greece | 100 | flat |
 | Portugal | 90 | flat |
+| Pakistan | 80 | growing |
 | United States | 80 | flat |
 | Germany | 60 | flat |
 | Malaysia | 60 | growing |
 | Netherlands | 60 | growing |
-| Pakistan | 60 | flat |
 
 > Full per-country breakdown (46 markets) via the /demand/ endpoint.
 

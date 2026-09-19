@@ -138,7 +138,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/release-the-kraken-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,490 · **trend:** declining · YoY -11.7%
+**12-month volume (illustrative):** 7,540 · **trend:** declining · YoY -11.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

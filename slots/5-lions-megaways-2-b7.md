@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/5-lions-megaways-2-b7/demand/
 ```
 
-**12-month volume (illustrative):** 37,930 · **trend:** growing · YoY +69.3%
+**12-month volume (illustrative):** 38,010 · **trend:** growing · YoY +69.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -170,7 +170,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 780 | declining |
 | Brazil | 690 | flat |
 
-> Full per-country breakdown (71 markets) via the /demand/ endpoint.
+> Full per-country breakdown (72 markets) via the /demand/ endpoint.
 
 ## Links
 

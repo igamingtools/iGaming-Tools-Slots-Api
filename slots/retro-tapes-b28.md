@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/retro-tapes-b28/demand/
 ```
 
-**12-month volume (illustrative):** 39,230 · **trend:** declining · YoY -24.9%
+**12-month volume (illustrative):** 39,240 · **trend:** declining · YoY -24.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

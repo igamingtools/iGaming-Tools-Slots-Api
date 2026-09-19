@@ -130,7 +130,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/5-frozen-charms-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,720 · **trend:** growing · YoY +16.7%
+**12-month volume (illustrative):** 2,740 · **trend:** growing · YoY +17.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

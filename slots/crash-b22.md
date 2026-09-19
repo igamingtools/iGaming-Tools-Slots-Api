@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/crash-b22/demand/
 ```
 
-**12-month volume (illustrative):** 11,670 · **trend:** declining · YoY -12.3%
+**12-month volume (illustrative):** 11,720 · **trend:** declining · YoY -11.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -131,8 +131,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Morocco | 560 | flat |
 | India | 480 | declining |
 | United States | 480 | growing |
+| Pakistan | 300 | flat |
 | Algeria | 290 | declining |
-| Pakistan | 280 | declining |
 | Italy | 260 | flat |
 | Canada | 240 | flat |
 | Egypt | 200 | flat |

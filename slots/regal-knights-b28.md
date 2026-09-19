@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/regal-knights-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,390 · **trend:** growing · YoY +5.3%
+**12-month volume (illustrative):** 1,410 · **trend:** growing · YoY +6.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

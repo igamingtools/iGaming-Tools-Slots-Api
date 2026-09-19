@@ -115,7 +115,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rock-paper-scissors-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,420 · **trend:** growing · YoY +992.3%
+**12-month volume (illustrative):** 1,440 · **trend:** growing · YoY +1007.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -126,7 +126,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 110 | flat |
 | Canada | 100 | flat |
 | South Africa | 100 | growing |
-| Pakistan | 60 | flat |
+| Pakistan | 80 | growing |
 | United Kingdom | 50 | flat |
 | New Zealand | 40 | flat |
 | Philippines | 40 | growing |

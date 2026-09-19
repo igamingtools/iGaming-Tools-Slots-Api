@@ -138,7 +138,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-gold-88-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,230 · **trend:** declining · YoY -42.5%
+**12-month volume (illustrative):** 2,210 · **trend:** declining · YoY -43.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

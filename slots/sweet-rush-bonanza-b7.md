@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-rush-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 110,730 · **trend:** growing · YoY +69106.2%
+**12-month volume (illustrative):** 110,760 · **trend:** growing · YoY +69125.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-olympus-1000-b7/demand/
 ```
 
-**12-month volume (illustrative):** 533,860 · **trend:** declining · YoY -33.5%
+**12-month volume (illustrative):** 534,510 · **trend:** declining · YoY -33.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

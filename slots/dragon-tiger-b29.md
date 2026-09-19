@@ -125,7 +125,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-tiger-b29/demand/
 ```
 
-**12-month volume (illustrative):** 8,500 · **trend:** growing · YoY +11.7%
+**12-month volume (illustrative):** 8,650 · **trend:** growing · YoY +13.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -133,16 +133,16 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | India | 3,380 | declining |
 | Brazil | 1,450 | declining |
-| Pakistan | 520 | declining |
+| Pakistan | 620 | growing |
 | South Africa | 260 | flat |
 | Philippines | 190 | growing |
 | Indonesia | 180 | flat |
 | Netherlands | 130 | flat |
 | Greece | 110 | flat |
+| Lebanon | 110 | flat |
 | Canada | 100 | flat |
-| United States | 100 | flat |
 
-> Full per-country breakdown (62 markets) via the /demand/ endpoint.
+> Full per-country breakdown (63 markets) via the /demand/ endpoint.
 
 ## Links
 

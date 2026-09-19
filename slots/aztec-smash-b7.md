@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-smash-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,300 · **trend:** declining · YoY -43.3%
+**12-month volume (illustrative):** 2,330 · **trend:** declining · YoY -42.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -152,7 +152,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 100 | flat |
 | South Africa | 90 | flat |
 
-> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

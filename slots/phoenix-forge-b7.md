@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/phoenix-forge-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,420 · **trend:** declining · YoY -7.3%
+**12-month volume (illustrative):** 2,430 · **trend:** declining · YoY -6.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

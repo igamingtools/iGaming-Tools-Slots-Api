@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rabbit-road-b22/demand/
 ```
 
-**12-month volume (illustrative):** 6,110 · **trend:** flat
+**12-month volume (illustrative):** 6,140 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -134,14 +134,14 @@ curl -H "Authorization: Token $TOKEN" \
 | Switzerland | 300 | declining |
 | Belgium | 280 | declining |
 | Brazil | 250 | growing |
+| Pakistan | 240 | flat |
 | Ukraine | 230 | flat |
-| Pakistan | 220 | declining |
 | Germany | 180 | declining |
 | Italy | 160 | flat |
 | Spain | 160 | declining |
 | United Kingdom | 150 | declining |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

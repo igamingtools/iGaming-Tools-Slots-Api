@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-tiger-1000-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,440 · **trend:** growing · YoY +71.1%
+**12-month volume (illustrative):** 3,420 · **trend:** growing · YoY +68.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -142,8 +142,8 @@ curl -H "Authorization: Token $TOKEN" \
 | South Africa | 510 | declining |
 | Finland | 200 | growing |
 | Malaysia | 160 | flat |
-| Pakistan | 140 | declining |
 | Indonesia | 120 | flat |
+| Pakistan | 120 | flat |
 | Greece | 110 | flat |
 | India | 100 | declining |
 | Mexico | 90 | declining |

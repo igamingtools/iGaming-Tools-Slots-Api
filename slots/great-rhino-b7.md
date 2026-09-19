@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/great-rhino-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,450 · **trend:** declining · YoY -20.8%
+**12-month volume (illustrative):** 4,460 · **trend:** declining · YoY -20.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

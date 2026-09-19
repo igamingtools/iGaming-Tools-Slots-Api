@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sugar-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 236,310 · **trend:** declining · YoY -31.9%
+**12-month volume (illustrative):** 236,430 · **trend:** declining · YoY -31.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mustang-gold-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,550 · **trend:** declining · YoY -34.6%
+**12-month volume (illustrative):** 6,570 · **trend:** declining · YoY -34.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -161,7 +161,7 @@ curl -H "Authorization: Token $TOKEN" \
 | South Africa | 210 | declining |
 | United Kingdom | 180 | flat |
 
-> Full per-country breakdown (64 markets) via the /demand/ endpoint.
+> Full per-country breakdown (65 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starlight-princess-super-scatter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 29,800 · **trend:** growing · YoY +2140.6%
+**12-month volume (illustrative):** 29,920 · **trend:** growing · YoY +2149.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-dog-house-royal-hunt-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,130 · **trend:** growing · YoY +10.5%
+**12-month volume (illustrative):** 8,120 · **trend:** growing · YoY +10.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

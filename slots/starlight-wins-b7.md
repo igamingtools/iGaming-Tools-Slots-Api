@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starlight-wins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,330 · **trend:** growing · YoY +54.2%
+**12-month volume (illustrative):** 3,340 · **trend:** growing · YoY +54.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

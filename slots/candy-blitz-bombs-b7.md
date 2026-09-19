@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-blitz-bombs-b7/demand/
 ```
 
-**12-month volume (illustrative):** 11,830 · **trend:** declining · YoY -31.6%
+**12-month volume (illustrative):** 11,850 · **trend:** declining · YoY -31.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-hand-of-midas-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,790 · **trend:** declining · YoY -34.8%
+**12-month volume (illustrative):** 6,750 · **trend:** declining · YoY -35.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

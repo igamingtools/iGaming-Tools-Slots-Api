@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-great-chicken-escape-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,190 · **trend:** declining · YoY -31.6%
+**12-month volume (illustrative):** 1,190 · **trend:** declining · YoY -31.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

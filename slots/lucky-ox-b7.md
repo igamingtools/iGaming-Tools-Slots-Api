@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-ox-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,150 · **trend:** growing · YoY +67.8%
+**12-month volume (illustrative):** 5,150 · **trend:** growing · YoY +66.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 100 | growing |
 | India | 100 | declining |
 | Indonesia | 100 | flat |
-| Pakistan | 100 | flat |
+| Pakistan | 100 | growing |
 | Mexico | 90 | flat |
 | Greece | 80 | growing |
 | Malaysia | 80 | declining |

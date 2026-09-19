@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/viking-forge-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,110 · **trend:** flat · YoY +3.7%
+**12-month volume (illustrative):** 8,130 · **trend:** flat · YoY +3.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

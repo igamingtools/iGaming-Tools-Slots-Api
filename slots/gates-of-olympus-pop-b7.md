@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-olympus-pop-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,890 · **trend:** flat
+**12-month volume (illustrative):** 1,920 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Netherlands | 60 | growing |
 | Portugal | 60 | growing |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (32 markets) via the /demand/ endpoint.
 
 ## Links
 

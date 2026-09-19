@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starlight-princess-b7/demand/
 ```
 
-**12-month volume (illustrative):** 33,380 · **trend:** declining · YoY -48.3%
+**12-month volume (illustrative):** 33,460 · **trend:** declining · YoY -48.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

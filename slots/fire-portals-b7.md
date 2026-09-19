@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-portals-b7/demand/
 ```
 
-**12-month volume (illustrative):** 37,570 · **trend:** declining · YoY -26.0%
+**12-month volume (illustrative):** 37,620 · **trend:** declining · YoY -25.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ripe-rewards-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,990 · **trend:** declining · YoY -29.7%
+**12-month volume (illustrative):** 1,970 · **trend:** declining · YoY -30.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cash-patrol-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,050 · **trend:** declining · YoY -22.9%
+**12-month volume (illustrative):** 4,080 · **trend:** declining · YoY -22.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

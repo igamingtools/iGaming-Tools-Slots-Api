@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/brick-house-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 22,530 · **trend:** declining · YoY -16.6%
+**12-month volume (illustrative):** 22,530 · **trend:** declining · YoY -16.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -162,7 +162,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Switzerland | 720 | flat |
 | Brazil | 680 | flat |
 
-> Full per-country breakdown (73 markets) via the /demand/ endpoint.
+> Full per-country breakdown (72 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chilli-heat-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,860 · **trend:** declining · YoY -31.6%
+**12-month volume (illustrative):** 3,870 · **trend:** declining · YoY -31.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

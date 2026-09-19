@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/angel-vs-sinner-b7/demand/
 ```
 
-**12-month volume (illustrative):** 10,780 · **trend:** declining · YoY -19.8%
+**12-month volume (illustrative):** 10,770 · **trend:** declining · YoY -20.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

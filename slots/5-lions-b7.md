@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/5-lions-b7/demand/
 ```
 
-**12-month volume (illustrative):** 15,030 · **trend:** declining · YoY -15.2%
+**12-month volume (illustrative):** 15,030 · **trend:** declining · YoY -15.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

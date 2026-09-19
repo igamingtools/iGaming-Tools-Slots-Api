@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ancient-egypt-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,770 · **trend:** growing · YoY +8.6%
+**12-month volume (illustrative):** 1,780 · **trend:** growing · YoY +9.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -128,14 +128,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-amazing-money-machine-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,190 · **trend:** growing · YoY +23.7%
+**12-month volume (illustrative):** 2,200 · **trend:** growing · YoY +24.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | South Africa | 960 | growing |
-| Lebanon | 300 | declining |
+| Lebanon | 310 | flat |
 | Indonesia | 80 | flat |
 | United States | 80 | flat |
 | Tunisia | 70 | flat |

@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-gems-deluxe-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,750 · **trend:** growing · YoY +6.1%
+**12-month volume (illustrative):** 5,770 · **trend:** growing · YoY +6.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -143,8 +143,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Indonesia | 410 | declining |
 | South Africa | 340 | declining |
 | Tunisia | 240 | declining |
+| Pakistan | 180 | declining |
 | India | 160 | declining |
-| Pakistan | 160 | declining |
 | Mexico | 130 | flat |
 | Kenya | 120 | flat |
 | Malaysia | 120 | declining |

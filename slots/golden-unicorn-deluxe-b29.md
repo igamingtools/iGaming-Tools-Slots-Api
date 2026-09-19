@@ -134,6 +134,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/golden-unicorn-deluxe-b29/"
     }
+  },
+  "series": {
+    "slug": "golden-unicorn",
+    "name": "Golden Unicorn"
   }
 }
 ```

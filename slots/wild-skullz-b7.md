@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-skullz-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,660 · **trend:** flat
+**12-month volume (illustrative):** 4,700 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

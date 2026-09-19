@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sky-bounty-b7/demand/
 ```
 
-**12-month volume (illustrative):** 14,790 · **trend:** declining · YoY -7.2%
+**12-month volume (illustrative):** 14,810 · **trend:** declining · YoY -7.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -120,14 +120,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/avia-fly-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,220 · **trend:** flat
+**12-month volume (illustrative):** 1,240 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | India | 240 | flat |
-| Pakistan | 180 | declining |
+| Pakistan | 200 | flat |
 | United States | 80 | growing |
 | Canada | 60 | declining |
 | Germany | 50 | growing |

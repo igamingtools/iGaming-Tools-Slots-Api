@@ -121,7 +121,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mines-b27/demand/
 ```
 
-**12-month volume (illustrative):** 163,800 · **trend:** declining · YoY -53.9%
+**12-month volume (illustrative):** 163,830 · **trend:** declining · YoY -54.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -129,7 +129,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | India | 89,200 | flat |
 | Brazil | 34,580 | declining |
-| Pakistan | 4,880 | declining |
+| Pakistan | 4,880 | growing |
 | United States | 3,640 | flat |
 | Canada | 2,480 | flat |
 | Greece | 2,390 | flat |

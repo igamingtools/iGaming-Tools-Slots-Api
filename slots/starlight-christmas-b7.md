@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starlight-christmas-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,140 · **trend:** declining · YoY -11.0%
+**12-month volume (illustrative):** 3,150 · **trend:** declining · YoY -10.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

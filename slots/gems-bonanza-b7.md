@@ -134,7 +134,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gems-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 41,090 · **trend:** declining · YoY -32.9%
+**12-month volume (illustrative):** 41,100 · **trend:** declining · YoY -32.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

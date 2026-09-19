@@ -136,7 +136,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-fiesta-b7/demand/
 ```
 
-**12-month volume (illustrative):** 20,240 · **trend:** declining · YoY -18.5%
+**12-month volume (illustrative):** 20,250 · **trend:** declining · YoY -18.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

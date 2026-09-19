@@ -134,7 +134,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/buffalo-king-b7/demand/
 ```
 
-**12-month volume (illustrative):** 16,170 · **trend:** declining · YoY -15.3%
+**12-month volume (illustrative):** 16,190 · **trend:** declining · YoY -15.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-floats-my-boat-b7/demand/
 ```
 
-**12-month volume (illustrative):** 22,670 · **trend:** declining · YoY -9.7%
+**12-month volume (illustrative):** 22,690 · **trend:** declining · YoY -9.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

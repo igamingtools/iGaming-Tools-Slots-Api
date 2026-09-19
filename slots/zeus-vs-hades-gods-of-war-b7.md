@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/zeus-vs-hades-gods-of-war-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,630 · **trend:** growing · YoY +28.2%
+**12-month volume (illustrative):** 6,650 · **trend:** growing · YoY +28.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

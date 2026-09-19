@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/razor-shark-b28/demand/
 ```
 
-**12-month volume (illustrative):** 61,710 · **trend:** declining · YoY -31.7%
+**12-month volume (illustrative):** 61,740 · **trend:** declining · YoY -31.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Sweden | 880 | growing |
 | Canada | 660 | growing |
 
-> Full per-country breakdown (75 markets) via the /demand/ endpoint.
+> Full per-country breakdown (76 markets) via the /demand/ endpoint.
 
 ## Links
 

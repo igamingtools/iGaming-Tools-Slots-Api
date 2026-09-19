@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/floating-dragon-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,130 · **trend:** declining · YoY -28.4%
+**12-month volume (illustrative):** 5,130 · **trend:** declining · YoY -28.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

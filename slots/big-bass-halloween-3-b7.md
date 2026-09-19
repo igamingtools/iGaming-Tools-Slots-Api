@@ -157,7 +157,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-halloween-3-b7/demand/
 ```
 
-**12-month volume (illustrative):** 31,050 · **trend:** flat
+**12-month volume (illustrative):** 31,060 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

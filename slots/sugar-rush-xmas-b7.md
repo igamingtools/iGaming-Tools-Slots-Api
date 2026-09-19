@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sugar-rush-xmas-b7/demand/
 ```
 
-**12-month volume (illustrative):** 11,410 · **trend:** growing · YoY +13.6%
+**12-month volume (illustrative):** 11,400 · **trend:** growing · YoY +13.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -160,7 +160,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Switzerland | 270 | flat |
 | Finland | 260 | flat |
 
-> Full per-country breakdown (68 markets) via the /demand/ endpoint.
+> Full per-country breakdown (69 markets) via the /demand/ endpoint.
 
 ## Links
 

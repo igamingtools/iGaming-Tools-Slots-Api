@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-of-giza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,670 · **trend:** declining · YoY -33.5%
+**12-month volume (illustrative):** 3,670 · **trend:** declining · YoY -33.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

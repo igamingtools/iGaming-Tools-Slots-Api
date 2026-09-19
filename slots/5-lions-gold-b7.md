@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/5-lions-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,700 · **trend:** declining · YoY -33.0%
+**12-month volume (illustrative):** 4,680 · **trend:** declining · YoY -33.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Netherlands | 110 | declining |
 | Canada | 100 | flat |
 
-> Full per-country breakdown (57 markets) via the /demand/ endpoint.
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
 
 ## Links
 

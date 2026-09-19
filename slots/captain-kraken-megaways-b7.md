@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/captain-kraken-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,190 · **trend:** growing · YoY +575.8%
+**12-month volume (illustrative):** 4,200 · **trend:** growing · YoY +577.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

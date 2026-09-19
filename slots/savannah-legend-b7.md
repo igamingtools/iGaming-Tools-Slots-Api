@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/savannah-legend-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,940 · **trend:** declining · YoY -27.1%
+**12-month volume (illustrative):** 1,920 · **trend:** declining · YoY -28.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

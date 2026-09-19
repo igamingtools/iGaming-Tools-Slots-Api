@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-trucks-b29/demand/
 ```
 
-**12-month volume (illustrative):** 20,200 · **trend:** declining · YoY -26.1%
+**12-month volume (illustrative):** 20,230 · **trend:** declining · YoY -26.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 300 | growing |
 | India | 160 | growing |
 | United Kingdom | 140 | declining |
-| Pakistan | 100 | flat |
+| Pakistan | 120 | growing |
 | New Zealand | 80 | flat |
 | Brazil | 70 | growing |
 | Indonesia | 70 | flat |

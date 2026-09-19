@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-reel-repeat-b7/demand/
 ```
 
-**12-month volume (illustrative):** 23,300 · **trend:** growing · YoY +156.3%
+**12-month volume (illustrative):** 23,300 · **trend:** growing · YoY +155.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

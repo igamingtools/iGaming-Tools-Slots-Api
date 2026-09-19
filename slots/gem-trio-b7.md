@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gem-trio-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,530 · **trend:** growing · YoY +36.6%
+**12-month volume (illustrative):** 1,510 · **trend:** growing · YoY +32.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -166,7 +166,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Tunisia | 50 | flat |
 | Argentina | 40 | flat |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

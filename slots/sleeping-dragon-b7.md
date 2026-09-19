@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sleeping-dragon-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,160 · **trend:** growing · YoY +76.5%
+**12-month volume (illustrative):** 6,190 · **trend:** growing · YoY +77.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rabbit-garden-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,320 · **trend:** declining · YoY -32.4%
+**12-month volume (illustrative):** 7,340 · **trend:** declining · YoY -32.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

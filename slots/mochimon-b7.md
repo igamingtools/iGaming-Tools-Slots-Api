@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mochimon-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,630 · **trend:** declining · YoY -15.7%
+**12-month volume (illustrative):** 4,630 · **trend:** declining · YoY -16.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bandit-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 16,100 · **trend:** growing · YoY +21.1%
+**12-month volume (illustrative):** 16,100 · **trend:** growing · YoY +21.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

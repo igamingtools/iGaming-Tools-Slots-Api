@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mummy-s-jewels-100-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,640 · **trend:** flat
+**12-month volume (illustrative):** 1,650 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -164,7 +164,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Philippines | 60 | flat |
 | United Kingdom | 60 | growing |
 | Argentina | 50 | flat |
-| New Zealand | 50 | growing |
+| Lebanon | 50 | flat |
 
 > Full per-country breakdown (38 markets) via the /demand/ endpoint.
 

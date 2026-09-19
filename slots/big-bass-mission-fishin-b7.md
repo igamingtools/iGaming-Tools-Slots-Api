@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-mission-fishin-b7/demand/
 ```
 
-**12-month volume (illustrative):** 12,800 · **trend:** declining · YoY -25.5%
+**12-month volume (illustrative):** 12,830 · **trend:** declining · YoY -25.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

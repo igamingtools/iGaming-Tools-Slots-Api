@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/extra-juicy-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,040 · **trend:** declining · YoY -25.6%
+**12-month volume (illustrative):** 7,050 · **trend:** declining · YoY -25.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

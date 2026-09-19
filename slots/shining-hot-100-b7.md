@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/shining-hot-100-b7/demand/
 ```
 
-**12-month volume (illustrative):** 830 · **trend:** declining · YoY -51.7%
+**12-month volume (illustrative):** 850 · **trend:** declining · YoY -50.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Portugal | 30 | flat |
 | Austria | 20 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
 
 ## Links
 

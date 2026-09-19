@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/diamond-strike-b7/demand/
 ```
 
-**12-month volume (illustrative):** 12,600 · **trend:** declining · YoY -41.8%
+**12-month volume (illustrative):** 12,600 · **trend:** declining · YoY -41.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

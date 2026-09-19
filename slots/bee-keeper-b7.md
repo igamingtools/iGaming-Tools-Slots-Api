@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bee-keeper-b7/demand/
 ```
 
-**12-month volume (illustrative):** 14,310 · **trend:** growing · YoY +1645.1%
+**12-month volume (illustrative):** 14,340 · **trend:** growing · YoY +1648.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -161,7 +161,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 320 | flat |
 | Spain | 290 | flat |
 
-> Full per-country breakdown (69 markets) via the /demand/ endpoint.
+> Full per-country breakdown (70 markets) via the /demand/ endpoint.
 
 ## Links
 

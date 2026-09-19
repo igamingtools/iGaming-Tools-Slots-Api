@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fish-eye-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,450 · **trend:** declining · YoY -25.7%
+**12-month volume (illustrative):** 7,460 · **trend:** declining · YoY -25.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

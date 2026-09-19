@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/razor-ways-b28/demand/
 ```
 
-**12-month volume (illustrative):** 9,970 · **trend:** declining · YoY -37.9%
+**12-month volume (illustrative):** 9,980 · **trend:** declining · YoY -37.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

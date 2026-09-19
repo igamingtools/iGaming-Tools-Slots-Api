@@ -145,7 +145,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 11,390 · **trend:** growing · YoY +41.5%
+**12-month volume (illustrative):** 11,410 · **trend:** growing · YoY +41.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

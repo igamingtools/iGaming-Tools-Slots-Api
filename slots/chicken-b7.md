@@ -107,7 +107,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-b7/demand/
 ```
 
-**12-month volume (illustrative):** 11,070 · **trend:** flat · YoY +0.5%
+**12-month volume (illustrative):** 11,110 · **trend:** flat · YoY +0.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -115,7 +115,7 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | India | 4,580 | growing |
 | Indonesia | 550 | flat |
-| Pakistan | 360 | declining |
+| Pakistan | 400 | declining |
 | United States | 280 | flat |
 | France | 260 | flat |
 | Brazil | 250 | declining |

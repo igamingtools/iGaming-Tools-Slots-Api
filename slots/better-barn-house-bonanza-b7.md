@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/better-barn-house-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,410 · **trend:** flat
+**12-month volume (illustrative):** 4,430 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

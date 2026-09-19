@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tiny-toads-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,680 · **trend:** declining · YoY -37.7%
+**12-month volume (illustrative):** 3,700 · **trend:** declining · YoY -37.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -143,7 +143,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mahjong-wins-super-scatter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,720 · **trend:** growing · YoY +215.9%
+**12-month volume (illustrative):** 8,700 · **trend:** growing · YoY +212.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

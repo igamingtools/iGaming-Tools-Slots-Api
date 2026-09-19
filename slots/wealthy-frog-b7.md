@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wealthy-frog-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,700 · **trend:** growing · YoY +13.4%
+**12-month volume (illustrative):** 2,720 · **trend:** growing · YoY +14.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

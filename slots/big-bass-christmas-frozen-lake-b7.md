@@ -147,7 +147,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-christmas-frozen-lake-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,330 · **trend:** flat
+**12-month volume (illustrative):** 6,340 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

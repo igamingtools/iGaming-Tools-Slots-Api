@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/treasure-horse-b7/demand/
 ```
 
-**12-month volume (illustrative):** 610 · **trend:** declining · YoY -33.0%
+**12-month volume (illustrative):** 620 · **trend:** declining · YoY -31.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
 | India | 20 | flat |
 | Indonesia | 20 | declining |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

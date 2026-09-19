@@ -116,7 +116,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hi-lo-b27/demand/
 ```
 
-**12-month volume (illustrative):** 4,340 · **trend:** growing · YoY +25.8%
+**12-month volume (illustrative):** 4,370 · **trend:** growing · YoY +26.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -130,8 +130,8 @@ curl -H "Authorization: Token $TOKEN" \
 | United Kingdom | 150 | declining |
 | Italy | 130 | flat |
 | Netherlands | 120 | flat |
+| Pakistan | 120 | growing |
 | Switzerland | 120 | flat |
-| Sweden | 110 | flat |
 
 > Full per-country breakdown (57 markets) via the /demand/ endpoint.
 

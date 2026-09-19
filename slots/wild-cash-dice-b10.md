@@ -139,7 +139,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-cash-dice-b10/demand/
 ```
 
-**12-month volume (illustrative):** 330 · **trend:** declining · YoY -45.0%
+**12-month volume (illustrative):** 350 · **trend:** declining · YoY -41.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -147,8 +147,8 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 100 | declining |
 | India | 40 | flat |
+| Pakistan | 40 | declining |
 | Turkey | 40 | flat |
-| Pakistan | 20 | flat |
 | United Kingdom | 20 | flat |
 | Belarus | 10 | flat |
 | Bulgaria | 10 | declining |

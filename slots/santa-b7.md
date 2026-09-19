@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/santa-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,700 · **trend:** declining · YoY -16.2%
+**12-month volume (illustrative):** 4,690 · **trend:** declining · YoY -16.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Japan | 110 | growing |
 | Germany | 100 | growing |
 
-> Full per-country breakdown (67 markets) via the /demand/ endpoint.
+> Full per-country breakdown (68 markets) via the /demand/ endpoint.
 
 ## Links
 

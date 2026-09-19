@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/down-the-rails-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,850 · **trend:** flat · YoY +1.8%
+**12-month volume (illustrative):** 2,850 · **trend:** flat · YoY +2.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

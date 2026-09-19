@@ -102,7 +102,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tower-b22/demand/
 ```
 
-**12-month volume (illustrative):** 10,300 · **trend:** growing · YoY +23.2%
+**12-month volume (illustrative):** 10,350 · **trend:** growing · YoY +24.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -111,9 +111,9 @@ curl -H "Authorization: Token $TOKEN" \
 | Turkey | 3,840 | flat |
 | India | 1,800 | declining |
 | United States | 380 | growing |
+| Pakistan | 320 | growing |
 | Indonesia | 300 | flat |
 | Brazil | 280 | flat |
-| Pakistan | 280 | declining |
 | Canada | 180 | flat |
 | France | 130 | flat |
 | Philippines | 130 | growing |

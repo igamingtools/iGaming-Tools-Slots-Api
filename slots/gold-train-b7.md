@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-train-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,120 · **trend:** declining · YoY -22.3%
+**12-month volume (illustrative):** 2,140 · **trend:** declining · YoY -21.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chilli-heat-spicy-spins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,320 · **trend:** growing · YoY +167.7%
+**12-month volume (illustrative):** 3,330 · **trend:** growing · YoY +168.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

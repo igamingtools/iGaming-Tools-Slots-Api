@@ -135,7 +135,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-valhalla-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,540 · **trend:** declining · YoY -14.7%
+**12-month volume (illustrative):** 3,550 · **trend:** declining · YoY -14.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

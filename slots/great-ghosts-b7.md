@@ -130,7 +130,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/great-ghosts-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,830 · **trend:** flat
+**12-month volume (illustrative):** 4,840 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 

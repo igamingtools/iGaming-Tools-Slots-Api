@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-hop-drop-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,420 · **trend:** declining · YoY -22.9%
+**12-month volume (illustrative):** 2,430 · **trend:** declining · YoY -22.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

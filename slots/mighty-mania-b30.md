@@ -1,4 +1,4 @@
-# Mr\. Treasure's Fortune
+# Mighty Mania
 
 **Provider:** Pocket Games Soft
 
@@ -6,7 +6,7 @@
 
 ## Endpoint
 
-`GET /api/v1/slots/mr-treasure-s-fortune-b30/`
+`GET /api/v1/slots/mighty-mania-b30/`
 
 ## Request Examples
 
@@ -14,7 +14,7 @@
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/mr-treasure-s-fortune-b30/
+  https://i-gaming.tools/api/v1/slots/mighty-mania-b30/
 ```
 
 ### Python (requests)
@@ -23,7 +23,7 @@ curl -H "Authorization: Token $TOKEN" \
 import requests
 
 r = requests.get(
-    "https://i-gaming.tools/api/v1/slots/mr-treasure-s-fortune-b30/",
+    "https://i-gaming.tools/api/v1/slots/mighty-mania-b30/",
     headers={"Authorization": "Token <your-token>"},
 )
 data = r.json()
@@ -32,7 +32,7 @@ data = r.json()
 ### JavaScript (fetch)
 
 ```javascript
-const r = await fetch("https://i-gaming.tools/api/v1/slots/mr-treasure-s-fortune-b30/", {
+const r = await fetch("https://i-gaming.tools/api/v1/slots/mighty-mania-b30/", {
   headers: { "Authorization": "Token <your-token>" },
 });
 const data = await r.json();
@@ -41,7 +41,7 @@ const data = await r.json();
 ### PHP
 
 ```php
-$ch = curl_init("https://i-gaming.tools/api/v1/slots/mr-treasure-s-fortune-b30/");
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/mighty-mania-b30/");
 curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = json_decode(curl_exec($ch), true);
@@ -53,48 +53,52 @@ $data = json_decode(curl_exec($ch), true);
 
 ```json
 {
-  "slug": "mr-treasure-s-fortune-b30",
-  "name": "Mr. Treasure's Fortune",
+  "slug": "mighty-mania-b30",
+  "name": "Mighty Mania",
   "status": "active",
   "provider": {
     "slug": "pocket-games-soft",
     "name": "Pocket Games Soft"
   },
   "game_category": "video_slot",
-  "rtp_default": "96.71",
+  "rtp_default": "96.76",
   "rtp_variants": [
     {
-      "rtp": "96.71",
+      "rtp": "96.76",
       "variant": "default",
       "is_default": true
     }
   ],
-  "volatility": "medium",
-  "mechanic": "cluster",
-  "reels": 3,
-  "rows": 3,
-  "jackpot_type": "unknown",
+  "volatility": "high",
+  "mechanic": "ways",
+  "reels": 6,
+  "rows": null,
+  "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2025-03-10",
+  "release_date": "2026-05-26",
   "themes": [
     {
-      "slug": "treasure",
-      "name": "Treasure"
+      "slug": "neon",
+      "name": "Neon"
+    },
+    {
+      "slug": "sports",
+      "name": "Sports"
     }
   ],
   "features": [
     {
-      "slug": "cluster_pays",
-      "name": "Cluster Pays"
+      "slug": "free-spins-choice",
+      "name": "Free Spins Choice"
     },
     {
       "slug": "free_spins",
       "name": "Free Spins"
     },
     {
-      "slug": "multiplier",
-      "name": "Multiplier"
+      "slug": "progressive_multiplier",
+      "name": "Progressive Multiplier"
     }
   ],
   "assets": {
@@ -103,7 +107,7 @@ $data = json_decode(curl_exec($ch), true);
       "<live CDN url — request the endpoint>"
     ],
     "demo": {
-      "page_url": "https://i-gaming.tools/slot-games/mr-treasure-s-fortune-b30/"
+      "page_url": "https://i-gaming.tools/slot-games/mighty-mania-b30/"
     }
   }
 }
@@ -111,17 +115,17 @@ $data = json_decode(curl_exec($ch), true);
 
 ## Search Demand
 
-`GET /api/v1/slots/mr-treasure-s-fortune-b30/demand/`
+`GET /api/v1/slots/mighty-mania-b30/demand/`
 
 Trailing-12-month search demand for this slot, with per-country breakdown.
 
 ```bash
 curl -H "Authorization: Token $TOKEN" \
-  https://i-gaming.tools/api/v1/slots/mr-treasure-s-fortune-b30/demand/
+  https://i-gaming.tools/api/v1/slots/mighty-mania-b30/demand/
 ```
 
 ## Links
 
-- **Live endpoint:** https://i-gaming.tools/api/v1/slots/mr-treasure-s-fortune-b30/
-- **Public page:** https://i-gaming.tools/slot-games/mr-treasure-s-fortune-b30/
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/mighty-mania-b30/
+- **Public page:** https://i-gaming.tools/slot-games/mighty-mania-b30/
 - **Full schema:** https://i-gaming.tools/api/docs/

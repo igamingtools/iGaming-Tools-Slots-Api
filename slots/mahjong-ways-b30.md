@@ -109,6 +109,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/mahjong-ways-b30/"
     }
+  },
+  "series": {
+    "slug": "mahjong-ways",
+    "name": "Mahjong Ways"
   }
 }
 ```

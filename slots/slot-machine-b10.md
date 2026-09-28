@@ -127,25 +127,6 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/slot-machine-b10/demand/
 ```
 
-**12-month volume (illustrative):** 119,550,820 · **trend:** declining · YoY -11.6%
-
-> Illustrative snapshot — query the live endpoint for current values.
-
-| Country | 12-month volume | Trend |
-|---|---|---|
-| Indonesia | 117,520,000 | growing |
-| Malaysia | 534,800 | growing |
-| United Kingdom | 191,400 | growing |
-| Brazil | 167,800 | growing |
-| Turkey | 160,500 | growing |
-| Singapore | 126,500 | declining |
-| Philippines | 113,100 | flat |
-| Portugal | 81,990 | declining |
-| Greece | 76,900 | declining |
-| United States | 66,420 | growing |
-
-> Full per-country breakdown (80 markets) via the /demand/ endpoint.
-
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/slot-machine-b10/

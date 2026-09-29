@@ -120,6 +120,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mr-treasure-s-fortune-b30/demand/
 ```
 
+**12-month volume (illustrative):** 680 · **trend:** declining · YoY -53.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 390 | growing |
+| India | 60 | declining |
+| Philippines | 40 | declining |
+| Indonesia | 30 | growing |
+| Mexico | 30 | flat |
+| Algeria | 20 | flat |
+| Thailand | 20 | flat |
+| United States | 20 | flat |
+| Honduras | 10 | growing |
+| Japan | 10 | flat |
+
+> Full per-country breakdown (15 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/mr-treasure-s-fortune-b30/

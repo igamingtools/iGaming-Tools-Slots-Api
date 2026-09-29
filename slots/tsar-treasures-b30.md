@@ -128,6 +128,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tsar-treasures-b30/demand/
 ```
 
+**12-month volume (illustrative):** 2,120 · **trend:** declining · YoY -35.0%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,270 | flat |
+| India | 160 | declining |
+| Indonesia | 100 | flat |
+| Philippines | 100 | flat |
+| Pakistan | 60 | flat |
+| Thailand | 60 | growing |
+| Tunisia | 40 | flat |
+| Ukraine | 40 | declining |
+| United States | 40 | flat |
+| Algeria | 30 | flat |
+
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/tsar-treasures-b30/

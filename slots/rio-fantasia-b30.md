@@ -118,6 +118,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rio-fantasia-b30/demand/
 ```
 
+**12-month volume (illustrative):** 3,840 · **trend:** declining · YoY -43.3%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 2,820 | flat |
+| India | 160 | growing |
+| Pakistan | 160 | growing |
+| Philippines | 150 | flat |
+| Indonesia | 110 | declining |
+| Thailand | 70 | flat |
+| Mexico | 40 | flat |
+| Tunisia | 30 | flat |
+| United Arab Emirates | 30 | declining |
+| Algeria | 20 | flat |
+
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/rio-fantasia-b30/

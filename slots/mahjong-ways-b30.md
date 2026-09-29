@@ -128,6 +128,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mahjong-ways-b30/demand/
 ```
 
+**12-month volume (illustrative):** 101,570 · **trend:** declining · YoY -23.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Indonesia | 88,200 | flat |
+| Philippines | 2,710 | flat |
+| Turkey | 1,980 | growing |
+| Brazil | 1,150 | declining |
+| India | 1,000 | flat |
+| Vietnam | 780 | flat |
+| Malaysia | 760 | declining |
+| Thailand | 460 | growing |
+| Tunisia | 460 | growing |
+| United States | 400 | flat |
+
+> Full per-country breakdown (65 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/mahjong-ways-b30/

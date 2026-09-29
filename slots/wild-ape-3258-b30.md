@@ -122,6 +122,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-ape-3258-b30/demand/
 ```
 
+**12-month volume (illustrative):** 2,380 · **trend:** growing · YoY +9.7%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 500 | flat |
+| Indonesia | 310 | flat |
+| India | 240 | flat |
+| Morocco | 200 | flat |
+| Philippines | 180 | declining |
+| Thailand | 80 | declining |
+| Algeria | 70 | growing |
+| Mexico | 70 | growing |
+| Malaysia | 60 | declining |
+| Turkey | 60 | flat |
+
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/wild-ape-3258-b30/

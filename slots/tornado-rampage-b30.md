@@ -120,6 +120,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tornado-rampage-b30/demand/
 ```
 
+**12-month volume (illustrative):** 1,430 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 650 | growing |
+| Indonesia | 180 | growing |
+| Philippines | 160 | growing |
+| Thailand | 60 | declining |
+| India | 40 | flat |
+| Pakistan | 40 | flat |
+| United States | 40 | flat |
+| Algeria | 20 | flat |
+| Belgium | 20 | declining |
+| Canada | 20 | declining |
+
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/tornado-rampage-b30/

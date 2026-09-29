@@ -124,6 +124,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-horse-b30/demand/
 ```
 
+**12-month volume (illustrative):** 25,940 · **trend:** growing · YoY +1595.4%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 23,080 | flat |
+| India | 260 | flat |
+| Pakistan | 220 | flat |
+| Philippines | 220 | flat |
+| Indonesia | 190 | declining |
+| United States | 160 | flat |
+| Thailand | 150 | flat |
+| Malaysia | 100 | declining |
+| Portugal | 90 | flat |
+| Chile | 80 | flat |
+
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/fortune-horse-b30/

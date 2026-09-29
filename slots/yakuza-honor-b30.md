@@ -124,6 +124,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/yakuza-honor-b30/demand/
 ```
 
+**12-month volume (illustrative):** 18,310 · **trend:** declining · YoY -18.3%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 6,280 | flat |
+| Philippines | 6,050 | flat |
+| India | 2,600 | growing |
+| Indonesia | 1,240 | growing |
+| Pakistan | 240 | flat |
+| United States | 200 | flat |
+| Canada | 120 | declining |
+| Malaysia | 120 | declining |
+| Thailand | 120 | flat |
+| Greece | 100 | flat |
+
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/yakuza-honor-b30/

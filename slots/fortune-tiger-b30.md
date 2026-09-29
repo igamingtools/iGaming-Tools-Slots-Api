@@ -124,6 +124,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-tiger-b30/demand/
 ```
 
+**12-month volume (illustrative):** 360,170 · **trend:** declining · YoY -48.6%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 343,180 | declining |
+| India | 1,860 | flat |
+| Mexico | 1,770 | flat |
+| Portugal | 1,400 | declining |
+| Pakistan | 1,340 | growing |
+| United States | 1,280 | growing |
+| Canada | 1,180 | flat |
+| Chile | 610 | growing |
+| Thailand | 530 | growing |
+| Philippines | 500 | growing |
+
+> Full per-country breakdown (75 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/fortune-tiger-b30/

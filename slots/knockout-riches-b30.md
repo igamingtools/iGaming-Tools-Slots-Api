@@ -120,6 +120,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/knockout-riches-b30/demand/
 ```
 
+**12-month volume (illustrative):** 6,950 · **trend:** growing · YoY +44.8%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 4,140 | flat |
+| Indonesia | 740 | growing |
+| Philippines | 420 | growing |
+| India | 200 | flat |
+| Pakistan | 180 | flat |
+| Malaysia | 120 | flat |
+| Thailand | 120 | flat |
+| Canada | 60 | flat |
+| Chile | 60 | growing |
+| Mexico | 60 | flat |
+
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/knockout-riches-b30/

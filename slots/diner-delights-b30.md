@@ -120,6 +120,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/diner-delights-b30/demand/
 ```
 
+**12-month volume (illustrative):** 2,800 · **trend:** declining · YoY -40.8%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 1,800 | growing |
+| Philippines | 220 | flat |
+| India | 180 | flat |
+| Indonesia | 110 | declining |
+| Pakistan | 80 | flat |
+| United States | 60 | growing |
+| Thailand | 50 | growing |
+| Malaysia | 40 | flat |
+| Tunisia | 40 | flat |
+| Chile | 30 | flat |
+
+> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/diner-delights-b30/

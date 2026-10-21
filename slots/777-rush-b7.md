@@ -116,7 +116,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/777-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,780 · **trend:** growing · YoY +2600.0%
+**12-month volume (illustrative):** 3,790 · **trend:** growing · YoY +2607.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -133,7 +133,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 80 | flat |
 | Indonesia | 80 | growing |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

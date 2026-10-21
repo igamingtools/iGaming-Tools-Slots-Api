@@ -117,7 +117,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-road-2-bonus-b22/demand/
 ```
 
-**12-month volume (illustrative):** 900 · **trend:** flat
+**12-month volume (illustrative):** 910 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -134,7 +134,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Cyprus | 30 | growing |
 | France | 30 | growing |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/floating-dragon-hold-and-spin-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,990 · **trend:** growing · YoY +17.0%
+**12-month volume (illustrative):** 4,000 · **trend:** growing · YoY +17.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 130 | flat |
 | Malaysia | 100 | flat |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

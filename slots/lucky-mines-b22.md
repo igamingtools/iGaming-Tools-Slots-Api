@@ -102,7 +102,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-mines-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,390 · **trend:** growing · YoY +43.3%
+**12-month volume (illustrative):** 1,400 · **trend:** growing · YoY +44.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -119,7 +119,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 40 | flat |
 | Philippines | 40 | flat |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

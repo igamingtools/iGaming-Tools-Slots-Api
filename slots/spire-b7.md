@@ -107,7 +107,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/spire-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,500 · **trend:** growing · YoY +11.1%
+**12-month volume (illustrative):** 2,520 · **trend:** growing · YoY +12.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Switzerland | 90 | declining |
 | Belgium | 80 | flat |
 
-> Full per-country breakdown (52 markets) via the /demand/ endpoint.
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
 
 ## Links
 

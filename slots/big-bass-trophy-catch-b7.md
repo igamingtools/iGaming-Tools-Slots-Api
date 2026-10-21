@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-trophy-catch-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,600 · **trend:** flat
+**12-month volume (illustrative):** 7,610 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -170,7 +170,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Netherlands | 200 | flat |
 | Germany | 190 | flat |
 
-> Full per-country breakdown (62 markets) via the /demand/ endpoint.
+> Full per-country breakdown (63 markets) via the /demand/ endpoint.
 
 ## Links
 

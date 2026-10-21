@@ -115,7 +115,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/triple-tigers-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,410 · **trend:** declining · YoY -47.4%
+**12-month volume (illustrative):** 1,430 · **trend:** declining · YoY -46.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Malta | 30 | flat |
 | Philippines | 30 | flat |
 
-> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

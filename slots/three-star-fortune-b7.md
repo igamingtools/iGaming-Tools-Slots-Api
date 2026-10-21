@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/three-star-fortune-b7/demand/
 ```
 
-**12-month volume (illustrative):** 540 · **trend:** declining · YoY -37.9%
+**12-month volume (illustrative):** 550 · **trend:** declining · YoY -36.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Argentina | 10 | declining |
 | Australia | 10 | flat |
 
-> Full per-country breakdown (19 markets) via the /demand/ endpoint.
+> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 

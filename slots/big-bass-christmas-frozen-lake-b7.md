@@ -147,7 +147,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-christmas-frozen-lake-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,340 · **trend:** flat
+**12-month volume (illustrative):** 6,350 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -164,7 +164,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Guatemala | 160 | flat |
 | South Africa | 130 | flat |
 
-> Full per-country breakdown (61 markets) via the /demand/ endpoint.
+> Full per-country breakdown (62 markets) via the /demand/ endpoint.
 
 ## Links
 

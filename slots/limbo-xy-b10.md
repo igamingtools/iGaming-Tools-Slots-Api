@@ -107,7 +107,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/limbo-xy-b10/demand/
 ```
 
-**12-month volume (illustrative):** 280 · **trend:** flat
+**12-month volume (illustrative):** 310 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -118,11 +118,13 @@ curl -H "Authorization: Token $TOKEN" \
 | Australia | 40 | growing |
 | Netherlands | 20 | flat |
 | United States | 20 | flat |
+| Bulgaria | 10 | growing |
+| France | 10 | declining |
 | Kenya | 10 | declining |
+| Slovakia | 10 | declining |
 | Ukraine | 10 | flat |
-| United Arab Emirates | 10 | flat |
 
-> Full per-country breakdown (8 markets) via the /demand/ endpoint.
+> Full per-country breakdown (11 markets) via the /demand/ endpoint.
 
 ## Links
 

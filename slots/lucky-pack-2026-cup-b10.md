@@ -127,7 +127,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-pack-2026-cup-b10/demand/
 ```
 
-**12-month volume (illustrative):** 440 · **trend:** flat
+**12-month volume (illustrative):** 470 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Germany | 20 | declining |
 | Netherlands | 20 | growing |
 
-> Full per-country breakdown (21 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

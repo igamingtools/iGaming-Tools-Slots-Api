@@ -115,7 +115,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/plushie-wins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 900 · **trend:** declining · YoY -34.3%
+**12-month volume (illustrative):** 910 · **trend:** declining · YoY -33.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 20 | flat |
 | India | 20 | flat |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

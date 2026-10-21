@@ -149,17 +149,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/train-heist-johnny-cash-b10/demand/
 ```
 
-**12-month volume (illustrative):** 30 · **trend:** flat
+**12-month volume (illustrative):** 60 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Australia | 10 | growing |
+| Brazil | 10 | growing |
 | Germany | 10 | growing |
+| Latvia | 10 | growing |
+| Turkey | 10 | growing |
 | United Kingdom | 10 | growing |
 
-> Full per-country breakdown (3 markets) via the /demand/ endpoint.
+> Full per-country breakdown (6 markets) via the /demand/ endpoint.
 
 ## Links
 

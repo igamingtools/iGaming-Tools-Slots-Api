@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/happy-dragon-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,930 · **trend:** flat
+**12-month volume (illustrative):** 1,960 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Hungary | 40 | growing |
 | India | 40 | declining |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -120,6 +120,10 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/caishen-s-cash-b7/demand/
 ```
 
+**12-month volume (illustrative):** 0 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/caishen-s-cash-b7/

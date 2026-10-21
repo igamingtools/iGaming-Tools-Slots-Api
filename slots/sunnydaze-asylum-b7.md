@@ -141,24 +141,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sunnydaze-asylum-b7/demand/
 ```
 
-**12-month volume (illustrative):** 440 · **trend:** flat
+**12-month volume (illustrative):** 1,280 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Brazil | 140 | declining |
 | Canada | 60 | declining |
+| Finland | 60 | declining |
+| Greece | 60 | growing |
 | Switzerland | 60 | flat |
 | Philippines | 50 | growing |
+| Argentina | 40 | declining |
+| Belgium | 40 | flat |
 | Germany | 30 | growing |
-| South Africa | 30 | declining |
-| United Kingdom | 30 | declining |
-| Australia | 20 | flat |
-| Austria | 20 | flat |
-| Lebanon | 20 | flat |
-| New Zealand | 20 | flat |
+| Netherlands | 30 | declining |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (52 markets) via the /demand/ endpoint.
 
 ## Links
 

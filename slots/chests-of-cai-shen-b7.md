@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chests-of-cai-shen-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,200 · **trend:** growing · YoY +5.7%
+**12-month volume (illustrative):** 4,610 · **trend:** growing · YoY +10.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | South Africa | 1,830 | growing |
-| Brazil | 310 | growing |
+| Brazil | 250 | flat |
 | Malaysia | 220 | flat |
 | Philippines | 180 | flat |
 | Canada | 120 | declining |
-| Greece | 120 | growing |
 | Tunisia | 120 | flat |
-| Peru | 110 | flat |
-| Portugal | 110 | growing |
-| Argentina | 100 | flat |
+| El Salvador | 90 | flat |
+| Greece | 90 | growing |
+| Indonesia | 90 | flat |
+| Peru | 90 | flat |
 
-> Full per-country breakdown (62 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

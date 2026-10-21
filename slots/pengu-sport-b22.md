@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pengu-sport-b22/demand/
 ```
 
-**12-month volume (illustrative):** 2,210 · **trend:** flat
+**12-month volume (illustrative):** 2,230 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -137,7 +137,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 60 | growing |
 | Netherlands | 60 | growing |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (48 markets) via the /demand/ endpoint.
 
 ## Links
 

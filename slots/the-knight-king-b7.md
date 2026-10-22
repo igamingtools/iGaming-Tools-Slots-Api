@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-knight-king-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,150 · **trend:** declining · YoY -18.4%
+**12-month volume (illustrative):** 1,110 · **trend:** declining · YoY -20.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 100 | declining |
+| Brazil | 100 | flat |
 | Greece | 100 | flat |
-| South Africa | 70 | declining |
-| Germany | 60 | flat |
-| Ukraine | 60 | flat |
-| Indonesia | 50 | declining |
-| Philippines | 50 | declining |
+| South Africa | 80 | growing |
+| Finland | 60 | growing |
+| Germany | 60 | growing |
+| Ukraine | 60 | declining |
 | Chile | 40 | flat |
-| Finland | 40 | flat |
-| Malaysia | 40 | growing |
+| Indonesia | 40 | flat |
+| Malaysia | 40 | declining |
+| Peru | 40 | flat |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rat-king-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,620 · **trend:** growing · YoY +5.9%
+**12-month volume (illustrative):** 1,630 · **trend:** growing · YoY +6.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 440 | flat |
-| Finland | 220 | declining |
-| Greece | 130 | growing |
+| Canada | 420 | flat |
+| Finland | 200 | flat |
+| Greece | 130 | declining |
 | Netherlands | 110 | flat |
 | Denmark | 100 | flat |
-| Brazil | 80 | flat |
-| United Kingdom | 80 | flat |
-| United States | 60 | flat |
-| Bulgaria | 50 | declining |
-| Romania | 50 | flat |
+| Brazil | 80 | declining |
+| Hungary | 80 | growing |
+| United Kingdom | 70 | declining |
+| Romania | 50 | growing |
+| Bulgaria | 40 | flat |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

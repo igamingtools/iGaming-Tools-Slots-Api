@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tut-s-treasure-tower-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,150 · **trend:** flat
+**12-month volume (illustrative):** 2,280 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 800 | growing |
-| Malaysia | 100 | flat |
-| Canada | 60 | declining |
-| Indonesia | 60 | flat |
+| Brazil | 850 | declining |
+| Malaysia | 100 | declining |
+| Indonesia | 70 | flat |
+| Canada | 60 | flat |
+| South Africa | 60 | growing |
 | United States | 60 | flat |
-| Argentina | 50 | flat |
-| Germany | 50 | growing |
-| Philippines | 50 | flat |
-| South Africa | 50 | declining |
-| Ukraine | 50 | growing |
+| Argentina | 50 | declining |
+| Germany | 50 | declining |
+| Netherlands | 50 | growing |
+| Philippines | 50 | declining |
 
 > Full per-country breakdown (48 markets) via the /demand/ endpoint.
 

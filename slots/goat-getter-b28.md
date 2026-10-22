@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/goat-getter-b28/demand/
 ```
 
-**12-month volume (illustrative):** 5,780 · **trend:** growing · YoY +49.0%
+**12-month volume (illustrative):** 5,280 · **trend:** growing · YoY +22.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 600 | flat |
-| Denmark | 360 | growing |
-| Greece | 290 | flat |
-| Czech Republic | 270 | declining |
+| Denmark | 380 | growing |
+| Switzerland | 360 | flat |
+| Greece | 270 | flat |
 | Canada | 260 | flat |
-| Germany | 250 | flat |
-| Finland | 240 | growing |
-| Sweden | 230 | flat |
-| United States | 200 | flat |
-| Austria | 180 | flat |
+| Czech Republic | 260 | declining |
+| Finland | 240 | flat |
+| Sweden | 240 | growing |
+| United States | 220 | flat |
+| Germany | 210 | flat |
+| India | 160 | flat |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
 
 ## Links
 

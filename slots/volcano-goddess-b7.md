@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/volcano-goddess-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,560 · **trend:** growing · YoY +33.3%
+**12-month volume (illustrative):** 5,320 · **trend:** growing · YoY +10.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 3,540 | growing |
-| Canada | 540 | growing |
+| South Africa | 3,320 | growing |
+| Canada | 580 | declining |
 | Brazil | 180 | flat |
 | Argentina | 120 | flat |
 | Malaysia | 120 | flat |
-| Lithuania | 70 | declining |
-| Philippines | 70 | flat |
-| India | 60 | flat |
-| Switzerland | 60 | growing |
-| Germany | 50 | growing |
+| Lithuania | 70 | flat |
+| Philippines | 70 | growing |
+| Switzerland | 60 | declining |
+| Germany | 50 | declining |
+| Greece | 50 | growing |
 
-> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

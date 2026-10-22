@@ -120,22 +120,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/roman-empire-b29/demand/
 ```
 
-**12-month volume (illustrative):** 470 · **trend:** declining · YoY -26.6%
+**12-month volume (illustrative):** 420 · **trend:** declining · YoY -39.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 220 | declining |
-| United States | 80 | flat |
+| South Africa | 190 | flat |
+| United States | 60 | flat |
 | Philippines | 30 | flat |
-| United Kingdom | 30 | flat |
 | Greece | 20 | flat |
+| Indonesia | 20 | growing |
+| United Kingdom | 20 | flat |
 | Australia | 10 | flat |
 | Belarus | 10 | flat |
 | France | 10 | flat |
 | Germany | 10 | flat |
-| Indonesia | 10 | flat |
 
 > Full per-country breakdown (14 markets) via the /demand/ endpoint.
 

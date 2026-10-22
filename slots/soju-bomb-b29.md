@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/soju-bomb-b29/demand/
 ```
 
-**12-month volume (illustrative):** 18,760 · **trend:** declining · YoY -21.8%
+**12-month volume (illustrative):** 17,490 · **trend:** declining · YoY -28.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 16,380 | growing |
-| United States | 380 | declining |
-| Canada | 160 | flat |
-| United Kingdom | 150 | declining |
-| India | 140 | declining |
+| South Africa | 15,660 | declining |
+| United States | 260 | growing |
+| India | 120 | flat |
 | Tunisia | 90 | flat |
-| Malaysia | 80 | flat |
-| Indonesia | 70 | flat |
-| Lithuania | 70 | declining |
-| New Zealand | 70 | flat |
+| United Kingdom | 90 | growing |
+| Indonesia | 70 | growing |
+| Canada | 60 | flat |
+| Lithuania | 60 | flat |
+| Malaysia | 60 | flat |
+| Ukraine | 60 | flat |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
 
 ## Links
 

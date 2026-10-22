@@ -132,24 +132,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fa-cai-shen-deluxe-b29/demand/
 ```
 
-**12-month volume (illustrative):** 1,560 · **trend:** growing · YoY +51.5%
+**12-month volume (illustrative):** 1,540 · **trend:** growing · YoY +42.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,390 | flat |
-| India | 40 | growing |
+| South Africa | 1,390 | declining |
+| India | 40 | declining |
 | Brazil | 30 | flat |
 | Indonesia | 20 | flat |
 | Argentina | 10 | flat |
 | Belarus | 10 | flat |
-| Chile | 10 | flat |
 | Colombia | 10 | flat |
-| Italy | 10 | flat |
 | Portugal | 10 | flat |
+| Singapore | 10 | flat |
+| Turkey | 10 | growing |
 
-> Full per-country breakdown (12 markets) via the /demand/ endpoint.
+> Full per-country breakdown (10 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -102,24 +102,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jogo-do-bicho-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,620 · **trend:** declining · YoY -33.3%
+**12-month volume (illustrative):** 1,670 · **trend:** declining · YoY -34.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 710 | declining |
+| Brazil | 630 | flat |
 | India | 240 | flat |
-| Pakistan | 140 | growing |
+| Pakistan | 140 | flat |
 | Mexico | 70 | flat |
 | Philippines | 70 | flat |
-| Portugal | 50 | growing |
-| Ukraine | 40 | growing |
-| Vietnam | 40 | growing |
-| Peru | 30 | flat |
-| Canada | 20 | flat |
+| Malaysia | 60 | declining |
+| Portugal | 50 | declining |
+| Vietnam | 40 | declining |
+| Nigeria | 30 | flat |
+| Ukraine | 30 | declining |
 
-> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

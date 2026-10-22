@@ -141,24 +141,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/death-dominion-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,170 · **trend:** flat
+**12-month volume (illustrative):** 5,430 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 390 | growing |
-| Greece | 360 | growing |
-| Canada | 180 | growing |
-| Finland | 180 | growing |
-| Philippines | 180 | growing |
-| United Kingdom | 140 | growing |
-| Denmark | 110 | growing |
-| Germany | 100 | growing |
-| Netherlands | 100 | growing |
-| Portugal | 100 | growing |
+| Greece | 680 | flat |
+| Brazil | 650 | declining |
+| Indonesia | 320 | declining |
+| Canada | 220 | declining |
+| Finland | 220 | declining |
+| Philippines | 220 | declining |
+| South Africa | 220 | growing |
+| United Kingdom | 180 | declining |
+| Italy | 150 | flat |
+| Malaysia | 140 | declining |
 
-> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+> Full per-country breakdown (67 markets) via the /demand/ endpoint.
 
 ## Links
 

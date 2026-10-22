@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/code-of-cairo-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,990 · **trend:** flat
+**12-month volume (illustrative):** 2,020 · **trend:** growing · YoY +4950.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 290 | declining |
-| India | 180 | flat |
-| Greece | 140 | growing |
-| South Africa | 130 | flat |
-| United Kingdom | 100 | flat |
-| United States | 80 | declining |
-| Tunisia | 60 | declining |
-| Denmark | 40 | declining |
+| Brazil | 300 | flat |
+| India | 180 | declining |
+| Greece | 150 | flat |
+| South Africa | 130 | declining |
+| United Kingdom | 100 | declining |
+| United States | 80 | flat |
+| Tunisia | 70 | growing |
+| Denmark | 40 | flat |
 | Finland | 40 | flat |
-| Indonesia | 40 | growing |
+| Italy | 40 | flat |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (57 markets) via the /demand/ endpoint.
 
 ## Links
 

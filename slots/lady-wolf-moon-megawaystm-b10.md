@@ -144,21 +144,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lady-wolf-moon-megawaystm-b10/demand/
 ```
 
-**12-month volume (illustrative):** 4,110 · **trend:** growing · YoY +67.8%
+**12-month volume (illustrative):** 4,240 · **trend:** growing · YoY +66.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 390 | flat |
+| United Kingdom | 400 | flat |
 | Canada | 340 | flat |
 | United States | 220 | flat |
+| Switzerland | 210 | flat |
+| Germany | 200 | declining |
+| Australia | 180 | growing |
 | Finland | 180 | flat |
-| Germany | 180 | growing |
-| Switzerland | 180 | growing |
-| Australia | 170 | flat |
 | Greece | 160 | flat |
-| Belgium | 140 | flat |
+| Belgium | 140 | declining |
 | Italy | 130 | flat |
 
 > Full per-country breakdown (54 markets) via the /demand/ endpoint.

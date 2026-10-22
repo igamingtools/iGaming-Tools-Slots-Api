@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-kemet-b10/demand/
 ```
 
-**12-month volume (illustrative):** 760 · **trend:** growing · YoY +10.1%
+**12-month volume (illustrative):** 790 · **trend:** growing · YoY +23.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 100 | flat |
-| India | 80 | growing |
-| Finland | 60 | declining |
-| Brazil | 50 | declining |
-| United Kingdom | 50 | declining |
-| Austria | 40 | growing |
+| Germany | 110 | flat |
+| India | 80 | declining |
+| Finland | 60 | flat |
+| Austria | 50 | flat |
+| United Kingdom | 50 | flat |
+| Brazil | 40 | flat |
 | Greece | 40 | flat |
-| Italy | 30 | declining |
-| Switzerland | 30 | growing |
+| Italy | 40 | growing |
+| Switzerland | 30 | declining |
 | Ukraine | 30 | flat |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

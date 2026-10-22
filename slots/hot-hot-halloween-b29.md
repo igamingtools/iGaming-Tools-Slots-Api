@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-hot-halloween-b29/demand/
 ```
 
-**12-month volume (illustrative):** 10,620 · **trend:** declining · YoY -15.4%
+**12-month volume (illustrative):** 10,300 · **trend:** declining · YoY -18.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 9,410 | flat |
-| India | 180 | growing |
-| Tunisia | 130 | growing |
-| Indonesia | 80 | declining |
+| South Africa | 9,130 | growing |
+| India | 180 | flat |
+| Tunisia | 110 | declining |
 | United States | 80 | flat |
-| Italy | 60 | flat |
+| Indonesia | 70 | flat |
 | Brazil | 50 | flat |
 | Philippines | 50 | flat |
-| United Kingdom | 50 | flat |
-| Argentina | 40 | flat |
+| Ukraine | 50 | growing |
+| Canada | 40 | growing |
+| Italy | 40 | growing |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

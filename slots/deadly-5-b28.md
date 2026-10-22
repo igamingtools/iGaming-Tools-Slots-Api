@@ -131,22 +131,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/deadly-5-b28/demand/
 ```
 
-**12-month volume (illustrative):** 880 · **trend:** growing · YoY +120.0%
+**12-month volume (illustrative):** 880 · **trend:** growing · YoY +100.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Sweden | 110 | flat |
-| Greece | 80 | growing |
-| United Kingdom | 70 | declining |
-| Switzerland | 60 | growing |
-| Germany | 50 | flat |
-| Canada | 40 | flat |
+| Sweden | 100 | declining |
+| Greece | 80 | declining |
+| United Kingdom | 70 | flat |
+| Germany | 60 | growing |
+| Switzerland | 60 | declining |
+| Norway | 50 | growing |
 | Denmark | 40 | flat |
 | Finland | 40 | flat |
-| Netherlands | 40 | flat |
-| Norway | 40 | flat |
+| Lithuania | 40 | flat |
+| Poland | 40 | flat |
 
 > Full per-country breakdown (28 markets) via the /demand/ endpoint.
 

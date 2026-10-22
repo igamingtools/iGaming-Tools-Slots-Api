@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/majestic-express-gold-run-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,850 · **trend:** flat · YoY -2.1%
+**12-month volume (illustrative):** 1,730 · **trend:** declining · YoY -19.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 200 | declining |
+| Brazil | 210 | growing |
 | South Africa | 130 | flat |
-| Canada | 120 | growing |
+| Canada | 120 | flat |
 | Greece | 100 | flat |
-| Malaysia | 80 | flat |
-| Australia | 70 | flat |
-| Philippines | 70 | declining |
-| United Kingdom | 70 | flat |
-| Netherlands | 60 | declining |
-| Tunisia | 60 | growing |
+| Malaysia | 80 | growing |
+| United Kingdom | 80 | flat |
+| Philippines | 70 | growing |
+| Australia | 60 | declining |
+| Bulgaria | 50 | declining |
+| Netherlands | 50 | flat |
 
 > Full per-country breakdown (48 markets) via the /demand/ endpoint.
 

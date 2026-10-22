@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/harvest-moon-grave-profits-b7/demand/
 ```
 
-**12-month volume (illustrative):** 520 · **trend:** flat
+**12-month volume (illustrative):** 1,000 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 50 | growing |
-| Argentina | 30 | growing |
-| Switzerland | 30 | growing |
-| Belgium | 20 | growing |
-| Canada | 20 | growing |
-| Finland | 20 | growing |
-| Luxembourg | 20 | growing |
-| United Kingdom | 20 | growing |
-| United States | 20 | growing |
-| Australia | 10 | growing |
+| Brazil | 70 | declining |
+| Greece | 60 | growing |
+| Argentina | 50 | declining |
+| Indonesia | 40 | flat |
+| Malaysia | 40 | flat |
+| United States | 40 | flat |
+| Peru | 30 | growing |
+| Switzerland | 30 | declining |
+| United Kingdom | 30 | declining |
+| Australia | 20 | flat |
 
-> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
 
 ## Links
 

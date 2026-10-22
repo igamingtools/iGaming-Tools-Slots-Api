@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/5-lions-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,680 · **trend:** declining · YoY -33.4%
+**12-month volume (illustrative):** 4,300 · **trend:** declining · YoY -38.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,180 | growing |
-| Tunisia | 890 | flat |
-| Portugal | 210 | flat |
+| South Africa | 1,100 | declining |
+| Tunisia | 830 | flat |
+| Portugal | 190 | flat |
 | Argentina | 150 | flat |
-| Indonesia | 140 | flat |
 | Brazil | 130 | flat |
+| Indonesia | 130 | flat |
 | Peru | 120 | flat |
-| Switzerland | 120 | flat |
-| Netherlands | 110 | declining |
-| Canada | 100 | flat |
+| Netherlands | 100 | flat |
+| Switzerland | 90 | flat |
+| Canada | 80 | flat |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

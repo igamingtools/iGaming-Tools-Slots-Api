@@ -132,22 +132,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-ox-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,150 · **trend:** growing · YoY +66.7%
+**12-month volume (illustrative):** 5,410 · **trend:** growing · YoY +57.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 3,800 | growing |
-| United States | 120 | growing |
-| South Africa | 110 | declining |
-| Canada | 100 | growing |
-| India | 100 | declining |
+| Brazil | 4,070 | flat |
+| United States | 140 | flat |
+| India | 120 | growing |
+| South Africa | 110 | growing |
+| Canada | 100 | flat |
 | Indonesia | 100 | flat |
-| Pakistan | 100 | growing |
-| Mexico | 90 | flat |
-| Greece | 80 | growing |
-| Malaysia | 80 | declining |
+| Pakistan | 100 | flat |
+| Mexico | 90 | growing |
+| Malaysia | 80 | flat |
+| Philippines | 80 | flat |
 
 > Full per-country breakdown (33 markets) via the /demand/ endpoint.
 

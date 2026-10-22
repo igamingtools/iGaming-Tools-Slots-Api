@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/zeus-vs-typhon-b7/demand/
 ```
 
-**12-month volume (illustrative):** 13,060 · **trend:** flat
+**12-month volume (illustrative):** 13,680 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 1,610 | flat |
-| Brazil | 1,510 | flat |
-| South Africa | 1,370 | declining |
-| United Kingdom | 490 | flat |
-| Canada | 460 | flat |
-| Finland | 400 | flat |
-| Indonesia | 380 | declining |
-| Switzerland | 360 | declining |
-| Malaysia | 340 | flat |
-| Romania | 310 | growing |
+| Greece | 1,640 | flat |
+| Brazil | 1,580 | declining |
+| South Africa | 1,420 | flat |
+| Canada | 500 | flat |
+| United Kingdom | 500 | declining |
+| Finland | 420 | flat |
+| Indonesia | 390 | declining |
+| Malaysia | 360 | flat |
+| Switzerland | 360 | flat |
+| Romania | 320 | declining |
 
-> Full per-country breakdown (68 markets) via the /demand/ endpoint.
+> Full per-country breakdown (70 markets) via the /demand/ endpoint.
 
 ## Links
 

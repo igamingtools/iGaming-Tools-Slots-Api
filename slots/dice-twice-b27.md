@@ -117,24 +117,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dice-twice-b27/demand/
 ```
 
-**12-month volume (illustrative):** 770 · **trend:** declining · YoY -32.5%
+**12-month volume (illustrative):** 730 · **trend:** declining · YoY -41.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 200 | flat |
-| South Africa | 100 | declining |
+| India | 220 | growing |
+| South Africa | 100 | growing |
 | United States | 60 | flat |
-| Canada | 40 | flat |
 | Pakistan | 40 | flat |
-| United Kingdom | 30 | declining |
+| United Kingdom | 30 | flat |
 | Belarus | 20 | flat |
-| Brazil | 20 | growing |
-| France | 20 | flat |
-| Germany | 20 | flat |
+| Brazil | 20 | declining |
+| Canada | 20 | flat |
+| France | 20 | declining |
+| Philippines | 20 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

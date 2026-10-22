@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sticky-bees-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,960 · **trend:** declining · YoY -20.6%
+**12-month volume (illustrative):** 7,790 · **trend:** declining · YoY -23.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 1,430 | growing |
+| Philippines | 1,350 | growing |
 | Brazil | 630 | growing |
-| Peru | 570 | growing |
-| Greece | 540 | declining |
-| Switzerland | 240 | flat |
-| Malaysia | 220 | declining |
-| Canada | 200 | growing |
-| South Africa | 200 | flat |
-| Germany | 190 | flat |
-| Finland | 180 | growing |
+| Peru | 570 | declining |
+| Greece | 540 | growing |
+| Malaysia | 220 | growing |
+| South Africa | 220 | growing |
+| Switzerland | 210 | flat |
+| Canada | 200 | flat |
+| Finland | 180 | flat |
+| Germany | 180 | flat |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (59 markets) via the /demand/ endpoint.
 
 ## Links
 

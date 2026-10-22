@@ -130,22 +130,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/blitz-super-wheel-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,420 · **trend:** growing · YoY +7.1%
+**12-month volume (illustrative):** 2,260 · **trend:** declining · YoY -11.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 380 | declining |
-| South Africa | 380 | flat |
-| Germany | 90 | declining |
-| Greece | 90 | declining |
-| Tunisia | 90 | growing |
-| India | 80 | flat |
-| Peru | 80 | flat |
-| Argentina | 70 | flat |
-| Lithuania | 70 | declining |
-| Mexico | 70 | growing |
+| Brazil | 380 | flat |
+| South Africa | 320 | flat |
+| Germany | 90 | growing |
+| Greece | 90 | growing |
+| Peru | 90 | flat |
+| Canada | 80 | growing |
+| Tunisia | 80 | declining |
+| Lithuania | 70 | growing |
+| United Kingdom | 70 | growing |
+| Argentina | 60 | declining |
 
 > Full per-country breakdown (44 markets) via the /demand/ endpoint.
 

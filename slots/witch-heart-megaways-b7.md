@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/witch-heart-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,110 · **trend:** growing · YoY +48.1%
+**12-month volume (illustrative):** 6,720 · **trend:** growing · YoY +21.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 740 | declining |
-| Greece | 610 | flat |
-| Netherlands | 480 | flat |
-| Romania | 360 | growing |
-| Canada | 300 | declining |
-| Finland | 220 | growing |
-| Switzerland | 210 | flat |
+| Brazil | 710 | growing |
+| Greece | 550 | flat |
+| Netherlands | 450 | growing |
+| Romania | 350 | declining |
+| Canada | 280 | flat |
+| Finland | 220 | flat |
+| Switzerland | 210 | growing |
 | South Africa | 200 | flat |
 | United States | 200 | flat |
-| Tunisia | 170 | flat |
+| Tunisia | 170 | growing |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

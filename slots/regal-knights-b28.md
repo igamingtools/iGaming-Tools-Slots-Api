@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/regal-knights-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,410 · **trend:** growing · YoY +6.8%
+**12-month volume (illustrative):** 1,360 · **trend:** declining · YoY -7.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Canada | 200 | flat |
-| Finland | 160 | growing |
-| Greece | 160 | flat |
-| Latvia | 90 | growing |
-| Netherlands | 80 | growing |
-| United Kingdom | 80 | growing |
-| Sweden | 60 | flat |
-| United States | 60 | flat |
-| Croatia | 40 | growing |
-| Germany | 40 | growing |
+| Finland | 160 | flat |
+| Greece | 150 | flat |
+| Latvia | 80 | declining |
+| United Kingdom | 80 | flat |
+| Netherlands | 70 | declining |
+| United States | 60 | growing |
+| Germany | 50 | flat |
+| Romania | 50 | growing |
+| Sweden | 50 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

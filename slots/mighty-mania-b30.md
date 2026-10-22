@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mighty-mania-b30/demand/
 ```
 
-**12-month volume (illustrative):** 3,670 · **trend:** flat
+**12-month volume (illustrative):** 4,380 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,580 | declining |
-| Philippines | 870 | flat |
-| Indonesia | 360 | declining |
-| Pakistan | 100 | growing |
-| India | 80 | flat |
-| Thailand | 60 | growing |
-| Malaysia | 40 | growing |
-| Tunisia | 40 | flat |
-| United States | 40 | declining |
-| Chile | 30 | growing |
+| Brazil | 1,840 | flat |
+| Philippines | 1,010 | declining |
+| Indonesia | 430 | flat |
+| Pakistan | 160 | growing |
+| India | 100 | flat |
+| Thailand | 90 | growing |
+| Tunisia | 60 | growing |
+| United States | 60 | growing |
+| Malaysia | 40 | declining |
+| Morocco | 40 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
 
 ## Links
 

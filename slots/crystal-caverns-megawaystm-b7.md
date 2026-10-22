@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/crystal-caverns-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,780 · **trend:** growing · YoY +6.0%
+**12-month volume (illustrative):** 1,700 · **trend:** flat · YoY -4.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 260 | declining |
+| South Africa | 250 | flat |
 | Brazil | 150 | flat |
-| Indonesia | 140 | flat |
-| Tunisia | 100 | growing |
-| United Kingdom | 90 | flat |
-| Belarus | 70 | flat |
-| Sweden | 70 | flat |
-| Canada | 60 | flat |
+| Indonesia | 120 | flat |
+| United Kingdom | 100 | flat |
+| Tunisia | 90 | declining |
+| Belarus | 80 | flat |
+| Sweden | 70 | declining |
+| Canada | 60 | growing |
+| Germany | 60 | flat |
 | Greece | 60 | flat |
-| Netherlands | 60 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fly-b29/demand/
 ```
 
-**12-month volume (illustrative):** 15,640 · **trend:** declining · YoY -10.3%
+**12-month volume (illustrative):** 15,550 · **trend:** declining · YoY -7.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 3,300 | growing |
-| India | 2,580 | flat |
-| Philippines | 1,560 | growing |
-| South Africa | 450 | flat |
-| Indonesia | 340 | growing |
-| Switzerland | 300 | growing |
+| United States | 3,400 | declining |
+| India | 2,540 | flat |
+| Philippines | 1,440 | growing |
+| South Africa | 450 | growing |
+| Indonesia | 320 | declining |
+| Switzerland | 270 | declining |
 | Canada | 260 | flat |
 | Malaysia | 240 | flat |
-| Pakistan | 220 | flat |
-| Thailand | 220 | flat |
+| Pakistan | 240 | flat |
+| Thailand | 220 | growing |
 
 > Full per-country breakdown (79 markets) via the /demand/ endpoint.
 

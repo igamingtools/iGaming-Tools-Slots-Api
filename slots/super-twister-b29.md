@@ -120,22 +120,23 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-twister-b29/demand/
 ```
 
-**12-month volume (illustrative):** 300 · **trend:** declining · YoY -53.8%
+**12-month volume (illustrative):** 290 · **trend:** declining · YoY -56.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | South Africa | 120 | flat |
-| Malaysia | 60 | declining |
-| India | 40 | flat |
+| Malaysia | 60 | flat |
 | Belarus | 20 | flat |
+| India | 20 | flat |
 | Spain | 20 | flat |
 | Tunisia | 20 | flat |
 | Denmark | 10 | flat |
+| Philippines | 10 | growing |
 | Thailand | 10 | flat |
 
-> Full per-country breakdown (8 markets) via the /demand/ endpoint.
+> Full per-country breakdown (9 markets) via the /demand/ endpoint.
 
 ## Links
 

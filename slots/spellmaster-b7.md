@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/spellmaster-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,210 · **trend:** growing · YoY +264.8%
+**12-month volume (illustrative):** 2,710 · **trend:** growing · YoY +74.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 600 | flat |
-| Brazil | 560 | declining |
+| Brazil | 510 | declining |
+| Greece | 400 | flat |
 | South Africa | 170 | flat |
-| Australia | 140 | growing |
-| Argentina | 100 | growing |
-| United Kingdom | 100 | flat |
-| Germany | 90 | growing |
+| Australia | 130 | flat |
+| Argentina | 90 | declining |
+| Germany | 90 | flat |
 | Indonesia | 90 | flat |
-| Peru | 90 | flat |
-| Canada | 80 | flat |
+| United Kingdom | 90 | declining |
+| Canada | 80 | growing |
+| Pakistan | 80 | flat |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

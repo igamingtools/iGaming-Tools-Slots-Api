@@ -132,24 +132,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cash-elevator-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,700 · **trend:** declining · YoY -36.1%
+**12-month volume (illustrative):** 1,520 · **trend:** declining · YoY -43.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 230 | flat |
-| Brazil | 150 | declining |
-| United States | 120 | declining |
+| South Africa | 190 | flat |
+| Brazil | 150 | flat |
+| United States | 100 | flat |
 | Indonesia | 90 | flat |
-| Switzerland | 90 | flat |
 | Tunisia | 90 | flat |
-| India | 80 | declining |
-| United Kingdom | 80 | flat |
-| France | 70 | flat |
-| Germany | 70 | growing |
+| United Kingdom | 80 | declining |
+| France | 70 | growing |
+| Germany | 60 | declining |
+| India | 60 | flat |
+| Switzerland | 60 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

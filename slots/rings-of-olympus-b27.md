@@ -125,24 +125,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rings-of-olympus-b27/demand/
 ```
 
-**12-month volume (illustrative):** 890 · **trend:** growing · YoY +368.4%
+**12-month volume (illustrative):** 790 · **trend:** growing · YoY +172.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 220 | declining |
-| Greece | 60 | flat |
-| Pakistan | 60 | growing |
-| Tunisia | 60 | flat |
-| Germany | 50 | growing |
+| India | 200 | flat |
+| Pakistan | 60 | declining |
+| Germany | 50 | declining |
+| Greece | 50 | flat |
+| Tunisia | 50 | flat |
 | Ukraine | 40 | flat |
-| United States | 40 | flat |
 | Cyprus | 30 | flat |
 | United Kingdom | 30 | flat |
-| Australia | 20 | declining |
+| Australia | 20 | flat |
+| Austria | 20 | flat |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-coin-b22/demand/
 ```
 
-**12-month volume (illustrative):** 670 · **trend:** flat
+**12-month volume (illustrative):** 790 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 160 | declining |
-| Italy | 60 | flat |
+| India | 180 | flat |
+| Italy | 70 | flat |
+| Canada | 40 | growing |
+| Germany | 40 | flat |
+| Netherlands | 40 | growing |
 | Ukraine | 40 | flat |
 | Austria | 30 | flat |
-| Germany | 30 | growing |
-| Greece | 30 | growing |
+| Greece | 30 | declining |
 | Hungary | 30 | flat |
-| Netherlands | 30 | flat |
 | Poland | 30 | flat |
-| Portugal | 30 | declining |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

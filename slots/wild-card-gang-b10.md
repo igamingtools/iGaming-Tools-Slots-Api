@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-card-gang-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,280 · **trend:** growing · YoY +120.7%
+**12-month volume (illustrative):** 1,290 · **trend:** growing · YoY +84.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 180 | flat |
-| Romania | 160 | growing |
-| Finland | 120 | flat |
-| India | 120 | declining |
-| Germany | 90 | declining |
-| Australia | 70 | flat |
-| United Kingdom | 70 | growing |
+| United States | 200 | flat |
+| Romania | 170 | flat |
+| Finland | 100 | flat |
+| India | 100 | flat |
+| Germany | 90 | flat |
+| United Kingdom | 80 | flat |
+| Australia | 70 | growing |
 | Canada | 60 | flat |
 | Brazil | 40 | flat |
-| Portugal | 40 | flat |
+| Portugal | 40 | declining |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

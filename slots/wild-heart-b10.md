@@ -141,7 +141,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-heart-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,550 · **trend:** declining · YoY -5.5%
+**12-month volume (illustrative):** 1,500 · **trend:** declining · YoY -10.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -150,13 +150,13 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 240 | flat |
 | Brazil | 140 | flat |
 | Germany | 100 | flat |
-| Canada | 80 | flat |
-| India | 80 | flat |
-| United Kingdom | 80 | declining |
+| United Kingdom | 90 | growing |
 | Bulgaria | 70 | flat |
-| Australia | 60 | declining |
-| France | 60 | declining |
-| Greece | 60 | growing |
+| Greece | 70 | flat |
+| Canada | 60 | flat |
+| India | 60 | flat |
+| Poland | 60 | declining |
+| Australia | 50 | flat |
 
 > Full per-country breakdown (40 markets) via the /demand/ endpoint.
 

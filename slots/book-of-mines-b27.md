@@ -124,15 +124,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-mines-b27/demand/
 ```
 
-**12-month volume (illustrative):** 910 · **trend:** growing · YoY +44.4%
+**12-month volume (illustrative):** 740 · **trend:** declining · YoY -9.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 660 | flat |
+| India | 500 | flat |
 | Pakistan | 60 | flat |
-| Egypt | 50 | flat |
+| Egypt | 40 | flat |
 | Hungary | 40 | flat |
 | Nigeria | 20 | flat |
 | Tunisia | 20 | flat |

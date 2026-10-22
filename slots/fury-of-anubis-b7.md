@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fury-of-anubis-b7/demand/
 ```
 
-**12-month volume (illustrative):** 16,110 · **trend:** flat
+**12-month volume (illustrative):** 18,820 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,510 | growing |
-| South Africa | 1,590 | declining |
-| Philippines | 1,580 | declining |
-| Greece | 1,320 | growing |
-| Indonesia | 1,180 | declining |
-| United Kingdom | 610 | declining |
-| Netherlands | 550 | declining |
-| Finland | 500 | declining |
-| Germany | 450 | declining |
-| Canada | 440 | declining |
+| Brazil | 2,990 | declining |
+| South Africa | 1,850 | declining |
+| Philippines | 1,690 | declining |
+| Greece | 1,640 | declining |
+| Indonesia | 1,270 | declining |
+| United Kingdom | 680 | declining |
+| Netherlands | 620 | declining |
+| Finland | 600 | declining |
+| Canada | 580 | growing |
+| Germany | 540 | declining |
 
-> Full per-country breakdown (68 markets) via the /demand/ endpoint.
+> Full per-country breakdown (72 markets) via the /demand/ endpoint.
 
 ## Links
 

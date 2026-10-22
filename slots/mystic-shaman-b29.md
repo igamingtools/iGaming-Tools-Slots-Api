@@ -140,22 +140,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystic-shaman-b29/demand/
 ```
 
-**12-month volume (illustrative):** 1,930 · **trend:** flat
+**12-month volume (illustrative):** 2,050 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,590 | growing |
-| India | 100 | declining |
+| South Africa | 1,700 | declining |
+| India | 100 | flat |
 | Panama | 40 | flat |
 | Brazil | 20 | flat |
 | Finland | 20 | flat |
 | Malaysia | 20 | flat |
+| Netherlands | 20 | growing |
 | Pakistan | 20 | flat |
 | Tunisia | 20 | flat |
 | Bulgaria | 10 | flat |
-| Germany | 10 | flat |
 
 > Full per-country breakdown (18 markets) via the /demand/ endpoint.
 

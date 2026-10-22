@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/honey-honey-honey-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,930 · **trend:** growing · YoY +9.0%
+**12-month volume (illustrative):** 1,750 · **trend:** declining · YoY -8.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 580 | flat |
+| Brazil | 450 | flat |
 | South Africa | 190 | flat |
-| Finland | 120 | declining |
-| Greece | 80 | flat |
-| Denmark | 60 | growing |
-| Latvia | 60 | flat |
-| United Kingdom | 60 | flat |
-| Argentina | 50 | declining |
+| Finland | 120 | flat |
+| Greece | 70 | flat |
+| United Kingdom | 70 | growing |
+| Denmark | 60 | declining |
+| Mexico | 60 | growing |
+| Argentina | 50 | flat |
 | Germany | 50 | flat |
-| Mexico | 50 | declining |
+| Latvia | 50 | flat |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

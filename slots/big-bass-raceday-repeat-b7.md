@@ -143,22 +143,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-raceday-repeat-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,890 · **trend:** flat
+**12-month volume (illustrative):** 3,270 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 220 | flat |
-| United Kingdom | 220 | flat |
-| Brazil | 160 | flat |
-| Switzerland | 150 | growing |
-| Greece | 110 | flat |
-| Ukraine | 90 | declining |
-| Finland | 80 | growing |
-| South Africa | 80 | flat |
-| Spain | 80 | growing |
-| United States | 80 | declining |
+| Canada | 240 | flat |
+| United Kingdom | 230 | declining |
+| Brazil | 180 | flat |
+| Switzerland | 180 | flat |
+| Greece | 120 | flat |
+| Finland | 100 | flat |
+| South Africa | 100 | growing |
+| Ukraine | 100 | flat |
+| Spain | 90 | declining |
+| Germany | 80 | flat |
 
 > Full per-country breakdown (54 markets) via the /demand/ endpoint.
 

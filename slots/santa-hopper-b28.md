@@ -145,20 +145,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/santa-hopper-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,370 · **trend:** flat
+**12-month volume (illustrative):** 2,480 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 180 | declining |
-| United Kingdom | 140 | declining |
-| Denmark | 130 | growing |
-| Netherlands | 130 | flat |
-| Canada | 120 | declining |
-| Sweden | 120 | growing |
-| United States | 120 | declining |
-| Romania | 100 | flat |
+| Finland | 200 | growing |
+| Denmark | 140 | flat |
+| Netherlands | 140 | flat |
+| United Kingdom | 140 | flat |
+| United States | 140 | growing |
+| Sweden | 130 | flat |
+| Canada | 120 | flat |
+| Romania | 100 | declining |
 | Switzerland | 90 | flat |
 | Brazil | 70 | flat |
 

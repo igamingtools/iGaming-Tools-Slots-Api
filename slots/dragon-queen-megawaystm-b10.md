@@ -140,21 +140,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-queen-megawaystm-b10/demand/
 ```
 
-**12-month volume (illustrative):** 660 · **trend:** growing · YoY +187.0%
+**12-month volume (illustrative):** 680 · **trend:** growing · YoY +161.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 100 | flat |
-| New Zealand | 70 | flat |
-| Australia | 60 | flat |
-| United Kingdom | 50 | growing |
+| United States | 120 | flat |
+| New Zealand | 60 | flat |
+| Australia | 50 | flat |
+| Finland | 40 | growing |
 | India | 40 | flat |
+| United Kingdom | 40 | declining |
+| Brazil | 30 | flat |
 | Germany | 30 | flat |
 | Greece | 30 | flat |
-| Brazil | 20 | growing |
-| Finland | 20 | flat |
 | Ireland | 20 | flat |
 
 > Full per-country breakdown (27 markets) via the /demand/ endpoint.

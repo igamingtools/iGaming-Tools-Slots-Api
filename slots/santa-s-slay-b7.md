@@ -140,20 +140,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/santa-s-slay-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,460 · **trend:** flat
+**12-month volume (illustrative):** 1,530 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 100 | flat |
-| Brazil | 80 | flat |
-| Denmark | 80 | flat |
+| Greece | 110 | growing |
+| Brazil | 90 | flat |
+| Denmark | 80 | declining |
 | Canada | 60 | flat |
-| Netherlands | 60 | flat |
-| South Africa | 60 | growing |
+| Netherlands | 60 | declining |
+| South Africa | 60 | declining |
+| United Kingdom | 60 | growing |
 | United States | 60 | flat |
-| United Kingdom | 50 | flat |
 | Argentina | 40 | flat |
 | Australia | 40 | flat |
 

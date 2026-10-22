@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mermaid-s-treasure-trove-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,430 · **trend:** flat
+**12-month volume (illustrative):** 2,400 · **trend:** growing · YoY +1500.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -153,15 +153,15 @@ curl -H "Authorization: Token $TOKEN" \
 | South Africa | 200 | flat |
 | Finland | 160 | flat |
 | Belgium | 140 | flat |
-| Canada | 140 | declining |
+| Brazil | 140 | flat |
 | United States | 140 | flat |
-| Brazil | 130 | flat |
-| Greece | 110 | flat |
-| Peru | 110 | flat |
-| United Kingdom | 90 | flat |
-| Tunisia | 80 | flat |
+| Canada | 120 | flat |
+| Peru | 120 | flat |
+| Greece | 100 | declining |
+| Tunisia | 90 | growing |
+| Czech Republic | 80 | flat |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

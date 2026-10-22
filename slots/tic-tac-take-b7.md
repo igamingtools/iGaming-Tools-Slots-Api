@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tic-tac-take-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,720 · **trend:** declining · YoY -12.7%
+**12-month volume (illustrative):** 1,670 · **trend:** declining · YoY -18.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 450 | growing |
-| Brazil | 200 | declining |
-| Belgium | 160 | flat |
+| South Africa | 440 | declining |
+| Brazil | 230 | growing |
+| Belgium | 140 | flat |
 | Netherlands | 120 | flat |
 | Philippines | 100 | flat |
 | United States | 100 | flat |
-| Greece | 70 | flat |
-| Thailand | 70 | growing |
-| Indonesia | 60 | flat |
-| Canada | 40 | flat |
+| Greece | 70 | growing |
+| Thailand | 60 | declining |
+| Indonesia | 50 | flat |
+| Portugal | 40 | growing |
 
 > Full per-country breakdown (29 markets) via the /demand/ endpoint.
 

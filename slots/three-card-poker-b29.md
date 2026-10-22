@@ -107,22 +107,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/three-card-poker-b29/demand/
 ```
 
-**12-month volume (illustrative):** 1,990 · **trend:** growing · YoY +16.4%
+**12-month volume (illustrative):** 1,980 · **trend:** growing · YoY +15.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 370 | declining |
+| United Kingdom | 330 | flat |
 | United States | 240 | flat |
-| Canada | 220 | growing |
-| Finland | 100 | flat |
+| Canada | 200 | declining |
+| Finland | 120 | growing |
 | Netherlands | 100 | flat |
-| Belgium | 80 | declining |
-| Sweden | 80 | flat |
-| Italy | 70 | flat |
-| India | 60 | flat |
-| Indonesia | 60 | declining |
+| Belgium | 80 | flat |
+| India | 80 | growing |
+| Italy | 80 | growing |
+| Sweden | 70 | declining |
+| Indonesia | 60 | flat |
 
 > Full per-country breakdown (40 markets) via the /demand/ endpoint.
 

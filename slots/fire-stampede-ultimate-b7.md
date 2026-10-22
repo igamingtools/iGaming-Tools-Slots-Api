@@ -147,24 +147,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-stampede-ultimate-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,410 · **trend:** flat
+**12-month volume (illustrative):** 3,640 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 240 | flat |
-| Canada | 220 | flat |
-| South Africa | 210 | declining |
+| Brazil | 250 | declining |
+| Canada | 240 | flat |
+| South Africa | 220 | declining |
+| Switzerland | 150 | flat |
 | United Kingdom | 150 | declining |
-| Switzerland | 120 | growing |
-| United States | 120 | flat |
-| Finland | 100 | growing |
-| Greece | 100 | flat |
-| Malaysia | 100 | flat |
-| Indonesia | 90 | flat |
+| Malaysia | 120 | flat |
+| United States | 120 | declining |
+| Finland | 100 | declining |
+| Greece | 100 | declining |
+| Indonesia | 100 | flat |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mustang-trail-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,110 · **trend:** declining · YoY -14.6%
+**12-month volume (illustrative):** 2,060 · **trend:** declining · YoY -16.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 230 | declining |
+| Brazil | 210 | declining |
 | Latvia | 160 | flat |
-| Indonesia | 130 | growing |
+| Indonesia | 140 | growing |
 | South Africa | 110 | flat |
-| Finland | 100 | growing |
-| Argentina | 90 | growing |
+| Argentina | 90 | flat |
 | Greece | 90 | flat |
-| Philippines | 90 | flat |
-| Italy | 80 | flat |
-| Lithuania | 80 | growing |
+| Italy | 90 | flat |
+| Finland | 80 | declining |
+| Malaysia | 80 | declining |
+| Philippines | 80 | flat |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
 
 ## Links
 

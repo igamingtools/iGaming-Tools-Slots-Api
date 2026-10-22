@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/asgard-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,030 · **trend:** flat · YoY +3.0%
+**12-month volume (illustrative):** 1,960 · **trend:** declining · YoY -5.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 180 | flat |
-| Switzerland | 150 | growing |
-| Finland | 120 | growing |
+| Brazil | 180 | declining |
+| Switzerland | 150 | declining |
 | Germany | 120 | flat |
 | South Africa | 120 | flat |
 | Czech Republic | 110 | flat |
-| Slovakia | 100 | growing |
-| United States | 100 | flat |
-| Indonesia | 70 | declining |
-| Canada | 60 | flat |
+| Finland | 100 | declining |
+| Slovakia | 100 | flat |
+| United States | 80 | declining |
+| Indonesia | 70 | growing |
+| Philippines | 70 | flat |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

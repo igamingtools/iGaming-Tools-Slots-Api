@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/10-swords-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,090 · **trend:** declining · YoY -34.7%
+**12-month volume (illustrative):** 1,080 · **trend:** declining · YoY -32.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Germany | 170 | flat |
-| Greece | 150 | flat |
-| Canada | 80 | declining |
-| India | 80 | flat |
-| Netherlands | 80 | growing |
-| Brazil | 70 | flat |
-| United Kingdom | 50 | growing |
-| United States | 40 | declining |
+| Greece | 140 | declining |
+| Brazil | 80 | flat |
+| Canada | 80 | flat |
+| Netherlands | 80 | flat |
+| India | 60 | flat |
+| United Kingdom | 50 | declining |
+| United States | 40 | flat |
 | Argentina | 30 | flat |
-| Austria | 30 | declining |
+| Austria | 30 | flat |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

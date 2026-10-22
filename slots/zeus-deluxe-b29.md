@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/zeus-deluxe-b29/demand/
 ```
 
-**12-month volume (illustrative):** 3,510 · **trend:** declining · YoY -34.5%
+**12-month volume (illustrative):** 3,240 · **trend:** declining · YoY -38.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,180 | declining |
-| Argentina | 200 | flat |
-| Philippines | 130 | growing |
-| Brazil | 90 | flat |
+| South Africa | 2,020 | growing |
+| Argentina | 190 | flat |
+| Philippines | 120 | declining |
 | Greece | 90 | flat |
+| Brazil | 80 | flat |
 | Malaysia | 60 | flat |
-| Peru | 60 | flat |
-| Tunisia | 50 | flat |
-| Chile | 40 | growing |
-| India | 40 | flat |
+| Peru | 50 | declining |
+| Tunisia | 50 | growing |
+| Romania | 40 | flat |
+| United States | 40 | flat |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
 
 ## Links
 

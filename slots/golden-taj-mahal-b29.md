@@ -128,15 +128,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/golden-taj-mahal-b29/demand/
 ```
 
-**12-month volume (illustrative):** 700 · **trend:** declining · YoY -52.4%
+**12-month volume (illustrative):** 640 · **trend:** declining · YoY -54.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 490 | flat |
-| India | 60 | flat |
-| Lithuania | 60 | flat |
+| South Africa | 460 | flat |
+| Lithuania | 50 | flat |
+| India | 40 | flat |
 | Panama | 20 | flat |
 | Poland | 20 | flat |
 | Bulgaria | 10 | flat |

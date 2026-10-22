@@ -144,7 +144,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/timber-stacks-b7/demand/
 ```
 
-**12-month volume (illustrative):** 990 · **trend:** growing · YoY +15.1%
+**12-month volume (illustrative):** 980 · **trend:** growing · YoY +18.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -152,14 +152,14 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | South Africa | 130 | flat |
 | Brazil | 90 | flat |
-| Netherlands | 70 | flat |
-| Philippines | 60 | declining |
-| Tunisia | 60 | flat |
-| United States | 60 | growing |
-| Greece | 50 | flat |
-| United Kingdom | 50 | growing |
+| Netherlands | 60 | declining |
+| Philippines | 60 | flat |
+| Tunisia | 60 | growing |
+| United States | 60 | declining |
+| Greece | 40 | flat |
+| Indonesia | 40 | growing |
 | Malaysia | 40 | flat |
-| Germany | 30 | growing |
+| United Kingdom | 40 | declining |
 
 > Full per-country breakdown (31 markets) via the /demand/ endpoint.
 

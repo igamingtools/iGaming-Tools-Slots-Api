@@ -145,22 +145,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pandemic-rising-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,530 · **trend:** flat
+**12-month volume (illustrative):** 5,640 · **trend:** growing · YoY +5540.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Greece | 480 | flat |
-| Brazil | 410 | flat |
-| Switzerland | 240 | flat |
-| Canada | 220 | flat |
-| South Africa | 210 | flat |
-| Finland | 180 | flat |
-| Germany | 180 | declining |
-| Malaysia | 180 | declining |
-| Indonesia | 170 | growing |
-| United Kingdom | 170 | flat |
+| Brazil | 420 | flat |
+| Switzerland | 270 | flat |
+| South Africa | 220 | flat |
+| Canada | 200 | declining |
+| Finland | 200 | growing |
+| Malaysia | 200 | growing |
+| Germany | 180 | flat |
+| United Kingdom | 180 | flat |
+| Denmark | 170 | flat |
 
 > Full per-country breakdown (60 markets) via the /demand/ endpoint.
 

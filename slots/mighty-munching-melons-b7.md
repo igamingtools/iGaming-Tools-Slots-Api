@@ -130,22 +130,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mighty-munching-melons-b7/demand/
 ```
 
-**12-month volume (illustrative):** 830 · **trend:** declining · YoY -33.6%
+**12-month volume (illustrative):** 740 · **trend:** declining · YoY -43.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 150 | declining |
-| Brazil | 60 | flat |
-| United States | 60 | growing |
+| United Kingdom | 100 | flat |
+| Brazil | 60 | growing |
 | Greece | 50 | flat |
+| South Africa | 50 | growing |
 | Canada | 40 | flat |
-| Italy | 40 | flat |
-| Romania | 40 | growing |
-| South Africa | 40 | flat |
-| Netherlands | 30 | growing |
-| Portugal | 30 | declining |
+| Malaysia | 40 | growing |
+| Romania | 40 | flat |
+| United States | 40 | declining |
+| Italy | 30 | flat |
+| Mexico | 30 | growing |
 
 > Full per-country breakdown (27 markets) via the /demand/ endpoint.
 

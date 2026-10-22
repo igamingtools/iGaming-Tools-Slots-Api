@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/magician-s-secrets-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,400 · **trend:** declining · YoY -5.6%
+**12-month volume (illustrative):** 4,350 · **trend:** declining · YoY -9.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 330 | growing |
-| Switzerland | 270 | flat |
+| Greece | 320 | declining |
+| Switzerland | 300 | flat |
+| Brazil | 240 | growing |
 | Finland | 220 | flat |
-| Brazil | 210 | flat |
-| South Africa | 160 | flat |
-| Argentina | 150 | growing |
+| Argentina | 150 | flat |
+| South Africa | 140 | flat |
 | United States | 140 | flat |
-| Belgium | 120 | declining |
-| India | 120 | growing |
+| India | 120 | declining |
 | Italy | 120 | flat |
+| Philippines | 120 | flat |
 
-> Full per-country breakdown (55 markets) via the /demand/ endpoint.
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
 
 ## Links
 

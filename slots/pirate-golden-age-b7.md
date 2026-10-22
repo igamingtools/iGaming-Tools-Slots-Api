@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pirate-golden-age-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,300 · **trend:** growing · YoY +19.8%
+**12-month volume (illustrative):** 2,290 · **trend:** growing · YoY +18.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Norway | 290 | flat |
-| Finland | 220 | flat |
-| Greece | 140 | flat |
+| Norway | 280 | growing |
+| Finland | 240 | flat |
+| Greece | 130 | flat |
 | Lithuania | 130 | flat |
 | Brazil | 120 | flat |
-| Canada | 100 | declining |
-| Netherlands | 90 | growing |
+| Canada | 100 | flat |
+| Netherlands | 90 | flat |
 | Sweden | 90 | flat |
-| South Africa | 80 | declining |
-| United States | 80 | growing |
+| United States | 80 | declining |
+| Denmark | 70 | growing |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

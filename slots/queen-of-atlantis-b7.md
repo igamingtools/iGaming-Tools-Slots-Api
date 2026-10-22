@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/queen-of-atlantis-b7/demand/
 ```
 
-**12-month volume (illustrative):** 530 · **trend:** declining · YoY -28.4%
+**12-month volume (illustrative):** 490 · **trend:** declining · YoY -35.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 140 | growing |
-| United States | 60 | flat |
-| Tunisia | 40 | declining |
+| South Africa | 140 | flat |
+| United States | 60 | growing |
+| United Kingdom | 40 | growing |
 | Argentina | 30 | flat |
-| Indonesia | 30 | flat |
-| United Kingdom | 30 | flat |
+| Tunisia | 30 | flat |
 | Australia | 20 | flat |
 | Finland | 20 | flat |
+| Indonesia | 20 | flat |
 | Ukraine | 20 | flat |
 | Belarus | 10 | flat |
 
-> Full per-country breakdown (23 markets) via the /demand/ endpoint.
+> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -116,24 +116,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/888-gold-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,200 · **trend:** declining · YoY -34.3%
+**12-month volume (illustrative):** 2,090 · **trend:** declining · YoY -38.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 720 | declining |
-| Indonesia | 160 | flat |
-| India | 100 | flat |
-| Philippines | 90 | growing |
-| Malaysia | 80 | growing |
+| Brazil | 640 | declining |
+| Indonesia | 140 | declining |
+| Philippines | 90 | flat |
+| India | 80 | declining |
+| Malaysia | 80 | declining |
+| Kenya | 70 | growing |
 | Greece | 60 | flat |
-| Kenya | 60 | declining |
-| Pakistan | 60 | declining |
-| Romania | 60 | flat |
-| United States | 60 | flat |
+| Pakistan | 60 | flat |
+| Switzerland | 60 | growing |
+| Tunisia | 60 | flat |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

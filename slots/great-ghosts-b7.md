@@ -130,24 +130,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/great-ghosts-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,840 · **trend:** flat
+**12-month volume (illustrative):** 5,630 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 890 | flat |
-| South Africa | 890 | declining |
-| Greece | 340 | declining |
-| Argentina | 190 | declining |
-| Malaysia | 140 | flat |
-| Peru | 130 | flat |
-| Canada | 120 | growing |
-| Indonesia | 120 | flat |
+| South Africa | 1,100 | declining |
+| Brazil | 1,030 | declining |
+| Greece | 430 | growing |
+| Argentina | 210 | flat |
+| Malaysia | 160 | flat |
+| Canada | 140 | flat |
+| Peru | 140 | declining |
+| Indonesia | 130 | flat |
 | Switzerland | 120 | flat |
-| India | 80 | flat |
+| Tunisia | 90 | flat |
 
-> Full per-country breakdown (62 markets) via the /demand/ endpoint.
+> Full per-country breakdown (64 markets) via the /demand/ endpoint.
 
 ## Links
 

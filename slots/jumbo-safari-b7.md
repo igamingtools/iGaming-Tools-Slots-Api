@@ -148,24 +148,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jumbo-safari-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,200 · **trend:** growing · YoY +57.6%
+**12-month volume (illustrative):** 3,170 · **trend:** growing · YoY +37.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 870 | flat |
-| Greece | 320 | declining |
-| United States | 220 | flat |
+| Brazil | 870 | growing |
+| Greece | 320 | flat |
+| United States | 200 | declining |
 | Peru | 110 | flat |
-| Canada | 100 | growing |
-| South Africa | 90 | flat |
+| Canada | 100 | declining |
+| South Africa | 90 | growing |
+| Tunisia | 80 | growing |
 | Argentina | 70 | flat |
-| Portugal | 70 | declining |
-| Tunisia | 70 | flat |
-| Finland | 60 | flat |
+| Portugal | 70 | growing |
+| Finland | 60 | growing |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
 
 ## Links
 

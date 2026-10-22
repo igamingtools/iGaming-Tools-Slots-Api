@@ -133,24 +133,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-wild-bananas-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,370 · **trend:** declining · YoY -19.4%
+**12-month volume (illustrative):** 1,270 · **trend:** declining · YoY -25.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 320 | growing |
+| Brazil | 300 | declining |
 | South Africa | 110 | flat |
-| Philippines | 100 | declining |
-| Greece | 70 | flat |
-| Canada | 60 | flat |
-| Tunisia | 60 | growing |
-| Argentina | 50 | growing |
-| Italy | 50 | flat |
-| Romania | 50 | growing |
-| Germany | 40 | growing |
+| Philippines | 100 | growing |
+| Greece | 60 | flat |
+| Tunisia | 60 | flat |
+| Argentina | 50 | flat |
+| Romania | 50 | declining |
+| Canada | 40 | flat |
+| Germany | 40 | flat |
+| Italy | 40 | flat |
 
-> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/out-of-the-woods-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,160 · **trend:** flat
+**12-month volume (illustrative):** 2,770 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 230 | declining |
-| Greece | 230 | flat |
-| Indonesia | 90 | declining |
-| South Africa | 90 | declining |
+| Brazil | 370 | growing |
+| Greece | 280 | declining |
+| South Africa | 140 | growing |
+| Indonesia | 100 | flat |
 | Canada | 80 | declining |
-| Denmark | 70 | declining |
-| Finland | 60 | declining |
-| Germany | 60 | declining |
-| Switzerland | 60 | flat |
-| United Kingdom | 60 | declining |
+| Denmark | 80 | flat |
+| Finland | 80 | flat |
+| Germany | 70 | flat |
+| United Kingdom | 70 | flat |
+| Argentina | 60 | flat |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (57 markets) via the /demand/ endpoint.
 
 ## Links
 

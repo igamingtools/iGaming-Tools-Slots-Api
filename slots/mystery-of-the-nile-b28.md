@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystery-of-the-nile-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,270 · **trend:** declining · YoY -15.6%
+**12-month volume (illustrative):** 2,120 · **trend:** declining · YoY -27.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 240 | flat |
-| Switzerland | 210 | growing |
+| Germany | 210 | declining |
+| Switzerland | 180 | declining |
 | Denmark | 150 | flat |
-| Finland | 140 | growing |
+| Finland | 140 | flat |
 | Greece | 130 | flat |
 | Sweden | 110 | flat |
 | United Kingdom | 110 | flat |
-| Austria | 100 | growing |
-| Netherlands | 100 | declining |
-| United States | 100 | flat |
+| Austria | 100 | flat |
+| Netherlands | 100 | growing |
+| Canada | 80 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
 
 ## Links
 

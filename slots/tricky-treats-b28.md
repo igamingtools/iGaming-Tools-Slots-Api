@@ -145,22 +145,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tricky-treats-b28/demand/
 ```
 
-**12-month volume (illustrative):** 3,430 · **trend:** flat
+**12-month volume (illustrative):** 3,560 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 420 | flat |
-| Germany | 260 | declining |
-| Sweden | 240 | flat |
+| Greece | 430 | flat |
+| Germany | 270 | growing |
+| Sweden | 250 | flat |
 | Switzerland | 240 | flat |
-| Finland | 220 | growing |
-| Canada | 180 | flat |
-| Netherlands | 170 | flat |
-| United Kingdom | 170 | flat |
-| United States | 160 | growing |
-| Denmark | 120 | flat |
+| Finland | 220 | declining |
+| Canada | 180 | declining |
+| Netherlands | 180 | flat |
+| United Kingdom | 180 | flat |
+| United States | 160 | declining |
+| Denmark | 130 | flat |
 
 > Full per-country breakdown (46 markets) via the /demand/ endpoint.
 

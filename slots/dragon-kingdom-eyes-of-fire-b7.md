@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-kingdom-eyes-of-fire-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,070 · **trend:** declining · YoY -20.7%
+**12-month volume (illustrative):** 1,010 · **trend:** declining · YoY -28.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 210 | declining |
-| Malaysia | 140 | flat |
+| Brazil | 180 | flat |
+| Malaysia | 140 | growing |
 | South Africa | 130 | flat |
-| United Kingdom | 80 | declining |
-| Poland | 70 | flat |
+| United Kingdom | 70 | flat |
+| Poland | 60 | flat |
 | Germany | 40 | flat |
-| Mexico | 40 | flat |
 | Spain | 40 | flat |
+| Mexico | 30 | flat |
 | Romania | 30 | flat |
-| Tunisia | 30 | flat |
+| Indonesia | 20 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
 
 ## Links
 

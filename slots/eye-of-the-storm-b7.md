@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/eye-of-the-storm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,540 · **trend:** growing · YoY +7.7%
+**12-month volume (illustrative):** 1,540 · **trend:** flat · YoY +4.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 210 | growing |
+| South Africa | 220 | declining |
 | Brazil | 120 | flat |
 | Netherlands | 120 | flat |
 | Switzerland | 120 | flat |
-| United Kingdom | 100 | growing |
-| Argentina | 80 | flat |
-| Germany | 80 | flat |
-| Cyprus | 60 | flat |
+| United Kingdom | 100 | flat |
+| Argentina | 90 | flat |
+| Germany | 80 | declining |
 | Portugal | 60 | flat |
-| Tunisia | 60 | declining |
+| Tunisia | 60 | flat |
+| United States | 60 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

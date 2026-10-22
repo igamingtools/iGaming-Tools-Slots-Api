@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/iron-phoenix-b28/demand/
 ```
 
-**12-month volume (illustrative):** 670 · **trend:** growing · YoY +21.8%
+**12-month volume (illustrative):** 650 · **trend:** growing · YoY +10.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 160 | flat |
-| Greece | 80 | declining |
-| United Kingdom | 60 | declining |
-| Sweden | 50 | declining |
-| Belgium | 40 | declining |
-| Denmark | 40 | declining |
+| Brazil | 150 | declining |
+| Greece | 70 | flat |
+| Sweden | 50 | flat |
+| United Kingdom | 50 | flat |
+| Belgium | 40 | flat |
+| Denmark | 40 | flat |
 | Finland | 40 | flat |
 | United States | 40 | flat |
 | Germany | 30 | flat |
-| Spain | 30 | flat |
+| Canada | 20 | flat |
 
-> Full per-country breakdown (18 markets) via the /demand/ endpoint.
+> Full per-country breakdown (19 markets) via the /demand/ endpoint.
 
 ## Links
 

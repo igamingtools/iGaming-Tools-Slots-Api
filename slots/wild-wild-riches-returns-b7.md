@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-wild-riches-returns-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,560 · **trend:** flat
+**12-month volume (illustrative):** 4,800 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 320 | growing |
-| Brazil | 310 | flat |
-| Greece | 310 | flat |
-| Switzerland | 270 | declining |
-| Canada | 260 | flat |
-| Tunisia | 210 | growing |
-| United Kingdom | 140 | flat |
-| Argentina | 120 | flat |
-| Finland | 120 | declining |
-| Peru | 110 | flat |
+| South Africa | 360 | declining |
+| Brazil | 320 | declining |
+| Greece | 320 | flat |
+| Canada | 280 | flat |
+| Switzerland | 270 | flat |
+| Tunisia | 220 | declining |
+| United Kingdom | 150 | flat |
+| Argentina | 130 | flat |
+| Finland | 120 | flat |
+| Peru | 120 | flat |
 
-> Full per-country breakdown (66 markets) via the /demand/ endpoint.
+> Full per-country breakdown (67 markets) via the /demand/ endpoint.
 
 ## Links
 

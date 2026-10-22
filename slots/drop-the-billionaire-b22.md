@@ -120,23 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/drop-the-billionaire-b22/demand/
 ```
 
-**12-month volume (illustrative):** 110 · **trend:** flat
+**12-month volume (illustrative):** 220 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 20 | growing |
-| Pakistan | 20 | growing |
-| Australia | 10 | growing |
-| Chile | 10 | growing |
-| Czech Republic | 10 | growing |
-| France | 10 | growing |
-| Germany | 10 | growing |
-| Netherlands | 10 | growing |
-| Vietnam | 10 | growing |
+| India | 40 | flat |
+| Pakistan | 40 | flat |
+| Germany | 20 | flat |
+| Netherlands | 20 | flat |
+| Vietnam | 20 | flat |
+| Argentina | 10 | growing |
+| Australia | 10 | declining |
+| Chile | 10 | declining |
+| Czech Republic | 10 | declining |
+| France | 10 | declining |
 
-> Full per-country breakdown (9 markets) via the /demand/ endpoint.
+> Full per-country breakdown (13 markets) via the /demand/ endpoint.
 
 ## Links
 

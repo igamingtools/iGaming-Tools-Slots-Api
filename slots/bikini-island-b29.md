@@ -124,22 +124,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bikini-island-b29/demand/
 ```
 
-**12-month volume (illustrative):** 470 · **trend:** declining · YoY -58.0%
+**12-month volume (illustrative):** 430 · **trend:** declining · YoY -60.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 380 | declining |
+| South Africa | 360 | growing |
 | Pakistan | 20 | flat |
 | Tunisia | 20 | flat |
-| Indonesia | 10 | flat |
 | Lebanon | 10 | flat |
-| Mexico | 10 | flat |
 | Panama | 10 | flat |
 | Philippines | 10 | flat |
 
-> Full per-country breakdown (8 markets) via the /demand/ endpoint.
+> Full per-country breakdown (6 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cash-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,780 · **trend:** declining · YoY -43.5%
+**12-month volume (illustrative):** 1,700 · **trend:** declining · YoY -44.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 130 | declining |
+| South Africa | 130 | growing |
 | Brazil | 120 | flat |
 | Latvia | 110 | flat |
+| Canada | 100 | growing |
 | Germany | 90 | flat |
-| Argentina | 80 | flat |
-| Canada | 80 | flat |
-| Finland | 80 | flat |
-| Mexico | 80 | declining |
-| Indonesia | 70 | flat |
-| Italy | 70 | flat |
+| Argentina | 80 | declining |
+| Mexico | 80 | flat |
+| Italy | 70 | growing |
+| Finland | 60 | flat |
+| Greece | 60 | flat |
 
-> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -148,22 +148,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-mission-fishin-b7/demand/
 ```
 
-**12-month volume (illustrative):** 12,830 · **trend:** declining · YoY -25.2%
+**12-month volume (illustrative):** 12,890 · **trend:** declining · YoY -23.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | United Kingdom | 3,100 | growing |
-| Brazil | 1,310 | declining |
-| Greece | 1,050 | growing |
-| Canada | 720 | growing |
-| Netherlands | 460 | flat |
-| Germany | 440 | growing |
-| South Africa | 370 | declining |
+| Brazil | 1,240 | growing |
+| Greece | 1,150 | growing |
+| Canada | 760 | growing |
+| Netherlands | 450 | growing |
+| Germany | 440 | declining |
+| South Africa | 380 | growing |
+| United States | 380 | flat |
 | Switzerland | 360 | flat |
-| United States | 360 | flat |
-| Belgium | 260 | declining |
+| Belgium | 240 | growing |
 
 > Full per-country breakdown (58 markets) via the /demand/ endpoint.
 

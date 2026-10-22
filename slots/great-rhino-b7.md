@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/great-rhino-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,460 · **trend:** declining · YoY -20.6%
+**12-month volume (illustrative):** 4,460 · **trend:** declining · YoY -17.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 700 | flat |
-| South Africa | 570 | flat |
-| Germany | 240 | flat |
-| Tunisia | 210 | flat |
+| Indonesia | 790 | growing |
+| South Africa | 560 | flat |
+| Germany | 210 | flat |
 | United Kingdom | 180 | flat |
-| Canada | 140 | flat |
+| Tunisia | 170 | flat |
+| Canada | 140 | growing |
 | Finland | 140 | flat |
-| Brazil | 130 | growing |
+| Brazil | 130 | declining |
 | Argentina | 120 | flat |
-| Romania | 120 | flat |
+| Malaysia | 120 | declining |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -115,24 +115,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rock-paper-scissors-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,440 · **trend:** growing · YoY +1007.7%
+**12-month volume (illustrative):** 1,450 · **trend:** growing · YoY +437.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | India | 260 | flat |
-| United States | 160 | declining |
-| Brazil | 110 | flat |
-| Canada | 100 | flat |
-| South Africa | 100 | growing |
-| Pakistan | 80 | growing |
-| United Kingdom | 50 | flat |
+| United States | 160 | growing |
+| Brazil | 120 | flat |
+| Canada | 120 | flat |
+| Pakistan | 100 | flat |
+| South Africa | 100 | flat |
+| United Kingdom | 60 | growing |
+| Indonesia | 40 | growing |
 | New Zealand | 40 | flat |
-| Philippines | 40 | growing |
 | Germany | 30 | flat |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
 
 ## Links
 

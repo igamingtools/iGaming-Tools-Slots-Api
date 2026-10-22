@@ -124,24 +124,23 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bird-of-thunder-b29/demand/
 ```
 
-**12-month volume (illustrative):** 670 · **trend:** declining · YoY -38.5%
+**12-month volume (illustrative):** 610 · **trend:** declining · YoY -41.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 310 | flat |
-| Tunisia | 170 | declining |
-| India | 60 | flat |
+| South Africa | 270 | declining |
+| Tunisia | 190 | growing |
 | United States | 60 | flat |
-| Lithuania | 20 | flat |
+| India | 40 | flat |
 | Brazil | 10 | flat |
 | Indonesia | 10 | flat |
+| Lithuania | 10 | flat |
 | Portugal | 10 | flat |
 | Romania | 10 | flat |
-| Turkey | 10 | flat |
 
-> Full per-country breakdown (10 markets) via the /demand/ endpoint.
+> Full per-country breakdown (9 markets) via the /demand/ endpoint.
 
 ## Links
 

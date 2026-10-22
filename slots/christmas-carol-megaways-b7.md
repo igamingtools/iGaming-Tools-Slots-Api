@@ -130,24 +130,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/christmas-carol-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,930 · **trend:** declining · YoY -6.8%
+**12-month volume (illustrative):** 4,930 · **trend:** declining · YoY -7.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Tunisia | 660 | growing |
-| United Kingdom | 580 | flat |
-| South Africa | 270 | growing |
+| Tunisia | 640 | growing |
+| United Kingdom | 590 | growing |
+| Switzerland | 270 | flat |
+| South Africa | 250 | declining |
 | Canada | 240 | flat |
-| Switzerland | 240 | growing |
-| United States | 180 | declining |
-| Netherlands | 130 | flat |
-| Belgium | 120 | growing |
+| United States | 180 | growing |
+| Netherlands | 140 | growing |
+| Belgium | 120 | declining |
 | Brazil | 120 | flat |
-| Germany | 110 | flat |
+| Finland | 120 | flat |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (57 markets) via the /demand/ endpoint.
 
 ## Links
 

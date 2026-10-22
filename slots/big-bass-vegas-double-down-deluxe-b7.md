@@ -153,22 +153,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-vegas-double-down-deluxe-b7/demand/
 ```
 
-**12-month volume (illustrative):** 18,520 · **trend:** declining · YoY -41.3%
+**12-month volume (illustrative):** 18,280 · **trend:** declining · YoY -39.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 5,900 | growing |
-| Germany | 1,620 | growing |
-| Spain | 1,000 | growing |
-| Netherlands | 940 | declining |
-| Brazil | 750 | declining |
-| Tunisia | 630 | growing |
-| Switzerland | 600 | flat |
-| Greece | 540 | growing |
-| Argentina | 440 | growing |
-| South Africa | 410 | flat |
+| United Kingdom | 5,770 | growing |
+| Germany | 1,440 | declining |
+| Spain | 1,000 | flat |
+| Netherlands | 850 | growing |
+| Brazil | 670 | declining |
+| Tunisia | 670 | flat |
+| Greece | 620 | growing |
+| Argentina | 540 | declining |
+| South Africa | 440 | growing |
+| Canada | 420 | growing |
 
 > Full per-country breakdown (66 markets) via the /demand/ endpoint.
 

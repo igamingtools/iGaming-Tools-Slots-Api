@@ -131,22 +131,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-kingdom-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,920 · **trend:** declining · YoY -32.8%
+**12-month volume (illustrative):** 3,850 · **trend:** declining · YoY -31.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 390 | growing |
-| Canada | 220 | flat |
+| Brazil | 350 | declining |
+| Canada | 200 | declining |
 | South Africa | 200 | flat |
-| Philippines | 190 | flat |
-| Switzerland | 150 | flat |
-| Finland | 140 | growing |
-| India | 140 | growing |
-| Greece | 130 | flat |
-| Hungary | 110 | declining |
-| Italy | 110 | flat |
+| Philippines | 180 | flat |
+| Switzerland | 180 | growing |
+| India | 140 | declining |
+| Finland | 120 | declining |
+| Greece | 120 | declining |
+| Hungary | 120 | growing |
+| Malaysia | 120 | growing |
 
 > Full per-country breakdown (51 markets) via the /demand/ endpoint.
 

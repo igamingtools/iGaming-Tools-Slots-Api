@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fat-rabbit-b28/demand/
 ```
 
-**12-month volume (illustrative):** 4,610 · **trend:** declining · YoY -25.4%
+**12-month volume (illustrative):** 4,510 · **trend:** declining · YoY -25.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Finland | 480 | flat |
-| United Kingdom | 400 | flat |
-| Germany | 310 | declining |
-| Switzerland | 270 | growing |
-| Austria | 240 | declining |
-| United States | 180 | declining |
-| Canada | 160 | flat |
+| United Kingdom | 410 | growing |
+| Germany | 320 | growing |
+| Switzerland | 270 | flat |
+| Austria | 220 | growing |
+| United States | 180 | growing |
+| Canada | 160 | growing |
 | Sweden | 150 | flat |
-| Latvia | 130 | flat |
-| New Zealand | 130 | flat |
+| Norway | 130 | flat |
+| Romania | 130 | flat |
 
-> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
 
 ## Links
 

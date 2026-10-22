@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/panda-s-fortune-b7/demand/
 ```
 
-**12-month volume (illustrative):** 580 · **trend:** declining · YoY -37.0%
+**12-month volume (illustrative):** 660 · **trend:** declining · YoY -26.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | South Africa | 130 | flat |
-| Brazil | 80 | flat |
-| Greece | 50 | declining |
-| Australia | 40 | flat |
-| Argentina | 30 | flat |
+| Brazil | 90 | flat |
+| Greece | 50 | flat |
+| United States | 40 | growing |
+| Argentina | 30 | growing |
+| Australia | 30 | flat |
 | Mexico | 30 | flat |
-| Philippines | 30 | growing |
+| Philippines | 30 | declining |
+| United Kingdom | 30 | growing |
 | Canada | 20 | flat |
-| Germany | 20 | flat |
-| Lebanon | 20 | flat |
 
-> Full per-country breakdown (21 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

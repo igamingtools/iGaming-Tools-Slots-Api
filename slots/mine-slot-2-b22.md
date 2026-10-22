@@ -130,24 +130,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mine-slot-2-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,340 · **trend:** flat
+**12-month volume (illustrative):** 1,590 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Ukraine | 160 | flat |
+| Ukraine | 170 | flat |
 | Canada | 80 | flat |
-| Germany | 70 | flat |
-| Poland | 70 | flat |
-| Belarus | 60 | flat |
-| Netherlands | 60 | flat |
-| United States | 60 | flat |
-| Hungary | 50 | growing |
-| Latvia | 50 | growing |
-| United Kingdom | 50 | declining |
+| Germany | 80 | flat |
+| Poland | 80 | flat |
+| United States | 80 | flat |
+| Belarus | 70 | flat |
+| Netherlands | 70 | flat |
+| Finland | 60 | growing |
+| India | 60 | growing |
+| Latvia | 60 | flat |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

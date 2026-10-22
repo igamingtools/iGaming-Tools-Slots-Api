@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-kingdom-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,060 · **trend:** declining · YoY -25.4%
+**12-month volume (illustrative):** 910 · **trend:** declining · YoY -40.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 170 | growing |
-| Brazil | 160 | flat |
-| Tunisia | 70 | declining |
-| United Kingdom | 60 | declining |
-| Australia | 50 | growing |
-| India | 40 | flat |
+| South Africa | 160 | declining |
+| Brazil | 150 | flat |
+| Tunisia | 70 | growing |
+| Australia | 50 | declining |
+| United Kingdom | 50 | flat |
 | Saudi Arabia | 40 | flat |
-| Indonesia | 30 | flat |
-| Lebanon | 30 | flat |
-| Mexico | 30 | flat |
+| Philippines | 30 | growing |
+| Switzerland | 30 | flat |
+| Argentina | 20 | flat |
+| Czech Republic | 20 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

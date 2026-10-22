@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/all-for-one-b29/demand/
 ```
 
-**12-month volume (illustrative):** 410 · **trend:** growing · YoY +17.1%
+**12-month volume (illustrative):** 390 · **trend:** growing · YoY +5.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 160 | flat |
-| Belgium | 40 | declining |
+| South Africa | 150 | flat |
+| Belgium | 40 | flat |
 | United States | 40 | flat |
+| Italy | 30 | growing |
 | El Salvador | 20 | flat |
-| Germany | 20 | growing |
+| Germany | 20 | declining |
 | India | 20 | flat |
-| Italy | 20 | flat |
 | United Kingdom | 20 | flat |
 | Australia | 10 | flat |
-| Brazil | 10 | flat |
+| Bulgaria | 10 | flat |
 
-> Full per-country breakdown (15 markets) via the /demand/ endpoint.
+> Full per-country breakdown (13 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/doomsday-saloon-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,130 · **trend:** growing · YoY +18.9%
+**12-month volume (illustrative):** 1,040 · **trend:** flat · YoY -4.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 140 | flat |
-| Germany | 110 | growing |
-| Greece | 90 | flat |
-| United Kingdom | 90 | declining |
-| India | 60 | growing |
-| New Zealand | 50 | flat |
-| Brazil | 40 | growing |
+| United States | 160 | flat |
+| Germany | 100 | declining |
+| Greece | 80 | flat |
+| United Kingdom | 80 | flat |
+| India | 60 | declining |
+| New Zealand | 50 | declining |
 | Finland | 40 | flat |
-| Indonesia | 40 | flat |
-| Australia | 30 | declining |
+| Australia | 30 | flat |
+| Brazil | 30 | declining |
+| Indonesia | 30 | declining |
 
-> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hell-butcher-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,070 · **trend:** flat
+**12-month volume (illustrative):** 5,010 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,050 | growing |
-| Philippines | 220 | declining |
-| Greece | 210 | growing |
-| Canada | 180 | growing |
-| South Africa | 170 | growing |
-| Indonesia | 150 | declining |
-| Finland | 100 | declining |
-| Malaysia | 100 | declining |
-| Peru | 90 | growing |
-| Switzerland | 90 | flat |
+| Brazil | 1,220 | declining |
+| Philippines | 290 | declining |
+| South Africa | 260 | declining |
+| Greece | 230 | declining |
+| Canada | 200 | declining |
+| Indonesia | 160 | declining |
+| Finland | 120 | flat |
+| Malaysia | 120 | flat |
+| Switzerland | 120 | flat |
+| Peru | 110 | declining |
 
-> Full per-country breakdown (62 markets) via the /demand/ endpoint.
+> Full per-country breakdown (68 markets) via the /demand/ endpoint.
 
 ## Links
 

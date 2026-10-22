@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starlight-christmas-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,150 · **trend:** declining · YoY -10.8%
+**12-month volume (illustrative):** 3,260 · **trend:** declining · YoY -7.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 310 | declining |
-| Brazil | 290 | growing |
-| Malaysia | 160 | flat |
-| United States | 160 | growing |
+| Brazil | 310 | declining |
+| Greece | 310 | growing |
+| Finland | 180 | growing |
+| United States | 160 | declining |
 | South Africa | 150 | flat |
+| Malaysia | 140 | flat |
 | Canada | 120 | flat |
-| Philippines | 120 | flat |
 | Germany | 110 | flat |
-| Finland | 100 | growing |
+| Philippines | 110 | declining |
 | Switzerland | 90 | flat |
 
-> Full per-country breakdown (50 markets) via the /demand/ endpoint.
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
 
 ## Links
 

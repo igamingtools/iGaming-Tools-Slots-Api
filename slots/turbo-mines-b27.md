@@ -130,24 +130,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/turbo-mines-b27/demand/
 ```
 
-**12-month volume (illustrative):** 4,780 · **trend:** declining · YoY -36.9%
+**12-month volume (illustrative):** 4,270 · **trend:** declining · YoY -44.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 1,740 | declining |
-| Ghana | 380 | declining |
-| Canada | 240 | flat |
-| South Africa | 240 | growing |
-| Brazil | 190 | growing |
-| Indonesia | 140 | flat |
-| Italy | 140 | flat |
-| Pakistan | 140 | declining |
-| Vietnam | 130 | flat |
-| United States | 120 | flat |
+| India | 1,560 | growing |
+| Ghana | 290 | flat |
+| South Africa | 260 | growing |
+| Canada | 200 | flat |
+| Brazil | 180 | declining |
+| Italy | 130 | declining |
+| Vietnam | 130 | declining |
+| Pakistan | 120 | flat |
+| Germany | 100 | flat |
+| Indonesia | 100 | declining |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

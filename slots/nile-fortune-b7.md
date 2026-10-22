@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/nile-fortune-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,850 · **trend:** declining · YoY -20.9%
+**12-month volume (illustrative):** 1,750 · **trend:** declining · YoY -25.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 360 | declining |
+| Brazil | 320 | flat |
 | Greece | 120 | flat |
-| Mexico | 110 | flat |
-| Indonesia | 80 | flat |
-| Philippines | 80 | declining |
-| South Africa | 80 | growing |
+| Mexico | 100 | declining |
+| South Africa | 80 | flat |
 | United States | 80 | flat |
 | Cyprus | 70 | flat |
-| Portugal | 70 | flat |
-| Italy | 60 | declining |
+| Indonesia | 70 | declining |
+| Philippines | 70 | flat |
+| Portugal | 60 | flat |
+| Germany | 50 | flat |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
 
 ## Links
 

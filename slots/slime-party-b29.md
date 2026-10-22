@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/slime-party-b29/demand/
 ```
 
-**12-month volume (illustrative):** 9,710 · **trend:** declining · YoY -48.0%
+**12-month volume (illustrative):** 9,170 · **trend:** declining · YoY -46.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 8,540 | growing |
-| India | 140 | flat |
-| Tunisia | 70 | flat |
-| Ukraine | 70 | declining |
-| Canada | 60 | declining |
-| United States | 60 | flat |
-| Indonesia | 50 | growing |
-| Italy | 50 | growing |
-| Philippines | 50 | growing |
-| United Kingdom | 50 | flat |
+| South Africa | 8,020 | flat |
+| India | 160 | flat |
+| Canada | 80 | growing |
+| United States | 80 | growing |
+| Ukraine | 70 | growing |
+| Tunisia | 60 | flat |
+| Philippines | 50 | declining |
+| Argentina | 40 | flat |
+| Brazil | 40 | flat |
+| Indonesia | 40 | declining |
 
-> Full per-country breakdown (41 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gorilla-mayhem-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,580 · **trend:** declining · YoY -36.3%
+**12-month volume (illustrative):** 5,470 · **trend:** declining · YoY -36.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 3,020 | growing |
-| Brazil | 220 | flat |
+| South Africa | 2,890 | growing |
+| Brazil | 230 | growing |
 | Greece | 160 | flat |
-| Switzerland | 150 | growing |
-| Malaysia | 140 | growing |
-| United States | 140 | declining |
-| Canada | 120 | flat |
-| United Kingdom | 110 | declining |
+| United States | 160 | growing |
+| Switzerland | 150 | declining |
+| Malaysia | 120 | declining |
+| United Kingdom | 110 | growing |
+| Canada | 100 | flat |
 | Germany | 100 | flat |
-| Netherlands | 90 | declining |
+| Netherlands | 80 | flat |
 
-> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
 
 ## Links
 

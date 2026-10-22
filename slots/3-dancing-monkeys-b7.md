@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/3-dancing-monkeys-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,960 · **trend:** growing · YoY +24.4%
+**12-month volume (illustrative):** 2,820 · **trend:** growing · YoY +10.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 590 | declining |
+| Brazil | 510 | declining |
 | South Africa | 180 | flat |
-| United States | 180 | flat |
+| United States | 180 | growing |
 | Greece | 120 | flat |
-| Switzerland | 120 | growing |
-| Denmark | 110 | flat |
+| Switzerland | 120 | declining |
 | Germany | 110 | flat |
-| Argentina | 100 | declining |
-| Malaysia | 100 | flat |
-| Mexico | 100 | growing |
+| Argentina | 100 | growing |
+| Denmark | 100 | declining |
+| United Kingdom | 100 | flat |
+| El Salvador | 90 | declining |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

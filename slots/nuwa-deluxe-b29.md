@@ -144,17 +144,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/nuwa-deluxe-b29/demand/
 ```
 
-**12-month volume (illustrative):** 390 · **trend:** flat
+**12-month volume (illustrative):** 460 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 340 | flat |
-| Canada | 20 | declining |
-| Indonesia | 10 | declining |
-| Ireland | 10 | declining |
-| Philippines | 10 | declining |
+| South Africa | 410 | declining |
+| Canada | 20 | flat |
+| Indonesia | 10 | flat |
+| Ireland | 10 | flat |
+| Philippines | 10 | flat |
 
 > Full per-country breakdown (5 markets) via the /demand/ endpoint.
 

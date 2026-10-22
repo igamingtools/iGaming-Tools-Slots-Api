@@ -139,14 +139,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-magnate-b10/demand/
 ```
 
-**12-month volume (illustrative):** 410 · **trend:** growing · YoY +51.9%
+**12-month volume (illustrative):** 390 · **trend:** growing · YoY +50.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 110 | flat |
-| Germany | 50 | growing |
+| Brazil | 100 | declining |
+| Germany | 60 | flat |
 | Finland | 40 | flat |
 | United Kingdom | 40 | flat |
 | Poland | 30 | flat |
@@ -156,7 +156,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 20 | flat |
 | Australia | 10 | flat |
 
-> Full per-country breakdown (15 markets) via the /demand/ endpoint.
+> Full per-country breakdown (13 markets) via the /demand/ endpoint.
 
 ## Links
 

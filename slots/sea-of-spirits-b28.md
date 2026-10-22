@@ -149,22 +149,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sea-of-spirits-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,640 · **trend:** flat
+**12-month volume (illustrative):** 2,750 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 180 | growing |
-| Denmark | 140 | flat |
-| Greece | 130 | flat |
+| Finland | 180 | declining |
+| Denmark | 150 | flat |
+| Greece | 140 | flat |
 | Canada | 120 | flat |
+| Netherlands | 120 | growing |
 | United States | 120 | flat |
-| Netherlands | 110 | declining |
-| Germany | 100 | flat |
-| Sweden | 100 | flat |
-| Norway | 90 | flat |
-| Switzerland | 90 | flat |
+| Germany | 110 | flat |
+| Sweden | 110 | flat |
+| Norway | 100 | flat |
+| United Kingdom | 100 | growing |
 
 > Full per-country breakdown (46 markets) via the /demand/ endpoint.
 

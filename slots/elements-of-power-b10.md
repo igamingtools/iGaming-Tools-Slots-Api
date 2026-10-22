@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/elements-of-power-b10/demand/
 ```
 
-**12-month volume (illustrative):** 260 · **trend:** flat
+**12-month volume (illustrative):** 350 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 60 | declining |
-| Australia | 20 | declining |
+| India | 80 | growing |
+| United States | 40 | flat |
+| Germany | 30 | flat |
+| Mexico | 30 | flat |
+| Australia | 20 | flat |
 | Canada | 20 | flat |
-| Germany | 20 | flat |
-| Mexico | 20 | growing |
-| United Kingdom | 20 | flat |
-| United States | 20 | growing |
-| Brazil | 10 | growing |
-| Czech Republic | 10 | flat |
-| France | 10 | flat |
+| Pakistan | 20 | growing |
+| United Kingdom | 20 | declining |
+| Austria | 10 | growing |
+| Brazil | 10 | declining |
 
-> Full per-country breakdown (15 markets) via the /demand/ endpoint.
+> Full per-country breakdown (17 markets) via the /demand/ endpoint.
 
 ## Links
 

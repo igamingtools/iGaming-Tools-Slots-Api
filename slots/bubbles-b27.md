@@ -116,22 +116,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bubbles-b27/demand/
 ```
 
-**12-month volume (illustrative):** 79,390 · **trend:** declining · YoY -8.4%
+**12-month volume (illustrative):** 79,250 · **trend:** declining · YoY -8.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 67,500 | growing |
-| Austria | 4,830 | growing |
-| Portugal | 1,870 | declining |
-| Switzerland | 1,530 | growing |
-| Brazil | 740 | flat |
-| United States | 340 | growing |
-| India | 280 | flat |
-| Canada | 240 | flat |
-| Pakistan | 200 | flat |
-| United Kingdom | 150 | declining |
+| Germany | 67,500 | flat |
+| Austria | 4,520 | declining |
+| Portugal | 1,950 | growing |
+| Switzerland | 1,710 | growing |
+| Brazil | 720 | flat |
+| United States | 360 | declining |
+| India | 260 | flat |
+| Canada | 220 | declining |
+| Pakistan | 180 | declining |
+| United Kingdom | 150 | flat |
 
 > Full per-country breakdown (56 markets) via the /demand/ endpoint.
 

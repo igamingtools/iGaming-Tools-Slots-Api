@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fang-city-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,070 · **trend:** declining · YoY -7.8%
+**12-month volume (illustrative):** 990 · **trend:** declining · YoY -23.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 140 | growing |
-| Greece | 90 | growing |
-| Sweden | 90 | growing |
-| Brazil | 80 | flat |
-| Canada | 60 | declining |
-| India | 60 | flat |
+| Finland | 140 | flat |
+| Brazil | 80 | growing |
+| Greece | 80 | declining |
+| Sweden | 80 | declining |
+| Canada | 60 | flat |
 | Latvia | 60 | flat |
-| New Zealand | 60 | flat |
-| Denmark | 50 | flat |
+| New Zealand | 50 | flat |
 | Belgium | 40 | flat |
+| Denmark | 40 | declining |
+| India | 40 | flat |
 
-> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+> Full per-country breakdown (26 markets) via the /demand/ endpoint.
 
 ## Links
 

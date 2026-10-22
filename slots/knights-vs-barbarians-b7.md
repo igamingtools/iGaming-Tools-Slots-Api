@@ -145,22 +145,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/knights-vs-barbarians-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,190 · **trend:** flat
+**12-month volume (illustrative):** 2,320 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 380 | flat |
-| Brazil | 140 | flat |
-| Switzerland | 90 | flat |
-| India | 80 | declining |
-| South Africa | 70 | declining |
-| Argentina | 60 | growing |
-| Canada | 60 | growing |
-| Finland | 60 | flat |
-| Germany | 60 | growing |
-| United Kingdom | 60 | declining |
+| Greece | 390 | flat |
+| Brazil | 150 | flat |
+| Switzerland | 120 | growing |
+| Finland | 80 | growing |
+| India | 80 | flat |
+| South Africa | 80 | growing |
+| Argentina | 60 | declining |
+| Canada | 60 | declining |
+| Germany | 60 | declining |
+| United Kingdom | 60 | flat |
 
 > Full per-country breakdown (57 markets) via the /demand/ endpoint.
 

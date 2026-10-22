@@ -133,24 +133,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-cats-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,360 · **trend:** growing · YoY +6.8%
+**12-month volume (illustrative):** 2,400 · **trend:** growing · YoY +10.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 430 | flat |
-| Canada | 400 | flat |
+| Canada | 440 | growing |
+| Germany | 410 | declining |
 | Brazil | 150 | flat |
 | Greece | 120 | flat |
-| Australia | 110 | growing |
-| United States | 100 | flat |
-| Netherlands | 70 | flat |
-| Poland | 70 | declining |
-| Denmark | 60 | declining |
-| Finland | 60 | declining |
+| United States | 120 | growing |
+| Australia | 100 | declining |
+| Denmark | 60 | flat |
+| Finland | 60 | flat |
+| Netherlands | 60 | declining |
+| Poland | 60 | flat |
 
-> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
 
 ## Links
 

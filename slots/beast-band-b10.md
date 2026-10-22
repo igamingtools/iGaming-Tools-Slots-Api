@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/beast-band-b10/demand/
 ```
 
-**12-month volume (illustrative):** 810 · **trend:** growing · YoY +12.5%
+**12-month volume (illustrative):** 810 · **trend:** flat · YoY +3.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| United States | 120 | growing |
 | Australia | 100 | flat |
-| United States | 100 | declining |
-| Brazil | 80 | declining |
-| Finland | 80 | flat |
-| New Zealand | 70 | flat |
+| Brazil | 70 | flat |
+| New Zealand | 70 | growing |
+| Finland | 60 | flat |
 | India | 60 | flat |
 | United Kingdom | 60 | flat |
-| Greece | 50 | declining |
-| Ireland | 30 | growing |
+| Greece | 50 | flat |
+| Ireland | 30 | declining |
 | Belgium | 20 | flat |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

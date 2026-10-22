@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fruity-halloween-b29/demand/
 ```
 
-**12-month volume (illustrative):** 1,480 · **trend:** declining · YoY -42.2%
+**12-month volume (illustrative):** 1,350 · **trend:** declining · YoY -45.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,210 | growing |
+| South Africa | 1,090 | declining |
 | India | 60 | flat |
 | Brazil | 40 | flat |
-| Indonesia | 30 | declining |
-| Lithuania | 20 | growing |
+| Indonesia | 30 | flat |
+| Lithuania | 30 | flat |
 | Tunisia | 20 | flat |
-| Argentina | 10 | flat |
-| Colombia | 10 | flat |
 | Germany | 10 | flat |
 | Honduras | 10 | flat |
+| Italy | 10 | flat |
+| Lebanon | 10 | flat |
 
-> Full per-country breakdown (16 markets) via the /demand/ endpoint.
+> Full per-country breakdown (14 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-great-banker-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,520 · **trend:** flat
+**12-month volume (illustrative):** 1,580 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 140 | declining |
-| Greece | 100 | declining |
-| Netherlands | 100 | declining |
+| Canada | 140 | flat |
+| Greece | 100 | flat |
+| Netherlands | 100 | flat |
+| United Kingdom | 80 | flat |
 | Denmark | 70 | flat |
-| United Kingdom | 70 | flat |
 | Finland | 60 | flat |
-| Germany | 60 | flat |
+| Germany | 60 | declining |
+| Norway | 60 | flat |
 | Sweden | 60 | flat |
 | Switzerland | 60 | flat |
-| United States | 60 | flat |
 
 > Full per-country breakdown (40 markets) via the /demand/ endpoint.
 

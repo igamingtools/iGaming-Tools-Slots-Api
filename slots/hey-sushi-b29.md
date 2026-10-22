@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hey-sushi-b29/demand/
 ```
 
-**12-month volume (illustrative):** 13,810 · **trend:** declining · YoY -23.5%
+**12-month volume (illustrative):** 13,350 · **trend:** declining · YoY -24.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 12,680 | growing |
-| India | 100 | flat |
+| South Africa | 12,260 | flat |
 | Nigeria | 90 | flat |
+| India | 80 | flat |
 | United States | 80 | flat |
 | Indonesia | 70 | flat |
-| Philippines | 50 | declining |
-| Germany | 40 | flat |
+| Philippines | 60 | growing |
+| Ukraine | 50 | growing |
 | Tunisia | 40 | flat |
-| Ukraine | 40 | flat |
-| United Kingdom | 40 | flat |
+| United Kingdom | 40 | growing |
+| Vietnam | 40 | flat |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

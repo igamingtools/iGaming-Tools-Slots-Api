@@ -148,22 +148,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/penguins-christmas-party-time-b7/demand/
 ```
 
-**12-month volume (illustrative):** 980 · **trend:** declining · YoY -27.4%
+**12-month volume (illustrative):** 950 · **trend:** declining · YoY -33.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 140 | flat |
-| United States | 120 | growing |
-| South Africa | 70 | growing |
-| Greece | 60 | growing |
-| Germany | 50 | flat |
+| United States | 100 | declining |
+| Greece | 70 | flat |
+| South Africa | 70 | declining |
 | Lithuania | 50 | flat |
-| Romania | 50 | flat |
-| United Kingdom | 50 | growing |
+| United Kingdom | 50 | flat |
 | Canada | 40 | flat |
+| Germany | 40 | declining |
 | Netherlands | 40 | flat |
+| Peru | 40 | flat |
 
 > Full per-country breakdown (29 markets) via the /demand/ endpoint.
 

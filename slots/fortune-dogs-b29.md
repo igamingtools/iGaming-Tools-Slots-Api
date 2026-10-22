@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-dogs-b29/demand/
 ```
 
-**12-month volume (illustrative):** 1,040 · **trend:** declining · YoY -61.5%
+**12-month volume (illustrative):** 1,050 · **trend:** declining · YoY -59.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 690 | growing |
-| India | 80 | flat |
+| South Africa | 750 | growing |
+| India | 60 | flat |
 | Tunisia | 40 | flat |
-| Chile | 20 | flat |
-| Indonesia | 20 | declining |
-| Malaysia | 20 | flat |
-| Mexico | 20 | declining |
+| Philippines | 30 | flat |
+| Indonesia | 20 | flat |
+| Mexico | 20 | flat |
 | Pakistan | 20 | flat |
-| Panama | 20 | flat |
-| Philippines | 20 | growing |
+| Poland | 20 | flat |
+| Australia | 10 | flat |
+| Chile | 10 | flat |
 
-> Full per-country breakdown (18 markets) via the /demand/ endpoint.
+> Full per-country breakdown (17 markets) via the /demand/ endpoint.
 
 ## Links
 

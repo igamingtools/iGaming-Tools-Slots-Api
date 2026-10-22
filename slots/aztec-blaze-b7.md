@@ -130,24 +130,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-blaze-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,970 · **trend:** declining · YoY -16.6%
+**12-month volume (illustrative):** 3,000 · **trend:** declining · YoY -15.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 190 | growing |
-| Canada | 180 | declining |
-| Greece | 180 | growing |
+| Canada | 200 | flat |
+| South Africa | 190 | declining |
+| Greece | 180 | declining |
 | Brazil | 170 | declining |
-| Malaysia | 160 | growing |
 | Indonesia | 140 | flat |
+| Malaysia | 140 | declining |
 | Finland | 120 | flat |
-| Philippines | 120 | declining |
-| Tunisia | 110 | growing |
-| Belgium | 100 | growing |
+| Philippines | 120 | growing |
+| Tunisia | 110 | flat |
+| Belgium | 100 | declining |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
 
 ## Links
 

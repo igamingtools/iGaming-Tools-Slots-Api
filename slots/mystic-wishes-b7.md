@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystic-wishes-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,960 · **trend:** flat
+**12-month volume (illustrative):** 1,990 · **trend:** growing · YoY +3880.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 360 | flat |
-| Greece | 170 | growing |
-| South Africa | 170 | flat |
+| Brazil | 370 | flat |
+| South Africa | 180 | flat |
+| Greece | 170 | declining |
 | Tunisia | 70 | flat |
-| Indonesia | 60 | flat |
+| United Kingdom | 70 | growing |
+| Indonesia | 60 | growing |
+| Malaysia | 60 | growing |
 | Switzerland | 60 | flat |
-| United Kingdom | 60 | flat |
+| United States | 60 | growing |
 | Latvia | 50 | flat |
-| Australia | 40 | flat |
-| Canada | 40 | flat |
 
 > Full per-country breakdown (49 markets) via the /demand/ endpoint.
 

@@ -138,24 +138,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jaguar-drop-b28/demand/
 ```
 
-**12-month volume (illustrative):** 510 · **trend:** declining · YoY -79.1%
+**12-month volume (illustrative):** 480 · **trend:** declining · YoY -80.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Netherlands | 130 | flat |
-| Romania | 60 | flat |
-| Brazil | 40 | flat |
-| United Kingdom | 40 | flat |
-| United States | 40 | flat |
+| Romania | 50 | flat |
+| Brazil | 40 | declining |
+| Sweden | 40 | flat |
+| United Kingdom | 40 | growing |
 | Greece | 30 | flat |
-| Sweden | 30 | flat |
 | Belgium | 20 | flat |
 | Germany | 20 | flat |
 | New Zealand | 20 | flat |
+| Turkey | 20 | flat |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 

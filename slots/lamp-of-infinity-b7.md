@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lamp-of-infinity-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,580 · **trend:** growing · YoY +9.0%
+**12-month volume (illustrative):** 1,590 · **trend:** flat · YoY +4.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 490 | growing |
+| Brazil | 480 | declining |
 | Greece | 100 | flat |
-| South Africa | 100 | growing |
-| Switzerland | 90 | flat |
-| Philippines | 70 | growing |
-| United Kingdom | 70 | declining |
+| South Africa | 90 | declining |
+| Philippines | 70 | flat |
+| Belgium | 60 | growing |
 | Canada | 60 | flat |
-| Belarus | 40 | growing |
-| Belgium | 40 | flat |
-| Germany | 40 | growing |
+| Switzerland | 60 | flat |
+| United Kingdom | 60 | flat |
+| Mexico | 50 | growing |
+| Belarus | 40 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/demon-pots-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,570 · **trend:** growing · YoY +28.7%
+**12-month volume (illustrative):** 1,670 · **trend:** growing · YoY +39.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 350 | flat |
-| Canada | 280 | declining |
-| South Africa | 120 | growing |
-| Greece | 90 | declining |
-| Philippines | 60 | flat |
-| Switzerland | 60 | flat |
-| Tunisia | 50 | declining |
-| Argentina | 40 | declining |
+| Brazil | 370 | growing |
+| Canada | 300 | growing |
+| South Africa | 120 | flat |
+| Greece | 90 | growing |
+| Switzerland | 90 | growing |
+| Argentina | 50 | growing |
+| Philippines | 50 | flat |
+| Tunisia | 50 | flat |
 | Italy | 40 | flat |
-| Romania | 40 | growing |
+| Malaysia | 40 | growing |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

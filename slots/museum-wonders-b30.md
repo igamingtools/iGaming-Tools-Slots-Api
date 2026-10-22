@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/museum-wonders-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,420 · **trend:** flat
+**12-month volume (illustrative):** 1,470 · **trend:** growing · YoY +2350.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 270 | growing |
-| Philippines | 240 | declining |
-| Pakistan | 180 | flat |
-| India | 140 | declining |
+| Brazil | 300 | growing |
+| Philippines | 240 | flat |
+| Pakistan | 180 | declining |
+| India | 140 | flat |
 | Indonesia | 130 | flat |
-| Thailand | 50 | growing |
+| United States | 60 | flat |
+| Thailand | 50 | flat |
 | Tunisia | 50 | flat |
-| United States | 40 | growing |
-| Algeria | 20 | declining |
-| Belarus | 20 | declining |
+| Algeria | 20 | flat |
+| Belarus | 20 | flat |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
 
 ## Links
 

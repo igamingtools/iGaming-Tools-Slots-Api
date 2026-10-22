@@ -136,13 +136,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bubble-up-b7/demand/
 ```
 
-**12-month volume (illustrative):** 20 · **trend:** declining · YoY -60.0%
+**12-month volume (illustrative):** 10 · **trend:** declining · YoY -80.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 20 | flat |
+| Germany | 10 | flat |
 
 > Full per-country breakdown (1 markets) via the /demand/ endpoint.
 

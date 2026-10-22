@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/voodoo-magic-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,980 · **trend:** flat · YoY +0.0%
+**12-month volume (illustrative):** 4,050 · **trend:** flat · YoY -0.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 410 | growing |
-| Finland | 220 | growing |
-| Canada | 160 | declining |
-| Switzerland | 150 | declining |
+| Greece | 520 | growing |
+| Finland | 220 | flat |
+| Switzerland | 180 | growing |
+| Canada | 160 | growing |
 | Brazil | 140 | flat |
-| Italy | 140 | growing |
-| South Africa | 140 | flat |
-| Denmark | 120 | growing |
+| Italy | 140 | declining |
+| South Africa | 130 | flat |
+| Denmark | 120 | flat |
 | Norway | 120 | flat |
 | Romania | 120 | flat |
 
-> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

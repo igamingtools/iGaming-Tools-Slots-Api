@@ -148,24 +148,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-tut-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,060 · **trend:** declining · YoY -15.8%
+**12-month volume (illustrative):** 4,900 · **trend:** declining · YoY -19.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Italy | 500 | growing |
-| Germany | 360 | flat |
+| Italy | 460 | growing |
+| Germany | 380 | growing |
 | Switzerland | 330 | flat |
-| Tunisia | 220 | flat |
-| United Kingdom | 220 | flat |
-| Greece | 200 | growing |
-| Romania | 200 | flat |
-| South Africa | 190 | flat |
-| Finland | 180 | flat |
+| Greece | 210 | declining |
+| Finland | 200 | flat |
+| South Africa | 200 | growing |
+| Tunisia | 200 | flat |
+| Romania | 180 | flat |
 | Canada | 160 | flat |
+| Denmark | 160 | declining |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-s-gate-bonus-choice-b7/demand/
 ```
 
-**12-month volume (illustrative):** 780 · **trend:** flat
+**12-month volume (illustrative):** 870 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 100 | flat |
-| South Africa | 70 | declining |
-| Finland | 60 | declining |
-| Canada | 40 | declining |
-| Greece | 40 | flat |
+| Brazil | 110 | declining |
+| South Africa | 90 | growing |
+| Canada | 60 | growing |
+| Finland | 60 | flat |
+| Greece | 50 | flat |
 | Malaysia | 40 | flat |
-| Latvia | 30 | declining |
-| Peru | 30 | declining |
-| Spain | 30 | growing |
-| Australia | 20 | flat |
+| Latvia | 30 | flat |
+| Peru | 30 | flat |
+| Spain | 30 | declining |
+| Tunisia | 30 | growing |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

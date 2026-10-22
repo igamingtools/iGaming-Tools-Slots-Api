@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mummy-money-b29/demand/
 ```
 
-**12-month volume (illustrative):** 340 · **trend:** declining · YoY -44.3%
+**12-month volume (illustrative):** 310 · **trend:** declining · YoY -53.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | South Africa | 140 | flat |
-| India | 40 | declining |
-| Netherlands | 20 | flat |
-| United Kingdom | 20 | declining |
+| India | 40 | flat |
+| Brazil | 20 | growing |
+| United Kingdom | 20 | flat |
 | Argentina | 10 | flat |
-| Brazil | 10 | flat |
 | Germany | 10 | flat |
 | Indonesia | 10 | flat |
 | Italy | 10 | flat |
-| Latvia | 10 | flat |
+| Lebanon | 10 | flat |
+| Lithuania | 10 | flat |
 
-> Full per-country breakdown (16 markets) via the /demand/ endpoint.
+> Full per-country breakdown (13 markets) via the /demand/ endpoint.
 
 ## Links
 

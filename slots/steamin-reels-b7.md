@@ -144,22 +144,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/steamin-reels-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,960 · **trend:** flat
+**12-month volume (illustrative):** 2,120 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 190 | growing |
-| Greece | 110 | declining |
-| Canada | 100 | flat |
-| South Africa | 80 | growing |
-| United Kingdom | 70 | flat |
+| Brazil | 210 | declining |
+| Canada | 140 | growing |
+| Greece | 120 | growing |
+| South Africa | 90 | flat |
+| United Kingdom | 70 | declining |
 | Denmark | 60 | flat |
+| Germany | 60 | growing |
+| Indonesia | 60 | flat |
 | Malaysia | 60 | flat |
-| Philippines | 60 | flat |
-| Australia | 50 | declining |
-| Germany | 50 | flat |
+| Netherlands | 60 | growing |
 
 > Full per-country breakdown (58 markets) via the /demand/ endpoint.
 

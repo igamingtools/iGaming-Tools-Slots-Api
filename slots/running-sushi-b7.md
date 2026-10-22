@@ -134,24 +134,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/running-sushi-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,090 · **trend:** declining · YoY -53.0%
+**12-month volume (illustrative):** 2,110 · **trend:** declining · YoY -44.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 380 | declining |
-| Switzerland | 210 | flat |
-| Philippines | 140 | flat |
+| Greece | 360 | flat |
+| Switzerland | 180 | flat |
+| Philippines | 130 | flat |
 | Brazil | 120 | flat |
 | South Africa | 100 | flat |
 | Finland | 80 | flat |
-| Germany | 80 | declining |
-| Italy | 70 | flat |
-| Mexico | 60 | flat |
-| Romania | 60 | declining |
+| Germany | 70 | flat |
+| Italy | 70 | declining |
+| Mexico | 70 | flat |
+| Romania | 70 | growing |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

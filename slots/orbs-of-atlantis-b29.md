@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/orbs-of-atlantis-b29/demand/
 ```
 
-**12-month volume (illustrative):** 1,980 · **trend:** declining · YoY -16.8%
+**12-month volume (illustrative):** 1,810 · **trend:** declining · YoY -25.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,360 | flat |
-| Mexico | 180 | flat |
+| South Africa | 1,240 | declining |
+| Mexico | 190 | flat |
 | Tunisia | 120 | flat |
-| India | 100 | growing |
+| India | 80 | flat |
 | Norway | 50 | flat |
 | Malaysia | 40 | flat |
-| United States | 40 | flat |
 | Indonesia | 20 | flat |
 | Pakistan | 20 | flat |
+| United States | 20 | flat |
 | Germany | 10 | flat |
 
-> Full per-country breakdown (14 markets) via the /demand/ endpoint.
+> Full per-country breakdown (12 markets) via the /demand/ endpoint.
 
 ## Links
 

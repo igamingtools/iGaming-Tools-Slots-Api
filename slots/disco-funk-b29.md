@@ -124,14 +124,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/disco-funk-b29/demand/
 ```
 
-**12-month volume (illustrative):** 520 · **trend:** declining · YoY -17.5%
+**12-month volume (illustrative):** 440 · **trend:** declining · YoY -31.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 350 | flat |
-| United States | 80 | growing |
+| South Africa | 270 | flat |
+| United States | 80 | declining |
 | France | 30 | flat |
 | Australia | 10 | flat |
 | Austria | 10 | flat |

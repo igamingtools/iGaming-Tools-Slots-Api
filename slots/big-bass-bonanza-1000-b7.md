@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-bonanza-1000-b7/demand/
 ```
 
-**12-month volume (illustrative):** 47,200 · **trend:** growing · YoY +47.3%
+**12-month volume (illustrative):** 45,860 · **trend:** growing · YoY +21.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 6,760 | flat |
+| Brazil | 6,270 | flat |
 | Greece | 4,360 | growing |
-| South Africa | 4,020 | growing |
+| South Africa | 4,110 | growing |
 | United Kingdom | 3,830 | flat |
-| Turkey | 3,190 | growing |
+| Turkey | 3,100 | growing |
 | Canada | 2,120 | flat |
-| Spain | 1,700 | flat |
+| Spain | 1,670 | growing |
 | Netherlands | 1,650 | growing |
-| Germany | 1,580 | growing |
-| Argentina | 1,320 | growing |
+| Germany | 1,500 | declining |
+| Tunisia | 1,270 | declining |
 
-> Full per-country breakdown (72 markets) via the /demand/ endpoint.
+> Full per-country breakdown (74 markets) via the /demand/ endpoint.
 
 ## Links
 

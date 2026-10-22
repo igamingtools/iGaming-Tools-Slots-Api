@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/twilight-princess-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,270 · **trend:** declining · YoY -24.0%
+**12-month volume (illustrative):** 7,130 · **trend:** declining · YoY -23.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 680 | flat |
-| United States | 580 | declining |
-| Philippines | 480 | declining |
-| Greece | 330 | flat |
-| Denmark | 270 | flat |
-| Switzerland | 270 | flat |
+| Brazil | 650 | flat |
+| United States | 560 | growing |
+| Philippines | 460 | growing |
+| Greece | 320 | flat |
+| Switzerland | 270 | declining |
+| Denmark | 260 | growing |
 | Canada | 240 | flat |
 | Finland | 220 | flat |
-| Belgium | 200 | growing |
-| South Africa | 200 | declining |
+| Belgium | 200 | flat |
+| South Africa | 200 | growing |
 
-> Full per-country breakdown (66 markets) via the /demand/ endpoint.
+> Full per-country breakdown (67 markets) via the /demand/ endpoint.
 
 ## Links
 

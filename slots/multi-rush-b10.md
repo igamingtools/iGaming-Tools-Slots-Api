@@ -135,23 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/multi-rush-b10/demand/
 ```
 
-**12-month volume (illustrative):** 110 · **trend:** flat
+**12-month volume (illustrative):** 180 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 20 | growing |
-| Italy | 20 | flat |
-| Australia | 10 | growing |
-| Germany | 10 | growing |
-| Netherlands | 10 | declining |
-| Philippines | 10 | declining |
-| Portugal | 10 | declining |
-| Sweden | 10 | declining |
-| United Kingdom | 10 | declining |
+| Germany | 40 | growing |
+| Finland | 20 | declining |
+| Italy | 20 | declining |
+| Australia | 10 | declining |
+| Brazil | 10 | growing |
+| Greece | 10 | growing |
+| Lithuania | 10 | growing |
+| Mexico | 10 | growing |
+| Netherlands | 10 | flat |
+| Philippines | 10 | flat |
 
-> Full per-country breakdown (9 markets) via the /demand/ endpoint.
+> Full per-country breakdown (13 markets) via the /demand/ endpoint.
 
 ## Links
 

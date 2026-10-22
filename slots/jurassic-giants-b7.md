@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jurassic-giants-b7/demand/
 ```
 
-**12-month volume (illustrative):** 350 · **trend:** declining · YoY -14.6%
+**12-month volume (illustrative):** 300 · **trend:** declining · YoY -37.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | South Africa | 120 | flat |
-| Argentina | 20 | flat |
-| Brazil | 20 | flat |
-| Finland | 20 | flat |
+| Argentina | 30 | growing |
 | Germany | 20 | flat |
 | Lebanon | 20 | flat |
-| United States | 20 | flat |
 | Australia | 10 | flat |
 | Belarus | 10 | flat |
+| Brazil | 10 | flat |
 | Bulgaria | 10 | flat |
+| Estonia | 10 | flat |
+| Greece | 10 | flat |
 
-> Full per-country breakdown (18 markets) via the /demand/ endpoint.
+> Full per-country breakdown (15 markets) via the /demand/ endpoint.
 
 ## Links
 

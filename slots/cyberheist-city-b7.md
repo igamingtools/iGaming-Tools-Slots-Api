@@ -145,22 +145,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cyberheist-city-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,370 · **trend:** flat
+**12-month volume (illustrative):** 2,510 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 160 | flat |
-| Switzerland | 150 | declining |
-| Brazil | 130 | flat |
-| Greece | 120 | flat |
-| South Africa | 110 | growing |
-| Canada | 100 | growing |
-| Denmark | 80 | flat |
-| Germany | 70 | flat |
-| Belgium | 60 | growing |
-| Indonesia | 60 | flat |
+| Finland | 200 | growing |
+| Switzerland | 150 | flat |
+| Brazil | 140 | flat |
+| Canada | 120 | flat |
+| Greece | 120 | declining |
+| South Africa | 120 | declining |
+| Denmark | 90 | flat |
+| Germany | 70 | declining |
+| Peru | 70 | flat |
+| Belgium | 60 | declining |
 
 > Full per-country breakdown (51 markets) via the /demand/ endpoint.
 

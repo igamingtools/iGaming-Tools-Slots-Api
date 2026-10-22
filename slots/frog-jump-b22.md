@@ -116,15 +116,16 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/frog-jump-b22/demand/
 ```
 
-**12-month volume (illustrative):** 10 · **trend:** flat
+**12-month volume (illustrative):** 70 · **trend:** growing · YoY +600.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 10 | flat |
+| Pakistan | 60 | growing |
+| Cyprus | 10 | growing |
 
-> Full per-country breakdown (1 markets) via the /demand/ endpoint.
+> Full per-country breakdown (2 markets) via the /demand/ endpoint.
 
 ## Links
 

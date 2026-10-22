@@ -133,24 +133,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-of-aztec-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,900 · **trend:** growing · YoY +39.4%
+**12-month volume (illustrative):** 2,800 · **trend:** growing · YoY +25.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 320 | declining |
+| Brazil | 290 | declining |
 | India | 220 | flat |
-| Philippines | 160 | declining |
-| Malaysia | 120 | declining |
-| Peru | 120 | flat |
-| South Africa | 120 | declining |
+| Philippines | 160 | flat |
+| Malaysia | 120 | growing |
+| South Africa | 120 | growing |
 | Switzerland | 120 | flat |
-| Greece | 100 | declining |
+| Peru | 110 | declining |
+| Argentina | 100 | flat |
 | Indonesia | 100 | flat |
-| Pakistan | 100 | growing |
+| Pakistan | 100 | declining |
 
-> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
 
 ## Links
 

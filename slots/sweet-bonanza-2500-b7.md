@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-bonanza-2500-b7/demand/
 ```
 
-**12-month volume (illustrative):** 77,640 · **trend:** flat
+**12-month volume (illustrative):** 86,870 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 10,240 | growing |
-| South Africa | 7,870 | growing |
-| Philippines | 7,040 | growing |
-| Canada | 6,140 | growing |
-| Greece | 4,720 | growing |
-| Turkey | 4,310 | growing |
-| Indonesia | 2,550 | growing |
-| Switzerland | 2,310 | growing |
-| United Kingdom | 2,280 | growing |
-| Denmark | 2,120 | growing |
+| Brazil | 11,840 | declining |
+| South Africa | 8,870 | declining |
+| Philippines | 7,760 | declining |
+| Canada | 6,780 | declining |
+| Greece | 5,310 | declining |
+| Turkey | 4,700 | declining |
+| Indonesia | 2,760 | declining |
+| Switzerland | 2,580 | declining |
+| United Kingdom | 2,490 | declining |
+| Denmark | 2,440 | declining |
 
-> Full per-country breakdown (77 markets) via the /demand/ endpoint.
+> Full per-country breakdown (78 markets) via the /demand/ endpoint.
 
 ## Links
 

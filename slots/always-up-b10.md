@@ -134,24 +134,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/always-up-b10/demand/
 ```
 
-**12-month volume (illustrative):** 680 · **trend:** flat
+**12-month volume (illustrative):** 780 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 80 | flat |
+| United States | 100 | flat |
+| Brazil | 90 | flat |
 | Finland | 80 | flat |
-| United States | 80 | flat |
 | Switzerland | 60 | flat |
-| Greece | 40 | flat |
+| Greece | 40 | declining |
 | India | 40 | flat |
 | Netherlands | 30 | flat |
+| Argentina | 20 | flat |
 | Australia | 20 | flat |
-| Bulgaria | 20 | declining |
-| New Zealand | 20 | flat |
+| Bulgaria | 20 | flat |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

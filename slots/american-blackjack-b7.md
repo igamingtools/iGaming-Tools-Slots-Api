@@ -111,24 +111,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/american-blackjack-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,630 · **trend:** growing · YoY +150.8%
+**12-month volume (illustrative):** 1,650 · **trend:** growing · YoY +111.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Lebanon | 120 | declining |
-| United States | 120 | declining |
+| United States | 120 | growing |
+| Lebanon | 110 | flat |
 | Canada | 100 | flat |
-| Germany | 100 | declining |
-| Indonesia | 90 | growing |
-| Mexico | 80 | growing |
+| Germany | 90 | flat |
+| Indonesia | 80 | declining |
+| Mexico | 70 | declining |
+| Argentina | 60 | flat |
 | India | 60 | flat |
-| United Kingdom | 60 | flat |
-| Argentina | 50 | growing |
-| Netherlands | 50 | growing |
+| Switzerland | 60 | growing |
+| Tunisia | 60 | growing |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
 
 ## Links
 

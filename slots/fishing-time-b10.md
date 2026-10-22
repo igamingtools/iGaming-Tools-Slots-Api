@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fishing-time-b10/demand/
 ```
 
-**12-month volume (illustrative):** 900 · **trend:** flat
+**12-month volume (illustrative):** 1,320 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 70 | growing |
-| Ukraine | 70 | declining |
-| United Kingdom | 50 | growing |
-| Finland | 40 | growing |
-| India | 40 | flat |
-| United States | 40 | declining |
-| Australia | 30 | flat |
-| Belarus | 30 | flat |
-| Brazil | 30 | flat |
-| France | 30 | flat |
+| Indonesia | 90 | declining |
+| United Kingdom | 90 | growing |
+| Malaysia | 80 | flat |
+| Ukraine | 80 | flat |
+| India | 60 | flat |
+| United States | 60 | growing |
+| Belarus | 40 | flat |
+| Brazil | 40 | flat |
+| Finland | 40 | declining |
+| France | 40 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (48 markets) via the /demand/ endpoint.
 
 ## Links
 

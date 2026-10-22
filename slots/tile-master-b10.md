@@ -112,15 +112,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tile-master-b10/demand/
 ```
 
-**12-month volume (illustrative):** 150 · **trend:** declining · YoY -44.4%
+**12-month volume (illustrative):** 150 · **trend:** declining · YoY -46.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 60 | flat |
-| Germany | 60 | growing |
-| Austria | 10 | flat |
+| Germany | 60 | flat |
+| Brazil | 50 | flat |
+| Austria | 20 | growing |
 | Portugal | 10 | flat |
 | Switzerland | 10 | flat |
 

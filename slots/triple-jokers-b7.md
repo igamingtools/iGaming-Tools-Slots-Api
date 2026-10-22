@@ -116,24 +116,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/triple-jokers-b7/demand/
 ```
 
-**12-month volume (illustrative):** 880 · **trend:** declining · YoY -39.7%
+**12-month volume (illustrative):** 580 · **trend:** declining · YoY -27.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 320 | declining |
-| El Salvador | 60 | growing |
+| South Africa | 140 | flat |
+| Mexico | 50 | flat |
 | Canada | 40 | flat |
-| Czech Republic | 40 | declining |
-| Italy | 40 | declining |
-| Mexico | 40 | flat |
-| Argentina | 30 | flat |
-| Tunisia | 30 | flat |
+| Czech Republic | 40 | flat |
+| Italy | 40 | flat |
+| El Salvador | 30 | flat |
+| Lithuania | 30 | growing |
+| Argentina | 20 | flat |
 | Greece | 20 | flat |
-| India | 20 | flat |
+| Latvia | 20 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-flow-b29/demand/
 ```
 
-**12-month volume (illustrative):** 360 · **trend:** declining · YoY -43.8%
+**12-month volume (illustrative):** 340 · **trend:** declining · YoY -45.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 170 | declining |
-| Greece | 60 | declining |
+| South Africa | 160 | flat |
+| Greece | 60 | flat |
 | Lithuania | 20 | flat |
 | Tunisia | 20 | flat |
 | Argentina | 10 | flat |
 | Brazil | 10 | flat |
 | Germany | 10 | flat |
 | Indonesia | 10 | flat |
-| Netherlands | 10 | declining |
-| Panama | 10 | flat |
+| Netherlands | 10 | flat |
+| Peru | 10 | flat |
 
-> Full per-country breakdown (13 markets) via the /demand/ endpoint.
+> Full per-country breakdown (12 markets) via the /demand/ endpoint.
 
 ## Links
 

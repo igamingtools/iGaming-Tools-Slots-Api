@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/eternal-empress-freeze-time-b7/demand/
 ```
 
-**12-month volume (illustrative):** 550 · **trend:** declining · YoY -60.7%
+**12-month volume (illustrative):** 470 · **trend:** declining · YoY -68.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 90 | declining |
+| Philippines | 90 | growing |
 | United States | 60 | flat |
-| South Africa | 40 | flat |
-| Brazil | 30 | flat |
 | Germany | 30 | flat |
-| Poland | 30 | flat |
-| Canada | 20 | flat |
+| South Africa | 30 | flat |
+| Brazil | 20 | flat |
 | Finland | 20 | flat |
-| France | 20 | flat |
 | Greece | 20 | flat |
+| Malaysia | 20 | flat |
+| Poland | 20 | flat |
+| Ukraine | 20 | flat |
 
-> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

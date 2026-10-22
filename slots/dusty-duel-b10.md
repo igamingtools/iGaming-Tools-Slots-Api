@@ -141,22 +141,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dusty-duel-b10/demand/
 ```
 
-**12-month volume (illustrative):** 660 · **trend:** flat
+**12-month volume (illustrative):** 830 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Australia | 40 | flat |
-| United States | 40 | declining |
-| Greece | 30 | flat |
-| Portugal | 30 | flat |
-| Switzerland | 30 | flat |
-| United Kingdom | 30 | flat |
-| Argentina | 20 | growing |
-| Austria | 20 | declining |
-| Belgium | 20 | growing |
-| Brazil | 20 | flat |
+| Switzerland | 60 | growing |
+| Australia | 50 | flat |
+| Canada | 40 | flat |
+| Portugal | 40 | flat |
+| United States | 40 | flat |
+| Germany | 30 | flat |
+| Greece | 30 | declining |
+| Netherlands | 30 | flat |
+| New Zealand | 30 | growing |
+| United Kingdom | 30 | declining |
 
 > Full per-country breakdown (38 markets) via the /demand/ endpoint.
 

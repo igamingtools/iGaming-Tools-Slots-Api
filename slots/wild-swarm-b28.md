@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-swarm-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,460 · **trend:** declining · YoY -19.1%
+**12-month volume (illustrative):** 2,420 · **trend:** declining · YoY -20.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Finland | 240 | flat |
-| Germany | 190 | flat |
-| Sweden | 190 | growing |
+| Germany | 190 | growing |
+| Sweden | 180 | declining |
 | United Kingdom | 150 | flat |
 | Brazil | 120 | flat |
 | Netherlands | 120 | flat |
-| Latvia | 90 | declining |
-| Romania | 90 | declining |
-| Austria | 80 | flat |
-| Denmark | 70 | flat |
+| Austria | 90 | flat |
+| Latvia | 80 | declining |
+| Romania | 80 | flat |
+| Greece | 70 | flat |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
 
 ## Links
 

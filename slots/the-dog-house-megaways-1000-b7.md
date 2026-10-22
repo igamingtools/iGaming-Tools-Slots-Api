@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-dog-house-megaways-1000-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,380 · **trend:** flat
+**12-month volume (illustrative):** 7,490 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 990 | growing |
-| Switzerland | 540 | flat |
-| Ukraine | 270 | declining |
-| Brazil | 260 | declining |
-| Indonesia | 260 | declining |
-| Germany | 240 | declining |
-| Finland | 160 | flat |
-| United Kingdom | 160 | declining |
-| Denmark | 150 | declining |
-| Netherlands | 150 | declining |
+| Greece | 1,380 | declining |
+| Switzerland | 750 | declining |
+| Indonesia | 400 | growing |
+| Brazil | 330 | declining |
+| Ukraine | 320 | declining |
+| Germany | 310 | declining |
+| Finland | 220 | declining |
+| Denmark | 190 | declining |
+| Netherlands | 190 | declining |
+| Tunisia | 190 | growing |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (64 markets) via the /demand/ endpoint.
 
 ## Links
 

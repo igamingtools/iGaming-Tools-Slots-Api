@@ -153,24 +153,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-return-to-the-races-b7/demand/
 ```
 
-**12-month volume (illustrative):** 7,550 · **trend:** growing · YoY +24.2%
+**12-month volume (illustrative):** 7,510 · **trend:** growing · YoY +11.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 1,680 | growing |
-| Brazil | 770 | declining |
-| Greece | 510 | growing |
-| Canada | 440 | flat |
-| Switzerland | 270 | declining |
+| United Kingdom | 1,720 | declining |
+| Brazil | 730 | growing |
+| Greece | 420 | declining |
+| Switzerland | 300 | growing |
+| Canada | 280 | flat |
+| Netherlands | 240 | growing |
+| Tunisia | 240 | declining |
 | Finland | 220 | flat |
-| Netherlands | 220 | declining |
-| Tunisia | 210 | growing |
 | South Africa | 160 | flat |
-| United States | 160 | flat |
+| United States | 160 | declining |
 
-> Full per-country breakdown (59 markets) via the /demand/ endpoint.
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
 
 ## Links
 

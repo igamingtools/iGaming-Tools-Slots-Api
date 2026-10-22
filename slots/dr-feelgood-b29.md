@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dr-feelgood-b29/demand/
 ```
 
-**12-month volume (illustrative):** 2,280 · **trend:** declining · YoY -51.7%
+**12-month volume (illustrative):** 2,240 · **trend:** declining · YoY -47.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 780 | declining |
-| Canada | 200 | growing |
-| Mexico | 90 | flat |
-| Argentina | 80 | flat |
-| Australia | 80 | flat |
-| Finland | 80 | declining |
+| United States | 780 | growing |
+| Canada | 200 | flat |
+| Finland | 100 | growing |
+| Australia | 90 | flat |
+| Mexico | 80 | flat |
+| South Africa | 80 | growing |
 | United Kingdom | 80 | flat |
-| South Africa | 70 | flat |
-| Puerto Rico | 60 | growing |
-| Brazil | 50 | growing |
+| Argentina | 70 | declining |
+| Puerto Rico | 60 | declining |
+| Slovenia | 50 | growing |
 
-> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

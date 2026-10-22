@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/egyptian-dreams-b29/demand/
 ```
 
-**12-month volume (illustrative):** 2,300 · **trend:** declining · YoY -31.5%
+**12-month volume (illustrative):** 2,220 · **trend:** declining · YoY -33.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,960 | declining |
+| South Africa | 1,900 | flat |
 | United States | 60 | flat |
-| Argentina | 40 | declining |
+| Argentina | 40 | flat |
 | Honduras | 30 | flat |
 | Italy | 30 | flat |
 | United Kingdom | 30 | flat |
 | France | 20 | flat |
-| Tunisia | 20 | flat |
 | Bulgaria | 10 | flat |
 | Croatia | 10 | flat |
+| Germany | 10 | flat |
 
-> Full per-country breakdown (19 markets) via the /demand/ endpoint.
+> Full per-country breakdown (18 markets) via the /demand/ endpoint.
 
 ## Links
 

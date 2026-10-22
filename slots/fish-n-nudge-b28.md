@@ -149,22 +149,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fish-n-nudge-b28/demand/
 ```
 
-**12-month volume (illustrative):** 830 · **trend:** declining · YoY -43.9%
+**12-month volume (illustrative):** 780 · **trend:** declining · YoY -47.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 100 | flat |
-| Finland | 80 | declining |
-| Norway | 70 | growing |
-| Canada | 60 | flat |
-| Denmark | 60 | flat |
-| Netherlands | 60 | flat |
-| Greece | 50 | flat |
-| Sweden | 50 | flat |
-| Germany | 40 | flat |
-| India | 40 | flat |
+| Finland | 100 | growing |
+| United Kingdom | 90 | declining |
+| Norway | 70 | declining |
+| Sweden | 60 | growing |
+| Denmark | 50 | flat |
+| Greece | 50 | growing |
+| Netherlands | 50 | flat |
+| Canada | 40 | flat |
+| Germany | 40 | growing |
+| Romania | 40 | flat |
 
 > Full per-country breakdown (22 markets) via the /demand/ endpoint.
 

@@ -85,16 +85,16 @@ $data = json_decode(curl_exec($ch), true);
   ],
   "features": [
     {
-      "slug": "colossal-symbols",
-      "name": "Colossal Symbols"
-    },
-    {
       "slug": "expanding_wild",
       "name": "Expanding Wild"
     },
     {
       "slug": "free_spins",
       "name": "Free Spins"
+    },
+    {
+      "slug": "giant-symbol",
+      "name": "Giant Symbol"
     }
   ],
   "assets": {

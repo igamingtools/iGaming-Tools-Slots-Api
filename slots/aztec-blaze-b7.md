@@ -99,12 +99,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Ante Bet"
     },
     {
-      "slug": "colossal-symbols",
-      "name": "Colossal Symbols"
-    },
-    {
       "slug": "free_spins",
       "name": "Free Spins"
+    },
+    {
+      "slug": "giant-symbol",
+      "name": "Giant Symbol"
     }
   ],
   "assets": {

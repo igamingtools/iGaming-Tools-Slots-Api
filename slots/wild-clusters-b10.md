@@ -114,8 +114,8 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Cluster Pays"
     },
     {
-      "slug": "colossal-symbols",
-      "name": "Colossal Symbols"
+      "slug": "giant-symbol",
+      "name": "Giant Symbol"
     },
     {
       "slug": "level-progression",

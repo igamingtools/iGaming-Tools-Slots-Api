@@ -112,8 +112,8 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Cluster Pays"
     },
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
+      "slug": "multiplier",
+      "name": "Multiplier"
     }
   ],
   "assets": {

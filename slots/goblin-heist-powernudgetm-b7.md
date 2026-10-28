@@ -113,12 +113,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Ante Bet"
     },
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
-    },
-    {
       "slug": "nudge",
       "name": "Nudge"
+    },
+    {
+      "slug": "prize-symbols",
+      "name": "Prize Symbols"
     }
   ],
   "assets": {

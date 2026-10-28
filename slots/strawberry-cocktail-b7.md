@@ -105,16 +105,16 @@ $data = json_decode(curl_exec($ch), true);
   ],
   "features": [
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
-    },
-    {
       "slug": "multiplier",
       "name": "Multiplier"
     },
     {
       "slug": "progressive_multiplier",
       "name": "Progressive Multiplier"
+    },
+    {
+      "slug": "respin",
+      "name": "Respin"
     }
   ],
   "assets": {

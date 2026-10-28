@@ -104,12 +104,12 @@ $data = json_decode(curl_exec($ch), true);
   ],
   "features": [
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
-    },
-    {
       "slug": "mystery_symbol",
       "name": "Mystery Symbol"
+    },
+    {
+      "slug": "prize-symbols",
+      "name": "Prize Symbols"
     },
     {
       "slug": "progressive_multiplier",

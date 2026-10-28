@@ -100,12 +100,12 @@ $data = json_decode(curl_exec($ch), true);
   ],
   "features": [
     {
-      "slug": "free_spins",
-      "name": "Free Spins"
+      "slug": "collector-zone",
+      "name": "Collector Zone"
     },
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
+      "slug": "free_spins",
+      "name": "Free Spins"
     },
     {
       "slug": "multiplier",

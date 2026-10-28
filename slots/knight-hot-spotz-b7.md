@@ -93,8 +93,8 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Free Spins"
     },
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
+      "slug": "prize-symbols",
+      "name": "Prize Symbols"
     },
     {
       "slug": "retrigger",

@@ -108,12 +108,12 @@ $data = json_decode(curl_exec($ch), true);
       "name": "Hold and Spin"
     },
     {
-      "slug": "money-collect",
-      "name": "Money Collect"
-    },
-    {
       "slug": "multiplier",
       "name": "Multiplier"
+    },
+    {
+      "slug": "prize-symbols",
+      "name": "Prize Symbols"
     }
   ],
   "assets": {

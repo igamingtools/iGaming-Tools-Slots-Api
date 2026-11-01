@@ -1,0 +1,150 @@
+# Pharaoh Royals
+
+**Provider:** Pocket Games Soft
+
+> **Note:** Illustrative excerpt — values may differ. Always query the live endpoint for current data, media URLs and demo links.
+
+## Endpoint
+
+`GET /api/v1/slots/pharaoh-royals-b30/`
+
+## Request Examples
+
+### curl
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/pharaoh-royals-b30/
+```
+
+### Python (requests)
+
+```python
+import requests
+
+r = requests.get(
+    "https://i-gaming.tools/api/v1/slots/pharaoh-royals-b30/",
+    headers={"Authorization": "Token <your-token>"},
+)
+data = r.json()
+```
+
+### JavaScript (fetch)
+
+```javascript
+const r = await fetch("https://i-gaming.tools/api/v1/slots/pharaoh-royals-b30/", {
+  headers: { "Authorization": "Token <your-token>" },
+});
+const data = await r.json();
+```
+
+### PHP
+
+```php
+$ch = curl_init("https://i-gaming.tools/api/v1/slots/pharaoh-royals-b30/");
+curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Token <your-token>"]);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$data = json_decode(curl_exec($ch), true);
+```
+
+## Illustrative Response
+
+> Media URLs (screenshots, icons, logo) are live CDN/presigned URLs. Request the live endpoint for current values.
+
+```json
+{
+  "slug": "pharaoh-royals-b30",
+  "name": "Pharaoh Royals",
+  "status": "active",
+  "provider": {
+    "slug": "pocket-games-soft",
+    "name": "Pocket Games Soft"
+  },
+  "game_category": "video_slot",
+  "rtp_default": "96.76",
+  "rtp_variants": [
+    {
+      "rtp": "96.76",
+      "variant": "default",
+      "is_default": true
+    }
+  ],
+  "volatility": "medium",
+  "mechanic": "lines",
+  "reels": 3,
+  "rows": 1,
+  "jackpot_type": "none",
+  "has_bonus_buy": "no",
+  "bonus_buys": [],
+  "release_date": "2025-10-21",
+  "themes": [
+    {
+      "slug": "egyptian",
+      "name": "Egyptian"
+    },
+    {
+      "slug": "royalty",
+      "name": "Royalty"
+    }
+  ],
+  "features": [
+    {
+      "slug": "free_spins",
+      "name": "Free Spins"
+    },
+    {
+      "slug": "guaranteed-win",
+      "name": "Guaranteed Win"
+    },
+    {
+      "slug": "multiplier",
+      "name": "Multiplier"
+    }
+  ],
+  "assets": {
+    "logo_url": "<live CDN url — request the endpoint>",
+    "screenshots": [
+      "<live CDN url — request the endpoint>"
+    ],
+    "demo": {
+      "page_url": "https://i-gaming.tools/slot-games/pharaoh-royals-b30/"
+    }
+  }
+}
+```
+
+## Search Demand
+
+`GET /api/v1/slots/pharaoh-royals-b30/demand/`
+
+Trailing-12-month search demand for this slot, with per-country breakdown.
+
+```bash
+curl -H "Authorization: Token $TOKEN" \
+  https://i-gaming.tools/api/v1/slots/pharaoh-royals-b30/demand/
+```
+
+**12-month volume (illustrative):** 1,580 · **trend:** flat
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 520 | flat |
+| India | 140 | flat |
+| Thailand | 120 | flat |
+| Philippines | 110 | flat |
+| Indonesia | 100 | flat |
+| Pakistan | 100 | declining |
+| Malaysia | 60 | flat |
+| United States | 60 | flat |
+| Mexico | 40 | flat |
+| Switzerland | 30 | flat |
+
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+
+## Links
+
+- **Live endpoint:** https://i-gaming.tools/api/v1/slots/pharaoh-royals-b30/
+- **Public page:** https://i-gaming.tools/slot-games/pharaoh-royals-b30/
+- **Full schema:** https://i-gaming.tools/api/docs/

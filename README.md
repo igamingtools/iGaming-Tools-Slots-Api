@@ -6,9 +6,9 @@ Browse the live catalog at https://i-gaming.tools/slot-games/
 
 ---
 
-## Currently 1190 slots documented
+## Currently 1196 slots documented
 
-Last updated: 2026-10-31
+Last updated: 2026-11-03
 
 ---
 

@@ -76,7 +76,7 @@ $data = json_decode(curl_exec($ch), true);
   "jackpot_type": "none",
   "has_bonus_buy": "no",
   "bonus_buys": [],
-  "release_date": "2022-06-03",
+  "release_date": null,
   "themes": [
     {
       "slug": "money",

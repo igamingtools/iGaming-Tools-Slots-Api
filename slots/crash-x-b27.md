@@ -106,6 +106,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/crash-x-b27/"
     }
+  },
+  "series": {
+    "slug": "crash-x",
+    "name": "Crash X"
   }
 }
 ```

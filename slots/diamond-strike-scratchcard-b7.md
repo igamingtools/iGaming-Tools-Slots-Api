@@ -96,6 +96,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/diamond-strike-scratchcard-b7/"
     }
+  },
+  "series": {
+    "slug": "diamond-strike",
+    "name": "Diamond Strike"
   }
 }
 ```

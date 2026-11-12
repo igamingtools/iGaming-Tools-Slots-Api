@@ -134,6 +134,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/bonanza-billion-xtreme-b10/"
     }
+  },
+  "series": {
+    "slug": "bonanza-billion",
+    "name": "Bonanza Billion"
   }
 }
 ```

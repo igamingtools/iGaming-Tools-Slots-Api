@@ -87,6 +87,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/multihand-blackjack-b10/"
     }
+  },
+  "series": {
+    "slug": "multihand-blackjack",
+    "name": "Multihand Blackjack"
   }
 }
 ```

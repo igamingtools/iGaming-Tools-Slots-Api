@@ -109,6 +109,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/lady-wolf-moon-b10/"
     }
+  },
+  "series": {
+    "slug": "lady-wolf-moon",
+    "name": "Lady Wolf Moon"
   }
 }
 ```

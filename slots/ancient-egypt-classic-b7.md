@@ -105,6 +105,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/ancient-egypt-classic-b7/"
     }
+  },
+  "series": {
+    "slug": "ancient-egypt",
+    "name": "Ancient Egypt"
   }
 }
 ```

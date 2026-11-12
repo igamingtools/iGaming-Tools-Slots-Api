@@ -105,6 +105,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/diamond-supernova-40-b28/"
     }
+  },
+  "series": {
+    "slug": "diamond-supernova",
+    "name": "Diamond Supernova"
   }
 }
 ```

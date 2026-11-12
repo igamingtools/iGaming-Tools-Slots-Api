@@ -121,6 +121,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/penalty-duel-b10/"
     }
+  },
+  "series": {
+    "slug": "penalty-duel",
+    "name": "Penalty Duel"
   }
 }
 ```

@@ -116,10 +116,6 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/jane-hunter-and-the-mask-of-montezuma-b7/"
     }
-  },
-  "series": {
-    "slug": "john-hunter",
-    "name": "John Hunter"
   }
 }
 ```

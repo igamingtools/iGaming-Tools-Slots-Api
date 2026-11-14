@@ -140,6 +140,25 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gold-strike-b31/demand/
 ```
 
+**12-month volume (illustrative):** 6,510 · **trend:** declining · YoY -26.2%
+
+> Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Germany | 4,370 | growing |
+| Austria | 590 | declining |
+| United Kingdom | 410 | flat |
+| South Africa | 220 | declining |
+| Brazil | 120 | flat |
+| Ireland | 120 | flat |
+| Spain | 110 | declining |
+| Netherlands | 70 | growing |
+| Switzerland | 60 | flat |
+| United States | 60 | growing |
+
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+
 ## Links
 
 - **Live endpoint:** https://i-gaming.tools/api/v1/slots/gold-strike-b31/

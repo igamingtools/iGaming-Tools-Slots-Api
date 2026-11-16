@@ -128,13 +128,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fly-b29/demand/
 ```
 
-**12-month volume (illustrative):** 15,550 · **trend:** declining · YoY -7.3%
+**12-month volume (illustrative):** 15,350 · **trend:** declining · YoY -7.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 3,400 | declining |
+| United States | 3,200 | declining |
 | India | 2,540 | flat |
 | Philippines | 1,440 | growing |
 | South Africa | 450 | growing |

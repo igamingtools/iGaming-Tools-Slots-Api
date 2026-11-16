@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-olympus-super-scatter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 591,490 · **trend:** growing · YoY +66.0%
+**12-month volume (illustrative):** 594,110 · **trend:** growing · YoY +65.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -159,8 +159,8 @@ curl -H "Authorization: Token $TOKEN" \
 | Greece | 74,800 | growing |
 | Brazil | 50,500 | flat |
 | Switzerland | 29,610 | growing |
+| Canada | 24,980 | declining |
 | Germany | 24,200 | flat |
-| Canada | 23,300 | flat |
 | Indonesia | 22,800 | growing |
 | Turkey | 20,600 | growing |
 | Italy | 19,700 | flat |

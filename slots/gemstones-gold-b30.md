@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gemstones-gold-b30/demand/
 ```
 
-**12-month volume (illustrative):** 7,480 · **trend:** declining · YoY -38.1%
+**12-month volume (illustrative):** 7,530 · **trend:** declining · YoY -38.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -140,10 +140,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Philippines | 260 | flat |
 | Pakistan | 240 | flat |
 | Tunisia | 170 | flat |
+| Canada | 120 | flat |
 | Thailand | 110 | flat |
-| Canada | 100 | growing |
-| United States | 80 | declining |
-| Germany | 60 | declining |
+| United States | 100 | declining |
+| United Kingdom | 70 | growing |
 
 > Full per-country breakdown (42 markets) via the /demand/ endpoint.
 

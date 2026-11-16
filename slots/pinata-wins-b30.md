@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pinata-wins-b30/demand/
 ```
 
-**12-month volume (illustrative):** 278,870 · **trend:** growing · YoY +181.6%
+**12-month volume (illustrative):** 278,890 · **trend:** growing · YoY +181.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

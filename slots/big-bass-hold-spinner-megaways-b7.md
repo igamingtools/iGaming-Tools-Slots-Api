@@ -153,7 +153,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-hold-spinner-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,660 · **trend:** declining · YoY -23.7%
+**12-month volume (illustrative):** 6,660 · **trend:** declining · YoY -23.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pumpkin-patch-b29/demand/
 ```
 
-**12-month volume (illustrative):** 910 · **trend:** declining · YoY -45.2%
+**12-month volume (illustrative):** 920 · **trend:** declining · YoY -44.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -133,11 +133,12 @@ curl -H "Authorization: Token $TOKEN" \
 | South Africa | 780 | flat |
 | India | 60 | flat |
 | United States | 40 | growing |
+| Cyprus | 10 | declining |
 | Czech Republic | 10 | flat |
 | Lithuania | 10 | flat |
 | Philippines | 10 | growing |
 
-> Full per-country breakdown (6 markets) via the /demand/ endpoint.
+> Full per-country breakdown (7 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -140,9 +140,16 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/prosperity-horse-b29/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 20 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 10 | growing |
+| Portugal | 10 | growing |
+
+> Full per-country breakdown (2 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -117,7 +117,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dice-twice-b27/demand/
 ```
 
-**12-month volume (illustrative):** 730 · **trend:** declining · YoY -41.1%
+**12-month volume (illustrative):** 740 · **trend:** declining · YoY -40.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -134,7 +134,7 @@ curl -H "Authorization: Token $TOKEN" \
 | France | 20 | declining |
 | Philippines | 20 | flat |
 
-> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

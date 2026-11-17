@@ -132,7 +132,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/happy-bamboo-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,220 · **trend:** flat
+**12-month volume (illustrative):** 2,240 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -149,7 +149,7 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 120 | flat |
 | Latvia | 90 | growing |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

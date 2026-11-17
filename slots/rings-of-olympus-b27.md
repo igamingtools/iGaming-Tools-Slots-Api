@@ -125,7 +125,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rings-of-olympus-b27/demand/
 ```
 
-**12-month volume (illustrative):** 790 · **trend:** growing · YoY +172.4%
+**12-month volume (illustrative):** 800 · **trend:** growing · YoY +175.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -142,7 +142,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Australia | 20 | flat |
 | Austria | 20 | flat |
 
-> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

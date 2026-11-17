@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/knockout-football-rush-b29/demand/
 ```
 
-**12-month volume (illustrative):** 430 · **trend:** declining · YoY -60.2%
+**12-month volume (illustrative):** 440 · **trend:** declining · YoY -59.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -132,12 +132,12 @@ curl -H "Authorization: Token $TOKEN" \
 | Kenya | 30 | flat |
 | Peru | 20 | flat |
 | United States | 20 | flat |
+| Bulgaria | 10 | declining |
 | Italy | 10 | flat |
 | Malta | 10 | flat |
 | Nigeria | 10 | declining |
-| Romania | 10 | flat |
 
-> Full per-country breakdown (11 markets) via the /demand/ endpoint.
+> Full per-country breakdown (12 markets) via the /demand/ endpoint.
 
 ## Links
 

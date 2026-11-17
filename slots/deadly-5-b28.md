@@ -131,7 +131,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/deadly-5-b28/demand/
 ```
 
-**12-month volume (illustrative):** 880 · **trend:** growing · YoY +100.0%
+**12-month volume (illustrative):** 890 · **trend:** growing · YoY +102.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -148,7 +148,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Lithuania | 40 | flat |
 | Poland | 40 | flat |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

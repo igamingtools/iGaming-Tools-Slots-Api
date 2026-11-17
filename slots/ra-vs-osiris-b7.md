@@ -145,17 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ra-vs-osiris-b7/demand/
 ```
 
-**12-month volume (illustrative):** 320 · **trend:** flat
+**12-month volume (illustrative):** 2,180 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Brazil | 350 | growing |
+| Finland | 200 | growing |
 | Canada | 160 | growing |
 | United Kingdom | 120 | growing |
-| United States | 40 | flat |
+| Germany | 100 | growing |
+| Greece | 100 | growing |
+| Argentina | 80 | growing |
+| Denmark | 60 | growing |
+| Switzerland | 60 | flat |
+| Latvia | 50 | growing |
 
-> Full per-country breakdown (3 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

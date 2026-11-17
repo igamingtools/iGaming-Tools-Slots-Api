@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/totem-towers-b29/demand/
 ```
 
-**12-month volume (illustrative):** 510 · **trend:** declining · YoY -42.7%
+**12-month volume (illustrative):** 520 · **trend:** declining · YoY -41.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,11 +141,11 @@ curl -H "Authorization: Token $TOKEN" \
 | Canada | 20 | flat |
 | Finland | 20 | flat |
 | Brazil | 10 | flat |
+| Cyprus | 10 | declining |
 | Philippines | 10 | flat |
 | Tunisia | 10 | flat |
-| Turkey | 10 | flat |
 
-> Full per-country breakdown (10 markets) via the /demand/ endpoint.
+> Full per-country breakdown (11 markets) via the /demand/ endpoint.
 
 ## Links
 

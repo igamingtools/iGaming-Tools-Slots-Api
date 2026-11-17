@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fly-b29/demand/
 ```
 
-**12-month volume (illustrative):** 15,350 · **trend:** declining · YoY -7.5%
+**12-month volume (illustrative):** 15,260 · **trend:** declining · YoY -6.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 

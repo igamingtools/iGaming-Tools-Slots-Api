@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/indiana-wolf-b29/demand/
 ```
 
-**12-month volume (illustrative):** 520 · **trend:** flat
+**12-month volume (illustrative):** 530 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -151,13 +151,13 @@ curl -H "Authorization: Token $TOKEN" \
 | Lebanon | 30 | flat |
 | Panama | 30 | flat |
 | Belgium | 20 | flat |
+| Denmark | 10 | growing |
 | Germany | 10 | flat |
 | Ghana | 10 | flat |
 | Jordan | 10 | flat |
 | Lithuania | 10 | flat |
-| Mexico | 10 | flat |
 
-> Full per-country breakdown (12 markets) via the /demand/ endpoint.
+> Full per-country breakdown (13 markets) via the /demand/ endpoint.
 
 ## Links
 

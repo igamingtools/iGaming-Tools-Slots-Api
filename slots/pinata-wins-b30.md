@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pinata-wins-b30/demand/
 ```
 
-**12-month volume (illustrative):** 278,890 · **trend:** growing · YoY +181.6%
+**12-month volume (illustrative):** 281,080 · **trend:** growing · YoY +182.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -134,10 +134,10 @@ curl -H "Authorization: Token $TOKEN" \
 | Philippines | 105,800 | flat |
 | India | 5,060 | flat |
 | Indonesia | 4,700 | flat |
+| Mexico | 2,590 | flat |
 | Malaysia | 2,160 | flat |
 | Pakistan | 1,300 | declining |
 | Tunisia | 800 | growing |
-| Mexico | 760 | declining |
 | United States | 580 | flat |
 | Thailand | 570 | growing |
 

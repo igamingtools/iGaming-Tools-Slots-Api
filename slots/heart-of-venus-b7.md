@@ -139,17 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/heart-of-venus-b7/demand/
 ```
 
-**12-month volume (illustrative):** 150 · **trend:** flat
+**12-month volume (illustrative):** 1,300 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Brazil | 210 | declining |
+| Greece | 100 | growing |
+| Belgium | 60 | declining |
 | Canada | 60 | growing |
+| Switzerland | 60 | flat |
+| Argentina | 50 | declining |
 | United Kingdom | 50 | growing |
+| Finland | 40 | flat |
 | United States | 40 | flat |
+| Denmark | 30 | growing |
 
-> Full per-country breakdown (3 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

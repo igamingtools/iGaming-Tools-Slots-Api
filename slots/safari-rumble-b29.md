@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/safari-rumble-b29/demand/
 ```
 
-**12-month volume (illustrative):** 790 · **trend:** growing · YoY +1875.0%
+**12-month volume (illustrative):** 800 · **trend:** growing · YoY +1900.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -157,7 +157,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Chile | 10 | flat |
 | Ghana | 10 | flat |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (18 markets) via the /demand/ endpoint.
 
 ## Links
 

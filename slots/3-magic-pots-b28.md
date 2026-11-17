@@ -125,7 +125,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/3-magic-pots-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,530 · **trend:** growing · YoY +30.8%
+**12-month volume (illustrative):** 1,540 · **trend:** growing · YoY +31.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -142,7 +142,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Australia | 50 | flat |
 | Spain | 40 | declining |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

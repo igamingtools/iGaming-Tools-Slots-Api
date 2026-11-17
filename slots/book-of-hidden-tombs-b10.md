@@ -149,16 +149,23 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/book-of-hidden-tombs-b10/demand/
 ```
 
-**12-month volume (illustrative):** 30 · **trend:** flat
+**12-month volume (illustrative):** 100 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Canada | 20 | growing |
+| Australia | 10 | growing |
+| Austria | 10 | growing |
+| Germany | 10 | growing |
+| Hungary | 10 | growing |
+| Ireland | 10 | growing |
+| Netherlands | 10 | growing |
+| New Zealand | 10 | growing |
 | United Kingdom | 10 | growing |
 
-> Full per-country breakdown (2 markets) via the /demand/ endpoint.
+> Full per-country breakdown (9 markets) via the /demand/ endpoint.
 
 ## Links
 

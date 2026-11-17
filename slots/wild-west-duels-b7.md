@@ -136,19 +136,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-west-duels-b7/demand/
 ```
 
-**12-month volume (illustrative):** 17,990 · **trend:** declining · YoY -51.6%
+**12-month volume (illustrative):** 16,040 · **trend:** declining · YoY -56.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 5,120 | growing |
+| Brazil | 3,730 | declining |
 | India | 1,840 | flat |
-| Denmark | 1,240 | flat |
+| Denmark | 1,170 | flat |
 | Indonesia | 980 | declining |
-| Greece | 790 | declining |
-| Finland | 620 | declining |
-| Switzerland | 390 | flat |
+| Greece | 760 | declining |
+| Finland | 480 | declining |
+| Switzerland | 360 | flat |
 | Malaysia | 320 | flat |
 | United Kingdom | 290 | flat |
 | Philippines | 270 | flat |

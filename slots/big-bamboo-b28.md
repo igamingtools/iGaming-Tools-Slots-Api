@@ -153,19 +153,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bamboo-b28/demand/
 ```
 
-**12-month volume (illustrative):** 57,780 · **trend:** declining · YoY -38.9%
+**12-month volume (illustrative):** 57,280 · **trend:** declining · YoY -38.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 8,610 | declining |
+| Germany | 8,340 | declining |
 | Ukraine | 4,030 | declining |
 | Switzerland | 3,250 | flat |
 | Sweden | 3,230 | flat |
 | Greece | 3,180 | flat |
 | United States | 3,140 | declining |
-| Finland | 3,000 | growing |
+| Finland | 2,940 | growing |
 | United Kingdom | 2,760 | declining |
 | Netherlands | 2,500 | flat |
 | Italy | 1,940 | declining |

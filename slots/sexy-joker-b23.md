@@ -119,6 +119,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/sexy-joker-b23/"
     }
+  },
+  "series": {
+    "slug": "sexy-joker",
+    "name": "Sexy Joker"
   }
 }
 ```

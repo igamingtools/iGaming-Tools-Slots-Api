@@ -109,6 +109,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/jewel-clicker-b27/"
     }
+  },
+  "series": {
+    "slug": "jewel-clicker",
+    "name": "Jewel Clicker"
   }
 }
 ```

@@ -109,6 +109,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/bikini-island-b29/"
     }
+  },
+  "series": {
+    "slug": "bikini-island",
+    "name": "Bikini Island"
   }
 }
 ```

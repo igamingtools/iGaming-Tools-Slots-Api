@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/totem-wonders-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,040 · **trend:** declining · YoY -48.5%
+**12-month volume (illustrative):** 940 · **trend:** declining · YoY -52.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 280 | growing |
-| India | 140 | growing |
-| Pakistan | 120 | flat |
-| Indonesia | 100 | declining |
-| Philippines | 90 | flat |
-| Mexico | 60 | growing |
-| Malaysia | 40 | flat |
-| Tunisia | 40 | growing |
+| Brazil | 250 | declining |
+| India | 120 | declining |
+| Pakistan | 120 | declining |
+| Indonesia | 100 | growing |
+| Philippines | 80 | declining |
+| Mexico | 50 | declining |
+| Tunisia | 40 | declining |
 | Thailand | 30 | flat |
 | Belgium | 20 | flat |
+| Canada | 20 | flat |
 
 > Full per-country breakdown (19 markets) via the /demand/ endpoint.
 

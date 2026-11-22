@@ -118,24 +118,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/galaxy-miner-b30/demand/
 ```
 
-**12-month volume (illustrative):** 3,060 · **trend:** growing · YoY +81.1%
+**12-month volume (illustrative):** 2,740 · **trend:** growing · YoY +28.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,610 | declining |
-| India | 300 | flat |
+| Brazil | 1,400 | declining |
+| India | 280 | flat |
 | Pakistan | 280 | flat |
-| Indonesia | 260 | flat |
+| Indonesia | 230 | flat |
 | Philippines | 120 | flat |
-| United States | 80 | flat |
-| Thailand | 60 | flat |
+| United States | 60 | flat |
+| Thailand | 50 | declining |
 | Malaysia | 40 | flat |
-| Mexico | 30 | flat |
+| Mexico | 30 | declining |
 | Tunisia | 30 | flat |
 
-> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+> Full per-country breakdown (25 markets) via the /demand/ endpoint.
 
 ## Links
 

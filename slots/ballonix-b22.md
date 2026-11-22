@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ballonix-b22/demand/
 ```
 
-**12-month volume (illustrative):** 2,400 · **trend:** growing · YoY +98.3%
+**12-month volume (illustrative):** 2,130 · **trend:** growing · YoY +37.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 520 | flat |
-| Germany | 180 | growing |
-| Belgium | 140 | flat |
-| Poland | 110 | flat |
-| Spain | 110 | growing |
-| France | 100 | growing |
-| Italy | 100 | flat |
-| Netherlands | 100 | flat |
-| Indonesia | 90 | growing |
-| United Kingdom | 90 | declining |
+| India | 500 | flat |
+| Germany | 170 | declining |
+| Belgium | 120 | flat |
+| Pakistan | 100 | growing |
+| Spain | 100 | declining |
+| France | 90 | declining |
+| Indonesia | 90 | flat |
+| Netherlands | 90 | flat |
+| Poland | 90 | flat |
+| Italy | 80 | flat |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

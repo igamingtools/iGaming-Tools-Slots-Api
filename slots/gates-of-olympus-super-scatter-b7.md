@@ -149,22 +149,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-olympus-super-scatter-b7/demand/
 ```
 
-**12-month volume (illustrative):** 628,190 · **trend:** growing · YoY +64.0%
+**12-month volume (illustrative):** 649,290 · **trend:** growing · YoY +38.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 90,600 | flat |
-| Greece | 82,400 | growing |
-| Brazil | 53,500 | flat |
-| Switzerland | 31,770 | growing |
-| Germany | 26,200 | flat |
-| Canada | 24,980 | declining |
-| Turkey | 24,800 | flat |
-| Indonesia | 22,800 | growing |
-| Italy | 21,500 | flat |
-| Netherlands | 19,800 | flat |
+| South Africa | 93,600 | declining |
+| Greece | 78,700 | declining |
+| Brazil | 50,500 | declining |
+| Indonesia | 38,320 | flat |
+| Switzerland | 32,130 | flat |
+| Germany | 26,200 | declining |
+| Turkey | 25,300 | flat |
+| Canada | 24,740 | declining |
+| Philippines | 23,100 | flat |
+| Italy | 21,200 | declining |
 
 > Full per-country breakdown (80 markets) via the /demand/ endpoint.
 

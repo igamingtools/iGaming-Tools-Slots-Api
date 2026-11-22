@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/moleionaire-b7/demand/
 ```
 
-**12-month volume (illustrative):** 960 · **trend:** declining · YoY -52.5%
+**12-month volume (illustrative):** 940 · **trend:** declining · YoY -53.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 120 | flat |
-| Finland | 100 | growing |
-| South Africa | 80 | flat |
-| Philippines | 70 | growing |
-| Bulgaria | 60 | flat |
-| Netherlands | 50 | flat |
-| Portugal | 50 | declining |
-| Greece | 40 | declining |
-| Malaysia | 40 | growing |
-| Romania | 40 | flat |
+| Finland | 100 | declining |
+| South Africa | 90 | flat |
+| Bulgaria | 70 | growing |
+| Philippines | 60 | declining |
+| Portugal | 50 | growing |
+| Greece | 40 | flat |
+| Indonesia | 40 | growing |
+| Malaysia | 40 | declining |
+| Netherlands | 40 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

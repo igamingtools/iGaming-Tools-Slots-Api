@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-rabbit-b30/demand/
 ```
 
-**12-month volume (illustrative):** 318,380 · **trend:** declining · YoY -34.6%
+**12-month volume (illustrative):** 308,230 · **trend:** declining · YoY -34.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 303,320 | declining |
-| Pakistan | 2,680 | flat |
-| India | 1,980 | declining |
-| Mexico | 1,410 | flat |
-| Philippines | 1,200 | declining |
-| Chile | 1,080 | declining |
-| Spain | 680 | declining |
-| United States | 540 | growing |
-| Portugal | 400 | flat |
-| Indonesia | 380 | flat |
+| Brazil | 294,020 | declining |
+| Pakistan | 2,560 | declining |
+| India | 1,840 | growing |
+| Mexico | 1,310 | declining |
+| Philippines | 1,110 | flat |
+| Chile | 890 | declining |
+| Spain | 640 | declining |
+| United States | 480 | declining |
+| Lebanon | 430 | growing |
+| Portugal | 350 | growing |
 
-> Full per-country breakdown (68 markets) via the /demand/ endpoint.
+> Full per-country breakdown (67 markets) via the /demand/ endpoint.
 
 ## Links
 

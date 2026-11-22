@@ -112,24 +112,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/joker-poker-b22/demand/
 ```
 
-**12-month volume (illustrative):** 2,090 · **trend:** flat · YoY -4.6%
+**12-month volume (illustrative):** 2,170 · **trend:** flat · YoY -0.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 520 | growing |
+| Finland | 540 | declining |
 | India | 200 | flat |
 | Brazil | 110 | flat |
-| Germany | 100 | flat |
+| Canada | 100 | flat |
+| Germany | 100 | growing |
+| Romania | 100 | flat |
 | South Africa | 100 | flat |
-| United States | 100 | growing |
-| Romania | 90 | flat |
-| Canada | 80 | growing |
-| Pakistan | 80 | flat |
-| United Kingdom | 80 | flat |
+| United Kingdom | 90 | flat |
+| Pakistan | 80 | growing |
+| United States | 80 | declining |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

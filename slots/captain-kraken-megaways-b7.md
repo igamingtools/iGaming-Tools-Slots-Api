@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/captain-kraken-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,610 · **trend:** growing · YoY +167.4%
+**12-month volume (illustrative):** 3,050 · **trend:** growing · YoY +45.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 280 | flat |
-| Finland | 240 | declining |
-| South Africa | 230 | flat |
-| Canada | 180 | flat |
-| Brazil | 150 | flat |
-| Australia | 140 | declining |
-| India | 140 | declining |
-| Malaysia | 120 | flat |
-| Netherlands | 110 | declining |
-| Tunisia | 110 | flat |
+| Finland | 220 | flat |
+| Canada | 180 | growing |
+| Greece | 150 | flat |
+| Australia | 140 | growing |
+| Brazil | 140 | flat |
+| South Africa | 130 | flat |
+| India | 120 | flat |
+| Malaysia | 100 | flat |
+| Tunisia | 100 | declining |
+| Germany | 90 | flat |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (48 markets) via the /demand/ endpoint.
 
 ## Links
 

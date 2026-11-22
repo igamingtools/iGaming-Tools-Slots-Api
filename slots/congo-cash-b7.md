@@ -132,24 +132,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/congo-cash-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,240 · **trend:** declining · YoY -28.8%
+**12-month volume (illustrative):** 5,720 · **trend:** declining · YoY -35.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,900 | flat |
-| Netherlands | 840 | declining |
-| Argentina | 740 | declining |
-| United Kingdom | 250 | flat |
-| Canada | 180 | growing |
-| Ireland | 150 | flat |
-| India | 120 | declining |
+| South Africa | 1,730 | flat |
+| Netherlands | 720 | growing |
+| Argentina | 700 | declining |
+| United Kingdom | 230 | growing |
+| Canada | 180 | flat |
+| Ireland | 140 | flat |
 | Mexico | 120 | flat |
-| Switzerland | 120 | flat |
-| Brazil | 110 | declining |
+| Brazil | 110 | growing |
+| Germany | 100 | declining |
+| Greece | 100 | flat |
 
-> Full per-country breakdown (55 markets) via the /demand/ endpoint.
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
 
 ## Links
 

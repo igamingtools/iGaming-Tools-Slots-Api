@@ -138,22 +138,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-goonies-b31/demand/
 ```
 
-**12-month volume (illustrative):** 3,080 · **trend:** flat · YoY -2.2%
+**12-month volume (illustrative):** 3,030 · **trend:** declining · YoY -13.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 750 | declining |
-| Canada | 280 | growing |
-| United States | 200 | growing |
-| Netherlands | 190 | declining |
-| Sweden | 190 | growing |
-| Finland | 160 | flat |
-| Italy | 140 | flat |
-| Ireland | 120 | flat |
-| Denmark | 90 | flat |
-| Greece | 90 | flat |
+| United Kingdom | 730 | growing |
+| Canada | 220 | flat |
+| Sweden | 200 | declining |
+| United States | 200 | flat |
+| Netherlands | 180 | flat |
+| Finland | 140 | declining |
+| Ireland | 140 | growing |
+| Italy | 130 | flat |
+| Greece | 100 | flat |
+| Norway | 90 | flat |
 
 > Full per-country breakdown (38 markets) via the /demand/ endpoint.
 

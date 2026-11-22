@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/legend-of-perseus-b30/demand/
 ```
 
-**12-month volume (illustrative):** 9,120 · **trend:** flat · YoY -1.1%
+**12-month volume (illustrative):** 8,930 · **trend:** flat · YoY -4.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 3,320 | flat |
-| India | 2,080 | declining |
-| Indonesia | 460 | declining |
-| Pakistan | 440 | declining |
-| Philippines | 350 | growing |
-| Finland | 220 | flat |
+| Brazil | 3,370 | flat |
+| India | 1,860 | declining |
+| Pakistan | 440 | flat |
+| Indonesia | 430 | flat |
+| Philippines | 320 | flat |
+| Finland | 300 | growing |
 | Greece | 200 | flat |
-| Tunisia | 180 | flat |
-| Lebanon | 130 | growing |
-| Turkey | 120 | declining |
+| Tunisia | 190 | growing |
+| Lebanon | 130 | declining |
+| Turkey | 120 | growing |
 
 > Full per-country breakdown (55 markets) via the /demand/ endpoint.
 

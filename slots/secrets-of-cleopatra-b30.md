@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/secrets-of-cleopatra-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,060 · **trend:** declining · YoY -36.4%
+**12-month volume (illustrative):** 1,900 · **trend:** declining · YoY -41.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 520 | declining |
-| India | 200 | growing |
-| Indonesia | 180 | declining |
-| Pakistan | 140 | flat |
+| Brazil | 480 | growing |
+| India | 200 | flat |
+| Indonesia | 160 | flat |
+| Pakistan | 160 | flat |
 | Philippines | 130 | flat |
-| Greece | 120 | flat |
 | Thailand | 120 | flat |
-| United States | 80 | flat |
-| Tunisia | 50 | flat |
-| Portugal | 40 | growing |
+| Greece | 110 | declining |
+| United States | 60 | flat |
+| Portugal | 40 | declining |
+| Singapore | 40 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

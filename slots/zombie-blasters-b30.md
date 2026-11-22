@@ -124,19 +124,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/zombie-blasters-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,120 · **trend:** flat
+**12-month volume (illustrative):** 1,220 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 330 | declining |
-| Philippines | 150 | declining |
-| Indonesia | 110 | declining |
-| Thailand | 70 | flat |
-| India | 60 | flat |
-| Pakistan | 60 | growing |
-| United States | 60 | declining |
+| Brazil | 380 | growing |
+| Philippines | 150 | flat |
+| Indonesia | 120 | flat |
+| India | 80 | flat |
+| United States | 80 | growing |
+| Thailand | 70 | declining |
+| Pakistan | 60 | declining |
 | Argentina | 20 | flat |
 | Hong Kong | 20 | flat |
 | Japan | 20 | flat |

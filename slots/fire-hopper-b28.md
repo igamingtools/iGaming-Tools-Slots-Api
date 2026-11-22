@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-hopper-b28/demand/
 ```
 
-**12-month volume (illustrative):** 3,580 · **trend:** declining · YoY -30.5%
+**12-month volume (illustrative):** 3,420 · **trend:** declining · YoY -32.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 220 | flat |
-| Germany | 220 | growing |
+| Germany | 210 | declining |
+| Finland | 200 | declining |
 | Greece | 170 | flat |
-| Ukraine | 170 | growing |
-| Canada | 160 | flat |
-| United States | 160 | flat |
+| Ukraine | 170 | declining |
 | Denmark | 150 | flat |
 | Switzerland | 150 | flat |
-| Poland | 130 | declining |
-| United Kingdom | 130 | declining |
+| Canada | 140 | declining |
+| United States | 140 | flat |
+| Poland | 130 | growing |
+| Norway | 120 | flat |
 
 > Full per-country breakdown (54 markets) via the /demand/ endpoint.
 

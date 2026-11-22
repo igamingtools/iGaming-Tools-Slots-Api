@@ -134,19 +134,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/house-of-the-dragon-b31/demand/
 ```
 
-**12-month volume (illustrative):** 1,460 · **trend:** growing · YoY +186.3%
+**12-month volume (illustrative):** 1,510 · **trend:** growing · YoY +122.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 1,100 | declining |
-| Brazil | 170 | declining |
-| Austria | 100 | flat |
-| Switzerland | 50 | declining |
-| Portugal | 40 | flat |
+| Germany | 1,010 | declining |
+| Brazil | 180 | growing |
+| Austria | 90 | declining |
+| Portugal | 50 | flat |
+| Switzerland | 40 | flat |
+| United Kingdom | 40 | growing |
+| Canada | 20 | growing |
+| United States | 20 | growing |
+| Ireland | 10 | growing |
+| Malta | 10 | growing |
 
-> Full per-country breakdown (5 markets) via the /demand/ endpoint.
+> Full per-country breakdown (14 markets) via the /demand/ endpoint.
 
 ## Links
 

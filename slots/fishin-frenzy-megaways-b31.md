@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fishin-frenzy-megaways-b31/demand/
 ```
 
-**12-month volume (illustrative):** 7,150 · **trend:** growing · YoY +5.0%
+**12-month volume (illustrative):** 7,040 · **trend:** declining · YoY -6.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | United Kingdom | 4,400 | growing |
-| United States | 460 | growing |
-| Ireland | 360 | flat |
-| Canada | 140 | flat |
-| Germany | 110 | growing |
+| United States | 460 | declining |
+| Ireland | 300 | flat |
+| Canada | 140 | growing |
+| Germany | 110 | flat |
 | Finland | 100 | flat |
-| Greece | 100 | declining |
-| India | 100 | flat |
-| Italy | 80 | flat |
-| Netherlands | 80 | growing |
+| Greece | 100 | growing |
+| India | 80 | flat |
+| Italy | 80 | growing |
+| Netherlands | 80 | declining |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

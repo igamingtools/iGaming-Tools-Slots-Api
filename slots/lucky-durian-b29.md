@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-durian-b29/demand/
 ```
 
-**12-month volume (illustrative):** 6,630 · **trend:** declining · YoY -37.5%
+**12-month volume (illustrative):** 5,980 · **trend:** declining · YoY -48.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 5,920 | declining |
-| United States | 180 | flat |
-| India | 120 | flat |
-| Indonesia | 50 | flat |
-| Lithuania | 50 | growing |
-| Canada | 40 | growing |
+| South Africa | 5,360 | declining |
+| United States | 160 | flat |
+| India | 100 | declining |
+| Lithuania | 50 | declining |
+| Canada | 40 | declining |
+| Indonesia | 40 | flat |
 | Malaysia | 40 | flat |
-| Tunisia | 40 | flat |
-| Italy | 20 | flat |
+| Italy | 30 | growing |
+| Tunisia | 30 | flat |
 | Pakistan | 20 | flat |
 
-> Full per-country breakdown (20 markets) via the /demand/ endpoint.
+> Full per-country breakdown (19 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/olympus-wins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,640 · **trend:** growing · YoY +133.2%
+**12-month volume (illustrative):** 4,270 · **trend:** growing · YoY +61.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,050 | declining |
-| Indonesia | 620 | declining |
-| Greece | 260 | growing |
-| South Africa | 230 | declining |
-| Malaysia | 160 | growing |
+| Brazil | 950 | declining |
+| Indonesia | 610 | flat |
+| South Africa | 190 | declining |
+| Greece | 160 | declining |
+| Malaysia | 160 | declining |
 | Canada | 120 | flat |
-| Thailand | 110 | flat |
-| Argentina | 90 | growing |
+| Thailand | 120 | flat |
+| Philippines | 90 | flat |
+| Argentina | 80 | declining |
 | Finland | 80 | flat |
-| Philippines | 80 | flat |
 
 > Full per-country breakdown (56 markets) via the /demand/ endpoint.
 

@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/shamrock-saints-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,330 · **trend:** declining · YoY -22.2%
+**12-month volume (illustrative):** 1,270 · **trend:** declining · YoY -24.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 120 | flat |
+| Greece | 130 | growing |
 | United Kingdom | 110 | flat |
-| Denmark | 90 | growing |
-| Sweden | 90 | growing |
-| Netherlands | 80 | flat |
+| Sweden | 90 | flat |
+| Denmark | 80 | declining |
+| Netherlands | 70 | flat |
 | Canada | 60 | flat |
-| Norway | 60 | flat |
+| Norway | 60 | declining |
 | United States | 60 | flat |
-| Brazil | 50 | declining |
 | Ireland | 50 | flat |
+| Belgium | 40 | flat |
 
-> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

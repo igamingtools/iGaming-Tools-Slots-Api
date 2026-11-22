@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-boat-big-catch-b10/demand/
 ```
 
-**12-month volume (illustrative):** 740 · **trend:** flat
+**12-month volume (illustrative):** 860 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 130 | growing |
-| United States | 100 | flat |
-| Germany | 40 | flat |
-| India | 40 | declining |
+| United Kingdom | 180 | declining |
+| United States | 120 | flat |
+| Germany | 40 | declining |
+| India | 40 | flat |
 | Malaysia | 40 | flat |
-| Indonesia | 30 | growing |
-| Netherlands | 30 | declining |
-| South Africa | 30 | growing |
+| Indonesia | 30 | declining |
+| Netherlands | 30 | flat |
+| Portugal | 30 | growing |
+| South Africa | 30 | declining |
 | Switzerland | 30 | flat |
-| Ukraine | 30 | growing |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
 
 ## Links
 

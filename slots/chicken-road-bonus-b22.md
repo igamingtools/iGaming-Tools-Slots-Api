@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-road-bonus-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,220 · **trend:** flat
+**12-month volume (illustrative):** 1,350 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 180 | flat |
-| Pakistan | 120 | flat |
-| Germany | 100 | flat |
-| Hungary | 60 | declining |
+| India | 200 | flat |
+| Pakistan | 140 | flat |
+| Germany | 110 | flat |
+| Hungary | 70 | growing |
 | Switzerland | 60 | flat |
 | Greece | 50 | flat |
-| Belgium | 40 | declining |
-| Finland | 40 | growing |
-| France | 40 | growing |
-| Italy | 40 | declining |
+| Italy | 50 | growing |
+| Australia | 40 | growing |
+| Belgium | 40 | flat |
+| Brazil | 40 | flat |
 
 > Full per-country breakdown (36 markets) via the /demand/ endpoint.
 

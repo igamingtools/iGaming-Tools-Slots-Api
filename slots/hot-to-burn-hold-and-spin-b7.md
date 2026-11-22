@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-to-burn-hold-and-spin-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,000 · **trend:** declining · YoY -29.7%
+**12-month volume (illustrative):** 5,680 · **trend:** declining · YoY -34.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 4,240 | declining |
-| Malaysia | 140 | declining |
+| South Africa | 3,970 | flat |
+| Malaysia | 140 | growing |
 | Brazil | 100 | flat |
-| United States | 100 | growing |
-| Lebanon | 90 | declining |
+| Lebanon | 90 | flat |
 | Germany | 80 | flat |
 | Greece | 80 | flat |
+| Poland | 80 | flat |
 | Tunisia | 80 | flat |
+| United States | 80 | declining |
 | Nigeria | 70 | flat |
-| Poland | 70 | flat |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

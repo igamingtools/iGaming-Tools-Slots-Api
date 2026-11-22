@@ -148,22 +148,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-magic-bonanza-b10/demand/
 ```
 
-**12-month volume (illustrative):** 2,780 · **trend:** declining · YoY -22.6%
+**12-month volume (illustrative):** 2,580 · **trend:** declining · YoY -30.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 240 | declining |
+| United States | 220 | declining |
 | India | 200 | flat |
-| New Zealand | 170 | flat |
 | Australia | 150 | flat |
-| Brazil | 120 | flat |
-| Switzerland | 120 | flat |
+| Switzerland | 150 | growing |
+| New Zealand | 130 | flat |
+| Brazil | 110 | declining |
 | Greece | 110 | flat |
-| Canada | 100 | declining |
-| Germany | 90 | declining |
-| Netherlands | 80 | flat |
+| Canada | 80 | flat |
+| Germany | 80 | flat |
+| United Kingdom | 80 | growing |
 
 > Full per-country breakdown (52 markets) via the /demand/ endpoint.
 

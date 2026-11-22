@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/happy-nets-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,230 · **trend:** flat
+**12-month volume (illustrative):** 3,120 · **trend:** growing · YoY +1735.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 690 | flat |
-| Greece | 160 | growing |
-| South Africa | 150 | flat |
-| Canada | 140 | flat |
-| Malaysia | 140 | flat |
-| India | 120 | flat |
-| Switzerland | 120 | flat |
-| Philippines | 90 | flat |
-| United Kingdom | 90 | declining |
-| Tunisia | 80 | growing |
+| Greece | 170 | flat |
+| South Africa | 150 | declining |
+| Canada | 140 | declining |
+| Malaysia | 120 | flat |
+| Switzerland | 90 | flat |
+| United Kingdom | 90 | flat |
+| Philippines | 80 | declining |
+| Tunisia | 80 | declining |
+| United States | 80 | flat |
 
-> Full per-country breakdown (61 markets) via the /demand/ endpoint.
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -120,20 +120,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/emoji-riches-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,370 · **trend:** flat · YoY -2.8%
+**12-month volume (illustrative):** 1,350 · **trend:** flat · YoY +2.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 520 | declining |
-| Brazil | 240 | declining |
-| Pakistan | 140 | growing |
+| India | 520 | flat |
+| Brazil | 230 | flat |
+| Pakistan | 140 | declining |
 | Indonesia | 130 | flat |
 | Philippines | 110 | flat |
-| Tunisia | 60 | flat |
-| Thailand | 40 | declining |
-| Mexico | 30 | declining |
+| Tunisia | 60 | declining |
+| Mexico | 30 | flat |
+| Thailand | 30 | flat |
 | Peru | 20 | flat |
 | Australia | 10 | flat |
 

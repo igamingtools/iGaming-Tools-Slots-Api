@@ -128,7 +128,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-s-treasure-quest-b30/demand/
 ```
 
-**12-month volume (illustrative):** 940 · **trend:** growing · YoY +213.3%
+**12-month volume (illustrative):** 900 · **trend:** growing · YoY +136.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -137,15 +137,15 @@ curl -H "Authorization: Token $TOKEN" \
 | Brazil | 280 | flat |
 | India | 180 | flat |
 | Philippines | 110 | flat |
-| Pakistan | 60 | declining |
-| Belarus | 40 | flat |
+| Pakistan | 60 | flat |
 | Tunisia | 40 | flat |
+| Belarus | 30 | flat |
 | Algeria | 20 | flat |
 | Indonesia | 20 | flat |
-| Lithuania | 20 | growing |
-| Spain | 20 | declining |
+| Lithuania | 20 | declining |
+| Spain | 20 | flat |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (19 markets) via the /demand/ endpoint.
 
 ## Links
 

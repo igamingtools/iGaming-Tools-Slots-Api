@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/10-cash-bisons-b28/demand/
 ```
 
-**12-month volume (illustrative):** 500 · **trend:** growing · YoY +354.5%
+**12-month volume (illustrative):** 460 · **trend:** growing · YoY +170.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 50 | flat |
-| Italy | 50 | flat |
-| Canada | 40 | flat |
+| Canada | 60 | growing |
+| Germany | 50 | declining |
 | Greece | 40 | flat |
-| United States | 40 | flat |
+| Italy | 40 | declining |
 | Denmark | 30 | flat |
-| Netherlands | 30 | flat |
-| New Zealand | 30 | flat |
+| Netherlands | 30 | declining |
 | Finland | 20 | flat |
 | India | 20 | flat |
+| Latvia | 20 | flat |
+| New Zealand | 20 | flat |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (21 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/spirited-wonders-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,250 · **trend:** declining · YoY -36.1%
+**12-month volume (illustrative):** 2,110 · **trend:** declining · YoY -39.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 490 | declining |
-| Indonesia | 300 | flat |
-| India | 260 | flat |
-| Pakistan | 180 | growing |
-| Philippines | 140 | flat |
-| Tunisia | 110 | declining |
-| Turkey | 100 | declining |
-| Thailand | 90 | growing |
-| Germany | 70 | flat |
-| United Kingdom | 60 | flat |
+| Brazil | 430 | declining |
+| India | 280 | flat |
+| Indonesia | 260 | flat |
+| Pakistan | 160 | declining |
+| Philippines | 130 | flat |
+| Tunisia | 100 | flat |
+| Turkey | 100 | growing |
+| Thailand | 90 | flat |
+| Germany | 60 | flat |
+| United States | 60 | flat |
 
 > Full per-country breakdown (32 markets) via the /demand/ endpoint.
 

@@ -138,24 +138,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/almighty-mustang-express-b31/demand/
 ```
 
-**12-month volume (illustrative):** 1,800 · **trend:** flat
+**12-month volume (illustrative):** 1,640 · **trend:** growing · YoY +530.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 410 | growing |
-| Canada | 300 | flat |
-| United States | 140 | flat |
-| South Africa | 130 | flat |
-| Denmark | 90 | flat |
-| Ireland | 80 | growing |
-| Netherlands | 60 | growing |
-| Australia | 50 | flat |
-| Austria | 50 | flat |
-| Spain | 50 | declining |
+| United Kingdom | 360 | flat |
+| Canada | 280 | flat |
+| United States | 160 | flat |
+| South Africa | 140 | flat |
+| Denmark | 80 | declining |
+| Ireland | 80 | flat |
+| Spain | 60 | growing |
+| Netherlands | 50 | declining |
+| Australia | 40 | flat |
+| Austria | 40 | flat |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

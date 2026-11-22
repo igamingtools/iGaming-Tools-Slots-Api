@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-hopper-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,860 · **trend:** declining · YoY -39.7%
+**12-month volume (illustrative):** 2,730 · **trend:** declining · YoY -45.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 330 | declining |
+| Switzerland | 330 | growing |
 | Finland | 240 | flat |
-| Sweden | 200 | flat |
+| Sweden | 190 | flat |
 | Canada | 180 | flat |
-| United States | 140 | declining |
+| United States | 140 | flat |
 | Greece | 130 | flat |
-| Belgium | 120 | growing |
 | Denmark | 120 | flat |
-| Netherlands | 110 | flat |
-| New Zealand | 110 | flat |
+| United Kingdom | 110 | flat |
+| Belgium | 100 | declining |
+| Germany | 100 | flat |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

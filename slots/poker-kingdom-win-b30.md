@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/poker-kingdom-win-b30/demand/
 ```
 
-**12-month volume (illustrative):** 4,250 · **trend:** flat
+**12-month volume (illustrative):** 4,560 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,840 | flat |
-| Philippines | 660 | declining |
-| Indonesia | 390 | growing |
-| India | 260 | growing |
-| Thailand | 250 | declining |
-| Pakistan | 140 | growing |
+| Brazil | 1,980 | declining |
+| Philippines | 680 | growing |
+| Indonesia | 400 | declining |
+| India | 320 | growing |
+| Thailand | 280 | growing |
+| Pakistan | 160 | declining |
 | United States | 80 | flat |
-| Ukraine | 60 | declining |
+| Ukraine | 70 | growing |
+| Tunisia | 50 | flat |
 | Canada | 40 | flat |
-| Malaysia | 40 | growing |
 
 > Full per-country breakdown (37 markets) via the /demand/ endpoint.
 

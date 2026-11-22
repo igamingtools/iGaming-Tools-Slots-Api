@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/olympus-unleashed-b28/demand/
 ```
 
-**12-month volume (illustrative):** 780 · **trend:** declining · YoY -40.0%
+**12-month volume (illustrative):** 660 · **trend:** declining · YoY -55.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Ireland | 270 | flat |
+| Ireland | 210 | flat |
 | Greece | 100 | flat |
-| Finland | 60 | growing |
-| Netherlands | 50 | declining |
-| Brazil | 30 | flat |
-| Latvia | 30 | flat |
-| United Kingdom | 30 | flat |
+| Finland | 60 | flat |
+| Netherlands | 40 | flat |
+| Spain | 30 | growing |
 | Belgium | 20 | flat |
+| Brazil | 20 | flat |
 | Hungary | 20 | flat |
-| Italy | 20 | flat |
+| Latvia | 20 | flat |
+| Sweden | 20 | flat |
 
-> Full per-country breakdown (23 markets) via the /demand/ endpoint.
+> Full per-country breakdown (21 markets) via the /demand/ endpoint.
 
 ## Links
 

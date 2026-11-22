@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/legendary-monkey-king-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,080 · **trend:** declining · YoY -34.1%
+**12-month volume (illustrative):** 1,020 · **trend:** declining · YoY -37.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | India | 260 | flat |
-| Brazil | 150 | flat |
-| Pakistan | 140 | growing |
+| Brazil | 140 | flat |
+| Pakistan | 140 | declining |
 | Philippines | 120 | flat |
-| Indonesia | 80 | flat |
-| Thailand | 80 | declining |
-| Malaysia | 40 | flat |
-| Tunisia | 30 | flat |
-| Hong Kong | 20 | flat |
-| Japan | 20 | flat |
+| Indonesia | 80 | growing |
+| Thailand | 70 | flat |
+| Japan | 20 | growing |
+| Malaysia | 20 | flat |
+| Mexico | 20 | flat |
+| Netherlands | 20 | flat |
 
 > Full per-country breakdown (20 markets) via the /demand/ endpoint.
 

@@ -128,19 +128,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tsar-treasures-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,070 · **trend:** declining · YoY -34.1%
+**12-month volume (illustrative):** 1,920 · **trend:** declining · YoY -37.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,180 | growing |
-| India | 160 | flat |
-| Philippines | 110 | growing |
-| Indonesia | 100 | growing |
-| Pakistan | 80 | flat |
-| Thailand | 60 | flat |
-| Tunisia | 40 | growing |
+| Brazil | 1,030 | growing |
+| India | 180 | growing |
+| Philippines | 110 | flat |
+| Indonesia | 100 | flat |
+| Pakistan | 80 | declining |
+| Thailand | 50 | declining |
+| Tunisia | 40 | flat |
 | Ukraine | 40 | flat |
 | United States | 40 | flat |
 | Algeria | 30 | flat |

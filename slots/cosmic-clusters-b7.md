@@ -141,22 +141,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cosmic-clusters-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,400 · **trend:** flat
+**12-month volume (illustrative):** 2,740 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 440 | growing |
-| South Africa | 210 | growing |
-| Greece | 180 | declining |
-| Canada | 100 | flat |
-| Belgium | 60 | flat |
-| Finland | 60 | flat |
-| Germany | 60 | declining |
-| Netherlands | 60 | flat |
-| Peru | 60 | declining |
-| United Kingdom | 60 | flat |
+| Brazil | 470 | declining |
+| South Africa | 220 | declining |
+| Greece | 200 | declining |
+| Canada | 120 | flat |
+| Finland | 80 | flat |
+| Germany | 70 | flat |
+| Netherlands | 70 | flat |
+| Peru | 70 | declining |
+| United Kingdom | 70 | flat |
+| Argentina | 60 | flat |
 
 > Full per-country breakdown (57 markets) via the /demand/ endpoint.
 

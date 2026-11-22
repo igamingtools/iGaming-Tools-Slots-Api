@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rave-party-fever-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,640 · **trend:** declining · YoY -29.6%
+**12-month volume (illustrative):** 2,470 · **trend:** declining · YoY -32.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | India | 740 | declining |
-| Brazil | 620 | growing |
-| Indonesia | 300 | declining |
+| Brazil | 590 | declining |
+| Indonesia | 260 | flat |
 | Philippines | 140 | flat |
 | Pakistan | 120 | flat |
-| Thailand | 110 | growing |
-| Mexico | 60 | growing |
-| Estonia | 50 | flat |
-| Chile | 40 | flat |
-| Japan | 40 | flat |
+| Thailand | 100 | declining |
+| Mexico | 50 | declining |
+| Estonia | 40 | flat |
+| Tunisia | 40 | declining |
+| Chile | 30 | flat |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

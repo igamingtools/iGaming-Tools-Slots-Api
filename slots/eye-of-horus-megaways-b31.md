@@ -134,24 +134,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/eye-of-horus-megaways-b31/demand/
 ```
 
-**12-month volume (illustrative):** 17,430 · **trend:** flat · YoY -0.1%
+**12-month volume (illustrative):** 16,990 · **trend:** declining · YoY -11.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | United Kingdom | 12,240 | flat |
-| United States | 1,120 | flat |
-| Germany | 670 | growing |
-| Spain | 390 | growing |
-| Switzerland | 330 | flat |
-| Canada | 200 | declining |
+| United States | 720 | flat |
+| Germany | 660 | declining |
+| Spain | 430 | growing |
+| Switzerland | 330 | growing |
 | Ireland | 170 | flat |
+| Canada | 160 | flat |
 | Greece | 130 | flat |
-| Romania | 130 | flat |
-| Finland | 120 | declining |
+| Finland | 120 | flat |
+| Netherlands | 120 | flat |
 
-> Full per-country breakdown (59 markets) via the /demand/ endpoint.
+> Full per-country breakdown (57 markets) via the /demand/ endpoint.
 
 ## Links
 

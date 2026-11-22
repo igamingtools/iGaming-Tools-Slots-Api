@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-safari-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,010 · **trend:** declining · YoY -42.9%
+**12-month volume (illustrative):** 1,000 · **trend:** declining · YoY -41.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 360 | declining |
-| Ireland | 90 | declining |
-| Brazil | 80 | declining |
+| South Africa | 360 | growing |
+| Ireland | 80 | flat |
+| Brazil | 70 | flat |
 | Switzerland | 60 | flat |
-| Finland | 40 | flat |
-| Indonesia | 40 | flat |
-| United States | 40 | declining |
+| Finland | 40 | declining |
+| Tunisia | 40 | growing |
+| United States | 40 | flat |
+| Indonesia | 30 | flat |
 | Lebanon | 30 | flat |
-| Tunisia | 30 | flat |
-| Argentina | 20 | flat |
+| Mexico | 30 | growing |
 
-> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+> Full per-country breakdown (26 markets) via the /demand/ endpoint.
 
 ## Links
 

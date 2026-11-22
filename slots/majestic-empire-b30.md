@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/majestic-empire-b30/demand/
 ```
 
-**12-month volume (illustrative):** 3,500 · **trend:** growing · YoY +993.8%
+**12-month volume (illustrative):** 3,210 · **trend:** growing · YoY +184.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,110 | declining |
-| India | 500 | growing |
-| Philippines | 350 | flat |
-| Indonesia | 280 | growing |
-| Thailand | 220 | flat |
-| Pakistan | 200 | growing |
+| Brazil | 930 | growing |
+| India | 480 | flat |
+| Philippines | 350 | growing |
+| Thailand | 270 | flat |
+| Indonesia | 260 | growing |
+| Pakistan | 200 | flat |
 | Tunisia | 110 | flat |
-| United States | 60 | declining |
+| United States | 60 | flat |
 | Cyprus | 50 | flat |
 | Mexico | 50 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

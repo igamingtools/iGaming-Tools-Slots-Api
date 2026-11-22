@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pirate-gold-deluxe-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,370 · **trend:** flat · YoY +3.0%
+**12-month volume (illustrative):** 1,280 · **trend:** flat · YoY -3.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 120 | flat |
-| Argentina | 110 | declining |
-| South Africa | 110 | declining |
-| Portugal | 100 | declining |
-| Malaysia | 80 | growing |
+| Argentina | 100 | flat |
+| Portugal | 100 | growing |
+| South Africa | 100 | flat |
+| Malaysia | 80 | declining |
 | Greece | 60 | flat |
-| Indonesia | 60 | declining |
+| Indonesia | 60 | flat |
 | Switzerland | 60 | flat |
-| Philippines | 50 | flat |
-| Germany | 40 | flat |
+| Slovakia | 50 | flat |
+| Philippines | 40 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

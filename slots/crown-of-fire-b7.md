@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/crown-of-fire-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,640 · **trend:** declining · YoY -21.0%
+**12-month volume (illustrative):** 3,510 · **trend:** declining · YoY -23.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,940 | flat |
+| South Africa | 1,840 | flat |
 | Canada | 220 | flat |
 | Brazil | 110 | flat |
-| Romania | 110 | flat |
 | Mexico | 100 | flat |
+| Romania | 100 | declining |
 | Greece | 90 | flat |
-| United Kingdom | 90 | declining |
-| Germany | 70 | flat |
-| Latvia | 60 | flat |
-| Belarus | 40 | flat |
+| United Kingdom | 80 | flat |
+| Germany | 60 | flat |
+| Croatia | 50 | growing |
+| Latvia | 50 | flat |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

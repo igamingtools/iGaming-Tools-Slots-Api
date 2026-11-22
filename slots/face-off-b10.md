@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/face-off-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,410 · **trend:** flat
+**12-month volume (illustrative):** 1,300 · **trend:** growing · YoY +465.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 180 | growing |
-| United States | 160 | growing |
-| Brazil | 100 | declining |
+| Finland | 180 | flat |
+| United States | 160 | flat |
+| Brazil | 100 | flat |
 | Germany | 90 | flat |
-| India | 60 | flat |
-| Greece | 50 | flat |
-| Netherlands | 50 | growing |
-| United Kingdom | 50 | growing |
-| Australia | 40 | growing |
-| Canada | 40 | flat |
+| India | 60 | declining |
+| United Kingdom | 60 | flat |
+| Poland | 50 | growing |
+| Australia | 40 | flat |
+| Estonia | 40 | flat |
+| Greece | 40 | flat |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

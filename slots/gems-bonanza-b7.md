@@ -134,24 +134,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gems-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 38,750 · **trend:** declining · YoY -36.1%
+**12-month volume (illustrative):** 36,240 · **trend:** declining · YoY -39.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 4,590 | declining |
-| Greece | 2,540 | declining |
-| Netherlands | 2,460 | declining |
-| Romania | 2,320 | declining |
-| Canada | 2,300 | flat |
-| Denmark | 2,130 | flat |
-| Finland | 1,760 | declining |
-| United Kingdom | 1,720 | declining |
-| United States | 1,180 | growing |
-| South Africa | 1,160 | declining |
+| Brazil | 4,280 | declining |
+| Greece | 2,290 | declining |
+| Netherlands | 2,250 | declining |
+| Romania | 2,150 | declining |
+| Canada | 2,140 | declining |
+| Denmark | 1,960 | declining |
+| Finland | 1,800 | growing |
+| United Kingdom | 1,600 | declining |
+| Germany | 1,170 | flat |
+| United States | 1,120 | declining |
 
-> Full per-country breakdown (75 markets) via the /demand/ endpoint.
+> Full per-country breakdown (74 markets) via the /demand/ endpoint.
 
 ## Links
 

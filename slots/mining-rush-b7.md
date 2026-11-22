@@ -131,21 +131,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mining-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 9,770 · **trend:** declining · YoY -20.4%
+**12-month volume (illustrative):** 9,290 · **trend:** declining · YoY -30.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,290 | flat |
-| Greece | 1,240 | growing |
-| Philippines | 1,090 | flat |
-| Peru | 540 | declining |
-| Indonesia | 270 | declining |
+| Brazil | 2,100 | declining |
+| Greece | 1,160 | flat |
+| Philippines | 1,070 | flat |
+| Peru | 550 | flat |
+| Switzerland | 270 | flat |
+| Indonesia | 250 | flat |
 | Canada | 240 | flat |
-| Switzerland | 240 | flat |
-| Germany | 210 | declining |
 | Finland | 200 | flat |
+| Germany | 190 | growing |
 | Cyprus | 150 | flat |
 
 > Full per-country breakdown (59 markets) via the /demand/ endpoint.

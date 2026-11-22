@@ -120,20 +120,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/reel-royale-showdown-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,610 · **trend:** flat
+**12-month volume (illustrative):** 1,650 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 350 | growing |
-| Philippines | 350 | flat |
-| Indonesia | 170 | flat |
-| India | 80 | growing |
-| Pakistan | 80 | growing |
-| Thailand | 80 | declining |
+| Brazil | 360 | declining |
+| Philippines | 350 | declining |
+| Indonesia | 170 | declining |
+| India | 100 | declining |
+| Pakistan | 80 | declining |
+| Thailand | 80 | flat |
 | Morocco | 50 | flat |
-| Tunisia | 50 | flat |
+| Tunisia | 50 | declining |
 | Finland | 40 | flat |
 | Switzerland | 30 | flat |
 

@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/neon-cash-city-b28/demand/
 ```
 
-**12-month volume (illustrative):** 500 · **trend:** flat
+**12-month volume (illustrative):** 600 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 60 | flat |
-| Belgium | 40 | flat |
-| Canada | 40 | flat |
-| Finland | 40 | flat |
-| Greece | 40 | declining |
-| Austria | 20 | flat |
-| Germany | 20 | flat |
-| Ireland | 20 | flat |
-| Italy | 20 | flat |
-| Latvia | 20 | flat |
+| Canada | 60 | flat |
+| Finland | 60 | flat |
+| Switzerland | 60 | declining |
+| Greece | 50 | flat |
+| Belgium | 40 | declining |
+| Netherlands | 30 | flat |
+| Australia | 20 | growing |
+| Austria | 20 | declining |
+| Germany | 20 | declining |
+| Ireland | 20 | declining |
 
-> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+> Full per-country breakdown (26 markets) via the /demand/ endpoint.
 
 ## Links
 

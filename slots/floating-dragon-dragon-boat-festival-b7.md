@@ -153,22 +153,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/floating-dragon-dragon-boat-festival-b7/demand/
 ```
 
-**12-month volume (illustrative):** 680 · **trend:** flat · YoY +0.0%
+**12-month volume (illustrative):** 680 · **trend:** flat · YoY -1.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 90 | flat |
-| South Africa | 70 | growing |
-| Canada | 40 | flat |
-| Latvia | 40 | growing |
+| Brazil | 80 | declining |
+| South Africa | 70 | flat |
+| Canada | 60 | growing |
+| Germany | 40 | flat |
+| Latvia | 40 | declining |
 | Malaysia | 40 | flat |
-| Tunisia | 40 | growing |
-| United States | 40 | flat |
-| Australia | 30 | flat |
-| Germany | 30 | growing |
+| Tunisia | 40 | declining |
 | Greece | 30 | flat |
+| Portugal | 30 | growing |
+| Slovenia | 30 | declining |
 
 > Full per-country breakdown (25 markets) via the /demand/ endpoint.
 

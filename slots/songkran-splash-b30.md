@@ -122,24 +122,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/songkran-splash-b30/demand/
 ```
 
-**12-month volume (illustrative):** 4,210 · **trend:** declining · YoY -24.6%
+**12-month volume (illustrative):** 4,010 · **trend:** declining · YoY -29.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,010 | declining |
-| India | 460 | declining |
-| Indonesia | 450 | growing |
-| Philippines | 330 | flat |
-| Pakistan | 160 | growing |
-| Estonia | 70 | flat |
-| Thailand | 70 | growing |
-| Turkey | 60 | declining |
+| Brazil | 1,970 | growing |
+| India | 420 | flat |
+| Indonesia | 410 | declining |
+| Philippines | 270 | declining |
+| Pakistan | 140 | declining |
+| Estonia | 70 | declining |
+| Thailand | 70 | declining |
+| Turkey | 70 | growing |
 | United States | 60 | flat |
-| Chile | 40 | growing |
+| France | 40 | flat |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

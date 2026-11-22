@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/razor-shark-b28/demand/
 ```
 
-**12-month volume (illustrative):** 58,910 · **trend:** declining · YoY -30.7%
+**12-month volume (illustrative):** 57,300 · **trend:** declining · YoY -29.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 37,380 | growing |
-| Austria | 2,830 | growing |
-| Switzerland | 2,710 | declining |
-| United Kingdom | 1,430 | flat |
-| Greece | 1,420 | growing |
-| Netherlands | 1,290 | growing |
-| Finland | 1,280 | declining |
-| United States | 1,160 | growing |
-| Sweden | 870 | flat |
-| Canada | 660 | declining |
+| Germany | 36,860 | declining |
+| Austria | 2,710 | growing |
+| Switzerland | 2,470 | growing |
+| United Kingdom | 1,370 | flat |
+| Greece | 1,300 | growing |
+| Netherlands | 1,170 | growing |
+| Finland | 1,120 | growing |
+| United States | 1,120 | declining |
+| Sweden | 820 | growing |
+| Canada | 660 | growing |
 
 > Full per-country breakdown (75 markets) via the /demand/ endpoint.
 

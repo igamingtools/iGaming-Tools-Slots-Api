@@ -138,9 +138,23 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/kong-even-more-money-b31/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 270 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 170 | growing |
+| Canada | 20 | growing |
+| Finland | 20 | growing |
+| Denmark | 10 | growing |
+| Ireland | 10 | growing |
+| Malta | 10 | growing |
+| Netherlands | 10 | growing |
+| New Zealand | 10 | growing |
+| Sweden | 10 | growing |
+
+> Full per-country breakdown (9 markets) via the /demand/ endpoint.
 
 ## Links
 

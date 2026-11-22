@@ -138,16 +138,16 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sexy-joker-b23/demand/
 ```
 
-**12-month volume (illustrative):** 320 · **trend:** growing · YoY +357.1%
+**12-month volume (illustrative):** 350 · **trend:** growing · YoY +250.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 200 | flat |
-| Brazil | 60 | flat |
+| Philippines | 180 | flat |
+| Brazil | 100 | growing |
+| Argentina | 20 | growing |
 | Poland | 20 | flat |
-| Argentina | 10 | flat |
 | Belarus | 10 | flat |
 | Germany | 10 | flat |
 | Ukraine | 10 | flat |

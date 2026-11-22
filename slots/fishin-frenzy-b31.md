@@ -134,24 +134,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fishin-frenzy-b31/demand/
 ```
 
-**12-month volume (illustrative):** 56,840 · **trend:** declining · YoY -28.4%
+**12-month volume (illustrative):** 55,640 · **trend:** declining · YoY -34.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 43,100 | flat |
-| Germany | 3,180 | flat |
-| United States | 1,620 | growing |
-| Poland | 960 | declining |
-| Austria | 530 | flat |
+| United Kingdom | 42,300 | growing |
+| Germany | 2,920 | growing |
+| United States | 1,660 | declining |
+| Poland | 940 | flat |
 | Switzerland | 520 | flat |
-| Ireland | 390 | growing |
-| Netherlands | 360 | flat |
-| Canada | 300 | flat |
-| India | 300 | flat |
+| Ireland | 440 | growing |
+| Austria | 430 | growing |
+| Netherlands | 370 | growing |
+| Romania | 310 | growing |
+| India | 300 | growing |
 
-> Full per-country breakdown (74 markets) via the /demand/ endpoint.
+> Full per-country breakdown (72 markets) via the /demand/ endpoint.
 
 ## Links
 

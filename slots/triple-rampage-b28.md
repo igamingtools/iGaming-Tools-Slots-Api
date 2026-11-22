@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/triple-rampage-b28/demand/
 ```
 
-**12-month volume (illustrative):** 710 · **trend:** growing · YoY +77.5%
+**12-month volume (illustrative):** 620 · **trend:** growing · YoY +19.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 90 | flat |
-| Brazil | 60 | growing |
-| Latvia | 60 | flat |
-| Italy | 50 | flat |
-| Netherlands | 50 | growing |
+| Brazil | 60 | declining |
+| Latvia | 60 | growing |
+| Switzerland | 60 | flat |
 | Canada | 40 | flat |
 | Greece | 40 | flat |
-| United States | 40 | flat |
+| Italy | 40 | flat |
+| Netherlands | 40 | declining |
 | Bulgaria | 30 | flat |
 | Sweden | 30 | flat |
+| Estonia | 20 | flat |
 
-> Full per-country breakdown (27 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

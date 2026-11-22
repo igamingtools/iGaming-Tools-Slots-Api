@@ -145,21 +145,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/forgotten-b10/demand/
 ```
 
-**12-month volume (illustrative):** 3,800 · **trend:** declining · YoY -5.7%
+**12-month volume (illustrative):** 3,820 · **trend:** flat · YoY -4.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 420 | growing |
+| United States | 420 | declining |
 | Canada | 200 | flat |
 | Finland | 180 | flat |
-| Brazil | 150 | growing |
-| Malaysia | 140 | declining |
-| Germany | 120 | flat |
-| Peru | 120 | flat |
-| Indonesia | 110 | growing |
-| Mexico | 110 | growing |
+| Brazil | 140 | declining |
+| Malaysia | 140 | growing |
+| Germany | 110 | declining |
+| Mexico | 110 | flat |
+| Peru | 110 | declining |
+| Australia | 100 | flat |
 | Chile | 100 | flat |
 
 > Full per-country breakdown (58 markets) via the /demand/ endpoint.

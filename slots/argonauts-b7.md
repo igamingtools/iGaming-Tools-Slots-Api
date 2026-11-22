@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/argonauts-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,710 · **trend:** growing · YoY +21.3%
+**12-month volume (illustrative):** 1,470 · **trend:** declining · YoY -15.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 230 | flat |
-| Brazil | 150 | flat |
+| Greece | 140 | declining |
+| Brazil | 130 | flat |
 | Switzerland | 120 | flat |
-| South Africa | 110 | flat |
 | Peru | 90 | flat |
-| Portugal | 70 | declining |
-| Romania | 70 | flat |
-| Tunisia | 60 | growing |
-| Italy | 50 | flat |
-| Netherlands | 50 | flat |
+| South Africa | 80 | declining |
+| Portugal | 70 | growing |
+| Italy | 60 | growing |
+| Romania | 60 | flat |
+| Tunisia | 60 | declining |
+| Canada | 40 | flat |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

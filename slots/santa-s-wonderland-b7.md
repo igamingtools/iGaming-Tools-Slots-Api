@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/santa-s-wonderland-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,430 · **trend:** declining · YoY -21.7%
+**12-month volume (illustrative):** 4,400 · **trend:** declining · YoY -22.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 320 | flat |
-| Brazil | 300 | growing |
-| Netherlands | 230 | flat |
-| Sweden | 200 | declining |
-| Denmark | 190 | flat |
+| Brazil | 310 | declining |
+| Greece | 300 | growing |
+| Netherlands | 220 | declining |
+| Sweden | 190 | flat |
 | Belgium | 180 | flat |
+| Denmark | 170 | flat |
 | Finland | 160 | flat |
-| Latvia | 150 | declining |
+| Latvia | 160 | growing |
 | South Africa | 140 | flat |
-| Germany | 130 | flat |
+| Argentina | 120 | flat |
 
-> Full per-country breakdown (52 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

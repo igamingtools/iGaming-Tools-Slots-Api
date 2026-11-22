@@ -122,7 +122,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/garuda-gems-b30/demand/
 ```
 
-**12-month volume (illustrative):** 3,000 · **trend:** declining · YoY -7.4%
+**12-month volume (illustrative):** 3,010 · **trend:** flat · YoY -3.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -130,14 +130,14 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Brazil | 1,130 | flat |
 | Philippines | 310 | flat |
-| India | 300 | declining |
-| Indonesia | 280 | flat |
+| India | 300 | flat |
+| Indonesia | 270 | flat |
 | Pakistan | 220 | flat |
-| Tunisia | 110 | growing |
-| Malaysia | 100 | growing |
-| Mexico | 100 | flat |
-| Thailand | 60 | flat |
-| Chile | 50 | growing |
+| Tunisia | 120 | declining |
+| Mexico | 110 | flat |
+| Malaysia | 100 | declining |
+| Thailand | 60 | growing |
+| Chile | 50 | declining |
 
 > Full per-country breakdown (28 markets) via the /demand/ endpoint.
 

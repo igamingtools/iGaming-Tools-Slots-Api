@@ -120,17 +120,17 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/caishen-s-cash-b7/demand/
 ```
 
-**12-month volume (illustrative):** 60 · **trend:** flat
+**12-month volume (illustrative):** 100 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 20 | growing |
-| Argentina | 10 | growing |
-| Indonesia | 10 | growing |
-| Norway | 10 | growing |
-| South Africa | 10 | growing |
+| Brazil | 50 | growing |
+| Argentina | 20 | flat |
+| Indonesia | 10 | declining |
+| Norway | 10 | declining |
+| South Africa | 10 | declining |
 
 > Full per-country breakdown (5 markets) via the /demand/ endpoint.
 

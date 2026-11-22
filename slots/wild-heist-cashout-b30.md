@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-heist-cashout-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,140 · **trend:** declining · YoY -59.5%
+**12-month volume (illustrative):** 2,020 · **trend:** declining · YoY -59.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 630 | growing |
+| Brazil | 600 | declining |
 | India | 240 | flat |
-| Philippines | 240 | flat |
+| Philippines | 220 | flat |
 | Indonesia | 170 | flat |
-| Pakistan | 160 | growing |
-| Thailand | 70 | flat |
-| Tunisia | 60 | growing |
-| Vietnam | 60 | flat |
-| Greece | 50 | growing |
-| Morocco | 40 | flat |
+| Pakistan | 160 | flat |
+| Thailand | 60 | flat |
+| United States | 60 | flat |
+| Greece | 50 | declining |
+| Tunisia | 50 | declining |
+| Vietnam | 50 | declining |
 
-> Full per-country breakdown (35 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

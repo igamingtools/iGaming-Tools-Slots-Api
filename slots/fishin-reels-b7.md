@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fishin-reels-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,530 · **trend:** declining · YoY -10.5%
+**12-month volume (illustrative):** 1,490 · **trend:** declining · YoY -12.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 190 | declining |
-| United Kingdom | 170 | flat |
-| South Africa | 140 | flat |
-| Canada | 120 | flat |
+| Brazil | 200 | growing |
+| United Kingdom | 150 | flat |
+| South Africa | 130 | flat |
 | Greece | 120 | flat |
-| Romania | 70 | declining |
-| Lithuania | 60 | declining |
-| Malaysia | 60 | flat |
-| Philippines | 60 | growing |
-| Germany | 50 | flat |
+| Canada | 100 | flat |
+| Philippines | 60 | declining |
+| Romania | 60 | flat |
+| Indonesia | 50 | growing |
+| Lithuania | 50 | flat |
+| Finland | 40 | flat |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (32 markets) via the /demand/ endpoint.
 
 ## Links
 

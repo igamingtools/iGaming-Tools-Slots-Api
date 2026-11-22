@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-joker-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,640 · **trend:** declining · YoY -6.0%
+**12-month volume (illustrative):** 2,580 · **trend:** declining · YoY -7.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 290 | flat |
-| Brazil | 210 | declining |
+| South Africa | 290 | growing |
+| Brazil | 200 | flat |
 | Switzerland | 180 | flat |
-| Czech Republic | 170 | declining |
-| Finland | 140 | declining |
+| Czech Republic | 170 | flat |
+| Finland | 140 | flat |
 | Argentina | 110 | flat |
-| Lithuania | 110 | declining |
+| Lithuania | 110 | growing |
 | Mexico | 110 | flat |
-| Netherlands | 90 | declining |
-| Greece | 80 | growing |
+| Netherlands | 80 | flat |
+| Poland | 80 | growing |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (48 markets) via the /demand/ endpoint.
 
 ## Links
 

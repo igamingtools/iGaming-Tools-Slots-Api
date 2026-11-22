@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/poseidon-b29/demand/
 ```
 
-**12-month volume (illustrative):** 5,610 · **trend:** growing · YoY +16.4%
+**12-month volume (illustrative):** 5,480 · **trend:** flat · YoY +3.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 1,560 | declining |
-| South Africa | 710 | declining |
-| Brazil | 310 | declining |
-| Philippines | 290 | declining |
+| India | 1,560 | flat |
+| South Africa | 650 | declining |
+| Brazil | 300 | flat |
+| Philippines | 260 | flat |
 | Pakistan | 240 | flat |
 | United States | 200 | flat |
-| Greece | 190 | flat |
-| Canada | 160 | growing |
-| Malaysia | 160 | declining |
+| Greece | 180 | flat |
+| Malaysia | 180 | growing |
+| Canada | 140 | declining |
 | Indonesia | 120 | flat |
 
-> Full per-country breakdown (53 markets) via the /demand/ endpoint.
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
 
 ## Links
 

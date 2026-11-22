@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/win-win-fish-prawn-crab-b30/demand/
 ```
 
-**12-month volume (illustrative):** 770 · **trend:** declining · YoY -35.8%
+**12-month volume (illustrative):** 730 · **trend:** declining · YoY -40.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 190 | declining |
-| Thailand | 110 | declining |
-| India | 100 | flat |
-| Pakistan | 100 | growing |
-| Philippines | 70 | growing |
-| Indonesia | 60 | flat |
+| Brazil | 190 | flat |
+| India | 100 | growing |
+| Pakistan | 100 | declining |
+| Thailand | 80 | growing |
+| Indonesia | 70 | flat |
+| Philippines | 70 | flat |
 | Chile | 20 | flat |
-| Morocco | 20 | flat |
 | Tunisia | 20 | flat |
 | Algeria | 10 | flat |
+| Argentina | 10 | flat |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 

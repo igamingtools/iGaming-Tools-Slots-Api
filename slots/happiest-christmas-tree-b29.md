@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/happiest-christmas-tree-b29/demand/
 ```
 
-**12-month volume (illustrative):** 3,340 · **trend:** declining · YoY -36.3%
+**12-month volume (illustrative):** 3,130 · **trend:** declining · YoY -37.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,630 | flat |
-| Tunisia | 150 | declining |
-| Lithuania | 70 | declining |
-| Philippines | 40 | declining |
-| United States | 40 | flat |
-| France | 30 | flat |
+| South Africa | 2,480 | declining |
+| Tunisia | 150 | growing |
+| Lithuania | 50 | declining |
+| United States | 40 | growing |
+| Philippines | 30 | flat |
 | Switzerland | 30 | flat |
-| Ukraine | 30 | flat |
-| Austria | 20 | flat |
 | Canada | 20 | flat |
+| Egypt | 20 | flat |
+| France | 20 | flat |
+| India | 20 | flat |
 
 > Full per-country breakdown (31 markets) via the /demand/ endpoint.
 

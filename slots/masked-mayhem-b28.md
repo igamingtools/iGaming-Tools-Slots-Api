@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/masked-mayhem-b28/demand/
 ```
 
-**12-month volume (illustrative):** 2,060 · **trend:** growing · YoY +1371.4%
+**12-month volume (illustrative):** 1,630 · **trend:** growing · YoY +154.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 160 | flat |
-| Canada | 140 | declining |
 | Greece | 130 | flat |
-| Australia | 110 | declining |
-| Brazil | 110 | declining |
-| Netherlands | 100 | flat |
-| Germany | 90 | flat |
-| Denmark | 80 | flat |
-| United States | 80 | flat |
-| Latvia | 70 | growing |
+| Canada | 120 | growing |
+| United Kingdom | 120 | flat |
+| Brazil | 100 | flat |
+| Australia | 90 | flat |
+| Denmark | 70 | flat |
+| Germany | 70 | flat |
+| Sweden | 70 | flat |
+| Netherlands | 60 | flat |
+| Ukraine | 60 | declining |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
 
 ## Links
 

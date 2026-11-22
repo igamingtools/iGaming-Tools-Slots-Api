@@ -102,20 +102,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/french-roulette-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,920 · **trend:** declining · YoY -49.1%
+**12-month volume (illustrative):** 1,860 · **trend:** declining · YoY -48.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Italy | 470 | flat |
-| India | 160 | flat |
-| Canada | 120 | declining |
-| United States | 100 | growing |
-| France | 80 | declining |
-| Germany | 80 | declining |
-| Greece | 80 | flat |
-| United Kingdom | 80 | flat |
+| Italy | 420 | growing |
+| India | 180 | flat |
+| Canada | 100 | flat |
+| United States | 100 | flat |
+| Greece | 90 | flat |
+| United Kingdom | 90 | flat |
+| Germany | 80 | flat |
+| France | 70 | flat |
 | Belgium | 60 | flat |
 | South Africa | 60 | flat |
 

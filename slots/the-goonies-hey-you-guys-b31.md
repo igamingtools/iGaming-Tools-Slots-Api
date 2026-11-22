@@ -138,7 +138,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-goonies-hey-you-guys-b31/demand/
 ```
 
-**12-month volume (illustrative):** 390 · **trend:** declining · YoY -48.0%
+**12-month volume (illustrative):** 410 · **trend:** declining · YoY -46.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -147,13 +147,13 @@ curl -H "Authorization: Token $TOKEN" \
 | United States | 120 | flat |
 | United Kingdom | 110 | flat |
 | Greece | 40 | flat |
-| Netherlands | 30 | growing |
+| Netherlands | 30 | declining |
 | Canada | 20 | flat |
 | Finland | 20 | flat |
 | Italy | 20 | flat |
+| South Africa | 20 | growing |
+| Sweden | 20 | growing |
 | New Zealand | 10 | flat |
-| South Africa | 10 | flat |
-| Sweden | 10 | flat |
 
 > Full per-country breakdown (10 markets) via the /demand/ endpoint.
 

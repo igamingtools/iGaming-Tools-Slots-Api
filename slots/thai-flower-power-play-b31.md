@@ -138,9 +138,16 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/thai-flower-power-play-b31/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 100 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| United Kingdom | 90 | growing |
+| Ireland | 10 | growing |
+
+> Full per-country breakdown (2 markets) via the /demand/ endpoint.
 
 ## Links
 

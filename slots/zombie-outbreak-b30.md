@@ -122,24 +122,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/zombie-outbreak-b30/demand/
 ```
 
-**12-month volume (illustrative):** 13,850 · **trend:** declining · YoY -21.9%
+**12-month volume (illustrative):** 13,800 · **trend:** declining · YoY -20.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 7,520 | flat |
-| Philippines | 1,480 | growing |
-| India | 1,220 | declining |
-| Indonesia | 700 | declining |
+| Brazil | 7,760 | declining |
+| Philippines | 1,320 | declining |
+| India | 1,260 | growing |
+| Indonesia | 660 | flat |
 | Pakistan | 480 | flat |
-| Vietnam | 220 | growing |
-| United States | 160 | declining |
-| New Zealand | 130 | flat |
-| Tunisia | 120 | growing |
-| Greece | 100 | declining |
+| Vietnam | 230 | declining |
+| United States | 140 | flat |
+| New Zealand | 110 | flat |
+| Tunisia | 110 | flat |
+| Mexico | 100 | growing |
 
-> Full per-country breakdown (57 markets) via the /demand/ endpoint.
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
 
 ## Links
 

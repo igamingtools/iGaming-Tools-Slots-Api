@@ -138,24 +138,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/game-of-thrones-b31/demand/
 ```
 
-**12-month volume (illustrative):** 21,190 · **trend:** flat · YoY -4.2%
+**12-month volume (illustrative):** 21,920 · **trend:** declining · YoY -5.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 9,840 | flat |
-| Germany | 6,560 | growing |
-| South Africa | 940 | declining |
-| United Kingdom | 500 | declining |
-| Austria | 410 | growing |
-| Portugal | 390 | growing |
-| United States | 300 | declining |
+| Brazil | 9,840 | declining |
+| Germany | 6,950 | declining |
+| South Africa | 1,070 | declining |
+| United Kingdom | 580 | growing |
+| Austria | 430 | declining |
+| Portugal | 380 | declining |
+| United States | 320 | growing |
 | India | 200 | flat |
+| Switzerland | 150 | growing |
 | Canada | 140 | flat |
-| Switzerland | 140 | declining |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (58 markets) via the /demand/ endpoint.
 
 ## Links
 

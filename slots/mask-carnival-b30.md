@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mask-carnival-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,130 · **trend:** declining · YoY -28.0%
+**12-month volume (illustrative):** 910 · **trend:** declining · YoY -47.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 450 | declining |
-| India | 160 | growing |
+| Brazil | 290 | flat |
+| India | 140 | declining |
 | Indonesia | 120 | flat |
-| Pakistan | 100 | declining |
-| Philippines | 70 | growing |
-| Mexico | 40 | declining |
+| Pakistan | 100 | flat |
+| Philippines | 70 | flat |
+| Mexico | 30 | flat |
 | Canada | 20 | flat |
 | Japan | 20 | flat |
 | Tunisia | 20 | flat |
-| United States | 20 | flat |
+| Chile | 10 | flat |
 
-> Full per-country breakdown (21 markets) via the /demand/ endpoint.
+> Full per-country breakdown (19 markets) via the /demand/ endpoint.
 
 ## Links
 

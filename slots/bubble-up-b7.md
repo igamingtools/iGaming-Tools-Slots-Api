@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bubble-up-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,210 · **trend:** growing · YoY +2320.0%
+**12-month volume (illustrative):** 1,860 · **trend:** growing · YoY +3620.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 140 | declining |
-| Greece | 90 | growing |
-| Canada | 60 | declining |
-| Finland | 60 | declining |
-| Switzerland | 60 | flat |
-| Belgium | 40 | flat |
-| Denmark | 40 | flat |
-| New Zealand | 40 | declining |
-| United Kingdom | 40 | declining |
-| United States | 40 | flat |
+| Brazil | 150 | declining |
+| South Africa | 130 | declining |
+| Greece | 110 | declining |
+| Canada | 80 | flat |
+| Finland | 80 | flat |
+| Switzerland | 60 | declining |
+| Denmark | 50 | declining |
+| New Zealand | 50 | flat |
+| Philippines | 50 | declining |
+| United Kingdom | 50 | flat |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (57 markets) via the /demand/ endpoint.
 
 ## Links
 

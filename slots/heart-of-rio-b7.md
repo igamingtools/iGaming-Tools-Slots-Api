@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/heart-of-rio-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,710 · **trend:** declining · YoY -32.1%
+**12-month volume (illustrative):** 2,730 · **trend:** declining · YoY -31.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 760 | declining |
-| Italy | 340 | flat |
-| Finland | 220 | growing |
-| Argentina | 200 | declining |
+| South Africa | 690 | growing |
+| Italy | 510 | growing |
+| Finland | 220 | declining |
+| Argentina | 180 | flat |
 | Brazil | 170 | declining |
 | Tunisia | 110 | flat |
-| Germany | 100 | declining |
-| Austria | 80 | flat |
-| India | 80 | flat |
-| United States | 80 | flat |
+| Germany | 100 | growing |
+| United States | 80 | growing |
+| Austria | 70 | declining |
+| Greece | 70 | flat |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

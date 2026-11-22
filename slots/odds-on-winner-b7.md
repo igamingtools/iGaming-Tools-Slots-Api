@@ -134,21 +134,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/odds-on-winner-b7/demand/
 ```
 
-**12-month volume (illustrative):** 230 · **trend:** flat
+**12-month volume (illustrative):** 260 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 30 | flat |
-| Greece | 30 | flat |
-| South Africa | 30 | flat |
-| United Kingdom | 30 | flat |
-| Bulgaria | 20 | flat |
-| Hungary | 20 | declining |
-| United States | 20 | declining |
-| Austria | 10 | declining |
-| Indonesia | 10 | declining |
+| Brazil | 40 | flat |
+| Greece | 40 | flat |
+| South Africa | 40 | flat |
+| United Kingdom | 30 | declining |
+| Bulgaria | 20 | declining |
+| Hungary | 20 | flat |
+| United States | 20 | flat |
+| Austria | 10 | flat |
+| Indonesia | 10 | flat |
 | Philippines | 10 | flat |
 
 > Full per-country breakdown (12 markets) via the /demand/ endpoint.

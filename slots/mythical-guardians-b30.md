@@ -128,20 +128,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mythical-guardians-b30/demand/
 ```
 
-**12-month volume (illustrative):** 5,870 · **trend:** flat
+**12-month volume (illustrative):** 6,170 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 3,770 | declining |
-| Indonesia | 500 | flat |
-| Philippines | 300 | declining |
-| India | 200 | flat |
-| Pakistan | 180 | flat |
-| Thailand | 160 | growing |
+| Brazil | 3,980 | declining |
+| Indonesia | 520 | flat |
+| Philippines | 310 | flat |
+| India | 220 | flat |
+| Pakistan | 180 | declining |
+| Thailand | 170 | declining |
+| United States | 100 | growing |
 | Tunisia | 90 | flat |
-| United States | 80 | declining |
 | Vietnam | 70 | flat |
 | Malaysia | 60 | flat |
 

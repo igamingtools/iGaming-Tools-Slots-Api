@@ -148,22 +148,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/floating-dragon-year-of-the-snake-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,430 · **trend:** declining · YoY -20.3%
+**12-month volume (illustrative):** 2,380 · **trend:** declining · YoY -26.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 290 | growing |
+| South Africa | 270 | growing |
 | Canada | 220 | flat |
-| Brazil | 130 | flat |
 | United Kingdom | 130 | flat |
-| Spain | 120 | declining |
+| Brazil | 120 | declining |
+| Spain | 120 | growing |
+| Switzerland | 120 | growing |
 | Australia | 110 | flat |
 | Greece | 100 | flat |
 | Netherlands | 90 | flat |
-| Switzerland | 90 | flat |
-| Tunisia | 90 | flat |
+| Tunisia | 80 | declining |
 
 > Full per-country breakdown (46 markets) via the /demand/ endpoint.
 

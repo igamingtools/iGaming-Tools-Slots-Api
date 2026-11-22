@@ -139,20 +139,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fat-santa-b28/demand/
 ```
 
-**12-month volume (illustrative):** 5,660 · **trend:** declining · YoY -18.3%
+**12-month volume (illustrative):** 5,590 · **trend:** declining · YoY -16.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 870 | flat |
-| Finland | 600 | declining |
-| Canada | 360 | flat |
-| Switzerland | 240 | flat |
-| Denmark | 220 | flat |
-| Sweden | 220 | flat |
-| United Kingdom | 200 | flat |
-| United States | 200 | flat |
+| Germany | 850 | declining |
+| Finland | 600 | growing |
+| Canada | 320 | declining |
+| Switzerland | 240 | declining |
+| United States | 220 | flat |
+| Denmark | 210 | flat |
+| Sweden | 200 | flat |
+| United Kingdom | 200 | growing |
 | Greece | 190 | flat |
 | Latvia | 160 | flat |
 

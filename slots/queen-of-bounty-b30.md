@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/queen-of-bounty-b30/demand/
 ```
 
-**12-month volume (illustrative):** 5,900 · **trend:** declining · YoY -22.0%
+**12-month volume (illustrative):** 5,940 · **trend:** declining · YoY -20.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,550 | declining |
-| India | 1,140 | declining |
-| Philippines | 460 | declining |
-| Algeria | 440 | flat |
-| Indonesia | 350 | growing |
-| Pakistan | 280 | growing |
+| Brazil | 1,580 | growing |
+| India | 1,180 | growing |
+| Philippines | 470 | growing |
+| Algeria | 460 | declining |
+| Indonesia | 300 | declining |
+| Pakistan | 300 | declining |
+| Malaysia | 160 | growing |
 | Turkey | 150 | flat |
-| Malaysia | 140 | declining |
 | United States | 120 | flat |
-| Thailand | 110 | declining |
+| Thailand | 110 | growing |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

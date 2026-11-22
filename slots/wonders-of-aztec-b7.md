@@ -149,9 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wonders-of-aztec-b7/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 1,060 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| South Africa | 110 | growing |
+| Canada | 80 | growing |
+| New Zealand | 50 | growing |
+| Philippines | 50 | growing |
+| Brazil | 40 | growing |
+| Finland | 40 | growing |
+| Germany | 30 | growing |
+| Greece | 30 | growing |
+| Netherlands | 30 | growing |
+| Switzerland | 30 | growing |
+
+> Full per-country breakdown (57 markets) via the /demand/ endpoint.
 
 ## Links
 

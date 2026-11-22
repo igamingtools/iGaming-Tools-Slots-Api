@@ -128,21 +128,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-dragons-b7/demand/
 ```
 
-**12-month volume (illustrative):** 830 · **trend:** flat · YoY -4.6%
+**12-month volume (illustrative):** 810 · **trend:** declining · YoY -8.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 210 | flat |
-| South Africa | 110 | declining |
-| Philippines | 70 | growing |
-| India | 40 | growing |
-| United Kingdom | 40 | flat |
+| South Africa | 100 | flat |
+| Philippines | 70 | flat |
+| India | 40 | declining |
 | United States | 40 | flat |
-| Argentina | 30 | declining |
+| Argentina | 30 | flat |
 | Germany | 30 | flat |
-| Indonesia | 30 | flat |
+| Tunisia | 30 | growing |
+| United Kingdom | 30 | flat |
 | Belarus | 20 | flat |
 
 > Full per-country breakdown (27 markets) via the /demand/ endpoint.

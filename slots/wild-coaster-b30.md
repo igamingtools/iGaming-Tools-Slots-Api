@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-coaster-b30/demand/
 ```
 
-**12-month volume (illustrative):** 4,110 · **trend:** declining · YoY -16.5%
+**12-month volume (illustrative):** 4,130 · **trend:** declining · YoY -15.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,780 | flat |
-| Philippines | 520 | declining |
-| Indonesia | 320 | growing |
-| India | 240 | flat |
-| Pakistan | 180 | flat |
-| Chile | 110 | flat |
-| Tunisia | 70 | growing |
-| United Kingdom | 70 | flat |
-| France | 60 | flat |
-| Greece | 60 | declining |
+| Brazil | 1,750 | declining |
+| Philippines | 510 | growing |
+| Indonesia | 320 | flat |
+| India | 260 | growing |
+| Pakistan | 200 | flat |
+| Chile | 100 | declining |
+| Malaysia | 80 | growing |
+| United Kingdom | 70 | declining |
+| France | 60 | declining |
+| Greece | 60 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

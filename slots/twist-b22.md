@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/twist-b22/demand/
 ```
 
-**12-month volume (illustrative):** 2,310 · **trend:** growing · YoY +10.0%
+**12-month volume (illustrative):** 2,290 · **trend:** growing · YoY +6.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 380 | flat |
+| India | 420 | growing |
 | Pakistan | 220 | flat |
 | United States | 220 | flat |
-| Canada | 140 | flat |
-| France | 100 | declining |
-| Australia | 70 | flat |
-| Germany | 70 | declining |
+| Canada | 140 | growing |
+| France | 100 | growing |
+| Australia | 70 | declining |
 | Belgium | 60 | flat |
-| Italy | 60 | flat |
+| Germany | 60 | growing |
 | Malaysia | 60 | flat |
+| Switzerland | 60 | declining |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (50 markets) via the /demand/ endpoint.
 
 ## Links
 

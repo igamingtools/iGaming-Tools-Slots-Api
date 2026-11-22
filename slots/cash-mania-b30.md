@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cash-mania-b30/demand/
 ```
 
-**12-month volume (illustrative):** 46,360 · **trend:** declining · YoY -44.8%
+**12-month volume (illustrative):** 45,120 · **trend:** declining · YoY -43.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 41,120 | growing |
-| United States | 1,480 | flat |
-| India | 360 | flat |
-| Pakistan | 280 | declining |
-| Indonesia | 270 | declining |
-| Canada | 240 | flat |
-| Mexico | 240 | flat |
-| Philippines | 240 | flat |
-| Portugal | 170 | flat |
-| Germany | 150 | flat |
+| Brazil | 40,490 | growing |
+| United States | 1,080 | flat |
+| India | 340 | flat |
+| Pakistan | 280 | flat |
+| Indonesia | 260 | declining |
+| Mexico | 220 | flat |
+| Philippines | 220 | flat |
+| Canada | 180 | flat |
+| Switzerland | 180 | flat |
+| Portugal | 170 | growing |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -106,22 +106,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/doomsday-rampage-b30/demand/
 ```
 
-**12-month volume (illustrative):** 3,400 · **trend:** declining · YoY -69.2%
+**12-month volume (illustrative):** 3,210 · **trend:** declining · YoY -71.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,570 | declining |
-| India | 680 | growing |
-| Indonesia | 200 | flat |
-| Pakistan | 140 | declining |
-| Philippines | 130 | flat |
-| Thailand | 100 | flat |
+| Brazil | 1,530 | declining |
+| India | 580 | declining |
+| Indonesia | 180 | flat |
+| Pakistan | 140 | growing |
+| Philippines | 110 | declining |
 | Mexico | 90 | flat |
+| Thailand | 90 | declining |
 | Algeria | 60 | flat |
-| Tunisia | 50 | flat |
-| Netherlands | 40 | flat |
+| Tunisia | 50 | growing |
+| Vietnam | 50 | growing |
 
 > Full per-country breakdown (32 markets) via the /demand/ endpoint.
 

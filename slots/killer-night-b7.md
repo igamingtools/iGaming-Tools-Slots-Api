@@ -145,9 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/killer-night-b7/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 520 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 50 | growing |
+| Belgium | 20 | growing |
+| Canada | 20 | growing |
+| Finland | 20 | growing |
+| Malaysia | 20 | growing |
+| New Zealand | 20 | growing |
+| Tunisia | 20 | growing |
+| United Kingdom | 20 | growing |
+| United States | 20 | growing |
+| Argentina | 10 | growing |
+
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

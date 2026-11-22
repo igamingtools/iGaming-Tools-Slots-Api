@@ -111,24 +111,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/diver-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,360 · **trend:** growing · YoY +147.3%
+**12-month volume (illustrative):** 1,430 · **trend:** growing · YoY +155.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 220 | flat |
-| France | 200 | flat |
-| Poland | 200 | growing |
-| Germany | 180 | flat |
-| United States | 140 | flat |
-| Italy | 130 | flat |
+| India | 240 | flat |
+| Poland | 210 | flat |
+| France | 200 | declining |
+| Germany | 190 | flat |
+| United States | 160 | flat |
+| Italy | 140 | flat |
 | Pakistan | 60 | flat |
-| United Kingdom | 50 | flat |
-| Brazil | 30 | growing |
-| Finland | 20 | flat |
+| United Kingdom | 50 | declining |
+| Brazil | 30 | flat |
+| Australia | 20 | growing |
 
-> Full per-country breakdown (21 markets) via the /demand/ endpoint.
+> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 

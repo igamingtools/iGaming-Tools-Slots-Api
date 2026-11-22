@@ -102,21 +102,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tower-b22/demand/
 ```
 
-**12-month volume (illustrative):** 10,290 · **trend:** growing · YoY +20.4%
+**12-month volume (illustrative):** 10,440 · **trend:** growing · YoY +22.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Turkey | 3,770 | flat |
-| India | 1,840 | declining |
-| United States | 380 | flat |
-| Pakistan | 340 | flat |
-| Brazil | 290 | growing |
-| Indonesia | 220 | flat |
+| Turkey | 3,830 | flat |
+| India | 1,900 | growing |
+| United States | 380 | declining |
+| Pakistan | 340 | declining |
+| Brazil | 300 | declining |
 | Canada | 200 | flat |
-| France | 140 | growing |
-| Philippines | 140 | flat |
+| Indonesia | 200 | flat |
+| France | 140 | declining |
+| Philippines | 140 | declining |
 | Germany | 120 | flat |
 
 > Full per-country breakdown (70 markets) via the /demand/ endpoint.

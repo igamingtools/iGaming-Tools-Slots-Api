@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/skylight-wonders-b30/demand/
 ```
 
-**12-month volume (illustrative):** 3,410 · **trend:** flat
+**12-month volume (illustrative):** 3,490 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,830 | declining |
-| Indonesia | 490 | flat |
-| Philippines | 240 | flat |
-| Thailand | 90 | flat |
-| India | 80 | growing |
+| Brazil | 1,870 | declining |
+| Indonesia | 500 | flat |
+| Philippines | 250 | flat |
+| Thailand | 100 | flat |
+| India | 80 | declining |
 | Pakistan | 80 | flat |
 | Tunisia | 50 | flat |
 | Belgium | 40 | flat |
+| United Kingdom | 40 | growing |
 | Netherlands | 30 | flat |
-| South Africa | 30 | flat |
 
 > Full per-country breakdown (43 markets) via the /demand/ endpoint.
 

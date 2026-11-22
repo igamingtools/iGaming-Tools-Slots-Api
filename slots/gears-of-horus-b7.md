@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gears-of-horus-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,400 · **trend:** declining · YoY -7.3%
+**12-month volume (illustrative):** 1,350 · **trend:** declining · YoY -8.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 110 | growing |
-| Greece | 100 | flat |
-| Brazil | 80 | declining |
-| Philippines | 80 | flat |
+| South Africa | 110 | flat |
+| Greece | 100 | declining |
+| Brazil | 80 | growing |
 | Germany | 70 | flat |
-| United Kingdom | 70 | flat |
-| Canada | 60 | flat |
-| Finland | 60 | growing |
-| Indonesia | 60 | declining |
-| Switzerland | 60 | growing |
+| Philippines | 70 | declining |
+| United Kingdom | 70 | declining |
+| Finland | 60 | declining |
+| Switzerland | 60 | declining |
+| Argentina | 50 | declining |
+| Indonesia | 50 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (39 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -138,19 +138,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wolf-fury-fire-blitz-b31/demand/
 ```
 
-**12-month volume (illustrative):** 110 · **trend:** flat
+**12-month volume (illustrative):** 160 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 40 | flat |
-| United Kingdom | 30 | declining |
-| Greece | 20 | flat |
-| Italy | 10 | growing |
-| Netherlands | 10 | declining |
+| Canada | 60 | flat |
+| United Kingdom | 40 | flat |
+| Greece | 20 | declining |
+| Italy | 10 | declining |
+| Netherlands | 10 | flat |
+| South Africa | 10 | growing |
+| Spain | 10 | growing |
 
-> Full per-country breakdown (5 markets) via the /demand/ endpoint.
+> Full per-country breakdown (7 markets) via the /demand/ endpoint.
 
 ## Links
 

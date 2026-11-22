@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/triple-pot-plinko-hercules-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,010 · **trend:** flat
+**12-month volume (illustrative):** 2,260 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 210 | growing |
-| South Africa | 140 | flat |
-| Canada | 80 | declining |
-| Malaysia | 80 | flat |
-| Finland | 60 | growing |
-| Peru | 60 | flat |
-| Switzerland | 60 | growing |
-| United States | 60 | flat |
-| Argentina | 50 | flat |
-| Denmark | 50 | flat |
+| Brazil | 220 | declining |
+| South Africa | 170 | flat |
+| Malaysia | 100 | flat |
+| Canada | 80 | flat |
+| Finland | 80 | flat |
+| Peru | 70 | flat |
+| Argentina | 60 | flat |
+| Indonesia | 60 | flat |
+| Italy | 60 | flat |
+| Mexico | 60 | flat |
 
-> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
 
 ## Links
 

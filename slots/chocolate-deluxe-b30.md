@@ -118,24 +118,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chocolate-deluxe-b30/demand/
 ```
 
-**12-month volume (illustrative):** 11,950 · **trend:** declining · YoY -16.7%
+**12-month volume (illustrative):** 11,450 · **trend:** declining · YoY -26.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 5,010 | declining |
-| Philippines | 4,040 | declining |
-| India | 520 | declining |
-| Indonesia | 440 | declining |
+| Brazil | 5,010 | growing |
+| Philippines | 3,740 | declining |
+| India | 520 | flat |
+| Indonesia | 350 | growing |
 | Pakistan | 200 | flat |
 | Tunisia | 130 | flat |
-| Thailand | 100 | growing |
+| Thailand | 100 | flat |
 | United States | 100 | flat |
 | Mexico | 90 | flat |
-| Turkey | 90 | flat |
+| Turkey | 80 | declining |
 
-> Full per-country breakdown (57 markets) via the /demand/ endpoint.
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
 
 ## Links
 

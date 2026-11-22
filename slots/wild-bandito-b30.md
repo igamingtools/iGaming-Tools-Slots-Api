@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-bandito-b30/demand/
 ```
 
-**12-month volume (illustrative):** 89,510 · **trend:** flat · YoY +0.0%
+**12-month volume (illustrative):** 87,860 · **trend:** flat · YoY -4.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 40,550 | declining |
-| Indonesia | 13,720 | flat |
-| Philippines | 11,710 | declining |
-| India | 6,860 | declining |
+| Brazil | 40,660 | growing |
+| Indonesia | 12,320 | growing |
+| Philippines | 11,190 | declining |
+| India | 7,280 | flat |
 | Greece | 2,120 | growing |
-| Tunisia | 1,380 | growing |
-| Thailand | 1,040 | declining |
-| Pakistan | 960 | flat |
-| Turkey | 840 | declining |
-| Mexico | 810 | declining |
+| Tunisia | 1,290 | growing |
+| Pakistan | 1,000 | growing |
+| Thailand | 990 | declining |
+| Mexico | 820 | growing |
+| Turkey | 780 | growing |
 
-> Full per-country breakdown (70 markets) via the /demand/ endpoint.
+> Full per-country breakdown (68 markets) via the /demand/ endpoint.
 
 ## Links
 

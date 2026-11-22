@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/eye-of-cleopatra-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,860 · **trend:** declining · YoY -41.3%
+**12-month volume (illustrative):** 1,820 · **trend:** declining · YoY -42.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 230 | flat |
+| Brazil | 230 | growing |
 | Canada | 160 | flat |
-| Pakistan | 160 | flat |
-| South Africa | 140 | declining |
-| United States | 120 | declining |
-| Greece | 100 | declining |
-| Philippines | 100 | declining |
-| Tunisia | 80 | flat |
-| United Kingdom | 80 | declining |
-| Indonesia | 70 | declining |
+| Pakistan | 160 | growing |
+| South Africa | 140 | flat |
+| United States | 120 | flat |
+| Philippines | 100 | growing |
+| Greece | 90 | flat |
+| Tunisia | 90 | flat |
+| United Kingdom | 80 | flat |
+| Indonesia | 60 | flat |
 
-> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/diamond-of-jungle-b10/demand/
 ```
 
-**12-month volume (illustrative):** 940 · **trend:** flat · YoY -1.1%
+**12-month volume (illustrative):** 990 · **trend:** growing · YoY +7.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 80 | flat |
-| Hungary | 60 | growing |
-| Poland | 50 | declining |
-| Australia | 40 | declining |
-| Brazil | 40 | flat |
-| Denmark | 40 | flat |
-| India | 40 | flat |
-| South Korea | 40 | flat |
-| United States | 40 | growing |
-| Italy | 30 | declining |
+| Germany | 90 | flat |
+| Hungary | 60 | declining |
+| Poland | 60 | growing |
+| Australia | 40 | flat |
+| Denmark | 40 | declining |
+| Finland | 40 | flat |
+| India | 40 | declining |
+| Italy | 40 | growing |
+| South Korea | 40 | declining |
+| United Kingdom | 40 | flat |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

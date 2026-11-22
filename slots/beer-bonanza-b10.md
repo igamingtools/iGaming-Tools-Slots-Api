@@ -140,7 +140,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/beer-bonanza-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,430 · **trend:** declining · YoY -29.6%
+**12-month volume (illustrative):** 1,340 · **trend:** declining · YoY -35.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -148,16 +148,16 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Greece | 130 | flat |
 | United States | 100 | flat |
-| Australia | 80 | growing |
-| Canada | 80 | growing |
-| Finland | 80 | declining |
-| Brazil | 70 | declining |
+| Australia | 80 | flat |
+| Canada | 80 | declining |
+| Brazil | 70 | growing |
 | Netherlands | 70 | flat |
-| Czech Republic | 60 | declining |
-| Germany | 60 | growing |
-| Hungary | 60 | growing |
+| Czech Republic | 60 | flat |
+| Finland | 60 | flat |
+| Hungary | 60 | declining |
+| Switzerland | 60 | growing |
 
-> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

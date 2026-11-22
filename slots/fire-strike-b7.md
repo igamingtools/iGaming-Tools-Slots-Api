@@ -132,24 +132,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fire-strike-b7/demand/
 ```
 
-**12-month volume (illustrative):** 34,010 · **trend:** declining · YoY -20.7%
+**12-month volume (illustrative):** 33,410 · **trend:** declining · YoY -22.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 29,300 | flat |
-| Brazil | 730 | declining |
-| Netherlands | 550 | declining |
-| United States | 260 | flat |
-| Canada | 180 | growing |
+| South Africa | 28,800 | flat |
+| Brazil | 770 | growing |
+| Netherlands | 550 | growing |
+| United States | 240 | flat |
+| Canada | 180 | flat |
 | India | 160 | flat |
-| Indonesia | 140 | declining |
-| Finland | 120 | flat |
+| Finland | 140 | flat |
+| Indonesia | 140 | flat |
 | Nigeria | 120 | flat |
 | Greece | 110 | flat |
 
-> Full per-country breakdown (67 markets) via the /demand/ endpoint.
+> Full per-country breakdown (64 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ted-b31/demand/
 ```
 
-**12-month volume (illustrative):** 4,330 · **trend:** growing · YoY +58.0%
+**12-month volume (illustrative):** 4,410 · **trend:** growing · YoY +45.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 1,200 | declining |
-| United Kingdom | 510 | growing |
+| United States | 1,260 | growing |
+| United Kingdom | 530 | growing |
 | Brazil | 310 | flat |
-| Germany | 260 | growing |
-| Switzerland | 230 | declining |
+| Germany | 270 | declining |
+| Switzerland | 200 | flat |
 | Finland | 180 | flat |
-| India | 180 | growing |
+| India | 180 | flat |
 | Canada | 140 | flat |
 | Netherlands | 120 | flat |
 | Italy | 110 | flat |
 
-> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
 
 ## Links
 

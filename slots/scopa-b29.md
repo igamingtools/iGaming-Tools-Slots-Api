@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/scopa-b29/demand/
 ```
 
-**12-month volume (illustrative):** 3,370 · **trend:** declining · YoY -37.4%
+**12-month volume (illustrative):** 3,290 · **trend:** declining · YoY -37.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 2,790 | flat |
+| South Africa | 2,700 | declining |
 | Italy | 120 | flat |
-| Switzerland | 110 | flat |
+| Switzerland | 120 | flat |
 | Germany | 100 | flat |
-| United States | 60 | flat |
-| Australia | 30 | growing |
+| India | 40 | growing |
+| United States | 40 | flat |
+| Australia | 30 | declining |
 | Canada | 20 | flat |
 | France | 20 | flat |
-| India | 20 | declining |
 | Indonesia | 20 | flat |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/forge-of-wealth-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,770 · **trend:** declining · YoY -26.1%
+**12-month volume (illustrative):** 2,660 · **trend:** declining · YoY -28.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 890 | declining |
-| Brazil | 410 | flat |
-| Indonesia | 310 | declining |
+| Philippines | 870 | declining |
+| Brazil | 390 | flat |
+| Indonesia | 300 | flat |
 | India | 220 | flat |
 | Pakistan | 160 | flat |
-| Nigeria | 100 | growing |
-| Canada | 80 | flat |
-| Tunisia | 60 | flat |
-| United States | 60 | flat |
-| Germany | 40 | flat |
+| Nigeria | 100 | flat |
+| Canada | 60 | flat |
+| Mexico | 50 | growing |
+| Thailand | 50 | growing |
+| Tunisia | 50 | flat |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
 
 ## Links
 

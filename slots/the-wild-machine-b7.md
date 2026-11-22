@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-wild-machine-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,080 · **trend:** flat · YoY -2.8%
+**12-month volume (illustrative):** 2,060 · **trend:** flat · YoY -1.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 130 | declining |
+| South Africa | 140 | growing |
 | Brazil | 120 | flat |
+| Canada | 120 | flat |
 | Belgium | 100 | flat |
-| Canada | 100 | flat |
-| Greece | 90 | declining |
-| Indonesia | 90 | flat |
-| Sweden | 90 | flat |
 | Argentina | 80 | flat |
-| France | 70 | growing |
-| Austria | 60 | flat |
+| Greece | 80 | flat |
+| Indonesia | 80 | declining |
+| Sweden | 80 | declining |
+| France | 70 | flat |
+| Tunisia | 70 | growing |
 
 > Full per-country breakdown (47 markets) via the /demand/ endpoint.
 

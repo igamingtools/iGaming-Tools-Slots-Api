@@ -132,22 +132,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/leprechaun-carol-b7/demand/
 ```
 
-**12-month volume (illustrative):** 420 · **trend:** declining · YoY -53.3%
+**12-month volume (illustrative):** 440 · **trend:** declining · YoY -46.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | South Africa | 120 | flat |
-| Brazil | 90 | declining |
+| Brazil | 90 | growing |
 | Argentina | 40 | flat |
-| Finland | 40 | growing |
-| Indonesia | 20 | flat |
+| Finland | 40 | declining |
+| Indonesia | 30 | growing |
+| United Kingdom | 20 | growing |
 | El Salvador | 10 | flat |
 | Italy | 10 | flat |
 | Latvia | 10 | flat |
 | Lithuania | 10 | flat |
-| Malta | 10 | flat |
 
 > Full per-country breakdown (16 markets) via the /demand/ endpoint.
 

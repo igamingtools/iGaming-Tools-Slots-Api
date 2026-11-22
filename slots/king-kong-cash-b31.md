@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/king-kong-cash-b31/demand/
 ```
 
-**12-month volume (illustrative):** 10,330 · **trend:** declining · YoY -14.1%
+**12-month volume (illustrative):** 10,080 · **trend:** declining · YoY -22.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 6,080 | flat |
-| Canada | 340 | declining |
-| Malaysia | 320 | flat |
-| Indonesia | 290 | declining |
+| United Kingdom | 5,970 | growing |
+| Canada | 300 | flat |
+| Malaysia | 300 | flat |
+| Indonesia | 280 | flat |
 | Italy | 260 | flat |
-| Ireland | 220 | flat |
-| United States | 200 | growing |
-| Netherlands | 170 | flat |
-| South Africa | 150 | flat |
+| United States | 200 | flat |
+| Ireland | 190 | growing |
+| Netherlands | 150 | flat |
+| Finland | 140 | flat |
 | Romania | 140 | flat |
 
-> Full per-country breakdown (56 markets) via the /demand/ endpoint.
+> Full per-country breakdown (57 markets) via the /demand/ endpoint.
 
 ## Links
 

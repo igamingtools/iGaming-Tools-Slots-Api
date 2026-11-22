@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/starz-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,170 · **trend:** declining · YoY -13.9%
+**12-month volume (illustrative):** 2,200 · **trend:** declining · YoY -8.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 280 | growing |
-| Canada | 160 | flat |
-| Sweden | 120 | declining |
-| Denmark | 110 | flat |
+| United States | 300 | declining |
+| Canada | 160 | declining |
+| Sweden | 120 | flat |
 | Greece | 110 | flat |
 | South Africa | 110 | flat |
-| United Kingdom | 110 | growing |
-| Belgium | 100 | flat |
+| Denmark | 100 | declining |
+| United Kingdom | 100 | declining |
+| Argentina | 80 | flat |
+| Belgium | 80 | flat |
 | Tunisia | 80 | flat |
-| Argentina | 70 | growing |
 
 > Full per-country breakdown (40 markets) via the /demand/ endpoint.
 

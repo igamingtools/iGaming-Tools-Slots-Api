@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-catch-bass-fishing-b31/demand/
 ```
 
-**12-month volume (illustrative):** 2,140 · **trend:** growing · YoY +9.2%
+**12-month volume (illustrative):** 2,140 · **trend:** flat · YoY -3.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 720 | flat |
-| United Kingdom | 320 | declining |
-| Canada | 180 | flat |
+| United States | 600 | flat |
+| United Kingdom | 350 | growing |
+| Canada | 180 | growing |
 | Ireland | 100 | flat |
 | South Africa | 100 | flat |
-| Indonesia | 70 | flat |
+| Indonesia | 70 | declining |
 | Italy | 70 | flat |
-| Finland | 60 | flat |
-| Greece | 60 | declining |
-| Netherlands | 50 | flat |
+| Finland | 60 | growing |
+| Greece | 60 | growing |
+| Netherlands | 60 | growing |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
 
 ## Links
 

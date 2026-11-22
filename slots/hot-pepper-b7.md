@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hot-pepper-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,210 · **trend:** declining · YoY -38.3%
+**12-month volume (illustrative):** 3,140 · **trend:** declining · YoY -38.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 410 | flat |
-| Greece | 240 | flat |
-| Switzerland | 240 | declining |
-| Belgium | 140 | flat |
-| Croatia | 140 | growing |
+| Brazil | 360 | flat |
+| Greece | 210 | flat |
+| Switzerland | 210 | flat |
+| Belgium | 160 | flat |
 | Philippines | 140 | flat |
 | South Africa | 140 | flat |
+| Croatia | 130 | declining |
+| Australia | 120 | flat |
 | Germany | 120 | flat |
 | Iceland | 120 | flat |
-| Mexico | 120 | growing |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

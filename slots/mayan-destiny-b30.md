@@ -116,22 +116,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mayan-destiny-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,860 · **trend:** flat
+**12-month volume (illustrative):** 1,980 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 610 | flat |
-| Indonesia | 160 | flat |
-| Philippines | 150 | flat |
-| India | 140 | flat |
-| Pakistan | 100 | growing |
-| Thailand | 100 | growing |
-| Tunisia | 60 | flat |
-| United States | 60 | declining |
-| Chile | 40 | flat |
-| Malaysia | 40 | flat |
+| Brazil | 640 | declining |
+| Indonesia | 170 | flat |
+| India | 160 | flat |
+| Philippines | 160 | flat |
+| Thailand | 110 | flat |
+| Pakistan | 100 | declining |
+| Tunisia | 70 | flat |
+| United States | 60 | flat |
+| Chile | 50 | flat |
+| Mexico | 50 | flat |
 
 > Full per-country breakdown (32 markets) via the /demand/ endpoint.
 

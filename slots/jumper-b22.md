@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jumper-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,040 · **trend:** growing · YoY +70.5%
+**12-month volume (illustrative):** 1,070 · **trend:** growing · YoY +55.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 220 | growing |
-| India | 220 | flat |
+| India | 240 | flat |
+| Canada | 220 | flat |
 | United States | 180 | flat |
+| Pakistan | 60 | flat |
 | Indonesia | 50 | flat |
-| Belgium | 40 | growing |
-| Pakistan | 40 | growing |
+| Belgium | 40 | declining |
 | Germany | 30 | flat |
+| Italy | 30 | growing |
 | Ukraine | 30 | flat |
 | Australia | 20 | flat |
-| Italy | 20 | flat |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (25 markets) via the /demand/ endpoint.
 
 ## Links
 

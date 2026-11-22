@@ -140,21 +140,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sky-bounty-b7/demand/
 ```
 
-**12-month volume (illustrative):** 14,550 · **trend:** declining · YoY -10.9%
+**12-month volume (illustrative):** 14,280 · **trend:** declining · YoY -14.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Denmark | 2,190 | growing |
-| United Kingdom | 1,230 | declining |
-| Greece | 790 | growing |
-| Brazil | 630 | declining |
-| Finland | 580 | growing |
-| Canada | 540 | growing |
-| Netherlands | 450 | growing |
-| Switzerland | 450 | flat |
-| Argentina | 440 | declining |
+| Denmark | 2,190 | declining |
+| United Kingdom | 1,110 | declining |
+| Greece | 750 | flat |
+| Finland | 620 | flat |
+| Brazil | 590 | declining |
+| Canada | 480 | declining |
+| Argentina | 470 | flat |
+| Netherlands | 440 | declining |
+| Switzerland | 390 | flat |
 | South Africa | 380 | flat |
 
 > Full per-country breakdown (71 markets) via the /demand/ endpoint.

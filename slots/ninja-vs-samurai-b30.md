@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ninja-vs-samurai-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,430 · **trend:** declining · YoY -12.3%
+**12-month volume (illustrative):** 1,400 · **trend:** declining · YoY -15.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 370 | declining |
+| Brazil | 350 | flat |
+| India | 180 | flat |
 | Pakistan | 180 | flat |
-| India | 160 | flat |
-| Philippines | 160 | flat |
+| Philippines | 130 | flat |
 | Indonesia | 120 | flat |
 | United States | 80 | flat |
-| Thailand | 50 | growing |
-| Tunisia | 40 | flat |
+| Thailand | 60 | flat |
+| Tunisia | 30 | flat |
 | Canada | 20 | flat |
-| Greece | 20 | flat |
+| Chile | 20 | growing |
 
 > Full per-country breakdown (26 markets) via the /demand/ endpoint.
 

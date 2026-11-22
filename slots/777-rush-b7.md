@@ -116,24 +116,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/777-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,360 · **trend:** growing · YoY +360.3%
+**12-month volume (illustrative):** 2,620 · **trend:** growing · YoY +60.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,450 | declining |
-| Brazil | 190 | flat |
-| Argentina | 140 | growing |
-| Greece | 120 | flat |
-| India | 100 | growing |
-| Peru | 90 | declining |
-| Finland | 80 | declining |
-| Indonesia | 80 | declining |
-| Pakistan | 80 | flat |
-| United Kingdom | 70 | flat |
+| South Africa | 1,010 | declining |
+| Brazil | 150 | flat |
+| Argentina | 110 | declining |
+| Greece | 110 | declining |
+| Peru | 100 | growing |
+| Finland | 80 | growing |
+| India | 80 | declining |
+| El Salvador | 70 | growing |
+| Indonesia | 70 | growing |
+| Canada | 60 | flat |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

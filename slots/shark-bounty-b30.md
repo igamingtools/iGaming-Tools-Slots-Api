@@ -122,24 +122,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/shark-bounty-b30/demand/
 ```
 
-**12-month volume (illustrative):** 3,370 · **trend:** declining · YoY -57.8%
+**12-month volume (illustrative):** 3,220 · **trend:** declining · YoY -56.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,290 | growing |
-| Indonesia | 460 | declining |
-| Philippines | 390 | growing |
+| Brazil | 1,240 | declining |
+| Indonesia | 420 | declining |
+| Philippines | 390 | flat |
 | India | 280 | flat |
 | Pakistan | 200 | flat |
-| Mexico | 70 | declining |
-| Thailand | 70 | flat |
-| Tunisia | 70 | flat |
-| Vietnam | 70 | flat |
-| Singapore | 40 | growing |
+| Thailand | 80 | flat |
+| Vietnam | 70 | declining |
+| Mexico | 60 | flat |
+| Tunisia | 60 | declining |
+| Canada | 40 | flat |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

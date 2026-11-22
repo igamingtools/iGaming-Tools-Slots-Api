@@ -149,9 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sweet-loot-b7/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 860 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Brazil | 70 | growing |
+| Canada | 60 | growing |
+| Finland | 40 | growing |
+| Greece | 40 | growing |
+| Philippines | 40 | growing |
+| United Kingdom | 40 | growing |
+| Germany | 30 | growing |
+| Netherlands | 30 | growing |
+| South Africa | 30 | growing |
+| Switzerland | 30 | growing |
+
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

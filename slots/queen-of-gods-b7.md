@@ -120,22 +120,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/queen-of-gods-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,830 · **trend:** declining · YoY -21.1%
+**12-month volume (illustrative):** 1,760 · **trend:** declining · YoY -24.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 620 | flat |
+| South Africa | 600 | declining |
 | Canada | 200 | flat |
 | Brazil | 120 | flat |
-| Germany | 100 | growing |
+| Germany | 90 | declining |
 | Switzerland | 90 | flat |
-| Greece | 80 | growing |
-| United States | 60 | flat |
+| Greece | 80 | flat |
 | Netherlands | 50 | flat |
-| Philippines | 50 | flat |
-| Romania | 50 | growing |
+| Romania | 50 | declining |
+| Philippines | 40 | flat |
+| United States | 40 | flat |
 
 > Full per-country breakdown (35 markets) via the /demand/ endpoint.
 

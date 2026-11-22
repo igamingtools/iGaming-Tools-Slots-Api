@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/day-of-dead-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,790 · **trend:** flat · YoY +4.1%
+**12-month volume (illustrative):** 1,770 · **trend:** flat · YoY -0.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 170 | flat |
-| South Africa | 130 | growing |
-| Greece | 110 | declining |
+| Brazil | 160 | flat |
+| South Africa | 120 | flat |
+| Greece | 110 | growing |
 | Germany | 100 | flat |
-| Indonesia | 100 | declining |
-| Romania | 100 | flat |
-| Bulgaria | 60 | growing |
-| Malaysia | 60 | flat |
-| Belarus | 50 | declining |
-| Lithuania | 50 | growing |
+| Indonesia | 100 | growing |
+| Romania | 90 | declining |
+| Malaysia | 80 | flat |
+| Latvia | 70 | growing |
+| Bulgaria | 60 | flat |
+| Belarus | 50 | flat |
 
-> Full per-country breakdown (45 markets) via the /demand/ endpoint.
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

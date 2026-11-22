@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/three-crazy-piggies-b30/demand/
 ```
 
-**12-month volume (illustrative):** 3,910 · **trend:** declining · YoY -52.4%
+**12-month volume (illustrative):** 3,560 · **trend:** declining · YoY -50.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,170 | flat |
-| India | 1,060 | growing |
-| Indonesia | 310 | growing |
-| Pakistan | 280 | declining |
-| Philippines | 170 | flat |
+| Brazil | 1,090 | declining |
+| India | 860 | declining |
+| Pakistan | 280 | growing |
+| Indonesia | 270 | declining |
+| Philippines | 160 | flat |
 | Canada | 100 | flat |
 | Thailand | 100 | flat |
 | United States | 80 | flat |
-| Mexico | 50 | flat |
-| Tunisia | 50 | flat |
+| Mexico | 50 | declining |
+| Peru | 50 | growing |
 
 > Full per-country breakdown (39 markets) via the /demand/ endpoint.
 

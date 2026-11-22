@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-king-hot-pots-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,150 · **trend:** declining · YoY -30.3%
+**12-month volume (illustrative):** 1,130 · **trend:** declining · YoY -33.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 130 | flat |
-| South Africa | 130 | growing |
-| Greece | 100 | growing |
+| South Africa | 110 | declining |
+| Greece | 100 | declining |
 | Canada | 80 | flat |
-| Netherlands | 70 | flat |
+| Netherlands | 60 | declining |
 | United Kingdom | 60 | flat |
+| Peru | 50 | growing |
 | Tunisia | 50 | flat |
 | Germany | 40 | flat |
-| Malaysia | 40 | growing |
-| Peru | 40 | flat |
+| Malaysia | 40 | declining |
 
 > Full per-country breakdown (34 markets) via the /demand/ endpoint.
 

@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-jar-clusters-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,810 · **trend:** declining · YoY -49.3%
+**12-month volume (illustrative):** 2,600 · **trend:** declining · YoY -51.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 410 | declining |
-| Canada | 160 | declining |
-| Brazil | 140 | flat |
-| Philippines | 130 | flat |
+| South Africa | 380 | growing |
+| Canada | 140 | flat |
+| Brazil | 130 | declining |
 | Argentina | 120 | flat |
+| Philippines | 110 | flat |
 | Germany | 100 | flat |
-| Malaysia | 100 | growing |
+| Malaysia | 100 | declining |
 | Peru | 100 | flat |
-| Portugal | 100 | growing |
 | United States | 100 | flat |
+| Portugal | 90 | declining |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

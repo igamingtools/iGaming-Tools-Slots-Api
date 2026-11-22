@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pharaoh-royals-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,580 · **trend:** flat
+**12-month volume (illustrative):** 1,530 · **trend:** growing · YoY +1076.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 520 | flat |
-| India | 140 | flat |
+| Brazil | 530 | flat |
+| India | 140 | declining |
 | Thailand | 120 | flat |
 | Philippines | 110 | flat |
 | Indonesia | 100 | flat |
-| Pakistan | 100 | declining |
-| Malaysia | 60 | flat |
+| Pakistan | 80 | flat |
 | United States | 60 | flat |
-| Mexico | 40 | flat |
+| Mexico | 50 | growing |
+| Malaysia | 40 | flat |
 | Switzerland | 30 | flat |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

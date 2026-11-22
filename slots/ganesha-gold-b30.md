@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ganesha-gold-b30/demand/
 ```
 
-**12-month volume (illustrative):** 27,710 · **trend:** declining · YoY -27.9%
+**12-month volume (illustrative):** 28,240 · **trend:** declining · YoY -25.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 22,000 | flat |
-| India | 3,680 | growing |
+| Brazil | 22,800 | flat |
+| India | 3,500 | flat |
 | Pakistan | 240 | flat |
-| Indonesia | 170 | flat |
-| United States | 140 | flat |
+| Indonesia | 160 | flat |
 | Philippines | 120 | flat |
-| Portugal | 120 | declining |
+| United States | 120 | declining |
 | Mexico | 110 | flat |
-| Turkey | 110 | flat |
-| Thailand | 90 | flat |
+| Turkey | 110 | growing |
+| Portugal | 100 | flat |
+| Thailand | 80 | declining |
 
 > Full per-country breakdown (45 markets) via the /demand/ endpoint.
 

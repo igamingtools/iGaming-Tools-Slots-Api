@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/oishi-delights-b30/demand/
 ```
 
-**12-month volume (illustrative):** 9,190 · **trend:** declining · YoY -27.8%
+**12-month volume (illustrative):** 8,690 · **trend:** declining · YoY -21.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 2,950 | declining |
-| Brazil | 1,890 | declining |
-| India | 1,300 | growing |
-| Indonesia | 580 | declining |
+| Philippines | 2,740 | declining |
+| Brazil | 1,830 | declining |
+| India | 1,240 | flat |
+| Indonesia | 510 | growing |
 | Pakistan | 240 | flat |
-| Tunisia | 210 | flat |
+| Tunisia | 200 | flat |
 | Thailand | 190 | flat |
-| United States | 180 | declining |
-| Kenya | 160 | flat |
-| Canada | 140 | flat |
+| Kenya | 160 | declining |
+| United States | 160 | flat |
+| Canada | 120 | flat |
 
-> Full per-country breakdown (52 markets) via the /demand/ endpoint.
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

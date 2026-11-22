@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-ox-b30/demand/
 ```
 
-**12-month volume (illustrative):** 196,310 · **trend:** declining · YoY -34.2%
+**12-month volume (illustrative):** 193,600 · **trend:** declining · YoY -30.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 183,080 | declining |
-| India | 3,360 | flat |
-| Mexico | 2,180 | growing |
-| Pakistan | 1,300 | flat |
-| Philippines | 870 | flat |
-| Portugal | 510 | flat |
-| Thailand | 470 | growing |
+| Brazil | 180,750 | declining |
+| India | 3,420 | growing |
+| Mexico | 2,140 | flat |
+| Pakistan | 1,260 | declining |
+| Philippines | 800 | growing |
+| Portugal | 520 | growing |
+| Thailand | 480 | flat |
 | United States | 400 | growing |
-| Chile | 360 | declining |
-| Nigeria | 310 | flat |
+| Chile | 320 | flat |
+| Indonesia | 250 | declining |
 
-> Full per-country breakdown (66 markets) via the /demand/ endpoint.
+> Full per-country breakdown (67 markets) via the /demand/ endpoint.
 
 ## Links
 

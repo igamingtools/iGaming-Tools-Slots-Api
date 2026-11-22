@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/destiny-of-sun-moon-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,290 · **trend:** declining · YoY -54.4%
+**12-month volume (illustrative):** 1,200 · **trend:** declining · YoY -56.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 400 | flat |
+| Brazil | 360 | flat |
 | India | 240 | flat |
 | Philippines | 120 | flat |
-| Pakistan | 100 | declining |
-| Indonesia | 90 | flat |
+| Indonesia | 100 | flat |
+| Pakistan | 100 | flat |
 | United States | 40 | flat |
-| Greece | 30 | flat |
-| Mexico | 30 | declining |
-| Tunisia | 30 | flat |
+| Mexico | 30 | flat |
 | Canada | 20 | flat |
+| Greece | 20 | flat |
+| Latvia | 20 | flat |
 
-> Full per-country breakdown (24 markets) via the /demand/ endpoint.
+> Full per-country breakdown (22 markets) via the /demand/ endpoint.
 
 ## Links
 

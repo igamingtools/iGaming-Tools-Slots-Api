@@ -153,22 +153,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystery-mission-to-the-moon-b28/demand/
 ```
 
-**12-month volume (illustrative):** 3,210 · **trend:** flat · YoY -1.2%
+**12-month volume (illustrative):** 3,110 · **trend:** flat · YoY -4.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 920 | declining |
-| Germany | 210 | growing |
-| Finland | 200 | flat |
-| United States | 160 | growing |
-| Canada | 120 | flat |
-| Norway | 110 | flat |
+| United Kingdom | 820 | flat |
+| Finland | 220 | flat |
+| Germany | 220 | declining |
+| United States | 140 | declining |
+| Canada | 120 | declining |
 | Belgium | 100 | flat |
 | Greece | 100 | flat |
 | Ireland | 100 | flat |
-| Netherlands | 100 | declining |
+| Netherlands | 100 | growing |
+| Norway | 100 | declining |
 
 > Full per-country breakdown (42 markets) via the /demand/ endpoint.
 

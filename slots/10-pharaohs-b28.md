@@ -144,20 +144,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/10-pharaohs-b28/demand/
 ```
 
-**12-month volume (illustrative):** 370 · **trend:** declining · YoY -36.2%
+**12-month volume (illustrative):** 410 · **trend:** declining · YoY -30.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 90 | growing |
-| Germany | 70 | growing |
-| Brazil | 30 | growing |
+| Germany | 100 | growing |
+| Greece | 80 | declining |
+| Canada | 40 | flat |
+| Brazil | 30 | declining |
 | Romania | 30 | flat |
 | Argentina | 20 | flat |
-| Canada | 20 | growing |
-| Netherlands | 20 | declining |
-| Sweden | 20 | flat |
+| Netherlands | 20 | flat |
+| Sweden | 20 | declining |
 | Bulgaria | 10 | flat |
 | Estonia | 10 | flat |
 

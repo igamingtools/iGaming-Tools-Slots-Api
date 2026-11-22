@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-route-b27/demand/
 ```
 
-**12-month volume (illustrative):** 2,490 · **trend:** flat
+**12-month volume (illustrative):** 2,410 · **trend:** growing · YoY +1047.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 400 | flat |
-| India | 280 | flat |
-| Pakistan | 120 | flat |
+| South Africa | 440 | growing |
+| India | 260 | declining |
 | Ghana | 110 | flat |
-| Canada | 100 | declining |
-| Brazil | 80 | flat |
-| Germany | 80 | growing |
-| Tunisia | 80 | growing |
+| Pakistan | 100 | flat |
+| Brazil | 80 | declining |
+| Canada | 80 | flat |
 | Ukraine | 80 | flat |
-| Kenya | 70 | flat |
+| Germany | 70 | declining |
+| Indonesia | 70 | flat |
+| Tunisia | 70 | declining |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (48 markets) via the /demand/ endpoint.
 
 ## Links
 

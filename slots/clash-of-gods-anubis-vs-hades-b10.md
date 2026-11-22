@@ -143,22 +143,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/clash-of-gods-anubis-vs-hades-b10/demand/
 ```
 
-**12-month volume (illustrative):** 530 · **trend:** flat
+**12-month volume (illustrative):** 560 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 40 | flat |
-| Greece | 40 | declining |
-| Ukraine | 40 | flat |
-| Australia | 30 | growing |
-| Netherlands | 30 | declining |
-| United Kingdom | 30 | flat |
+| Ukraine | 50 | flat |
+| Germany | 40 | declining |
+| Greece | 40 | flat |
+| Netherlands | 40 | growing |
+| United Kingdom | 40 | growing |
+| Australia | 30 | declining |
 | Belarus | 20 | flat |
 | Brazil | 20 | flat |
-| Canada | 20 | growing |
-| Cyprus | 20 | growing |
+| Canada | 20 | declining |
+| Cyprus | 20 | declining |
 
 > Full per-country breakdown (31 markets) via the /demand/ endpoint.
 

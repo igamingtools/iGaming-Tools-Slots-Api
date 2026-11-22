@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/crash-b22/demand/
 ```
 
-**12-month volume (illustrative):** 11,850 · **trend:** declining · YoY -8.1%
+**12-month volume (illustrative):** 11,860 · **trend:** declining · YoY -5.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 2,900 | growing |
-| Brazil | 1,220 | declining |
-| Morocco | 560 | growing |
-| India | 460 | flat |
-| United States | 460 | growing |
-| Algeria | 300 | growing |
+| Indonesia | 3,020 | declining |
+| Brazil | 1,250 | flat |
+| Morocco | 520 | declining |
+| United States | 440 | declining |
+| India | 420 | flat |
 | Pakistan | 300 | flat |
-| Italy | 250 | declining |
+| Algeria | 290 | declining |
+| Italy | 250 | growing |
 | Canada | 240 | flat |
 | Finland | 200 | flat |
 
-> Full per-country breakdown (75 markets) via the /demand/ endpoint.
+> Full per-country breakdown (76 markets) via the /demand/ endpoint.
 
 ## Links
 

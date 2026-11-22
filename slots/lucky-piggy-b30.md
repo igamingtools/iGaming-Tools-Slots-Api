@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-piggy-b30/demand/
 ```
 
-**12-month volume (illustrative):** 12,010 · **trend:** declining · YoY -29.7%
+**12-month volume (illustrative):** 11,830 · **trend:** declining · YoY -29.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 6,660 | declining |
-| Philippines | 720 | declining |
-| Indonesia | 630 | declining |
-| India | 480 | declining |
-| Pakistan | 480 | declining |
-| Mexico | 320 | flat |
-| Ukraine | 180 | flat |
-| Tunisia | 170 | flat |
-| United States | 160 | declining |
+| Brazil | 6,770 | growing |
+| Philippines | 670 | growing |
+| Indonesia | 620 | growing |
+| Pakistan | 500 | declining |
+| India | 400 | flat |
+| Mexico | 310 | flat |
+| United States | 160 | growing |
 | Thailand | 130 | flat |
+| Tunisia | 130 | declining |
+| Canada | 120 | growing |
 
 > Full per-country breakdown (54 markets) via the /demand/ endpoint.
 

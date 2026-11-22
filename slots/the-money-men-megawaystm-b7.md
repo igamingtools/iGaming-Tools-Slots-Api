@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-money-men-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,260 · **trend:** declining · YoY -9.4%
+**12-month volume (illustrative):** 1,180 · **trend:** declining · YoY -15.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 200 | growing |
-| South Africa | 120 | flat |
-| Greece | 90 | flat |
+| Brazil | 200 | declining |
+| South Africa | 110 | declining |
 | Finland | 80 | flat |
-| United Kingdom | 80 | growing |
-| Philippines | 70 | growing |
-| Denmark | 50 | growing |
-| Tunisia | 50 | declining |
+| Greece | 80 | flat |
+| United Kingdom | 70 | declining |
+| Philippines | 60 | declining |
+| Tunisia | 60 | growing |
 | Canada | 40 | flat |
-| Malaysia | 40 | flat |
+| Denmark | 40 | declining |
+| Latvia | 40 | growing |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

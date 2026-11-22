@@ -116,20 +116,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/goblin-tower-b22/demand/
 ```
 
-**12-month volume (illustrative):** 350 · **trend:** flat
+**12-month volume (illustrative):** 390 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 180 | declining |
-| Pakistan | 100 | growing |
-| Brazil | 20 | growing |
+| India | 200 | flat |
+| Pakistan | 120 | flat |
+| Brazil | 20 | declining |
 | Estonia | 10 | flat |
-| Kazakhstan | 10 | growing |
+| Kazakhstan | 10 | declining |
 | Philippines | 10 | flat |
 | Thailand | 10 | flat |
-| United Kingdom | 10 | declining |
+| United Kingdom | 10 | flat |
 
 > Full per-country breakdown (8 markets) via the /demand/ endpoint.
 

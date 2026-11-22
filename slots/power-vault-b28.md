@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/power-vault-b28/demand/
 ```
 
-**12-month volume (illustrative):** 630 · **trend:** declining · YoY -6.0%
+**12-month volume (illustrative):** 610 · **trend:** declining · YoY -17.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Netherlands | 240 | flat |
+| Netherlands | 230 | declining |
 | Belgium | 60 | flat |
-| United Kingdom | 50 | declining |
-| Finland | 40 | flat |
-| Greece | 40 | flat |
-| Latvia | 30 | growing |
+| United Kingdom | 60 | growing |
+| Greece | 50 | growing |
+| Latvia | 30 | declining |
+| Sweden | 30 | growing |
 | Canada | 20 | flat |
-| Italy | 20 | growing |
-| Sweden | 20 | declining |
-| United States | 20 | flat |
+| Finland | 20 | flat |
+| Ukraine | 20 | growing |
+| Brazil | 10 | flat |
 
-> Full per-country breakdown (19 markets) via the /demand/ endpoint.
+> Full per-country breakdown (18 markets) via the /demand/ endpoint.
 
 ## Links
 

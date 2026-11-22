@@ -132,22 +132,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/emerald-king-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,980 · **trend:** growing · YoY +108.4%
+**12-month volume (illustrative):** 2,030 · **trend:** growing · YoY +125.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 210 | growing |
-| South Africa | 150 | flat |
-| Greece | 100 | growing |
-| Indonesia | 100 | flat |
-| Tunisia | 100 | flat |
-| United States | 100 | growing |
-| Argentina | 80 | flat |
-| Canada | 80 | flat |
-| Denmark | 60 | declining |
-| Finland | 60 | flat |
+| Brazil | 220 | declining |
+| South Africa | 150 | declining |
+| United States | 120 | flat |
+| Indonesia | 110 | flat |
+| Greece | 100 | declining |
+| Tunisia | 100 | declining |
+| Argentina | 90 | flat |
+| Finland | 80 | growing |
+| Canada | 60 | flat |
+| Italy | 60 | declining |
 
 > Full per-country breakdown (47 markets) via the /demand/ endpoint.
 

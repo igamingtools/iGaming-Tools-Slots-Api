@@ -120,7 +120,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/buggy-bonus-b29/demand/
 ```
 
-**12-month volume (illustrative):** 250 · **trend:** declining · YoY -21.9%
+**12-month volume (illustrative):** 230 · **trend:** declining · YoY -23.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -128,14 +128,13 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | South Africa | 120 | flat |
 | India | 40 | flat |
-| Tunisia | 30 | flat |
 | Malaysia | 20 | flat |
+| Tunisia | 20 | flat |
 | Australia | 10 | flat |
-| Netherlands | 10 | flat |
 | South Korea | 10 | flat |
 | Ukraine | 10 | flat |
 
-> Full per-country breakdown (8 markets) via the /demand/ endpoint.
+> Full per-country breakdown (7 markets) via the /demand/ endpoint.
 
 ## Links
 

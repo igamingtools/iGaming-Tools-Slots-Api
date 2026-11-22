@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-bonanza-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,660 · **trend:** declining · YoY -11.6%
+**12-month volume (illustrative):** 6,700 · **trend:** flat · YoY -4.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 2,580 | declining |
+| Indonesia | 2,640 | declining |
 | India | 580 | declining |
-| Brazil | 290 | growing |
-| Canada | 220 | flat |
+| Brazil | 270 | declining |
+| Canada | 180 | flat |
 | Turkey | 150 | declining |
 | Philippines | 130 | flat |
 | Australia | 120 | flat |
-| Greece | 120 | flat |
-| Malaysia | 120 | flat |
-| South Africa | 120 | flat |
+| Malaysia | 120 | growing |
+| Greece | 110 | flat |
+| South Africa | 110 | declining |
 
 > Full per-country breakdown (59 markets) via the /demand/ endpoint.
 

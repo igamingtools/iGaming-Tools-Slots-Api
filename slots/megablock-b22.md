@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/megablock-b22/demand/
 ```
 
-**12-month volume (illustrative):** 2,840 · **trend:** flat
+**12-month volume (illustrative):** 3,040 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 460 | declining |
-| Pakistan | 300 | declining |
-| Switzerland | 180 | declining |
-| Italy | 140 | flat |
-| France | 110 | flat |
+| India | 480 | flat |
+| Pakistan | 320 | declining |
+| Switzerland | 180 | flat |
+| Italy | 150 | declining |
+| France | 110 | declining |
+| Greece | 90 | flat |
 | Belgium | 80 | flat |
-| Canada | 80 | declining |
-| Greece | 80 | growing |
-| Hungary | 80 | flat |
-| Indonesia | 80 | flat |
+| Canada | 80 | flat |
+| Germany | 80 | flat |
+| Hungary | 80 | declining |
 
-> Full per-country breakdown (50 markets) via the /demand/ endpoint.
+> Full per-country breakdown (51 markets) via the /demand/ endpoint.
 
 ## Links
 

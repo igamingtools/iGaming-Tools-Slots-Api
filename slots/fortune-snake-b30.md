@@ -122,24 +122,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-snake-b30/demand/
 ```
 
-**12-month volume (illustrative):** 104,330 · **trend:** declining · YoY -28.4%
+**12-month volume (illustrative):** 103,940 · **trend:** declining · YoY -32.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 97,540 | declining |
-| United States | 1,620 | flat |
-| Mexico | 460 | growing |
-| Pakistan | 320 | flat |
-| India | 300 | flat |
-| Peru | 270 | growing |
-| Canada | 220 | flat |
-| Indonesia | 220 | growing |
-| Philippines | 200 | growing |
-| Portugal | 200 | growing |
+| Brazil | 97,560 | declining |
+| United States | 1,120 | flat |
+| Mexico | 460 | declining |
+| India | 380 | growing |
+| Pakistan | 320 | growing |
+| Peru | 310 | growing |
+| Indonesia | 230 | flat |
+| Philippines | 220 | growing |
+| Canada | 180 | growing |
+| Portugal | 170 | declining |
 
-> Full per-country breakdown (69 markets) via the /demand/ endpoint.
+> Full per-country breakdown (68 markets) via the /demand/ endpoint.
 
 ## Links
 

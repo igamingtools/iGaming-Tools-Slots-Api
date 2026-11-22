@@ -133,7 +133,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/vampires-vs-wolves-b7/demand/
 ```
 
-**12-month volume (illustrative):** 860 · **trend:** flat · YoY +3.6%
+**12-month volume (illustrative):** 860 · **trend:** flat · YoY +1.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -141,16 +141,16 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | South Africa | 110 | flat |
 | Brazil | 100 | flat |
-| Argentina | 90 | flat |
+| Argentina | 80 | flat |
 | Bulgaria | 70 | flat |
-| Finland | 40 | flat |
-| Philippines | 40 | flat |
-| Portugal | 30 | flat |
+| Philippines | 40 | growing |
+| Portugal | 40 | growing |
+| United Kingdom | 40 | growing |
+| Germany | 30 | growing |
 | Romania | 30 | flat |
-| United Kingdom | 30 | flat |
-| Australia | 20 | declining |
+| Finland | 20 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -143,24 +143,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-tiger-2-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,410 · **trend:** growing · YoY +1075.0%
+**12-month volume (illustrative):** 1,380 · **trend:** growing · YoY +392.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 120 | flat |
+| Brazil | 130 | growing |
+| United States | 120 | flat |
 | Australia | 110 | flat |
-| United States | 100 | growing |
-| India | 80 | growing |
-| Greece | 70 | flat |
-| Ukraine | 70 | flat |
-| United Kingdom | 70 | growing |
+| India | 80 | declining |
+| United Kingdom | 70 | flat |
 | Argentina | 60 | flat |
-| Canada | 60 | flat |
-| Netherlands | 60 | flat |
+| Germany | 60 | flat |
+| Greece | 60 | flat |
+| Mexico | 60 | growing |
+| Ukraine | 60 | declining |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

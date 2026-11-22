@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mad-blast-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,400 · **trend:** declining · YoY -40.9%
+**12-month volume (illustrative):** 1,430 · **trend:** declining · YoY -42.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 220 | growing |
-| Belgium | 120 | declining |
+| Finland | 220 | flat |
+| Greece | 110 | growing |
 | Netherlands | 110 | flat |
-| Greece | 100 | declining |
-| Brazil | 70 | declining |
-| Romania | 70 | growing |
-| United Kingdom | 70 | flat |
-| Canada | 60 | declining |
-| Denmark | 60 | growing |
-| United States | 60 | flat |
+| Belgium | 100 | flat |
+| Canada | 80 | growing |
+| Brazil | 70 | flat |
+| Denmark | 70 | flat |
+| Romania | 70 | declining |
+| United Kingdom | 60 | declining |
+| India | 40 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

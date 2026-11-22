@@ -107,22 +107,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-b7/demand/
 ```
 
-**12-month volume (illustrative):** 10,840 · **trend:** declining · YoY -5.2%
+**12-month volume (illustrative):** 10,490 · **trend:** declining · YoY -11.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 4,340 | growing |
-| Indonesia | 580 | declining |
-| Pakistan | 400 | growing |
-| United States | 260 | flat |
-| Brazil | 250 | flat |
-| France | 250 | flat |
+| India | 4,040 | declining |
+| Indonesia | 610 | flat |
+| Pakistan | 360 | flat |
+| Brazil | 250 | declining |
+| France | 240 | flat |
+| United States | 240 | flat |
 | Canada | 220 | flat |
-| Italy | 200 | declining |
-| South Africa | 200 | growing |
-| Switzerland | 180 | declining |
+| Italy | 200 | flat |
+| South Africa | 200 | declining |
+| Finland | 180 | flat |
 
 > Full per-country breakdown (71 markets) via the /demand/ endpoint.
 

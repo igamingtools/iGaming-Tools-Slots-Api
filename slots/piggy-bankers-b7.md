@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/piggy-bankers-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,350 · **trend:** flat · YoY -4.9%
+**12-month volume (illustrative):** 1,320 · **trend:** flat · YoY -3.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 160 | flat |
-| Brazil | 110 | flat |
-| Greece | 100 | growing |
-| United Kingdom | 100 | declining |
-| South Africa | 90 | flat |
-| United States | 80 | declining |
-| Indonesia | 70 | declining |
-| Ukraine | 70 | flat |
-| Canada | 60 | declining |
+| Finland | 160 | declining |
+| United Kingdom | 110 | flat |
+| Brazil | 100 | declining |
+| Greece | 90 | declining |
+| South Africa | 90 | declining |
+| Indonesia | 70 | growing |
+| Ukraine | 70 | declining |
+| Canada | 60 | flat |
 | Switzerland | 60 | flat |
+| United States | 60 | flat |
 
 > Full per-country breakdown (33 markets) via the /demand/ endpoint.
 

@@ -120,15 +120,15 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/carnival-cash-b29/demand/
 ```
 
-**12-month volume (illustrative):** 190 · **trend:** declining · YoY -45.7%
+**12-month volume (illustrative):** 160 · **trend:** declining · YoY -55.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 140 | flat |
-| India | 40 | flat |
-| Ukraine | 10 | declining |
+| South Africa | 130 | flat |
+| India | 20 | flat |
+| Ukraine | 10 | flat |
 
 > Full per-country breakdown (3 markets) via the /demand/ endpoint.
 

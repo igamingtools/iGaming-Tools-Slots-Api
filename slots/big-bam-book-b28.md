@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bam-book-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,800 · **trend:** declining · YoY -42.9%
+**12-month volume (illustrative):** 1,610 · **trend:** declining · YoY -46.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 200 | flat |
-| Netherlands | 130 | flat |
-| Greece | 110 | growing |
+| Finland | 180 | declining |
+| Netherlands | 120 | declining |
 | Germany | 100 | flat |
+| Greece | 100 | declining |
 | Romania | 100 | flat |
-| United Kingdom | 100 | growing |
-| Latvia | 80 | growing |
-| Sweden | 80 | declining |
-| Denmark | 70 | growing |
-| Canada | 60 | flat |
+| United Kingdom | 90 | declining |
+| Sweden | 80 | growing |
+| Latvia | 70 | declining |
+| Denmark | 60 | declining |
+| Italy | 60 | growing |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

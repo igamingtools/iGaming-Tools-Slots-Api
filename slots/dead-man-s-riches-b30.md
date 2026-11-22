@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dead-man-s-riches-b30/demand/
 ```
 
-**12-month volume (illustrative):** 920 · **trend:** growing · YoY +100.0%
+**12-month volume (illustrative):** 970 · **trend:** growing · YoY +94.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 320 | growing |
-| India | 140 | declining |
-| Philippines | 100 | flat |
-| Indonesia | 90 | flat |
-| Pakistan | 80 | flat |
-| Greece | 30 | declining |
-| Mexico | 30 | flat |
-| Canada | 20 | flat |
-| Kazakhstan | 20 | declining |
+| Brazil | 340 | declining |
+| India | 160 | growing |
+| Pakistan | 100 | flat |
+| Philippines | 90 | declining |
+| Indonesia | 80 | declining |
+| Canada | 40 | growing |
+| Greece | 30 | flat |
+| Mexico | 30 | declining |
+| Kazakhstan | 20 | flat |
 | Tunisia | 20 | flat |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 

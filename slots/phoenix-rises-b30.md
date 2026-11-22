@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/phoenix-rises-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,490 · **trend:** declining · YoY -25.7%
+**12-month volume (illustrative):** 2,430 · **trend:** declining · YoY -28.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,050 | flat |
-| India | 320 | flat |
+| Brazil | 940 | declining |
+| India | 380 | growing |
 | Pakistan | 200 | flat |
 | Indonesia | 170 | flat |
 | Philippines | 130 | flat |
-| Mexico | 80 | declining |
-| Thailand | 80 | flat |
-| Greece | 50 | flat |
-| South Africa | 40 | growing |
-| United States | 40 | flat |
+| Mexico | 70 | flat |
+| Thailand | 70 | declining |
+| Greece | 60 | growing |
+| South Africa | 50 | flat |
+| Tunisia | 40 | flat |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

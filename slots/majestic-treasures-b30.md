@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/majestic-treasures-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,290 · **trend:** declining · YoY -29.1%
+**12-month volume (illustrative):** 1,340 · **trend:** declining · YoY -20.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 660 | flat |
-| India | 100 | growing |
-| Indonesia | 100 | growing |
-| Philippines | 60 | growing |
-| Pakistan | 40 | flat |
-| Thailand | 40 | flat |
+| Brazil | 650 | declining |
+| Indonesia | 110 | flat |
+| India | 100 | declining |
+| Philippines | 70 | flat |
+| Pakistan | 60 | growing |
+| Thailand | 50 | growing |
 | Switzerland | 30 | flat |
+| Tunisia | 30 | growing |
 | Turkey | 30 | flat |
 | United Kingdom | 30 | flat |
-| Malaysia | 20 | flat |
 
 > Full per-country breakdown (24 markets) via the /demand/ endpoint.
 

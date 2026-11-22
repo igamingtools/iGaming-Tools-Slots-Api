@@ -144,19 +144,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/infernal-fury-b29/demand/
 ```
 
-**12-month volume (illustrative):** 380 · **trend:** flat
+**12-month volume (illustrative):** 390 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 300 | flat |
-| Canada | 20 | growing |
-| Finland | 20 | growing |
+| South Africa | 310 | declining |
+| Canada | 20 | declining |
+| Finland | 20 | declining |
 | Panama | 10 | flat |
-| Philippines | 10 | declining |
-| Thailand | 10 | declining |
-| Tunisia | 10 | declining |
+| Philippines | 10 | flat |
+| Thailand | 10 | flat |
+| Tunisia | 10 | flat |
 
 > Full per-country breakdown (7 markets) via the /demand/ endpoint.
 

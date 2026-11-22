@@ -131,22 +131,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/3-buzzing-wilds-b7/demand/
 ```
 
-**12-month volume (illustrative):** 12,510 · **trend:** declining · YoY -55.1%
+**12-month volume (illustrative):** 11,710 · **trend:** declining · YoY -56.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 5,680 | declining |
+| Brazil | 4,970 | declining |
 | Switzerland | 330 | flat |
-| Tunisia | 320 | declining |
-| Finland | 300 | flat |
-| Peru | 260 | flat |
-| Greece | 240 | growing |
+| Finland | 300 | declining |
+| Tunisia | 290 | flat |
 | Malaysia | 240 | flat |
-| Philippines | 230 | flat |
+| Peru | 240 | growing |
+| Greece | 230 | growing |
+| United Kingdom | 230 | declining |
 | Canada | 220 | flat |
-| United Kingdom | 220 | growing |
+| Philippines | 220 | growing |
 
 > Full per-country breakdown (66 markets) via the /demand/ endpoint.
 

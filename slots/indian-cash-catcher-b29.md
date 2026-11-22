@@ -120,13 +120,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/indian-cash-catcher-b29/demand/
 ```
 
-**12-month volume (illustrative):** 220 · **trend:** declining · YoY -48.8%
+**12-month volume (illustrative):** 210 · **trend:** declining · YoY -48.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 150 | flat |
+| South Africa | 140 | declining |
 | Canada | 20 | flat |
 | India | 20 | flat |
 | Colombia | 10 | flat |

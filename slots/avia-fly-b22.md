@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/avia-fly-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,170 · **trend:** growing · YoY +680.0%
+**12-month volume (illustrative):** 1,190 · **trend:** growing · YoY +357.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 240 | flat |
+| India | 260 | growing |
 | Pakistan | 220 | flat |
-| United States | 80 | flat |
-| Canada | 60 | flat |
-| Indonesia | 50 | declining |
+| Canada | 80 | growing |
+| United States | 80 | declining |
+| Indonesia | 60 | growing |
 | Finland | 40 | flat |
-| Germany | 40 | declining |
-| Australia | 30 | declining |
-| Italy | 30 | flat |
-| Lebanon | 30 | flat |
+| Australia | 30 | flat |
+| Germany | 30 | flat |
+| Lebanon | 30 | growing |
+| Netherlands | 30 | growing |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -128,21 +128,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/funky-fortunez-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,540 · **trend:** flat
+**12-month volume (illustrative):** 1,740 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 680 | growing |
-| India | 140 | declining |
-| Philippines | 130 | flat |
-| Indonesia | 110 | growing |
-| Pakistan | 100 | flat |
-| Thailand | 70 | flat |
-| United States | 60 | declining |
-| Japan | 30 | growing |
-| Belarus | 20 | declining |
+| Brazil | 700 | declining |
+| Indonesia | 200 | growing |
+| India | 160 | declining |
+| Philippines | 150 | flat |
+| Pakistan | 120 | flat |
+| Thailand | 80 | flat |
+| United States | 60 | flat |
+| Japan | 30 | declining |
+| Belarus | 20 | flat |
 | Germany | 20 | flat |
 
 > Full per-country breakdown (26 markets) via the /demand/ endpoint.

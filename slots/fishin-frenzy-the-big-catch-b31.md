@@ -129,22 +129,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fishin-frenzy-the-big-catch-b31/demand/
 ```
 
-**12-month volume (illustrative):** 5,550 · **trend:** flat · YoY -3.0%
+**12-month volume (illustrative):** 5,290 · **trend:** declining · YoY -16.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 3,470 | declining |
-| Ireland | 370 | declining |
-| United States | 240 | flat |
-| Germany | 140 | declining |
-| Canada | 100 | flat |
+| United Kingdom | 3,290 | growing |
+| Ireland | 380 | growing |
+| United States | 220 | flat |
+| Germany | 130 | flat |
 | Switzerland | 90 | flat |
+| Canada | 80 | flat |
 | Netherlands | 80 | flat |
-| Slovenia | 60 | growing |
-| Vietnam | 60 | flat |
-| Mexico | 50 | flat |
+| Finland | 60 | growing |
+| Slovenia | 60 | declining |
+| Spain | 60 | growing |
 
 > Full per-country breakdown (50 markets) via the /demand/ endpoint.
 

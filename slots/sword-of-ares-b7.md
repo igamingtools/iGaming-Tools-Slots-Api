@@ -131,22 +131,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/sword-of-ares-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,280 · **trend:** declining · YoY -42.8%
+**12-month volume (illustrative):** 3,130 · **trend:** declining · YoY -43.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 220 | flat |
-| Malaysia | 200 | flat |
-| Brazil | 190 | growing |
-| Greece | 180 | flat |
+| Brazil | 190 | declining |
+| Greece | 180 | declining |
+| United States | 180 | flat |
 | Indonesia | 160 | flat |
-| Canada | 120 | flat |
+| Malaysia | 160 | flat |
+| Canada | 140 | flat |
 | Germany | 120 | flat |
 | Netherlands | 120 | flat |
-| Switzerland | 120 | growing |
-| Philippines | 110 | flat |
+| Switzerland | 120 | declining |
+| South Africa | 110 | flat |
 
 > Full per-country breakdown (51 markets) via the /demand/ endpoint.
 

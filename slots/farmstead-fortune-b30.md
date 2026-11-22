@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/farmstead-fortune-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,620 · **trend:** flat
+**12-month volume (illustrative):** 1,970 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 800 | growing |
-| Philippines | 180 | declining |
-| Indonesia | 150 | declining |
-| India | 60 | growing |
-| Thailand | 50 | declining |
-| Pakistan | 40 | flat |
-| Canada | 20 | declining |
-| Germany | 20 | flat |
-| Malaysia | 20 | declining |
-| Mexico | 20 | flat |
+| Brazil | 970 | declining |
+| Indonesia | 220 | growing |
+| Philippines | 200 | growing |
+| India | 80 | declining |
+| Pakistan | 60 | flat |
+| Thailand | 60 | flat |
+| Canada | 20 | flat |
+| Germany | 20 | declining |
+| Italy | 20 | growing |
+| Malaysia | 20 | flat |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

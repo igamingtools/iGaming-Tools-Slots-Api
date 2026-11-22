@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/vortex-2-b27/demand/
 ```
 
-**12-month volume (illustrative):** 790 · **trend:** flat
+**12-month volume (illustrative):** 910 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 300 | growing |
+| India | 380 | growing |
 | United States | 80 | flat |
 | Pakistan | 60 | flat |
 | Switzerland | 60 | flat |
-| Germany | 50 | declining |
-| Brazil | 20 | growing |
+| Germany | 50 | flat |
+| Brazil | 20 | declining |
 | Bulgaria | 20 | flat |
 | Cyprus | 20 | flat |
 | Finland | 20 | flat |
-| Philippines | 20 | flat |
+| Greece | 20 | growing |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

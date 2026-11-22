@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/graffiti-rush-b30/demand/
 ```
 
-**12-month volume (illustrative):** 6,470 · **trend:** declining · YoY -52.7%
+**12-month volume (illustrative):** 6,190 · **trend:** declining · YoY -57.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 4,370 | declining |
-| Philippines | 540 | declining |
-| India | 300 | flat |
+| Brazil | 4,240 | flat |
+| Philippines | 430 | growing |
+| India | 280 | growing |
 | Indonesia | 210 | flat |
-| Pakistan | 100 | declining |
+| Pakistan | 100 | growing |
 | Thailand | 100 | flat |
-| Algeria | 70 | flat |
-| Tunisia | 70 | flat |
+| Algeria | 80 | growing |
+| Tunisia | 70 | growing |
 | Cyprus | 60 | flat |
-| Portugal | 60 | growing |
+| Portugal | 60 | flat |
 
-> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+> Full per-country breakdown (43 markets) via the /demand/ endpoint.
 
 ## Links
 

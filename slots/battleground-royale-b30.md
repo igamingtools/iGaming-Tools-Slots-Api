@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/battleground-royale-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,850 · **trend:** declining · YoY -26.6%
+**12-month volume (illustrative):** 1,760 · **trend:** declining · YoY -29.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 410 | flat |
+| Brazil | 390 | declining |
 | Philippines | 270 | flat |
-| India | 220 | flat |
-| Pakistan | 200 | declining |
-| Indonesia | 160 | declining |
-| Thailand | 70 | growing |
-| Malaysia | 40 | declining |
+| India | 200 | declining |
+| Pakistan | 200 | growing |
+| Indonesia | 160 | flat |
+| Thailand | 70 | flat |
 | United States | 40 | flat |
 | Vietnam | 40 | flat |
 | Austria | 30 | flat |
+| Singapore | 30 | declining |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (32 markets) via the /demand/ endpoint.
 
 ## Links
 

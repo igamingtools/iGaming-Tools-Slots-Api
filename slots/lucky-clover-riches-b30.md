@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-clover-riches-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,030 · **trend:** growing · YoY +83.9%
+**12-month volume (illustrative):** 1,010 · **trend:** growing · YoY +55.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | India | 200 | flat |
-| Brazil | 160 | growing |
+| Brazil | 160 | flat |
 | Pakistan | 120 | flat |
-| Philippines | 100 | declining |
-| Indonesia | 70 | flat |
+| Philippines | 90 | flat |
+| Indonesia | 80 | flat |
 | Canada | 60 | flat |
-| Tunisia | 50 | declining |
 | Finland | 40 | flat |
+| Tunisia | 40 | flat |
 | Chile | 30 | flat |
-| Vietnam | 30 | growing |
+| Vietnam | 30 | declining |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (21 markets) via the /demand/ endpoint.
 
 ## Links
 

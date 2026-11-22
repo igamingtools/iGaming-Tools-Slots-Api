@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bee-keeper-b7/demand/
 ```
 
-**12-month volume (illustrative):** 13,760 · **trend:** growing · YoY +446.0%
+**12-month volume (illustrative):** 13,310 · **trend:** growing · YoY +225.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 2,030 | growing |
-| Brazil | 1,910 | growing |
-| South Africa | 1,120 | declining |
-| United Kingdom | 940 | flat |
-| Finland | 920 | flat |
-| Germany | 480 | flat |
+| Brazil | 1,850 | declining |
+| Greece | 1,780 | declining |
+| South Africa | 1,020 | declining |
+| Finland | 940 | flat |
+| United Kingdom | 900 | declining |
+| Germany | 480 | growing |
 | Switzerland | 450 | flat |
-| Netherlands | 420 | declining |
+| Netherlands | 400 | declining |
 | United States | 320 | flat |
-| Spain | 290 | flat |
+| Canada | 280 | growing |
 
-> Full per-country breakdown (71 markets) via the /demand/ endpoint.
+> Full per-country breakdown (68 markets) via the /demand/ endpoint.
 
 ## Links
 

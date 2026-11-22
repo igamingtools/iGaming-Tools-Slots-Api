@@ -133,24 +133,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rick-and-morty-wubba-lubba-dub-dub-b31/demand/
 ```
 
-**12-month volume (illustrative):** 3,200 · **trend:** growing · YoY +41.0%
+**12-month volume (illustrative):** 3,290 · **trend:** growing · YoY +35.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 1,660 | growing |
+| United Kingdom | 1,660 | declining |
+| Spain | 210 | declining |
+| United States | 180 | flat |
 | Finland | 160 | flat |
-| United States | 160 | growing |
 | Canada | 140 | flat |
-| Spain | 140 | growing |
 | Ireland | 110 | flat |
-| Sweden | 100 | flat |
-| Netherlands | 80 | growing |
-| Italy | 70 | flat |
+| Sweden | 110 | flat |
+| Italy | 70 | declining |
+| Netherlands | 70 | declining |
 | Denmark | 50 | flat |
 
-> Full per-country breakdown (39 markets) via the /demand/ endpoint.
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
 
 ## Links
 

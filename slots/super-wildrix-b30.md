@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-wildrix-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,500 · **trend:** flat
+**12-month volume (illustrative):** 2,680 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,270 | declining |
-| Indonesia | 230 | flat |
-| Philippines | 230 | flat |
-| India | 80 | flat |
-| Thailand | 80 | flat |
-| Canada | 40 | declining |
-| Pakistan | 40 | growing |
-| United States | 40 | declining |
-| Japan | 30 | growing |
-| Netherlands | 30 | growing |
+| Brazil | 1,340 | declining |
+| Indonesia | 240 | flat |
+| Philippines | 240 | flat |
+| India | 100 | flat |
+| Thailand | 90 | flat |
+| Pakistan | 60 | flat |
+| Canada | 40 | flat |
+| United States | 40 | flat |
+| Vietnam | 40 | flat |
+| Japan | 30 | declining |
 
 > Full per-country breakdown (37 markets) via the /demand/ endpoint.
 

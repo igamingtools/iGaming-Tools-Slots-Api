@@ -121,24 +121,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aero-b27/demand/
 ```
 
-**12-month volume (illustrative):** 1,600 · **trend:** declining · YoY -15.3%
+**12-month volume (illustrative):** 1,460 · **trend:** declining · YoY -28.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 240 | flat |
 | United States | 240 | flat |
-| Canada | 100 | declining |
-| United Kingdom | 80 | flat |
-| Indonesia | 70 | flat |
-| South Africa | 70 | declining |
+| India | 220 | flat |
+| Canada | 100 | flat |
+| United Kingdom | 80 | growing |
+| South Africa | 70 | flat |
+| Indonesia | 60 | flat |
 | Switzerland | 60 | flat |
-| Brazil | 50 | growing |
-| Italy | 50 | declining |
-| Turkey | 50 | growing |
+| Brazil | 50 | flat |
+| Italy | 50 | growing |
+| Egypt | 40 | flat |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (38 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/forest-arrow-b22/demand/
 ```
 
-**12-month volume (illustrative):** 7,410 · **trend:** growing · YoY +99.7%
+**12-month volume (illustrative):** 5,470 · **trend:** flat · YoY -4.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 4,500 | declining |
-| Pakistan | 920 | declining |
-| Canada | 140 | growing |
-| Italy | 140 | flat |
+| India | 3,360 | flat |
+| Pakistan | 600 | flat |
 | Brazil | 120 | flat |
-| Germany | 120 | flat |
-| Netherlands | 90 | flat |
-| Ukraine | 90 | growing |
-| United States | 80 | flat |
-| France | 70 | flat |
+| Canada | 120 | declining |
+| Germany | 90 | flat |
+| Italy | 90 | flat |
+| Ukraine | 90 | flat |
+| Netherlands | 70 | flat |
+| France | 60 | flat |
+| Poland | 60 | flat |
 
-> Full per-country breakdown (53 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

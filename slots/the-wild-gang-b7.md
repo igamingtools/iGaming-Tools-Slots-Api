@@ -141,22 +141,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-wild-gang-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,680 · **trend:** declining · YoY -15.8%
+**12-month volume (illustrative):** 6,400 · **trend:** declining · YoY -20.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Netherlands | 860 | declining |
-| Poland | 350 | flat |
-| Finland | 320 | declining |
-| Canada | 280 | flat |
-| Switzerland | 270 | declining |
-| Belgium | 220 | declining |
-| Denmark | 210 | growing |
-| Greece | 200 | growing |
+| Netherlands | 840 | flat |
+| Finland | 320 | flat |
+| Canada | 260 | flat |
+| Poland | 250 | flat |
+| Switzerland | 240 | flat |
+| Belgium | 220 | growing |
+| Denmark | 210 | declining |
 | South Africa | 200 | flat |
-| United Kingdom | 200 | flat |
+| Greece | 190 | declining |
+| United Kingdom | 180 | flat |
 
 > Full per-country breakdown (59 markets) via the /demand/ endpoint.
 

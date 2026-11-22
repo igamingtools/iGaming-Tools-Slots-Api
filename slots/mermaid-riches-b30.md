@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mermaid-riches-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,550 · **trend:** declining · YoY -12.4%
+**12-month volume (illustrative):** 1,510 · **trend:** declining · YoY -12.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 400 | flat |
-| Brazil | 370 | declining |
-| Indonesia | 120 | flat |
+| India | 380 | declining |
+| Brazil | 350 | growing |
 | Philippines | 120 | flat |
-| Pakistan | 80 | growing |
-| United States | 80 | flat |
-| Thailand | 40 | growing |
-| Algeria | 30 | flat |
-| Canada | 20 | flat |
-| France | 20 | flat |
+| Indonesia | 110 | declining |
+| Pakistan | 80 | declining |
+| United States | 80 | growing |
+| Thailand | 40 | declining |
+| Tunisia | 30 | growing |
+| United Kingdom | 30 | growing |
+| Algeria | 20 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

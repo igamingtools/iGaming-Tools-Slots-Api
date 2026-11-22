@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/kraken-gold-rush-b30/demand/
 ```
 
-**12-month volume (illustrative):** 9,360 · **trend:** growing · YoY +93500.0%
+**12-month volume (illustrative):** 7,430 · **trend:** growing · YoY +221.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 3,430 | flat |
-| Philippines | 1,110 | growing |
-| Indonesia | 1,060 | declining |
-| India | 1,020 | declining |
-| Pakistan | 700 | declining |
-| Thailand | 320 | flat |
-| United States | 120 | flat |
+| Brazil | 2,300 | declining |
+| Philippines | 950 | declining |
+| India | 940 | declining |
+| Indonesia | 920 | declining |
+| Pakistan | 720 | declining |
+| Thailand | 120 | flat |
 | Tunisia | 110 | flat |
-| Malaysia | 100 | growing |
-| Germany | 60 | flat |
+| Malaysia | 100 | declining |
+| United States | 100 | flat |
+| Chile | 60 | flat |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystical-spirits-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,460 · **trend:** growing · YoY +5.1%
+**12-month volume (illustrative):** 2,500 · **trend:** growing · YoY +7.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,070 | declining |
+| Brazil | 1,110 | growing |
 | India | 260 | flat |
-| Philippines | 190 | flat |
-| Pakistan | 180 | flat |
+| Pakistan | 200 | flat |
+| Philippines | 180 | flat |
 | Indonesia | 110 | flat |
-| Thailand | 80 | growing |
-| Switzerland | 60 | flat |
-| Algeria | 40 | flat |
+| Switzerland | 90 | growing |
+| Thailand | 80 | flat |
 | Finland | 40 | flat |
-| Malaysia | 40 | flat |
+| Malaysia | 40 | growing |
+| Ukraine | 40 | growing |
 
 > Full per-country breakdown (29 markets) via the /demand/ endpoint.
 

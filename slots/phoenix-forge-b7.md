@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/phoenix-forge-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,230 · **trend:** declining · YoY -18.9%
+**12-month volume (illustrative):** 2,080 · **trend:** declining · YoY -26.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 370 | flat |
+| South Africa | 290 | flat |
 | Brazil | 150 | flat |
-| Greece | 140 | growing |
-| Indonesia | 100 | growing |
-| Argentina | 90 | declining |
-| Philippines | 90 | growing |
-| Switzerland | 90 | flat |
+| Greece | 140 | flat |
+| Indonesia | 110 | declining |
+| Germany | 90 | flat |
 | United Kingdom | 90 | flat |
-| Germany | 80 | growing |
+| Argentina | 80 | flat |
+| Philippines | 80 | declining |
 | United States | 80 | flat |
+| Colombia | 60 | flat |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

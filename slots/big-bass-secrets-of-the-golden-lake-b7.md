@@ -147,24 +147,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-secrets-of-the-golden-lake-b7/demand/
 ```
 
-**12-month volume (illustrative):** 22,380 · **trend:** declining · YoY -30.3%
+**12-month volume (illustrative):** 21,920 · **trend:** declining · YoY -32.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 5,840 | growing |
-| Brazil | 2,850 | declining |
-| Greece | 1,330 | growing |
-| Germany | 990 | flat |
-| Netherlands | 840 | declining |
-| Italy | 800 | declining |
-| Spain | 740 | growing |
-| Canada | 600 | growing |
-| Denmark | 590 | declining |
-| Romania | 560 | declining |
+| United Kingdom | 5,730 | declining |
+| Brazil | 2,480 | declining |
+| Greece | 1,380 | declining |
+| Netherlands | 860 | growing |
+| Germany | 850 | flat |
+| Italy | 800 | growing |
+| Spain | 690 | growing |
+| Austria | 650 | growing |
+| Canada | 640 | growing |
+| Switzerland | 600 | growing |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

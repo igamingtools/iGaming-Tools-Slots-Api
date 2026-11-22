@@ -128,21 +128,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bali-vacation-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,360 · **trend:** growing · YoY +15.3%
+**12-month volume (illustrative):** 1,370 · **trend:** growing · YoY +17.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 290 | growing |
+| Brazil | 280 | declining |
 | India | 220 | flat |
+| Pakistan | 160 | flat |
 | Philippines | 160 | flat |
-| Pakistan | 140 | growing |
 | Indonesia | 120 | flat |
 | United States | 60 | flat |
-| Tunisia | 50 | flat |
-| Finland | 40 | growing |
-| Thailand | 40 | growing |
+| Tunisia | 50 | growing |
+| Finland | 40 | declining |
+| Thailand | 40 | declining |
 | Hong Kong | 30 | flat |
 
 > Full per-country breakdown (26 markets) via the /demand/ endpoint.

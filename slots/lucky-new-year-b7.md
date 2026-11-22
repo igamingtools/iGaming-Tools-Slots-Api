@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/lucky-new-year-b7/demand/
 ```
 
-**12-month volume (illustrative):** 900 · **trend:** declining · YoY -28.0%
+**12-month volume (illustrative):** 900 · **trend:** declining · YoY -23.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 150 | growing |
-| Brazil | 140 | flat |
-| Indonesia | 60 | flat |
-| Austria | 50 | flat |
-| Malaysia | 40 | declining |
+| South Africa | 150 | declining |
+| Brazil | 130 | declining |
+| Indonesia | 60 | declining |
+| Austria | 50 | declining |
+| Malaysia | 40 | flat |
+| New Zealand | 40 | flat |
 | United States | 40 | flat |
-| Argentina | 30 | declining |
+| Argentina | 30 | flat |
 | Australia | 30 | flat |
-| New Zealand | 30 | growing |
 | Peru | 30 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

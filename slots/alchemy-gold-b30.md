@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/alchemy-gold-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,700 · **trend:** declining · YoY -37.5%
+**12-month volume (illustrative):** 2,690 · **trend:** declining · YoY -32.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 870 | declining |
-| Indonesia | 410 | declining |
+| Brazil | 850 | flat |
+| Indonesia | 390 | flat |
 | India | 240 | flat |
-| Pakistan | 160 | flat |
+| Pakistan | 160 | declining |
 | Philippines | 120 | flat |
 | United States | 100 | flat |
-| Chile | 80 | growing |
-| Thailand | 80 | flat |
-| Greece | 70 | flat |
-| Canada | 60 | flat |
+| Canada | 80 | flat |
+| Greece | 80 | growing |
+| Thailand | 80 | declining |
+| Chile | 70 | declining |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

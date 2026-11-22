@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/heist-stakes-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,320 · **trend:** declining · YoY -44.8%
+**12-month volume (illustrative):** 2,260 · **trend:** declining · YoY -42.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 830 | growing |
+| Brazil | 770 | declining |
 | India | 280 | flat |
-| Pakistan | 160 | growing |
-| Slovenia | 150 | growing |
-| Indonesia | 130 | growing |
+| Pakistan | 160 | flat |
+| Slovenia | 150 | declining |
+| Indonesia | 130 | declining |
 | Philippines | 110 | flat |
-| Thailand | 60 | flat |
-| United States | 60 | flat |
-| Tunisia | 50 | growing |
-| Canada | 40 | growing |
+| United States | 80 | growing |
+| Thailand | 60 | growing |
+| Mexico | 50 | flat |
+| Tunisia | 50 | flat |
 
-> Full per-country breakdown (32 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

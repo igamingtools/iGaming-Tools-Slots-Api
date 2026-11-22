@@ -133,24 +133,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/razor-shark-jackpots-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,870 · **trend:** flat
+**12-month volume (illustrative):** 2,160 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 150 | growing |
-| Switzerland | 120 | flat |
-| United Kingdom | 120 | flat |
-| Netherlands | 110 | declining |
-| Canada | 100 | flat |
-| Finland | 100 | declining |
-| United States | 80 | flat |
-| Norway | 70 | flat |
-| Belgium | 60 | growing |
-| Denmark | 60 | flat |
+| Germany | 180 | declining |
+| Netherlands | 130 | growing |
+| United Kingdom | 130 | flat |
+| Canada | 120 | flat |
+| Finland | 120 | growing |
+| Switzerland | 120 | declining |
+| United States | 100 | flat |
+| Norway | 80 | flat |
+| Denmark | 70 | flat |
+| Sweden | 70 | flat |
 
-> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

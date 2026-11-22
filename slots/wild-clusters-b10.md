@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-clusters-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,510 · **trend:** declining · YoY -29.1%
+**12-month volume (illustrative):** 1,330 · **trend:** declining · YoY -44.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Finland | 240 | flat |
-| Canada | 200 | flat |
-| Germany | 130 | declining |
-| Norway | 100 | flat |
-| Greece | 90 | flat |
-| Netherlands | 90 | flat |
-| Italy | 80 | flat |
-| Poland | 80 | flat |
-| Sweden | 70 | flat |
-| Spain | 60 | flat |
+| Canada | 160 | flat |
+| Germany | 120 | flat |
+| Greece | 90 | growing |
+| Italy | 70 | flat |
+| Norway | 70 | flat |
+| Netherlands | 60 | flat |
+| Poland | 60 | flat |
+| Spain | 60 | growing |
+| United Kingdom | 60 | growing |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

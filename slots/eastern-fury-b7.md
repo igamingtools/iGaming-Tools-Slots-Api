@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/eastern-fury-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,750 · **trend:** flat
+**12-month volume (illustrative):** 2,910 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 200 | growing |
-| Greece | 170 | growing |
-| Finland | 140 | declining |
-| Canada | 100 | declining |
-| Denmark | 90 | growing |
-| Netherlands | 80 | growing |
-| United Kingdom | 70 | declining |
-| Switzerland | 60 | flat |
-| United States | 60 | growing |
-| Germany | 50 | declining |
+| Greece | 280 | declining |
+| Brazil | 240 | declining |
+| Finland | 160 | declining |
+| Malaysia | 140 | declining |
+| Canada | 120 | declining |
+| Denmark | 110 | declining |
+| Philippines | 100 | declining |
+| South Africa | 100 | declining |
+| Netherlands | 90 | declining |
+| United Kingdom | 90 | declining |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (58 markets) via the /demand/ endpoint.
 
 ## Links
 

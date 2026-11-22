@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/extra-juicy-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,520 · **trend:** declining · YoY -20.0%
+**12-month volume (illustrative):** 6,060 · **trend:** declining · YoY -26.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 520 | declining |
-| United Kingdom | 470 | flat |
-| Tunisia | 380 | declining |
-| Switzerland | 330 | flat |
-| Malaysia | 300 | declining |
-| Greece | 250 | declining |
-| Romania | 250 | flat |
-| Canada | 220 | declining |
-| Brazil | 200 | growing |
-| Lebanon | 200 | growing |
+| South Africa | 450 | flat |
+| United Kingdom | 430 | flat |
+| Tunisia | 310 | growing |
+| Switzerland | 300 | declining |
+| Malaysia | 280 | declining |
+| Romania | 230 | flat |
+| Canada | 220 | growing |
+| Greece | 220 | flat |
+| Brazil | 210 | declining |
+| Netherlands | 180 | declining |
 
-> Full per-country breakdown (62 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

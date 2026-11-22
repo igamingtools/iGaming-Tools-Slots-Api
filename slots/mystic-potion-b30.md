@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mystic-potion-b30/demand/
 ```
 
-**12-month volume (illustrative):** 6,140 · **trend:** declining · YoY -6.5%
+**12-month volume (illustrative):** 6,200 · **trend:** flat · YoY -3.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,100 | growing |
-| Philippines | 990 | declining |
-| India | 880 | growing |
-| Indonesia | 440 | flat |
-| Pakistan | 440 | declining |
+| Brazil | 2,100 | flat |
+| India | 1,000 | growing |
+| Philippines | 900 | declining |
+| Pakistan | 460 | growing |
+| Indonesia | 450 | growing |
 | Latvia | 240 | flat |
-| Chile | 160 | declining |
-| Thailand | 70 | flat |
-| Tunisia | 70 | flat |
-| Finland | 60 | flat |
+| Chile | 170 | growing |
+| Thailand | 80 | flat |
+| Tunisia | 70 | growing |
+| Finland | 60 | declining |
 
-> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+> Full per-country breakdown (40 markets) via the /demand/ endpoint.
 
 ## Links
 

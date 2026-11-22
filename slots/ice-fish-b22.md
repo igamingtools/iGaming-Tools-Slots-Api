@@ -120,22 +120,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ice-fish-b22/demand/
 ```
 
-**12-month volume (illustrative):** 3,730 · **trend:** growing · YoY +2564.3%
+**12-month volume (illustrative):** 4,010 · **trend:** growing · YoY +1570.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 810 | declining |
-| India | 340 | declining |
-| Pakistan | 220 | growing |
+| Brazil | 830 | growing |
+| India | 400 | growing |
+| Pakistan | 240 | declining |
 | Italy | 150 | flat |
+| Malaysia | 120 | growing |
+| Indonesia | 110 | flat |
 | United Kingdom | 110 | flat |
-| Indonesia | 100 | flat |
-| Malaysia | 100 | declining |
 | Ukraine | 100 | flat |
-| South Africa | 90 | growing |
-| Switzerland | 90 | declining |
+| United States | 100 | growing |
+| South Africa | 90 | flat |
 
 > Full per-country breakdown (54 markets) via the /demand/ endpoint.
 

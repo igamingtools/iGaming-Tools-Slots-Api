@@ -149,22 +149,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-splash-1000-b7/demand/
 ```
 
-**12-month volume (illustrative):** 38,810 · **trend:** growing · YoY +1503.7%
+**12-month volume (illustrative):** 41,540 · **trend:** growing · YoY +1244.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 7,100 | growing |
-| Greece | 6,500 | growing |
-| United Kingdom | 5,520 | flat |
-| South Africa | 1,840 | flat |
-| Canada | 1,820 | flat |
-| Netherlands | 1,380 | growing |
-| Italy | 990 | declining |
-| Spain | 910 | growing |
-| Germany | 840 | flat |
-| Ireland | 680 | declining |
+| Brazil | 7,280 | growing |
+| Greece | 7,000 | growing |
+| United Kingdom | 5,950 | growing |
+| South Africa | 2,000 | growing |
+| Canada | 1,960 | growing |
+| Netherlands | 1,480 | growing |
+| Italy | 1,090 | growing |
+| Spain | 970 | growing |
+| Germany | 880 | growing |
+| Turkey | 870 | growing |
 
 > Full per-country breakdown (70 markets) via the /demand/ endpoint.
 

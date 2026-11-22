@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/speed-winner-b30/demand/
 ```
 
-**12-month volume (illustrative):** 10,810 · **trend:** declining · YoY -17.3%
+**12-month volume (illustrative):** 10,890 · **trend:** declining · YoY -16.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 3,450 | flat |
-| India | 2,620 | declining |
-| Philippines | 940 | flat |
-| Indonesia | 800 | growing |
-| Pakistan | 300 | flat |
+| Brazil | 3,580 | growing |
+| India | 2,740 | flat |
+| Philippines | 910 | declining |
+| Indonesia | 680 | growing |
+| Pakistan | 340 | growing |
 | Turkey | 210 | flat |
-| Estonia | 150 | flat |
 | Switzerland | 150 | flat |
+| Estonia | 130 | declining |
 | Germany | 130 | flat |
-| Latvia | 130 | declining |
+| Thailand | 130 | flat |
 
-> Full per-country breakdown (58 markets) via the /demand/ endpoint.
+> Full per-country breakdown (56 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wings-of-iguazu-b30/demand/
 ```
 
-**12-month volume (illustrative):** 8,390 · **trend:** declining · YoY -35.8%
+**12-month volume (illustrative):** 8,260 · **trend:** declining · YoY -37.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 6,440 | growing |
+| Brazil | 6,300 | declining |
 | India | 400 | flat |
-| Philippines | 270 | declining |
+| Philippines | 260 | flat |
 | Pakistan | 240 | flat |
 | Indonesia | 120 | flat |
-| United States | 100 | growing |
-| Mexico | 90 | growing |
+| Mexico | 80 | declining |
 | Thailand | 80 | flat |
-| Switzerland | 60 | flat |
-| Tunisia | 60 | declining |
+| United States | 80 | declining |
+| Switzerland | 60 | declining |
+| Tunisia | 60 | growing |
 
 > Full per-country breakdown (40 markets) via the /demand/ endpoint.
 

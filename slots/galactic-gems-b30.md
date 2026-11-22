@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/galactic-gems-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,780 · **trend:** declining · YoY -43.3%
+**12-month volume (illustrative):** 1,750 · **trend:** declining · YoY -43.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 480 | flat |
-| Brazil | 290 | flat |
+| Indonesia | 440 | declining |
+| Brazil | 300 | flat |
 | India | 220 | flat |
-| Tunisia | 170 | flat |
-| Philippines | 110 | growing |
-| Pakistan | 100 | growing |
-| Thailand | 90 | flat |
-| Singapore | 50 | flat |
-| Turkey | 50 | declining |
-| United States | 40 | flat |
+| Tunisia | 150 | flat |
+| Pakistan | 120 | flat |
+| Philippines | 110 | flat |
+| Thailand | 80 | declining |
+| Turkey | 50 | flat |
+| Mexico | 40 | flat |
+| Singapore | 40 | flat |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

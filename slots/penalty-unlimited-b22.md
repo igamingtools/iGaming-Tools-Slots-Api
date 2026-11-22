@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/penalty-unlimited-b22/demand/
 ```
 
-**12-month volume (illustrative):** 5,410 · **trend:** growing · YoY +270.5%
+**12-month volume (illustrative):** 4,710 · **trend:** growing · YoY +101.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 1,600 | declining |
-| Pakistan | 820 | flat |
-| Italy | 290 | growing |
-| Brazil | 230 | flat |
+| India | 1,340 | declining |
+| Pakistan | 620 | declining |
+| Brazil | 240 | flat |
+| Italy | 230 | flat |
 | Germany | 160 | flat |
 | Greece | 140 | flat |
-| France | 110 | flat |
-| Hungary | 110 | flat |
-| Canada | 100 | flat |
-| Austria | 90 | growing |
+| Hungary | 110 | growing |
+| France | 100 | declining |
+| Spain | 90 | flat |
+| Austria | 80 | declining |
 
 > Full per-country breakdown (59 markets) via the /demand/ endpoint.
 

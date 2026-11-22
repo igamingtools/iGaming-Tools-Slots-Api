@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jungle-delight-b30/demand/
 ```
 
-**12-month volume (illustrative):** 43,750 · **trend:** declining · YoY -23.0%
+**12-month volume (illustrative):** 39,870 · **trend:** declining · YoY -35.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 35,960 | declining |
-| Brazil | 5,660 | growing |
+| India | 32,160 | growing |
+| Brazil | 5,570 | flat |
 | Pakistan | 400 | flat |
-| Norway | 160 | growing |
+| Norway | 190 | growing |
 | Indonesia | 150 | flat |
-| Philippines | 150 | flat |
-| Thailand | 120 | flat |
-| Mexico | 80 | declining |
-| United States | 80 | flat |
-| Tunisia | 70 | growing |
+| Philippines | 140 | flat |
+| Thailand | 130 | growing |
+| United States | 100 | growing |
+| Mexico | 80 | flat |
+| Peru | 70 | flat |
 
-> Full per-country breakdown (43 markets) via the /demand/ endpoint.
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

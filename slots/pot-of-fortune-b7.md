@@ -126,24 +126,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pot-of-fortune-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,050 · **trend:** declining · YoY -65.6%
+**12-month volume (illustrative):** 950 · **trend:** declining · YoY -68.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 190 | flat |
-| Brazil | 120 | flat |
-| Mexico | 80 | flat |
-| Canada | 60 | declining |
-| Greece | 60 | declining |
-| United States | 60 | declining |
-| Philippines | 50 | declining |
-| Argentina | 40 | growing |
+| South Africa | 180 | declining |
+| Brazil | 110 | declining |
+| Mexico | 80 | declining |
+| Greece | 70 | growing |
+| Canada | 60 | flat |
+| United States | 60 | flat |
+| Philippines | 50 | flat |
+| Argentina | 30 | declining |
 | Netherlands | 30 | flat |
-| Turkey | 30 | flat |
+| Spain | 20 | flat |
 
-> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

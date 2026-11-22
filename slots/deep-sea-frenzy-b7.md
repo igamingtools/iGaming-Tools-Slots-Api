@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/deep-sea-frenzy-b7/demand/
 ```
 
-**12-month volume (illustrative):** 510 · **trend:** flat
+**12-month volume (illustrative):** 1,470 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 40 | growing |
-| Belgium | 20 | growing |
-| Canada | 20 | growing |
-| Finland | 20 | growing |
-| Malaysia | 20 | growing |
-| Argentina | 10 | growing |
-| Australia | 10 | growing |
-| Austria | 10 | growing |
-| Belarus | 10 | growing |
-| Bulgaria | 10 | growing |
+| South Africa | 150 | growing |
+| Brazil | 110 | growing |
+| Malaysia | 80 | growing |
+| Canada | 60 | growing |
+| Finland | 60 | growing |
+| Denmark | 50 | growing |
+| Greece | 50 | growing |
+| Belgium | 40 | flat |
+| United Kingdom | 40 | growing |
+| Germany | 30 | growing |
 
-> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+> Full per-country breakdown (54 markets) via the /demand/ endpoint.
 
 ## Links
 

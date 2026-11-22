@@ -119,24 +119,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ultra-burn-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,720 · **trend:** declining · YoY -16.9%
+**12-month volume (illustrative):** 1,670 · **trend:** declining · YoY -18.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 320 | flat |
-| Brazil | 190 | flat |
-| Belgium | 100 | declining |
-| Lithuania | 90 | flat |
-| Finland | 80 | declining |
-| Latvia | 80 | growing |
-| Germany | 70 | growing |
+| South Africa | 310 | growing |
+| Brazil | 180 | flat |
+| Lithuania | 90 | growing |
+| Belgium | 80 | flat |
+| Finland | 80 | flat |
+| Latvia | 80 | declining |
+| Germany | 70 | flat |
 | Mexico | 70 | flat |
-| Switzerland | 60 | flat |
+| Switzerland | 60 | declining |
 | Tunisia | 60 | flat |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
 
 ## Links
 

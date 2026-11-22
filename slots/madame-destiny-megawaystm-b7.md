@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/madame-destiny-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 45,460 · **trend:** declining · YoY -16.1%
+**12-month volume (illustrative):** 44,460 · **trend:** declining · YoY -19.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Tunisia | 7,650 | growing |
-| Greece | 7,250 | growing |
-| South Africa | 4,210 | growing |
-| United Kingdom | 2,450 | growing |
+| Greece | 7,090 | growing |
+| Tunisia | 6,770 | growing |
+| South Africa | 4,340 | declining |
+| United Kingdom | 2,540 | declining |
 | Finland | 2,260 | flat |
-| Denmark | 2,130 | flat |
-| United States | 1,580 | growing |
-| Germany | 1,410 | growing |
-| Netherlands | 1,390 | growing |
-| Italy | 1,250 | flat |
+| Denmark | 2,060 | declining |
+| United States | 1,620 | declining |
+| Netherlands | 1,480 | flat |
+| Germany | 1,410 | declining |
+| Italy | 1,210 | declining |
 
-> Full per-country breakdown (72 markets) via the /demand/ endpoint.
+> Full per-country breakdown (71 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rooster-rumble-b30/demand/
 ```
 
-**12-month volume (illustrative):** 4,910 · **trend:** declining · YoY -29.4%
+**12-month volume (illustrative):** 4,360 · **trend:** declining · YoY -39.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,010 | declining |
-| India | 740 | growing |
-| Indonesia | 400 | declining |
-| Philippines | 340 | flat |
+| Brazil | 1,890 | declining |
+| India | 680 | declining |
+| Indonesia | 350 | growing |
+| Philippines | 320 | growing |
 | Pakistan | 220 | flat |
 | Thailand | 120 | flat |
 | Mexico | 100 | flat |
-| Tunisia | 80 | declining |
-| Greece | 70 | declining |
-| Hong Kong | 70 | growing |
+| Tunisia | 80 | growing |
+| Hong Kong | 60 | declining |
+| Greece | 50 | flat |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
 
 ## Links
 

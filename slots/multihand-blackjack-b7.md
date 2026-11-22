@@ -102,22 +102,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/multihand-blackjack-b7/demand/
 ```
 
-**12-month volume (illustrative):** 680 · **trend:** flat
+**12-month volume (illustrative):** 930 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 100 | declining |
-| Canada | 80 | flat |
-| India | 60 | flat |
-| Finland | 40 | declining |
-| Sweden | 40 | flat |
-| United Kingdom | 40 | flat |
-| Netherlands | 30 | flat |
-| Philippines | 30 | growing |
-| Switzerland | 30 | declining |
-| Australia | 20 | declining |
+| Sweden | 180 | growing |
+| United States | 140 | growing |
+| Canada | 100 | flat |
+| India | 60 | declining |
+| United Kingdom | 50 | flat |
+| Finland | 40 | flat |
+| Netherlands | 40 | flat |
+| Australia | 30 | growing |
+| Indonesia | 30 | growing |
+| Philippines | 30 | declining |
 
 > Full per-country breakdown (25 markets) via the /demand/ endpoint.
 

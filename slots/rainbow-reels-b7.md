@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rainbow-reels-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,760 · **trend:** declining · YoY -5.9%
+**12-month volume (illustrative):** 1,670 · **trend:** declining · YoY -11.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Austria | 200 | flat |
-| South Africa | 190 | flat |
-| Brazil | 160 | growing |
-| Greece | 110 | declining |
+| South Africa | 180 | declining |
+| Austria | 160 | flat |
+| Brazil | 150 | declining |
+| Greece | 110 | growing |
 | United Kingdom | 90 | flat |
 | Canada | 80 | flat |
-| Philippines | 80 | flat |
+| Finland | 80 | flat |
 | United States | 80 | flat |
-| Finland | 60 | flat |
-| Tunisia | 60 | flat |
+| Philippines | 70 | declining |
+| Romania | 50 | growing |
 
-> Full per-country breakdown (40 markets) via the /demand/ endpoint.
+> Full per-country breakdown (41 markets) via the /demand/ endpoint.
 
 ## Links
 

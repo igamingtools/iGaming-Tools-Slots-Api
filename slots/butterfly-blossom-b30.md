@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/butterfly-blossom-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,380 · **trend:** declining · YoY -38.0%
+**12-month volume (illustrative):** 2,360 · **trend:** declining · YoY -37.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,140 | declining |
+| Brazil | 1,100 | flat |
 | India | 240 | flat |
 | Philippines | 160 | flat |
 | Indonesia | 130 | flat |
-| Mexico | 90 | growing |
+| Mexico | 80 | declining |
 | Pakistan | 80 | flat |
-| Germany | 70 | declining |
-| South Africa | 70 | declining |
-| Greece | 50 | flat |
-| Malaysia | 40 | growing |
+| South Africa | 80 | growing |
+| Germany | 70 | flat |
+| Greece | 60 | flat |
+| Malaysia | 40 | declining |
 
 > Full per-country breakdown (28 markets) via the /demand/ endpoint.
 

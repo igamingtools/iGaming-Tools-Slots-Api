@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/aztec-gems-megaways-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,950 · **trend:** declining · YoY -13.0%
+**12-month volume (illustrative):** 3,980 · **trend:** declining · YoY -19.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 900 | declining |
-| Greece | 250 | growing |
+| Brazil | 760 | declining |
+| Greece | 260 | growing |
 | India | 240 | flat |
 | Finland | 200 | flat |
-| Indonesia | 190 | flat |
+| Indonesia | 200 | flat |
 | Malaysia | 180 | flat |
-| Canada | 160 | declining |
-| Pakistan | 160 | declining |
-| Tunisia | 130 | flat |
+| Pakistan | 180 | growing |
+| Canada | 160 | growing |
+| Tunisia | 140 | growing |
 | Mexico | 120 | flat |
 
-> Full per-country breakdown (51 markets) via the /demand/ endpoint.
+> Full per-country breakdown (52 markets) via the /demand/ endpoint.
 
 ## Links
 

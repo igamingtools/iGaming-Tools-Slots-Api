@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ride-the-lightning-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,420 · **trend:** declining · YoY -6.7%
+**12-month volume (illustrative):** 7,920 · **trend:** declining · YoY -14.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 2,360 | growing |
-| Mexico | 390 | flat |
-| Canada | 280 | flat |
+| United States | 2,120 | flat |
+| Mexico | 370 | flat |
+| Canada | 260 | flat |
 | Finland | 260 | flat |
-| Brazil | 240 | declining |
+| Brazil | 220 | flat |
 | Italy | 200 | flat |
-| Malaysia | 180 | declining |
-| Switzerland | 180 | flat |
-| Argentina | 170 | flat |
-| United Kingdom | 170 | flat |
+| Malaysia | 180 | growing |
+| Switzerland | 180 | growing |
+| Argentina | 160 | flat |
+| Belgium | 160 | growing |
 
 > Full per-country breakdown (71 markets) via the /demand/ endpoint.
 

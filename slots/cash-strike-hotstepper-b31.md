@@ -138,24 +138,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cash-strike-hotstepper-b31/demand/
 ```
 
-**12-month volume (illustrative):** 3,320 · **trend:** declining · YoY -12.2%
+**12-month volume (illustrative):** 3,190 · **trend:** declining · YoY -21.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 1,010 | growing |
-| Canada | 640 | flat |
-| South Africa | 260 | flat |
-| Netherlands | 120 | declining |
-| United States | 120 | flat |
-| Greece | 110 | declining |
+| United Kingdom | 980 | declining |
+| Canada | 600 | flat |
+| South Africa | 250 | declining |
+| United States | 140 | growing |
+| Netherlands | 120 | growing |
 | Ireland | 110 | flat |
-| Sweden | 100 | flat |
-| Belgium | 80 | growing |
-| Brazil | 70 | growing |
+| Sweden | 110 | flat |
+| Belgium | 100 | flat |
+| Greece | 100 | flat |
+| Brazil | 60 | declining |
 
-> Full per-country breakdown (37 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

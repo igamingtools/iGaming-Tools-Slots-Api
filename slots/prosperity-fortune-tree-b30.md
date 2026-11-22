@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/prosperity-fortune-tree-b30/demand/
 ```
 
-**12-month volume (illustrative):** 4,580 · **trend:** declining · YoY -54.4%
+**12-month volume (illustrative):** 4,060 · **trend:** declining · YoY -58.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,270 | declining |
-| India | 580 | flat |
-| Philippines | 450 | flat |
-| Indonesia | 280 | flat |
-| Pakistan | 220 | growing |
-| Malaysia | 80 | flat |
-| South Africa | 80 | declining |
+| Brazil | 2,020 | declining |
+| India | 560 | flat |
+| Philippines | 390 | flat |
+| Indonesia | 240 | flat |
+| Pakistan | 220 | flat |
+| South Africa | 70 | flat |
 | Thailand | 70 | flat |
-| Tunisia | 70 | declining |
-| United States | 60 | growing |
+| Malaysia | 60 | flat |
+| Tunisia | 60 | flat |
+| Mexico | 50 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

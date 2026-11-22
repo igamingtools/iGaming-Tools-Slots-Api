@@ -147,22 +147,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/big-bass-christmas-frozen-lake-b7/demand/
 ```
 
-**12-month volume (illustrative):** 6,660 · **trend:** flat
+**12-month volume (illustrative):** 6,900 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United Kingdom | 1,060 | flat |
-| Brazil | 810 | growing |
-| Greece | 770 | flat |
-| Canada | 440 | growing |
-| Tunisia | 230 | declining |
-| Netherlands | 210 | flat |
-| Ireland | 200 | flat |
-| Spain | 180 | flat |
+| United Kingdom | 1,080 | flat |
+| Brazil | 830 | declining |
+| Greece | 780 | declining |
+| Canada | 460 | declining |
+| Tunisia | 240 | flat |
+| Netherlands | 220 | flat |
+| Ireland | 200 | declining |
+| Spain | 190 | flat |
 | Guatemala | 160 | flat |
-| South Africa | 140 | flat |
+| South Africa | 150 | flat |
 
 > Full per-country breakdown (62 markets) via the /demand/ endpoint.
 

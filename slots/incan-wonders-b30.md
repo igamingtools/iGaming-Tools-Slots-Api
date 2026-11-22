@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/incan-wonders-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,020 · **trend:** declining · YoY -52.1%
+**12-month volume (illustrative):** 1,900 · **trend:** declining · YoY -57.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,000 | declining |
-| India | 180 | growing |
-| Pakistan | 140 | declining |
-| Indonesia | 110 | growing |
-| Thailand | 110 | flat |
-| Philippines | 80 | declining |
-| Mexico | 70 | growing |
-| Tunisia | 50 | flat |
+| Brazil | 920 | flat |
+| India | 180 | flat |
+| Pakistan | 140 | flat |
+| Indonesia | 110 | flat |
+| Thailand | 100 | declining |
+| Philippines | 80 | growing |
+| Mexico | 60 | declining |
+| Tunisia | 40 | flat |
 | Nigeria | 30 | flat |
-| Portugal | 30 | flat |
+| Portugal | 30 | growing |
 
 > Full per-country breakdown (26 markets) via the /demand/ endpoint.
 

@@ -112,24 +112,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/money-maker-b10/demand/
 ```
 
-**12-month volume (illustrative):** 390 · **trend:** flat
+**12-month volume (illustrative):** 470 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 40 | flat |
-| India | 40 | growing |
-| Romania | 40 | flat |
-| Netherlands | 30 | flat |
+| India | 60 | flat |
+| Brazil | 50 | flat |
+| Romania | 40 | declining |
+| Germany | 30 | growing |
+| Latvia | 30 | flat |
+| Netherlands | 30 | declining |
 | Belgium | 20 | flat |
 | Canada | 20 | flat |
-| Germany | 20 | declining |
+| France | 20 | growing |
 | Greece | 20 | flat |
-| Latvia | 20 | growing |
-| Australia | 10 | flat |
 
-> Full per-country breakdown (23 markets) via the /demand/ endpoint.
+> Full per-country breakdown (25 markets) via the /demand/ endpoint.
 
 ## Links
 

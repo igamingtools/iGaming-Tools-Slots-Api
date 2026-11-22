@@ -136,24 +136,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/viking-forge-b7/demand/
 ```
 
-**12-month volume (illustrative):** 8,080 · **trend:** growing · YoY +5.6%
+**12-month volume (illustrative):** 7,560 · **trend:** declining · YoY -6.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 3,240 | growing |
-| Greece | 890 | flat |
+| Philippines | 2,970 | growing |
+| Greece | 790 | declining |
 | Canada | 220 | flat |
-| Brazil | 190 | flat |
+| Brazil | 180 | flat |
 | United States | 180 | flat |
 | Argentina | 160 | flat |
-| Indonesia | 150 | flat |
+| Indonesia | 140 | flat |
 | Cyprus | 120 | flat |
 | Denmark | 120 | flat |
 | Malaysia | 120 | flat |
 
-> Full per-country breakdown (61 markets) via the /demand/ endpoint.
+> Full per-country breakdown (60 markets) via the /demand/ endpoint.
 
 ## Links
 

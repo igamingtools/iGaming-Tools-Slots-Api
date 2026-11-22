@@ -131,24 +131,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/heroic-spins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,370 · **trend:** declining · YoY -62.3%
+**12-month volume (illustrative):** 2,130 · **trend:** declining · YoY -64.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 450 | flat |
-| South Africa | 280 | growing |
-| Greece | 110 | declining |
-| Germany | 90 | flat |
-| Canada | 80 | flat |
-| New Zealand | 80 | flat |
-| Peru | 70 | flat |
-| Portugal | 70 | declining |
-| United Kingdom | 70 | declining |
-| Bulgaria | 60 | declining |
+| Brazil | 370 | flat |
+| South Africa | 260 | declining |
+| Greece | 110 | growing |
+| Germany | 80 | flat |
+| New Zealand | 80 | declining |
+| United Kingdom | 70 | flat |
+| Canada | 60 | flat |
+| Peru | 60 | declining |
+| Portugal | 60 | flat |
+| Romania | 60 | flat |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (45 markets) via the /demand/ endpoint.
 
 ## Links
 

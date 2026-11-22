@@ -132,22 +132,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mahjong-wins-triple-pot-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,510 · **trend:** flat
+**12-month volume (illustrative):** 2,980 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 940 | flat |
-| Malaysia | 140 | growing |
-| Philippines | 140 | growing |
-| South Africa | 120 | flat |
-| Brazil | 100 | flat |
-| Canada | 60 | flat |
-| Pakistan | 60 | flat |
-| Thailand | 60 | declining |
-| Chile | 50 | growing |
-| Greece | 50 | flat |
+| Indonesia | 1,150 | declining |
+| Malaysia | 180 | flat |
+| Philippines | 180 | declining |
+| South Africa | 150 | flat |
+| Brazil | 110 | flat |
+| Pakistan | 80 | flat |
+| Thailand | 70 | flat |
+| Canada | 60 | declining |
+| Chile | 60 | declining |
+| Greece | 60 | flat |
 
 > Full per-country breakdown (48 markets) via the /demand/ endpoint.
 

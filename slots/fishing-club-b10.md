@@ -116,24 +116,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fishing-club-b10/demand/
 ```
 
-**12-month volume (illustrative):** 3,080 · **trend:** growing · YoY +72.1%
+**12-month volume (illustrative):** 3,080 · **trend:** growing · YoY +64.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 840 | growing |
-| Brazil | 210 | declining |
+| India | 900 | declining |
 | United Kingdom | 210 | flat |
-| United States | 200 | growing |
-| Malaysia | 180 | growing |
-| Mexico | 120 | declining |
-| Pakistan | 120 | declining |
-| Germany | 100 | flat |
-| Turkey | 90 | flat |
-| Netherlands | 70 | growing |
+| Brazil | 200 | flat |
+| Malaysia | 180 | flat |
+| United States | 180 | declining |
+| Mexico | 130 | flat |
+| Pakistan | 120 | flat |
+| Germany | 90 | flat |
+| Turkey | 80 | declining |
+| Indonesia | 70 | flat |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

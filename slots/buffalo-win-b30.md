@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/buffalo-win-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,900 · **trend:** declining · YoY -32.6%
+**12-month volume (illustrative):** 2,820 · **trend:** declining · YoY -31.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 1,010 | flat |
-| India | 520 | declining |
-| Pakistan | 200 | flat |
-| Indonesia | 120 | declining |
+| India | 500 | flat |
+| Pakistan | 220 | flat |
+| Indonesia | 120 | growing |
 | Philippines | 120 | flat |
-| United States | 100 | growing |
-| Latvia | 90 | flat |
-| Mexico | 60 | declining |
-| Thailand | 60 | flat |
-| Chile | 50 | flat |
+| United States | 100 | declining |
+| Latvia | 80 | flat |
+| Mexico | 70 | growing |
+| Thailand | 50 | declining |
+| Tunisia | 50 | flat |
 
 > Full per-country breakdown (35 markets) via the /demand/ endpoint.
 

@@ -124,14 +124,14 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/vampire-s-charm-b30/demand/
 ```
 
-**12-month volume (illustrative):** 350 · **trend:** declining · YoY -45.3%
+**12-month volume (illustrative):** 330 · **trend:** declining · YoY -43.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 200 | flat |
-| Philippines | 50 | growing |
+| Brazil | 180 | flat |
+| Philippines | 50 | declining |
 | Indonesia | 20 | flat |
 | Mexico | 20 | flat |
 | Chile | 10 | flat |

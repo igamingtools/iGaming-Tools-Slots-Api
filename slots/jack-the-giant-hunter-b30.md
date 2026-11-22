@@ -122,24 +122,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/jack-the-giant-hunter-b30/demand/
 ```
 
-**12-month volume (illustrative):** 4,130 · **trend:** growing · YoY +27.5%
+**12-month volume (illustrative):** 3,870 · **trend:** growing · YoY +6.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,320 | declining |
-| India | 560 | growing |
-| Philippines | 370 | flat |
-| Indonesia | 300 | flat |
+| Brazil | 1,260 | growing |
+| India | 560 | declining |
+| Philippines | 340 | growing |
+| Indonesia | 280 | flat |
 | Pakistan | 240 | flat |
-| Algeria | 110 | declining |
+| Algeria | 110 | flat |
 | Thailand | 100 | flat |
-| Tunisia | 100 | growing |
-| United States | 80 | declining |
-| Greece | 60 | flat |
+| Tunisia | 90 | declining |
+| Greece | 60 | growing |
+| Malaysia | 60 | declining |
 
-> Full per-country breakdown (49 markets) via the /demand/ endpoint.
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -136,21 +136,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/magic-mummy-megawaystm-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,030 · **trend:** flat
+**12-month volume (illustrative):** 1,120 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 140 | flat |
+| United States | 160 | flat |
 | Switzerland | 60 | flat |
-| Ukraine | 60 | declining |
-| Australia | 50 | declining |
-| Netherlands | 50 | flat |
-| United Kingdom | 50 | flat |
+| Ukraine | 60 | flat |
+| United Kingdom | 60 | flat |
+| Australia | 50 | flat |
+| Germany | 50 | growing |
+| Netherlands | 50 | declining |
 | Canada | 40 | flat |
-| Finland | 40 | growing |
-| Germany | 40 | flat |
+| Finland | 40 | declining |
 | Malaysia | 40 | flat |
 
 > Full per-country breakdown (39 markets) via the /demand/ endpoint.

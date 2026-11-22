@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mighty-kong-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,080 · **trend:** declining · YoY -6.9%
+**12-month volume (illustrative):** 1,020 · **trend:** declining · YoY -12.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 280 | flat |
-| South Africa | 110 | growing |
-| Australia | 90 | flat |
-| Finland | 60 | flat |
-| New Zealand | 60 | flat |
-| Tunisia | 50 | flat |
-| Argentina | 40 | flat |
-| Canada | 40 | growing |
-| United Kingdom | 40 | flat |
+| Brazil | 280 | declining |
+| South Africa | 110 | flat |
+| Australia | 80 | declining |
+| New Zealand | 70 | flat |
+| Tunisia | 50 | growing |
+| Canada | 40 | declining |
+| Finland | 40 | flat |
 | United States | 40 | flat |
+| Argentina | 30 | flat |
+| Indonesia | 30 | flat |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

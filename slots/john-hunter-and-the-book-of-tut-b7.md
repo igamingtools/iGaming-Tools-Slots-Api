@@ -134,24 +134,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/john-hunter-and-the-book-of-tut-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,800 · **trend:** declining · YoY -9.5%
+**12-month volume (illustrative):** 1,660 · **trend:** declining · YoY -19.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 150 | declining |
 | South Africa | 130 | flat |
+| Switzerland | 120 | flat |
 | Canada | 100 | flat |
-| Brazil | 90 | growing |
-| Peru | 90 | declining |
+| Finland | 100 | growing |
+| Brazil | 90 | flat |
 | United Kingdom | 90 | flat |
-| Finland | 80 | flat |
-| Germany | 80 | flat |
-| Greece | 80 | flat |
-| Latvia | 70 | flat |
+| Germany | 80 | growing |
+| Peru | 80 | flat |
+| Greece | 70 | flat |
+| Latvia | 70 | growing |
 
-> Full per-country breakdown (47 markets) via the /demand/ endpoint.
+> Full per-country breakdown (46 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -120,22 +120,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fish-road-b22/demand/
 ```
 
-**12-month volume (illustrative):** 2,750 · **trend:** flat
+**12-month volume (illustrative):** 2,850 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 280 | declining |
-| Switzerland | 180 | declining |
-| Pakistan | 160 | flat |
-| United Kingdom | 120 | declining |
+| India | 300 | flat |
+| Pakistan | 180 | flat |
+| Switzerland | 180 | flat |
+| Greece | 120 | growing |
+| United Kingdom | 120 | flat |
 | Germany | 110 | flat |
-| Greece | 110 | declining |
+| Brazil | 100 | flat |
 | Finland | 100 | flat |
 | New Zealand | 100 | flat |
-| Brazil | 90 | declining |
-| Canada | 80 | declining |
+| Canada | 80 | flat |
 
 > Full per-country breakdown (59 markets) via the /demand/ endpoint.
 

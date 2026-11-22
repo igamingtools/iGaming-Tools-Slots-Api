@@ -144,22 +144,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bear-crazy-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,880 · **trend:** flat
+**12-month volume (illustrative):** 3,180 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 380 | declining |
-| Tunisia | 310 | declining |
-| South Africa | 210 | declining |
-| Greece | 170 | flat |
-| Germany | 100 | growing |
-| Canada | 80 | flat |
-| Finland | 80 | declining |
-| Malaysia | 80 | declining |
-| Peru | 80 | flat |
-| India | 60 | declining |
+| Brazil | 400 | declining |
+| Tunisia | 340 | flat |
+| South Africa | 230 | declining |
+| Greece | 180 | flat |
+| Germany | 140 | declining |
+| Finland | 100 | growing |
+| Malaysia | 100 | growing |
+| Peru | 90 | flat |
+| Canada | 80 | declining |
+| Argentina | 60 | growing |
 
 > Full per-country breakdown (55 markets) via the /demand/ endpoint.
 

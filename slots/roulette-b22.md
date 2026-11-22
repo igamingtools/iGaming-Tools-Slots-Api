@@ -102,22 +102,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/roulette-b22/demand/
 ```
 
-**12-month volume (illustrative):** 144,660 · **trend:** declining · YoY -31.5%
+**12-month volume (illustrative):** 141,020 · **trend:** declining · YoY -32.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 21,600 | growing |
-| Germany | 14,540 | growing |
-| United Kingdom | 13,720 | flat |
-| Italy | 12,780 | declining |
-| Indonesia | 8,900 | declining |
-| Greece | 8,210 | declining |
-| Switzerland | 6,910 | declining |
-| Netherlands | 5,460 | growing |
-| United States | 4,480 | growing |
-| Austria | 3,880 | declining |
+| India | 21,840 | flat |
+| Germany | 14,140 | flat |
+| United Kingdom | 13,300 | growing |
+| Italy | 11,900 | growing |
+| Indonesia | 8,570 | declining |
+| Greece | 7,920 | growing |
+| Switzerland | 6,780 | growing |
+| Netherlands | 5,460 | declining |
+| United States | 4,240 | declining |
+| Austria | 3,680 | growing |
 
 > Full per-country breakdown (80 markets) via the /demand/ endpoint.
 

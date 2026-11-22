@@ -145,22 +145,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/forging-wilds-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,840 · **trend:** declining · YoY -20.7%
+**12-month volume (illustrative):** 1,770 · **trend:** declining · YoY -19.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 120 | flat |
-| India | 120 | declining |
+| India | 120 | flat |
 | Greece | 100 | flat |
 | Philippines | 100 | flat |
-| South Africa | 90 | declining |
 | Switzerland | 90 | flat |
-| Germany | 80 | flat |
-| Croatia | 70 | flat |
+| Germany | 80 | declining |
+| South Africa | 80 | flat |
+| Argentina | 70 | growing |
 | United Kingdom | 70 | flat |
-| Argentina | 60 | flat |
+| Canada | 60 | growing |
 
 > Full per-country breakdown (46 markets) via the /demand/ endpoint.
 

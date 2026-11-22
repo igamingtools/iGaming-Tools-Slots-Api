@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/monkeys-wild-party-b30/demand/
 ```
 
-**12-month volume (illustrative):** 3,060 · **trend:** flat
+**12-month volume (illustrative):** 3,440 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,270 | growing |
-| Philippines | 140 | declining |
-| India | 60 | flat |
-| Pakistan | 60 | flat |
-| Thailand | 60 | flat |
-| Indonesia | 50 | declining |
-| Algeria | 20 | growing |
-| Belgium | 20 | declining |
-| Chile | 20 | declining |
-| Cyprus | 20 | growing |
+| Brazil | 2,530 | declining |
+| Philippines | 150 | flat |
+| India | 80 | flat |
+| Pakistan | 80 | flat |
+| Indonesia | 60 | growing |
+| Thailand | 60 | declining |
+| Belgium | 40 | growing |
+| Chile | 30 | growing |
+| Mexico | 30 | flat |
+| Tunisia | 30 | growing |
 
 > Full per-country breakdown (32 markets) via the /demand/ endpoint.
 

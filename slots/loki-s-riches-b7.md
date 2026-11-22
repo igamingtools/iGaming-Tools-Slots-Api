@@ -139,21 +139,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/loki-s-riches-b7/demand/
 ```
 
-**12-month volume (illustrative):** 360 · **trend:** growing · YoY +12.5%
+**12-month volume (illustrative):** 340 · **trend:** flat · YoY +3.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Denmark | 60 | declining |
-| Finland | 60 | declining |
+| Denmark | 60 | flat |
+| Finland | 60 | flat |
 | Canada | 40 | flat |
-| Greece | 30 | flat |
+| Greece | 30 | declining |
 | Italy | 30 | flat |
-| Portugal | 30 | growing |
-| South Africa | 30 | flat |
 | Brazil | 20 | flat |
-| Croatia | 20 | growing |
+| Croatia | 20 | declining |
+| Portugal | 20 | declining |
+| South Africa | 20 | flat |
 | France | 10 | flat |
 
 > Full per-country breakdown (13 markets) via the /demand/ endpoint.

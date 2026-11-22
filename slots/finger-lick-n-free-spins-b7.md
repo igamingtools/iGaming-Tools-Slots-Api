@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/finger-lick-n-free-spins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 400 · **trend:** growing · YoY +21.2%
+**12-month volume (illustrative):** 380 · **trend:** growing · YoY +8.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 180 | declining |
+| South Africa | 180 | flat |
 | Brazil | 40 | flat |
 | United States | 40 | flat |
 | Greece | 30 | flat |
 | India | 20 | flat |
 | Latvia | 20 | flat |
-| Mexico | 20 | growing |
-| United Kingdom | 20 | flat |
-| Croatia | 10 | growing |
-| Denmark | 10 | growing |
+| Mexico | 20 | declining |
+| Croatia | 10 | declining |
+| Denmark | 10 | declining |
+| United Kingdom | 10 | flat |
 
-> Full per-country breakdown (11 markets) via the /demand/ endpoint.
+> Full per-country breakdown (10 markets) via the /demand/ endpoint.
 
 ## Links
 

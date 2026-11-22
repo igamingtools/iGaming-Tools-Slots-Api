@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fat-banker-b28/demand/
 ```
 
-**12-month volume (illustrative):** 11,280 · **trend:** declining · YoY -16.0%
+**12-month volume (illustrative):** 10,970 · **trend:** declining · YoY -18.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 2,110 | declining |
-| Greece | 1,090 | growing |
-| Sweden | 920 | growing |
-| Finland | 560 | flat |
-| Denmark | 470 | growing |
+| Germany | 1,870 | growing |
+| Greece | 1,070 | declining |
+| Sweden | 1,060 | declining |
+| Finland | 500 | declining |
+| Denmark | 430 | declining |
+| United Kingdom | 430 | flat |
 | Switzerland | 360 | flat |
-| United Kingdom | 360 | growing |
-| Canada | 260 | flat |
-| Norway | 260 | growing |
 | United States | 260 | flat |
+| Canada | 240 | flat |
+| Norway | 230 | declining |
 
-> Full per-country breakdown (64 markets) via the /demand/ endpoint.
+> Full per-country breakdown (63 markets) via the /demand/ endpoint.
 
 ## Links
 

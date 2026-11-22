@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/john-hunter-and-the-tomb-of-the-scarab-queen-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,810 · **trend:** flat · YoY -3.3%
+**12-month volume (illustrative):** 3,680 · **trend:** declining · YoY -7.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Sweden | 2,180 | declining |
+| Sweden | 2,180 | growing |
 | India | 140 | flat |
 | United States | 120 | flat |
-| South Africa | 110 | growing |
-| United Kingdom | 100 | declining |
-| Finland | 80 | flat |
-| Canada | 60 | flat |
-| France | 60 | flat |
-| Greece | 60 | growing |
-| Portugal | 60 | flat |
+| South Africa | 100 | declining |
+| United Kingdom | 90 | flat |
+| Finland | 80 | declining |
+| Brazil | 50 | flat |
+| France | 50 | flat |
+| Germany | 50 | flat |
+| Greece | 50 | declining |
 
-> Full per-country breakdown (44 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/geisha-s-revenge-b30/demand/
 ```
 
-**12-month volume (illustrative):** 3,460 · **trend:** growing · YoY +90.1%
+**12-month volume (illustrative):** 3,790 · **trend:** growing · YoY +102.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 2,120 | declining |
-| Brazil | 400 | declining |
-| India | 200 | flat |
-| Pakistan | 140 | flat |
-| Indonesia | 90 | flat |
-| United States | 80 | growing |
-| Canada | 60 | flat |
-| Greece | 60 | declining |
-| Tunisia | 40 | flat |
-| Mexico | 30 | flat |
+| Philippines | 2,310 | declining |
+| Brazil | 440 | flat |
+| India | 220 | flat |
+| Pakistan | 160 | flat |
+| Indonesia | 100 | flat |
+| United States | 100 | flat |
+| Canada | 80 | growing |
+| Greece | 50 | flat |
+| Tunisia | 50 | growing |
+| Mexico | 30 | growing |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (29 markets) via the /demand/ endpoint.
 
 ## Links
 

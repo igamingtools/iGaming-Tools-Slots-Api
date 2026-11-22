@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/golden-retriever-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,610 · **trend:** growing · YoY +1138.5%
+**12-month volume (illustrative):** 2,630 · **trend:** growing · YoY +1923.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 250 | declining |
-| Greece | 240 | growing |
-| Germany | 150 | growing |
-| Finland | 80 | declining |
-| Switzerland | 60 | flat |
-| United Kingdom | 60 | declining |
+| Greece | 350 | declining |
+| Brazil | 280 | declining |
+| South Africa | 240 | declining |
+| Germany | 160 | declining |
+| Finland | 100 | flat |
+| Switzerland | 90 | flat |
+| United Kingdom | 80 | growing |
+| Austria | 60 | flat |
+| United States | 60 | flat |
 | Argentina | 50 | declining |
-| Austria | 50 | declining |
-| Canada | 40 | flat |
-| Netherlands | 40 | declining |
 
-> Full per-country breakdown (42 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

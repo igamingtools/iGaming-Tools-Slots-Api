@@ -133,13 +133,13 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/santa-s-inn-b29/demand/
 ```
 
-**12-month volume (illustrative):** 310 · **trend:** growing · YoY +14.8%
+**12-month volume (illustrative):** 340 · **trend:** growing · YoY +25.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 290 | flat |
+| South Africa | 320 | flat |
 | Philippines | 20 | flat |
 
 > Full per-country breakdown (2 markets) via the /demand/ endpoint.

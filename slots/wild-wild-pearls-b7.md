@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-wild-pearls-b7/demand/
 ```
 
-**12-month volume (illustrative):** 2,470 · **trend:** declining · YoY -28.8%
+**12-month volume (illustrative):** 2,320 · **trend:** declining · YoY -38.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Canada | 280 | growing |
-| India | 180 | flat |
+| Canada | 200 | declining |
+| India | 200 | flat |
+| Switzerland | 150 | growing |
 | Brazil | 120 | flat |
 | Greece | 120 | flat |
-| South Africa | 120 | flat |
-| Switzerland | 120 | flat |
-| United States | 120 | flat |
-| United Kingdom | 110 | growing |
-| Malaysia | 100 | declining |
-| Argentina | 70 | declining |
+| South Africa | 110 | flat |
+| United Kingdom | 110 | flat |
+| United States | 100 | flat |
+| Indonesia | 80 | growing |
+| Malaysia | 80 | flat |
 
-> Full per-country breakdown (46 markets) via the /demand/ endpoint.
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

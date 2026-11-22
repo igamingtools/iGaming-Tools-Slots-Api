@@ -145,22 +145,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/candy-rush-b7/demand/
 ```
 
-**12-month volume (illustrative):** 11,590 · **trend:** growing · YoY +45.2%
+**12-month volume (illustrative):** 11,560 · **trend:** growing · YoY +44.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 840 | declining |
-| Philippines | 720 | declining |
-| South Africa | 600 | growing |
-| Greece | 580 | growing |
-| Indonesia | 560 | declining |
-| Canada | 540 | declining |
-| Malaysia | 420 | growing |
+| Philippines | 680 | declining |
+| South Africa | 640 | declining |
+| Greece | 570 | declining |
+| Indonesia | 550 | growing |
+| Canada | 540 | flat |
+| Malaysia | 420 | declining |
 | Finland | 400 | flat |
 | Switzerland | 330 | flat |
-| United Kingdom | 330 | growing |
+| United Kingdom | 310 | declining |
 
 > Full per-country breakdown (72 markets) via the /demand/ endpoint.
 

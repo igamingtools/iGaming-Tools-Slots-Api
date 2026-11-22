@@ -144,21 +144,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-dog-house-muttley-crew-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,840 · **trend:** declining · YoY -34.1%
+**12-month volume (illustrative):** 4,680 · **trend:** declining · YoY -29.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Greece | 510 | growing |
-| Switzerland | 270 | flat |
+| Greece | 440 | declining |
+| Switzerland | 240 | declining |
 | Finland | 220 | flat |
-| Canada | 200 | declining |
+| Canada | 200 | growing |
 | Peru | 150 | flat |
-| Brazil | 140 | flat |
-| Netherlands | 140 | declining |
-| Philippines | 140 | flat |
+| Netherlands | 140 | flat |
+| Brazil | 130 | flat |
 | Germany | 130 | flat |
+| Philippines | 130 | flat |
 | South Africa | 130 | flat |
 
 > Full per-country breakdown (58 markets) via the /demand/ endpoint.

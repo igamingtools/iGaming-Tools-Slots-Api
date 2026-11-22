@@ -131,22 +131,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/gates-of-power-b10/demand/
 ```
 
-**12-month volume (illustrative):** 1,600 · **trend:** flat
+**12-month volume (illustrative):** 1,650 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| United States | 120 | declining |
-| Australia | 90 | flat |
-| Greece | 90 | declining |
+| United States | 120 | flat |
+| Australia | 100 | flat |
+| Greece | 100 | flat |
 | Switzerland | 90 | flat |
-| Brazil | 70 | declining |
-| Germany | 60 | declining |
-| Netherlands | 60 | flat |
-| United Kingdom | 60 | declining |
+| Brazil | 70 | flat |
+| United Kingdom | 70 | growing |
+| Finland | 60 | growing |
+| Germany | 60 | flat |
+| Netherlands | 60 | declining |
 | Ukraine | 50 | flat |
-| Canada | 40 | flat |
 
 > Full per-country breakdown (43 markets) via the /demand/ endpoint.
 

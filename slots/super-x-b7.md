@@ -129,7 +129,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-x-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,730 · **trend:** declining · YoY -19.2%
+**12-month volume (illustrative):** 1,670 · **trend:** declining · YoY -22.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -137,16 +137,16 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | Argentina | 160 | declining |
 | Brazil | 140 | flat |
-| Indonesia | 130 | growing |
-| India | 120 | flat |
+| India | 120 | growing |
+| Indonesia | 120 | flat |
 | United Kingdom | 120 | flat |
-| Greece | 100 | growing |
 | Malaysia | 100 | flat |
-| Philippines | 100 | flat |
+| Philippines | 100 | declining |
 | South Africa | 100 | flat |
-| United States | 60 | flat |
+| Greece | 90 | declining |
+| Germany | 50 | declining |
 
-> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+> Full per-country breakdown (36 markets) via the /demand/ endpoint.
 
 ## Links
 

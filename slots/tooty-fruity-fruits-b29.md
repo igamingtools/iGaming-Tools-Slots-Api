@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/tooty-fruity-fruits-b29/demand/
 ```
 
-**12-month volume (illustrative):** 720 · **trend:** declining · YoY -56.4%
+**12-month volume (illustrative):** 630 · **trend:** declining · YoY -61.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 500 | declining |
-| India | 60 | flat |
-| Pakistan | 40 | flat |
+| South Africa | 460 | declining |
+| India | 40 | flat |
 | Lithuania | 20 | flat |
 | Malaysia | 20 | flat |
+| Pakistan | 20 | flat |
 | Tunisia | 20 | flat |
 | Algeria | 10 | flat |
 | Brazil | 10 | flat |
-| Lebanon | 10 | flat |
 | Peru | 10 | flat |
+| Philippines | 10 | flat |
 
-> Full per-country breakdown (12 markets) via the /demand/ endpoint.
+> Full per-country breakdown (11 markets) via the /demand/ endpoint.
 
 ## Links
 

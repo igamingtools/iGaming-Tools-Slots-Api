@@ -124,7 +124,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/santa-s-vault-b28/demand/
 ```
 
-**12-month volume (illustrative):** 230 · **trend:** flat
+**12-month volume (illustrative):** 240 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -133,15 +133,15 @@ curl -H "Authorization: Token $TOKEN" \
 | Australia | 40 | flat |
 | Canada | 40 | flat |
 | New Zealand | 20 | flat |
-| United Kingdom | 20 | growing |
+| United Kingdom | 20 | declining |
 | United States | 20 | flat |
 | Brazil | 10 | flat |
 | Denmark | 10 | flat |
 | Germany | 10 | flat |
+| Greece | 10 | growing |
 | Hungary | 10 | flat |
-| Latvia | 10 | flat |
 
-> Full per-country breakdown (14 markets) via the /demand/ endpoint.
+> Full per-country breakdown (15 markets) via the /demand/ endpoint.
 
 ## Links
 

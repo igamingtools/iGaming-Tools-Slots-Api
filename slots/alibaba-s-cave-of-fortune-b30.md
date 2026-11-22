@@ -128,19 +128,19 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/alibaba-s-cave-of-fortune-b30/demand/
 ```
 
-**12-month volume (illustrative):** 310 · **trend:** flat
+**12-month volume (illustrative):** 320 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 150 | flat |
-| Philippines | 50 | declining |
-| Pakistan | 40 | growing |
+| Brazil | 160 | flat |
+| Philippines | 50 | flat |
+| Pakistan | 40 | declining |
 | Indonesia | 30 | flat |
 | India | 20 | flat |
 | Greece | 10 | flat |
-| Japan | 10 | declining |
+| Japan | 10 | flat |
 
 > Full per-country breakdown (7 markets) via the /demand/ endpoint.
 

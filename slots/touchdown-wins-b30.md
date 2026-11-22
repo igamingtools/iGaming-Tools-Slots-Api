@@ -120,22 +120,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/touchdown-wins-b30/demand/
 ```
 
-**12-month volume (illustrative):** 650 · **trend:** flat
+**12-month volume (illustrative):** 810 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 250 | growing |
-| Indonesia | 60 | growing |
-| Finland | 40 | flat |
-| India | 40 | flat |
-| Philippines | 40 | flat |
-| United States | 40 | flat |
-| Thailand | 30 | declining |
-| Japan | 20 | flat |
-| Singapore | 20 | flat |
-| United Kingdom | 20 | flat |
+| Brazil | 320 | declining |
+| Indonesia | 70 | declining |
+| India | 60 | flat |
+| United States | 60 | flat |
+| Philippines | 50 | declining |
+| Finland | 40 | declining |
+| Thailand | 40 | flat |
+| Singapore | 30 | flat |
+| Vietnam | 30 | flat |
+| Japan | 20 | declining |
 
 > Full per-country breakdown (18 markets) via the /demand/ endpoint.
 

@@ -145,24 +145,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-grand-show-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,160 · **trend:** declining · YoY -41.4%
+**12-month volume (illustrative):** 1,020 · **trend:** declining · YoY -47.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Greece | 110 | flat |
-| Canada | 100 | flat |
-| Spain | 90 | flat |
-| Brazil | 80 | growing |
-| Italy | 70 | flat |
-| Netherlands | 70 | flat |
-| Sweden | 70 | flat |
-| Denmark | 60 | growing |
-| Norway | 60 | declining |
+| Spain | 90 | declining |
+| Canada | 80 | flat |
+| Sweden | 80 | flat |
+| Brazil | 70 | declining |
+| Italy | 60 | flat |
+| Netherlands | 60 | declining |
+| Norway | 60 | flat |
 | United States | 60 | flat |
+| Denmark | 50 | declining |
 
-> Full per-country breakdown (30 markets) via the /demand/ endpoint.
+> Full per-country breakdown (28 markets) via the /demand/ endpoint.
 
 ## Links
 

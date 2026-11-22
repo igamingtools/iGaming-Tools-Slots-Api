@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/anubis-wrath-b30/demand/
 ```
 
-**12-month volume (illustrative):** 32,860 · **trend:** growing · YoY +31.7%
+**12-month volume (illustrative):** 33,510 · **trend:** growing · YoY +29.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 9,470 | declining |
-| Philippines | 5,860 | declining |
-| Pakistan | 5,420 | declining |
-| India | 3,540 | flat |
-| Indonesia | 1,820 | declining |
-| Algeria | 1,730 | growing |
-| Morocco | 610 | growing |
-| Tunisia | 390 | flat |
-| Malaysia | 220 | flat |
-| Belarus | 200 | declining |
+| Pakistan | 6,200 | flat |
+| Philippines | 5,660 | growing |
+| India | 3,340 | declining |
+| Algeria | 1,980 | flat |
+| Indonesia | 1,790 | flat |
+| Morocco | 630 | declining |
+| Tunisia | 380 | declining |
+| Malaysia | 220 | declining |
+| United States | 200 | flat |
 
 > Full per-country breakdown (65 markets) via the /demand/ endpoint.
 

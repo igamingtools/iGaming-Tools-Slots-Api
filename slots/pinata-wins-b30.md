@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pinata-wins-b30/demand/
 ```
 
-**12-month volume (illustrative):** 281,080 · **trend:** growing · YoY +182.9%
+**12-month volume (illustrative):** 315,340 · **trend:** growing · YoY +169.5%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 151,300 | growing |
-| Philippines | 105,800 | flat |
-| India | 5,060 | flat |
-| Indonesia | 4,700 | flat |
-| Mexico | 2,590 | flat |
-| Malaysia | 2,160 | flat |
-| Pakistan | 1,300 | declining |
-| Tunisia | 800 | growing |
-| United States | 580 | flat |
-| Thailand | 570 | growing |
+| Brazil | 163,200 | growing |
+| Philippines | 125,600 | flat |
+| India | 6,160 | growing |
+| Indonesia | 4,810 | flat |
+| Mexico | 2,800 | declining |
+| Malaysia | 2,320 | declining |
+| Pakistan | 1,700 | growing |
+| Tunisia | 890 | flat |
+| United States | 640 | declining |
+| Thailand | 570 | declining |
 
 > Full per-country breakdown (73 markets) via the /demand/ endpoint.
 

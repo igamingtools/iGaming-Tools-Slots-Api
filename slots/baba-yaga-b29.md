@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/baba-yaga-b29/demand/
 ```
 
-**12-month volume (illustrative):** 2,050 · **trend:** declining · YoY -40.1%
+**12-month volume (illustrative):** 2,090 · **trend:** declining · YoY -41.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 850 | declining |
-| Ukraine | 300 | flat |
-| Netherlands | 110 | flat |
-| India | 100 | declining |
-| Latvia | 90 | growing |
-| United States | 80 | growing |
-| Greece | 70 | growing |
-| Poland | 50 | flat |
-| Italy | 30 | declining |
-| Lithuania | 30 | flat |
+| South Africa | 890 | growing |
+| Ukraine | 240 | flat |
+| India | 120 | growing |
+| Netherlands | 110 | declining |
+| Latvia | 100 | declining |
+| Greece | 70 | flat |
+| Poland | 60 | flat |
+| United States | 60 | declining |
+| Romania | 40 | growing |
+| Bulgaria | 30 | flat |
 
-> Full per-country breakdown (28 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

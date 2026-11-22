@@ -120,22 +120,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/inferno-mayhem-b30/demand/
 ```
 
-**12-month volume (illustrative):** 6,620 · **trend:** flat
+**12-month volume (illustrative):** 6,880 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,500 | flat |
-| Indonesia | 1,180 | declining |
-| Philippines | 790 | flat |
-| India | 420 | declining |
-| Thailand | 220 | flat |
-| Pakistan | 160 | flat |
-| United States | 120 | flat |
-| Japan | 80 | flat |
-| Germany | 70 | flat |
-| Vietnam | 70 | flat |
+| Brazil | 2,590 | declining |
+| Indonesia | 1,210 | declining |
+| Philippines | 820 | growing |
+| India | 460 | declining |
+| Thailand | 230 | flat |
+| Pakistan | 180 | flat |
+| United States | 120 | declining |
+| Japan | 80 | declining |
+| Germany | 70 | declining |
+| Vietnam | 70 | declining |
 
 > Full per-country breakdown (49 markets) via the /demand/ endpoint.
 

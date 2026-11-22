@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/guardians-of-ice-fire-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,010 · **trend:** declining · YoY -33.6%
+**12-month volume (illustrative):** 930 · **trend:** declining · YoY -39.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 370 | flat |
-| India | 160 | growing |
-| Pakistan | 100 | growing |
+| Brazil | 310 | flat |
+| India | 160 | flat |
+| Pakistan | 100 | declining |
 | United States | 60 | flat |
 | Philippines | 40 | flat |
-| Thailand | 40 | declining |
 | Chile | 30 | flat |
 | Indonesia | 30 | flat |
+| Thailand | 30 | flat |
 | Canada | 20 | flat |
-| Latvia | 20 | flat |
+| Germany | 20 | growing |
 
-> Full per-country breakdown (22 markets) via the /demand/ endpoint.
+> Full per-country breakdown (21 markets) via the /demand/ endpoint.
 
 ## Links
 

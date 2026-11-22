@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hamster-run-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,100 · **trend:** growing · YoY +69.2%
+**12-month volume (illustrative):** 990 · **trend:** growing · YoY +19.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 580 | flat |
+| India | 520 | growing |
 | Pakistan | 260 | flat |
-| Brazil | 60 | flat |
-| Canada | 40 | growing |
-| Germany | 30 | flat |
-| Indonesia | 20 | flat |
-| Vietnam | 20 | flat |
-| Austria | 10 | flat |
+| Brazil | 50 | declining |
+| Vietnam | 30 | growing |
+| Canada | 20 | declining |
+| Germany | 20 | flat |
 | Bahrain | 10 | flat |
 | Denmark | 10 | flat |
+| France | 10 | flat |
+| Hong Kong | 10 | flat |
 
-> Full per-country breakdown (16 markets) via the /demand/ endpoint.
+> Full per-country breakdown (15 markets) via the /demand/ endpoint.
 
 ## Links
 

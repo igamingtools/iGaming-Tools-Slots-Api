@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/forever-split-megawaystm-b7/demand/
 ```
 
-**12-month volume (illustrative):** 730 · **trend:** flat
+**12-month volume (illustrative):** 1,740 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 50 | growing |
-| Switzerland | 30 | growing |
-| United Kingdom | 30 | growing |
-| Argentina | 20 | growing |
-| Belgium | 20 | growing |
-| Canada | 20 | growing |
-| Denmark | 20 | growing |
-| Finland | 20 | growing |
-| Germany | 20 | growing |
-| Greece | 20 | growing |
+| Greece | 160 | growing |
+| Brazil | 140 | growing |
+| Finland | 120 | growing |
+| South Africa | 90 | growing |
+| United Kingdom | 70 | growing |
+| Switzerland | 60 | flat |
+| Denmark | 50 | growing |
+| Argentina | 40 | flat |
+| Canada | 40 | flat |
+| Malaysia | 40 | flat |
 
-> Full per-country breakdown (53 markets) via the /demand/ endpoint.
+> Full per-country breakdown (59 markets) via the /demand/ endpoint.
 
 ## Links
 

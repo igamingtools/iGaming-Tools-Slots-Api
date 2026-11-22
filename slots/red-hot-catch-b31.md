@@ -138,22 +138,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/red-hot-catch-b31/demand/
 ```
 
-**12-month volume (illustrative):** 450 · **trend:** flat
+**12-month volume (illustrative):** 540 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 100 | growing |
-| United Kingdom | 100 | declining |
-| Canada | 60 | flat |
-| United States | 40 | growing |
-| Greece | 30 | declining |
-| Ireland | 20 | declining |
-| Italy | 20 | growing |
-| Brazil | 10 | growing |
-| Latvia | 10 | growing |
-| Netherlands | 10 | flat |
+| South Africa | 110 | declining |
+| United Kingdom | 110 | flat |
+| Canada | 80 | flat |
+| Greece | 40 | flat |
+| Italy | 40 | flat |
+| United States | 40 | declining |
+| Ireland | 20 | flat |
+| Spain | 20 | growing |
+| Ukraine | 20 | growing |
+| Brazil | 10 | declining |
 
 > Full per-country breakdown (15 markets) via the /demand/ endpoint.
 

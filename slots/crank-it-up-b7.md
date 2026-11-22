@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/crank-it-up-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,060 · **trend:** declining · YoY -21.3%
+**12-month volume (illustrative):** 3,000 · **trend:** declining · YoY -20.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 490 | growing |
+| Brazil | 470 | declining |
 | United States | 240 | flat |
-| Greece | 190 | flat |
-| Denmark | 140 | flat |
-| South Africa | 110 | growing |
-| Canada | 100 | growing |
+| Greece | 180 | flat |
+| Denmark | 130 | flat |
+| Canada | 100 | declining |
 | Hungary | 100 | flat |
-| Netherlands | 90 | declining |
-| Peru | 90 | growing |
-| Philippines | 90 | growing |
+| Netherlands | 90 | flat |
+| Philippines | 90 | flat |
+| Romania | 90 | flat |
+| South Africa | 90 | declining |
 
-> Full per-country breakdown (48 markets) via the /demand/ endpoint.
+> Full per-country breakdown (47 markets) via the /demand/ endpoint.
 
 ## Links
 

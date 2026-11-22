@@ -118,24 +118,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-golf-drive-b30/demand/
 ```
 
-**12-month volume (illustrative):** 4,480 · **trend:** flat · YoY +3.9%
+**12-month volume (illustrative):** 4,490 · **trend:** flat · YoY +0.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,120 | growing |
-| Philippines | 490 | declining |
-| Indonesia | 410 | declining |
+| Brazil | 2,160 | growing |
+| Philippines | 450 | declining |
+| Indonesia | 380 | growing |
 | Tunisia | 330 | flat |
 | India | 260 | flat |
 | Pakistan | 240 | flat |
 | Canada | 100 | flat |
 | Thailand | 100 | flat |
-| Germany | 60 | flat |
-| Turkey | 40 | growing |
+| United States | 60 | growing |
+| Germany | 50 | growing |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

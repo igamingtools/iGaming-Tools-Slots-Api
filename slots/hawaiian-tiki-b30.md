@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/hawaiian-tiki-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,360 · **trend:** declining · YoY -21.8%
+**12-month volume (illustrative):** 1,320 · **trend:** declining · YoY -23.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 480 | declining |
-| India | 180 | growing |
-| Indonesia | 160 | growing |
-| Philippines | 150 | declining |
-| Mexico | 50 | declining |
-| Tunisia | 50 | flat |
-| Greece | 40 | flat |
-| Pakistan | 40 | declining |
-| Ireland | 20 | declining |
-| Latvia | 20 | declining |
+| Brazil | 460 | flat |
+| India | 180 | flat |
+| Indonesia | 150 | flat |
+| Philippines | 150 | growing |
+| Tunisia | 50 | growing |
+| Mexico | 40 | flat |
+| Pakistan | 40 | flat |
+| Greece | 30 | flat |
+| Latvia | 30 | growing |
+| Ireland | 20 | flat |
 
 > Full per-country breakdown (24 markets) via the /demand/ endpoint.
 

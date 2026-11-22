@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bikini-paradise-b30/demand/
 ```
 
-**12-month volume (illustrative):** 5,630 · **trend:** flat · YoY +0.4%
+**12-month volume (illustrative):** 5,580 · **trend:** flat · YoY -0.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 3,800 | declining |
-| India | 340 | growing |
-| Pakistan | 240 | declining |
+| Brazil | 3,690 | declining |
+| India | 380 | growing |
+| Pakistan | 260 | flat |
 | Indonesia | 180 | flat |
 | Philippines | 150 | flat |
-| Thailand | 110 | flat |
-| Tunisia | 70 | growing |
-| Vietnam | 70 | growing |
+| Thailand | 100 | declining |
+| Vietnam | 80 | flat |
+| Tunisia | 70 | declining |
 | Malaysia | 60 | flat |
-| Mexico | 60 | flat |
+| Mexico | 60 | declining |
 
-> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

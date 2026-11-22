@@ -116,24 +116,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/triple-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,150 · **trend:** flat · YoY -3.4%
+**12-month volume (illustrative):** 1,260 · **trend:** growing · YoY +6.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | India | 240 | flat |
-| United States | 180 | flat |
-| Brazil | 100 | declining |
-| Pakistan | 100 | flat |
-| United Kingdom | 60 | growing |
-| Canada | 40 | flat |
-| Indonesia | 40 | growing |
-| Philippines | 40 | growing |
-| South Africa | 40 | flat |
-| Greece | 30 | flat |
+| United States | 200 | flat |
+| Pakistan | 120 | flat |
+| Brazil | 110 | growing |
+| Canada | 60 | growing |
+| United Kingdom | 60 | flat |
+| South Africa | 50 | flat |
+| Indonesia | 40 | flat |
+| Philippines | 40 | declining |
+| Germany | 30 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (31 markets) via the /demand/ endpoint.
 
 ## Links
 

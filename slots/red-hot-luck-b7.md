@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/red-hot-luck-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,580 · **trend:** declining · YoY -46.4%
+**12-month volume (illustrative):** 1,530 · **trend:** declining · YoY -45.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Switzerland | 390 | growing |
+| Switzerland | 390 | declining |
 | South Africa | 140 | flat |
-| Canada | 120 | flat |
 | Brazil | 110 | flat |
-| Greece | 90 | flat |
+| Canada | 100 | flat |
+| Greece | 90 | declining |
 | United States | 80 | flat |
-| Tunisia | 70 | growing |
-| Argentina | 60 | declining |
+| Tunisia | 70 | declining |
+| Argentina | 60 | flat |
 | Finland | 60 | flat |
-| Bulgaria | 40 | flat |
+| Bulgaria | 40 | growing |
 
-> Full per-country breakdown (31 markets) via the /demand/ endpoint.
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
 
 ## Links
 

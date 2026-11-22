@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-zap-b27/demand/
 ```
 
-**12-month volume (illustrative):** 620 · **trend:** growing · YoY +77.1%
+**12-month volume (illustrative):** 520 · **trend:** growing · YoY +13.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 120 | flat |
-| Pakistan | 60 | flat |
-| Ukraine | 50 | flat |
-| Algeria | 40 | flat |
-| Indonesia | 40 | declining |
-| Brazil | 30 | flat |
-| Egypt | 30 | flat |
+| India | 100 | flat |
+| Brazil | 40 | growing |
+| Indonesia | 40 | flat |
+| Pakistan | 40 | flat |
+| Ukraine | 40 | flat |
+| Algeria | 30 | flat |
 | Germany | 30 | flat |
 | Canada | 20 | flat |
 | Chile | 20 | flat |
+| Egypt | 20 | flat |
 
-> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+> Full per-country breakdown (22 markets) via the /demand/ endpoint.
 
 ## Links
 

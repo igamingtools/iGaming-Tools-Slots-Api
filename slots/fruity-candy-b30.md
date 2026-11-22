@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fruity-candy-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,530 · **trend:** declining · YoY -22.2%
+**12-month volume (illustrative):** 2,440 · **trend:** declining · YoY -24.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 560 | declining |
-| Indonesia | 490 | flat |
-| Philippines | 470 | flat |
-| India | 200 | flat |
-| Pakistan | 100 | declining |
-| United States | 100 | growing |
-| Thailand | 90 | flat |
-| Mexico | 60 | declining |
-| El Salvador | 50 | declining |
+| Brazil | 540 | growing |
+| Indonesia | 480 | flat |
+| Philippines | 400 | flat |
+| India | 220 | flat |
+| Pakistan | 120 | growing |
+| Thailand | 80 | declining |
+| United States | 80 | declining |
+| El Salvador | 60 | growing |
+| Mexico | 60 | flat |
 | Canada | 40 | flat |
 
-> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+> Full per-country breakdown (33 markets) via the /demand/ endpoint.
 
 ## Links
 

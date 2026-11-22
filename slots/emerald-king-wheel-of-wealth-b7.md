@@ -144,22 +144,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/emerald-king-wheel-of-wealth-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,440 · **trend:** flat
+**12-month volume (illustrative):** 1,520 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 120 | flat |
-| Canada | 120 | declining |
-| South Africa | 90 | flat |
-| United Kingdom | 80 | flat |
-| Argentina | 70 | growing |
-| Malaysia | 60 | flat |
-| Greece | 50 | growing |
-| Tunisia | 50 | declining |
-| Italy | 40 | growing |
-| Netherlands | 40 | declining |
+| Brazil | 130 | flat |
+| Canada | 120 | flat |
+| South Africa | 100 | flat |
+| United Kingdom | 90 | flat |
+| Argentina | 80 | declining |
+| Malaysia | 60 | declining |
+| Greece | 50 | declining |
+| Tunisia | 50 | flat |
+| Denmark | 40 | growing |
+| Italy | 40 | declining |
 
 > Full per-country breakdown (47 markets) via the /demand/ endpoint.
 

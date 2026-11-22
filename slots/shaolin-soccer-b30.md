@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/shaolin-soccer-b30/demand/
 ```
 
-**12-month volume (illustrative):** 13,100 · **trend:** declining · YoY -26.6%
+**12-month volume (illustrative):** 12,910 · **trend:** declining · YoY -24.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 11,460 | declining |
+| Brazil | 11,300 | declining |
 | India | 200 | flat |
-| Thailand | 200 | flat |
+| Thailand | 150 | declining |
 | Indonesia | 120 | flat |
-| United States | 120 | growing |
-| Pakistan | 100 | growing |
-| Portugal | 90 | flat |
-| Chile | 70 | declining |
-| Philippines | 70 | declining |
-| Italy | 60 | flat |
+| United States | 120 | declining |
+| Pakistan | 100 | declining |
+| Philippines | 80 | growing |
+| Portugal | 80 | declining |
+| Italy | 70 | flat |
+| Chile | 60 | flat |
 
-> Full per-country breakdown (36 markets) via the /demand/ endpoint.
+> Full per-country breakdown (37 markets) via the /demand/ endpoint.
 
 ## Links
 

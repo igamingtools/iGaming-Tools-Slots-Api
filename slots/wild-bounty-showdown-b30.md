@@ -124,22 +124,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-bounty-showdown-b30/demand/
 ```
 
-**12-month volume (illustrative):** 135,670 · **trend:** flat · YoY +0.8%
+**12-month volume (illustrative):** 129,960 · **trend:** declining · YoY -7.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Philippines | 54,700 | declining |
-| Brazil | 23,900 | flat |
-| India | 18,960 | growing |
-| Indonesia | 9,340 | declining |
-| Pakistan | 8,400 | growing |
+| Philippines | 50,500 | flat |
+| Brazil | 24,500 | declining |
+| India | 18,700 | declining |
+| Pakistan | 8,400 | declining |
+| Indonesia | 8,160 | growing |
 | Vietnam | 3,730 | growing |
-| Greece | 1,670 | growing |
-| Turkey | 1,450 | declining |
-| United States | 1,220 | growing |
-| Tunisia | 1,190 | declining |
+| Greece | 1,520 | flat |
+| Turkey | 1,280 | declining |
+| United States | 1,200 | declining |
+| Tunisia | 1,150 | growing |
 
 > Full per-country breakdown (73 markets) via the /demand/ endpoint.
 

@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chicken-run-b23/demand/
 ```
 
-**12-month volume (illustrative):** 6,110 · **trend:** declining · YoY -33.2%
+**12-month volume (illustrative):** 5,580 · **trend:** declining · YoY -42.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 820 | flat |
-| India | 620 | flat |
-| Pakistan | 380 | growing |
-| United States | 260 | growing |
-| Canada | 240 | flat |
-| Italy | 190 | flat |
-| Germany | 180 | growing |
-| Brazil | 170 | flat |
-| Spain | 150 | growing |
-| Belgium | 140 | declining |
+| Indonesia | 650 | growing |
+| India | 500 | flat |
+| Pakistan | 360 | declining |
+| United States | 260 | declining |
+| Canada | 220 | declining |
+| Germany | 180 | flat |
+| Italy | 180 | flat |
+| Malaysia | 160 | flat |
+| Switzerland | 150 | growing |
+| Belgium | 140 | flat |
 
-> Full per-country breakdown (66 markets) via the /demand/ endpoint.
+> Full per-country breakdown (64 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/triple-nipple-b10/demand/
 ```
 
-**12-month volume (illustrative):** 690 · **trend:** flat
+**12-month volume (illustrative):** 1,000 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Finland | 60 | growing |
-| Switzerland | 60 | flat |
-| United States | 40 | flat |
-| Germany | 30 | declining |
-| New Zealand | 30 | declining |
-| Australia | 20 | flat |
-| Belgium | 20 | declining |
-| Brazil | 20 | flat |
-| Canada | 20 | declining |
-| Cyprus | 20 | flat |
+| Finland | 80 | declining |
+| Switzerland | 60 | declining |
+| United States | 60 | flat |
+| Germany | 40 | flat |
+| New Zealand | 40 | flat |
+| Australia | 30 | flat |
+| Brazil | 30 | flat |
+| Cyprus | 30 | flat |
+| Greece | 30 | flat |
+| Hungary | 30 | flat |
 
-> Full per-country breakdown (34 markets) via the /demand/ endpoint.
+> Full per-country breakdown (42 markets) via the /demand/ endpoint.
 
 ## Links
 

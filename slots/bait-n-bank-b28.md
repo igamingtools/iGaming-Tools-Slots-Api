@@ -128,18 +128,18 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bait-n-bank-b28/demand/
 ```
 
-**12-month volume (illustrative):** 710 · **trend:** flat
+**12-month volume (illustrative):** 730 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Canada | 100 | flat |
-| United Kingdom | 70 | growing |
-| Greece | 60 | growing |
+| United Kingdom | 80 | flat |
+| Greece | 70 | flat |
 | United States | 60 | flat |
 | Brazil | 50 | flat |
-| Netherlands | 50 | growing |
+| Netherlands | 50 | declining |
 | Switzerland | 30 | flat |
 | Estonia | 20 | flat |
 | Finland | 20 | flat |

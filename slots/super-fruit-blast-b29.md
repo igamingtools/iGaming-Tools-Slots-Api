@@ -140,24 +140,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-fruit-blast-b29/demand/
 ```
 
-**12-month volume (illustrative):** 1,340 · **trend:** growing · YoY +14.5%
+**12-month volume (illustrative):** 1,180 · **trend:** declining · YoY -15.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 1,070 | declining |
+| South Africa | 950 | flat |
 | Pakistan | 40 | flat |
 | Tunisia | 30 | flat |
 | India | 20 | flat |
-| Italy | 20 | flat |
 | Poland | 20 | flat |
 | Singapore | 20 | flat |
 | United Kingdom | 20 | flat |
 | United States | 20 | flat |
 | Brazil | 10 | flat |
+| Ghana | 10 | flat |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (14 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -118,24 +118,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/grimms-bounty-hansel-gretel-b30/demand/
 ```
 
-**12-month volume (illustrative):** 650 · **trend:** flat
+**12-month volume (illustrative):** 560 · **trend:** growing · YoY +460.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| India | 120 | growing |
-| Brazil | 90 | flat |
-| Philippines | 90 | flat |
-| Indonesia | 60 | flat |
-| Pakistan | 60 | flat |
+| India | 100 | declining |
+| Brazil | 90 | growing |
+| Philippines | 80 | flat |
+| Indonesia | 50 | flat |
+| Pakistan | 40 | flat |
 | United States | 40 | flat |
 | Algeria | 30 | flat |
 | Cyprus | 30 | flat |
 | Greece | 20 | flat |
 | Kazakhstan | 20 | flat |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (15 markets) via the /demand/ endpoint.
 
 ## Links
 

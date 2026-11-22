@@ -130,7 +130,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/the-flintstones-b31/demand/
 ```
 
-**12-month volume (illustrative):** 590 · **trend:** growing · YoY +22.9%
+**12-month volume (illustrative):** 560 · **trend:** growing · YoY +5.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -138,14 +138,14 @@ curl -H "Authorization: Token $TOKEN" \
 |---|---|---|
 | United States | 140 | flat |
 | Canada | 100 | flat |
-| United Kingdom | 90 | declining |
+| United Kingdom | 80 | flat |
 | Italy | 30 | flat |
-| South Africa | 30 | declining |
+| South Africa | 30 | flat |
 | Switzerland | 30 | flat |
 | Brazil | 20 | flat |
 | Finland | 20 | flat |
 | Ireland | 20 | flat |
-| Mexico | 20 | flat |
+| Sweden | 20 | declining |
 
 > Full per-country breakdown (17 markets) via the /demand/ endpoint.
 

@@ -135,22 +135,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/queenie-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,490 · **trend:** declining · YoY -29.2%
+**12-month volume (illustrative):** 4,300 · **trend:** declining · YoY -30.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,630 | declining |
-| Greece | 240 | growing |
-| Netherlands | 210 | flat |
-| United States | 200 | flat |
-| Canada | 160 | flat |
-| Lithuania | 150 | declining |
-| South Africa | 140 | flat |
-| El Salvador | 130 | growing |
+| Brazil | 1,560 | declining |
+| Greece | 230 | declining |
+| Netherlands | 200 | declining |
+| United States | 200 | declining |
+| Canada | 140 | declining |
+| South Africa | 140 | growing |
+| El Salvador | 130 | flat |
+| Lithuania | 130 | declining |
 | Argentina | 110 | flat |
-| Belgium | 100 | declining |
+| Mexico | 110 | flat |
 
 > Full per-country breakdown (51 markets) via the /demand/ endpoint.
 

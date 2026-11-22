@@ -149,9 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/rat-royale-b7/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 1,240 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Greece | 210 | growing |
+| Brazil | 140 | growing |
+| Canada | 60 | growing |
+| Finland | 60 | growing |
+| Netherlands | 40 | growing |
+| Denmark | 30 | growing |
+| Philippines | 30 | growing |
+| South Africa | 30 | growing |
+| Sweden | 30 | growing |
+| Switzerland | 30 | growing |
+
+> Full per-country breakdown (53 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -102,24 +102,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/baccarat-b7/demand/
 ```
 
-**12-month volume (illustrative):** 41,820 · **trend:** flat · YoY -0.9%
+**12-month volume (illustrative):** 42,640 · **trend:** flat · YoY +1.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 9,790 | flat |
-| Philippines | 6,340 | declining |
-| Brazil | 5,820 | growing |
-| Thailand | 2,790 | declining |
-| United States | 2,020 | growing |
-| Malaysia | 1,940 | declining |
-| Canada | 1,180 | flat |
-| Vietnam | 1,000 | flat |
-| Italy | 810 | flat |
-| India | 800 | flat |
+| Indonesia | 9,950 | flat |
+| Philippines | 6,610 | growing |
+| Brazil | 6,030 | declining |
+| Thailand | 2,840 | flat |
+| Malaysia | 2,100 | flat |
+| United States | 2,060 | declining |
+| Canada | 1,220 | growing |
+| Vietnam | 1,000 | declining |
+| India | 840 | flat |
+| Italy | 790 | declining |
 
-> Full per-country breakdown (75 markets) via the /demand/ endpoint.
+> Full per-country breakdown (73 markets) via the /demand/ endpoint.
 
 ## Links
 

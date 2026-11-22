@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/fortune-mouse-b30/demand/
 ```
 
-**12-month volume (illustrative):** 43,920 · **trend:** declining · YoY -48.2%
+**12-month volume (illustrative):** 42,710 · **trend:** declining · YoY -44.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 39,650 | declining |
-| India | 440 | declining |
-| South Africa | 430 | growing |
+| Brazil | 38,550 | declining |
+| South Africa | 430 | flat |
+| India | 420 | flat |
 | Pakistan | 260 | flat |
 | United States | 260 | flat |
-| Mexico | 210 | declining |
-| Philippines | 140 | flat |
+| Mexico | 190 | growing |
+| Lebanon | 150 | declining |
 | Chile | 130 | flat |
-| Indonesia | 130 | declining |
-| Portugal | 120 | flat |
+| Indonesia | 130 | flat |
+| Philippines | 130 | flat |
 
-> Full per-country breakdown (60 markets) via the /demand/ endpoint.
+> Full per-country breakdown (61 markets) via the /demand/ endpoint.
 
 ## Links
 

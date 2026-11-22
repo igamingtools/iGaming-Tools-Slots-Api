@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/journey-to-the-west-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,140 · **trend:** growing · YoY +20.0%
+**12-month volume (illustrative):** 1,040 · **trend:** flat · YoY +3.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 210 | flat |
-| India | 200 | declining |
-| South Africa | 150 | growing |
-| Philippines | 100 | declining |
-| Indonesia | 80 | growing |
-| Thailand | 60 | growing |
-| Malaysia | 40 | flat |
+| Brazil | 220 | flat |
+| India | 180 | flat |
+| South Africa | 150 | declining |
+| Philippines | 90 | flat |
+| Indonesia | 80 | flat |
+| Thailand | 60 | declining |
 | Tunisia | 30 | flat |
-| United Kingdom | 30 | declining |
-| Canada | 20 | growing |
+| Canada | 20 | declining |
+| Malaysia | 20 | flat |
+| Pakistan | 20 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (26 markets) via the /demand/ endpoint.
 
 ## Links
 

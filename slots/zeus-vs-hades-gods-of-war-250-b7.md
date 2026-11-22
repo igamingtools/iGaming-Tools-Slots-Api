@@ -149,22 +149,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/zeus-vs-hades-gods-of-war-250-b7/demand/
 ```
 
-**12-month volume (illustrative):** 3,230 · **trend:** flat
+**12-month volume (illustrative):** 3,470 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 200 | flat |
-| Finland | 160 | flat |
-| Greece | 150 | flat |
-| Canada | 140 | growing |
-| India | 120 | flat |
-| United Kingdom | 110 | flat |
-| Denmark | 90 | flat |
-| Belarus | 80 | flat |
-| Netherlands | 80 | flat |
-| Philippines | 80 | flat |
+| Brazil | 210 | declining |
+| Finland | 180 | flat |
+| Canada | 160 | flat |
+| Greece | 160 | flat |
+| India | 140 | flat |
+| United Kingdom | 120 | flat |
+| Denmark | 100 | flat |
+| Philippines | 90 | flat |
+| Thailand | 90 | growing |
+| Ukraine | 90 | flat |
 
 > Full per-country breakdown (60 markets) via the /demand/ endpoint.
 

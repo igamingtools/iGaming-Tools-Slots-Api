@@ -124,21 +124,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/techno-tumble-b29/demand/
 ```
 
-**12-month volume (illustrative):** 670 · **trend:** declining · YoY -48.1%
+**12-month volume (illustrative):** 560 · **trend:** declining · YoY -60.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 530 | declining |
-| Pakistan | 40 | flat |
+| South Africa | 440 | declining |
 | Finland | 20 | flat |
-| Hungary | 20 | flat |
 | India | 20 | flat |
+| Pakistan | 20 | flat |
+| Tunisia | 20 | growing |
 | Greece | 10 | flat |
+| Hungary | 10 | flat |
 | Indonesia | 10 | flat |
 | Netherlands | 10 | flat |
-| Tunisia | 10 | flat |
 
 > Full per-country breakdown (9 markets) via the /demand/ endpoint.
 

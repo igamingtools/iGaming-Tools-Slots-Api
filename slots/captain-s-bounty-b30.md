@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/captain-s-bounty-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,470 · **trend:** declining · YoY -55.7%
+**12-month volume (illustrative):** 1,350 · **trend:** declining · YoY -58.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 410 | declining |
+| Brazil | 390 | growing |
 | India | 280 | flat |
-| Philippines | 180 | flat |
 | Pakistan | 160 | flat |
-| Indonesia | 80 | declining |
-| Turkey | 80 | declining |
+| Philippines | 140 | flat |
+| Indonesia | 70 | flat |
+| Turkey | 70 | flat |
 | Canada | 40 | flat |
-| United States | 40 | flat |
 | Belgium | 20 | flat |
-| Cyprus | 20 | flat |
+| Germany | 20 | flat |
+| Greece | 20 | flat |
 
-> Full per-country breakdown (21 markets) via the /demand/ endpoint.
+> Full per-country breakdown (20 markets) via the /demand/ endpoint.
 
 ## Links
 

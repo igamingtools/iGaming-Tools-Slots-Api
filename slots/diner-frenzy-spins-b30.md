@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/diner-frenzy-spins-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,610 · **trend:** growing · YoY +41.8%
+**12-month volume (illustrative):** 2,440 · **trend:** growing · YoY +19.6%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 1,380 | declining |
-| Indonesia | 200 | flat |
-| India | 180 | growing |
-| Philippines | 120 | flat |
-| Malaysia | 100 | declining |
-| Pakistan | 100 | declining |
+| Brazil | 1,310 | flat |
+| Indonesia | 200 | growing |
+| India | 160 | declining |
+| Philippines | 110 | declining |
+| Malaysia | 100 | flat |
+| Pakistan | 100 | flat |
 | Thailand | 80 | flat |
-| Tunisia | 60 | flat |
 | United States | 60 | flat |
-| Chile | 50 | growing |
+| Tunisia | 50 | flat |
+| Algeria | 40 | flat |
 
-> Full per-country breakdown (25 markets) via the /demand/ endpoint.
+> Full per-country breakdown (24 markets) via the /demand/ endpoint.
 
 ## Links
 

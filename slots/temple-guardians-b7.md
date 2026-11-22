@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/temple-guardians-b7/demand/
 ```
 
-**12-month volume (illustrative):** 1,210 · **trend:** declining · YoY -25.8%
+**12-month volume (illustrative):** 1,060 · **trend:** declining · YoY -42.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 260 | growing |
-| South Africa | 70 | growing |
-| Finland | 60 | flat |
-| Greece | 60 | growing |
-| United Kingdom | 60 | growing |
-| Romania | 50 | flat |
-| Peru | 40 | declining |
+| Brazil | 230 | declining |
+| South Africa | 70 | flat |
+| United Kingdom | 70 | flat |
+| Greece | 50 | declining |
+| Romania | 50 | growing |
+| Finland | 40 | flat |
 | Croatia | 30 | flat |
-| Latvia | 30 | flat |
+| Germany | 30 | growing |
 | Lithuania | 30 | flat |
+| Netherlands | 30 | growing |
 
-> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

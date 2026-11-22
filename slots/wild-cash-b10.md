@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-cash-b10/demand/
 ```
 
-**12-month volume (illustrative):** 4,800 · **trend:** declining · YoY -22.1%
+**12-month volume (illustrative):** 4,730 · **trend:** declining · YoY -22.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 820 | flat |
+| Brazil | 790 | declining |
 | Switzerland | 420 | flat |
-| Greece | 290 | flat |
-| Finland | 240 | declining |
-| Canada | 180 | declining |
-| India | 160 | declining |
-| Netherlands | 160 | growing |
-| Pakistan | 160 | flat |
-| Germany | 130 | flat |
+| Finland | 280 | growing |
+| Greece | 260 | flat |
+| Canada | 200 | growing |
+| India | 180 | growing |
+| Netherlands | 160 | declining |
+| Pakistan | 160 | declining |
+| Germany | 120 | flat |
 | Italy | 120 | flat |
 
-> Full per-country breakdown (59 markets) via the /demand/ endpoint.
+> Full per-country breakdown (57 markets) via the /demand/ endpoint.
 
 ## Links
 

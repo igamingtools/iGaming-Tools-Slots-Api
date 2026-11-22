@@ -139,24 +139,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/firebird-spirit-b7/demand/
 ```
 
-**12-month volume (illustrative):** 4,790 · **trend:** flat · YoY +1.5%
+**12-month volume (illustrative):** 4,610 · **trend:** flat · YoY +1.1%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 3,000 | declining |
+| South Africa | 2,900 | flat |
 | Argentina | 210 | flat |
-| Canada | 140 | flat |
-| Brazil | 130 | flat |
+| Canada | 160 | growing |
 | United Kingdom | 130 | flat |
+| Brazil | 120 | flat |
 | Mexico | 110 | flat |
-| Malaysia | 100 | declining |
-| Greece | 80 | declining |
+| Greece | 90 | growing |
 | India | 80 | flat |
-| United States | 80 | flat |
+| Malaysia | 80 | flat |
+| Austria | 60 | growing |
 
-> Full per-country breakdown (38 markets) via the /demand/ endpoint.
+> Full per-country breakdown (35 markets) via the /demand/ endpoint.
 
 ## Links
 

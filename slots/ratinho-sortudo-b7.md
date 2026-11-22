@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/ratinho-sortudo-b7/demand/
 ```
 
-**12-month volume (illustrative):** 5,810 · **trend:** declining · YoY -45.1%
+**12-month volume (illustrative):** 5,560 · **trend:** declining · YoY -49.8%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 5,510 | flat |
-| Canada | 40 | declining |
+| Brazil | 5,240 | declining |
+| Canada | 40 | flat |
+| Mexico | 40 | growing |
+| Philippines | 40 | flat |
 | United States | 40 | flat |
-| Mexico | 30 | flat |
-| Philippines | 30 | growing |
-| Switzerland | 30 | declining |
+| Switzerland | 30 | flat |
+| Peru | 20 | growing |
 | Portugal | 20 | flat |
 | Spain | 20 | flat |
-| Argentina | 10 | flat |
 | Colombia | 10 | flat |
 
-> Full per-country breakdown (17 markets) via the /demand/ endpoint.
+> Full per-country breakdown (16 markets) via the /demand/ endpoint.
 
 ## Links
 

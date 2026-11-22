@@ -118,20 +118,20 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/perfect-strike-b30/demand/
 ```
 
-**12-month volume (illustrative):** 1,260 · **trend:** flat
+**12-month volume (illustrative):** 1,370 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 560 | growing |
-| Indonesia | 100 | flat |
-| Philippines | 90 | flat |
-| Pakistan | 80 | declining |
-| India | 60 | declining |
-| Thailand | 50 | flat |
-| United States | 40 | declining |
-| Tunisia | 30 | declining |
+| Brazil | 600 | declining |
+| Indonesia | 110 | flat |
+| Pakistan | 100 | growing |
+| Philippines | 100 | flat |
+| India | 80 | growing |
+| Thailand | 60 | growing |
+| United States | 40 | flat |
+| Tunisia | 30 | flat |
 | Belgium | 20 | flat |
 | Canada | 20 | flat |
 

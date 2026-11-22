@@ -144,24 +144,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/10-flaming-bisons-b28/demand/
 ```
 
-**12-month volume (illustrative):** 1,040 · **trend:** declining · YoY -32.0%
+**12-month volume (illustrative):** 1,010 · **trend:** declining · YoY -37.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
+| Canada | 160 | flat |
 | United Kingdom | 150 | flat |
-| Canada | 140 | flat |
-| Greece | 110 | declining |
-| Netherlands | 80 | flat |
+| Greece | 110 | growing |
 | Germany | 70 | flat |
+| Netherlands | 70 | declining |
 | Austria | 60 | flat |
 | Denmark | 60 | flat |
 | Finland | 40 | flat |
-| United States | 40 | growing |
+| United States | 40 | declining |
 | Czech Republic | 30 | flat |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (25 markets) via the /demand/ endpoint.
 
 ## Links
 

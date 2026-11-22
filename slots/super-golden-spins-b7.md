@@ -120,9 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/super-golden-spins-b7/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 380 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| Belgium | 20 | growing |
+| Brazil | 20 | growing |
+| Canada | 20 | growing |
+| Finland | 20 | growing |
+| Argentina | 10 | growing |
+| Australia | 10 | growing |
+| Austria | 10 | growing |
+| Belarus | 10 | growing |
+| Bulgaria | 10 | growing |
+| Colombia | 10 | growing |
+
+> Full per-country breakdown (34 markets) via the /demand/ endpoint.
 
 ## Links
 

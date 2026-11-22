@@ -137,7 +137,7 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/wild-swarm-3-chocolate-eggs-b28/demand/
 ```
 
-**12-month volume (illustrative):** 520 · **trend:** flat
+**12-month volume (illustrative):** 530 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
@@ -146,7 +146,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Finland | 60 | flat |
 | Brazil | 50 | flat |
 | Sweden | 40 | flat |
-| United Kingdom | 40 | flat |
+| United Kingdom | 40 | declining |
 | Italy | 30 | flat |
 | Netherlands | 30 | flat |
 | Belgium | 20 | flat |
@@ -154,7 +154,7 @@ curl -H "Authorization: Token $TOKEN" \
 | Denmark | 20 | flat |
 | Greece | 20 | flat |
 
-> Full per-country breakdown (26 markets) via the /demand/ endpoint.
+> Full per-country breakdown (27 markets) via the /demand/ endpoint.
 
 ## Links
 

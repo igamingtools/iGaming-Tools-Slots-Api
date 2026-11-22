@@ -135,24 +135,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/chase-for-glory-b7/demand/
 ```
 
-**12-month volume (illustrative):** 750 · **trend:** flat · YoY -2.6%
+**12-month volume (illustrative):** 560 · **trend:** declining · YoY -42.3%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 80 | declining |
-| South Africa | 80 | flat |
-| Greece | 60 | flat |
-| Switzerland | 60 | flat |
-| Germany | 50 | growing |
-| Italy | 50 | flat |
-| Canada | 40 | flat |
-| Finland | 40 | flat |
-| Romania | 40 | flat |
-| Croatia | 20 | growing |
+| Brazil | 80 | growing |
+| South Africa | 60 | flat |
+| Italy | 50 | growing |
+| Germany | 40 | declining |
+| Greece | 40 | flat |
+| Malaysia | 40 | growing |
+| Romania | 30 | flat |
+| Switzerland | 30 | flat |
+| Canada | 20 | flat |
+| Finland | 20 | flat |
 
-> Full per-country breakdown (29 markets) via the /demand/ endpoint.
+> Full per-country breakdown (23 markets) via the /demand/ endpoint.
 
 ## Links
 

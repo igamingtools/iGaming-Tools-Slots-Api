@@ -149,9 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/cheetah-wild-b7/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 910 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| South Africa | 90 | growing |
+| Brazil | 70 | growing |
+| Greece | 50 | growing |
+| Canada | 40 | growing |
+| Finland | 40 | growing |
+| Indonesia | 40 | growing |
+| Denmark | 30 | growing |
+| Switzerland | 30 | growing |
+| Belgium | 20 | growing |
+| India | 20 | growing |
+
+> Full per-country breakdown (52 markets) via the /demand/ endpoint.
 
 ## Links
 

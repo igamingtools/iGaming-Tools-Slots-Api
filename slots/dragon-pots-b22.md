@@ -139,22 +139,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-pots-b22/demand/
 ```
 
-**12-month volume (illustrative):** 1,350 · **trend:** flat
+**12-month volume (illustrative):** 1,540 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 180 | declining |
-| Brazil | 80 | flat |
-| Canada | 80 | flat |
-| Switzerland | 60 | declining |
-| Argentina | 50 | flat |
-| Greece | 50 | growing |
-| Indonesia | 50 | declining |
-| Australia | 40 | declining |
-| Denmark | 40 | growing |
-| Finland | 40 | declining |
+| South Africa | 200 | growing |
+| Canada | 100 | flat |
+| Brazil | 90 | declining |
+| Argentina | 60 | flat |
+| India | 60 | flat |
+| Indonesia | 60 | growing |
+| Switzerland | 60 | flat |
+| Greece | 50 | declining |
+| Netherlands | 50 | growing |
+| Sweden | 50 | growing |
 
 > Full per-country breakdown (42 markets) via the /demand/ endpoint.
 

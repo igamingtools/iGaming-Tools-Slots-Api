@@ -128,24 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/magic-oak-b29/demand/
 ```
 
-**12-month volume (illustrative):** 360 · **trend:** declining · YoY -43.8%
+**12-month volume (illustrative):** 350 · **trend:** declining · YoY -41.7%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| South Africa | 180 | flat |
+| South Africa | 170 | flat |
 | India | 40 | flat |
-| Indonesia | 20 | flat |
 | Tunisia | 20 | flat |
 | United States | 20 | flat |
-| Argentina | 10 | flat |
+| Brazil | 10 | growing |
 | Germany | 10 | flat |
+| Indonesia | 10 | flat |
+| Italy | 10 | growing |
 | Netherlands | 10 | flat |
 | Panama | 10 | flat |
-| Peru | 10 | flat |
 
-> Full per-country breakdown (13 markets) via the /demand/ endpoint.
+> Full per-country breakdown (14 markets) via the /demand/ endpoint.
 
 ## Links
 

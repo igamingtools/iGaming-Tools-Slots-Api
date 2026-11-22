@@ -128,22 +128,22 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/safari-wilds-b30/demand/
 ```
 
-**12-month volume (illustrative):** 2,410 · **trend:** declining · YoY -6.2%
+**12-month volume (illustrative):** 2,240 · **trend:** declining · YoY -17.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 730 | flat |
-| Pakistan | 320 | declining |
-| India | 300 | growing |
-| Philippines | 250 | declining |
-| Tunisia | 130 | growing |
+| Brazil | 700 | declining |
+| India | 300 | flat |
+| Pakistan | 280 | flat |
+| Philippines | 220 | flat |
+| Tunisia | 130 | declining |
 | Indonesia | 110 | flat |
-| Algeria | 40 | declining |
-| Canada | 40 | flat |
-| Germany | 40 | flat |
-| New Zealand | 40 | flat |
+| Poland | 50 | flat |
+| Algeria | 40 | flat |
+| Thailand | 40 | flat |
+| Germany | 30 | flat |
 
 > Full per-country breakdown (35 markets) via the /demand/ endpoint.
 

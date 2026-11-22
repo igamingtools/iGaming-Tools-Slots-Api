@@ -132,24 +132,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/dragon-hatch-2-b30/demand/
 ```
 
-**12-month volume (illustrative):** 42,250 · **trend:** declining · YoY -8.3%
+**12-month volume (illustrative):** 42,360 · **trend:** flat · YoY -4.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
 | Brazil | 30,500 | declining |
-| Indonesia | 5,530 | growing |
-| India | 2,180 | growing |
-| Philippines | 660 | growing |
-| Japan | 450 | declining |
-| Thailand | 450 | declining |
+| Indonesia | 5,660 | declining |
+| India | 2,220 | growing |
+| Philippines | 650 | flat |
+| Thailand | 450 | flat |
+| Japan | 420 | flat |
 | Pakistan | 240 | flat |
-| Canada | 200 | flat |
-| United States | 160 | flat |
-| Tunisia | 150 | flat |
+| Canada | 220 | flat |
+| Malaysia | 160 | flat |
+| Tunisia | 140 | flat |
 
-> Full per-country breakdown (53 markets) via the /demand/ endpoint.
+> Full per-country breakdown (52 markets) via the /demand/ endpoint.
 
 ## Links
 

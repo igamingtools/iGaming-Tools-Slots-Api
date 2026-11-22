@@ -120,24 +120,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/leprechaun-riches-b30/demand/
 ```
 
-**12-month volume (illustrative):** 5,240 · **trend:** declining · YoY -46.2%
+**12-month volume (illustrative):** 5,080 · **trend:** declining · YoY -45.4%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 660 | growing |
-| Turkey | 430 | growing |
-| Pakistan | 340 | declining |
+| Brazil | 610 | declining |
+| Turkey | 460 | growing |
+| Pakistan | 320 | flat |
 | India | 280 | flat |
-| Indonesia | 250 | declining |
-| Kazakhstan | 250 | growing |
 | United Kingdom | 250 | flat |
 | Latvia | 230 | declining |
-| Portugal | 200 | growing |
+| Indonesia | 220 | flat |
+| Kazakhstan | 200 | declining |
+| Portugal | 190 | declining |
 | Germany | 130 | flat |
 
-> Full per-country breakdown (54 markets) via the /demand/ endpoint.
+> Full per-country breakdown (55 markets) via the /demand/ endpoint.
 
 ## Links
 

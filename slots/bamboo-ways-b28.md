@@ -149,24 +149,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/bamboo-ways-b28/demand/
 ```
 
-**12-month volume (illustrative):** 4,610 · **trend:** growing · YoY +199.4%
+**12-month volume (illustrative):** 4,080 · **trend:** growing · YoY +75.9%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Germany | 780 | declining |
-| Finland | 280 | flat |
+| Germany | 760 | declining |
 | Canada | 260 | flat |
-| Netherlands | 240 | flat |
-| Switzerland | 210 | declining |
-| United States | 180 | growing |
-| Denmark | 170 | declining |
-| United Kingdom | 170 | flat |
-| Italy | 150 | flat |
-| Sweden | 150 | flat |
+| Finland | 260 | flat |
+| Switzerland | 180 | flat |
+| Denmark | 160 | growing |
+| Netherlands | 160 | flat |
+| United States | 160 | declining |
+| Greece | 140 | flat |
+| Sweden | 130 | flat |
+| United Kingdom | 130 | flat |
 
-> Full per-country breakdown (53 markets) via the /demand/ endpoint.
+> Full per-country breakdown (49 markets) via the /demand/ endpoint.
 
 ## Links
 

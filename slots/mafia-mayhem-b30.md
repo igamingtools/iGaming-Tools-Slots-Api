@@ -122,21 +122,21 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/mafia-mayhem-b30/demand/
 ```
 
-**12-month volume (illustrative):** 11,950 · **trend:** declining · YoY -56.4%
+**12-month volume (illustrative):** 11,470 · **trend:** declining · YoY -57.0%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Indonesia | 3,670 | flat |
-| Brazil | 3,350 | declining |
-| Philippines | 1,480 | declining |
-| India | 920 | declining |
+| Brazil | 3,350 | flat |
+| Indonesia | 3,340 | growing |
+| Philippines | 1,510 | growing |
+| India | 880 | declining |
 | Pakistan | 240 | flat |
-| United States | 160 | flat |
 | Tunisia | 150 | flat |
-| Malaysia | 140 | flat |
+| United States | 140 | declining |
 | Vietnam | 130 | flat |
+| Malaysia | 120 | declining |
 | Thailand | 120 | flat |
 
 > Full per-country breakdown (57 markets) via the /demand/ endpoint.

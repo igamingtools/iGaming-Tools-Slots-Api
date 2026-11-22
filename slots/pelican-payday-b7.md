@@ -128,9 +128,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/pelican-payday-b7/demand/
 ```
 
-**12-month volume (illustrative):** 0 · **trend:** flat
+**12-month volume (illustrative):** 610 · **trend:** flat
 
 > Illustrative snapshot — query the live endpoint for current values.
+
+| Country | 12-month volume | Trend |
+|---|---|---|
+| South Africa | 50 | growing |
+| Brazil | 40 | growing |
+| Greece | 40 | growing |
+| Switzerland | 30 | growing |
+| Belgium | 20 | growing |
+| Canada | 20 | growing |
+| Finland | 20 | growing |
+| Malaysia | 20 | growing |
+| Tunisia | 20 | growing |
+| Argentina | 10 | growing |
+
+> Full per-country breakdown (44 markets) via the /demand/ endpoint.
 
 ## Links
 

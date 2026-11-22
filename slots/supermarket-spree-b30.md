@@ -124,24 +124,24 @@ curl -H "Authorization: Token $TOKEN" \
   https://i-gaming.tools/api/v1/slots/supermarket-spree-b30/demand/
 ```
 
-**12-month volume (illustrative):** 4,100 · **trend:** declining · YoY -13.1%
+**12-month volume (illustrative):** 3,890 · **trend:** declining · YoY -16.2%
 
 > Illustrative snapshot — query the live endpoint for current values.
 
 | Country | 12-month volume | Trend |
 |---|---|---|
-| Brazil | 2,720 | declining |
-| India | 240 | flat |
-| Philippines | 200 | growing |
+| Brazil | 2,690 | declining |
+| India | 220 | declining |
+| Philippines | 180 | flat |
 | Indonesia | 160 | flat |
-| Pakistan | 140 | declining |
-| Thailand | 80 | flat |
-| South Africa | 60 | flat |
-| United States | 60 | flat |
-| Chile | 50 | flat |
-| Nigeria | 40 | flat |
+| Pakistan | 120 | flat |
+| Thailand | 70 | declining |
+| South Africa | 50 | flat |
+| Poland | 40 | flat |
+| United States | 40 | flat |
+| Chile | 30 | flat |
 
-> Full per-country breakdown (33 markets) via the /demand/ endpoint.
+> Full per-country breakdown (30 markets) via the /demand/ endpoint.
 
 ## Links
 

@@ -129,6 +129,10 @@ $data = json_decode(curl_exec($ch), true);
     "demo": {
       "page_url": "https://i-gaming.tools/slot-games/nuwa-deluxe-b29/"
     }
+  },
+  "series": {
+    "slug": "nuwa",
+    "name": "Nuwa"
   }
 }
 ```
